@@ -6,7 +6,7 @@
 ####
 - ##### First module:
   - Using [locations.txt](https://cms.ucu.edu.ua/pluginfile.php/158762/mod_assign/introattachment/0/locations.list?forcedownload=1) database.    
-  - Goes through file and gets cities latitude and longatude based on their location name (ex. USA: 37.0902, 95.7129)
+  - Goes through file and gets cities latitude and longatude based on their location name (ex. China: 37.0902, 95.7129)
   - Filters citie's data into files based on the year the filme/serial was recorded.
   - Uses the package manager [pip](https://pip.pypa.io/en/stable/) to install geopy.
 ```bash
@@ -23,15 +23,15 @@ pip install geopy
 
 ### HTML
 - ##### Tags
-  - <script src=...></script> - If we want to refer to .js file that was previously saved before on website.
-  - <link rel...> - Specifies the way current documents are linked.
-  - <a href=.../> - Specifies the URL of the page the link follows to.
-  - <style> - This tag is used to define the style of the page.
-  - <meta name=.../> - Provides metadata for the URL page.
-  - <head> - Defines the title for the URL page.
-  - <body> - Defines URL's document body.
-  - <div class=...></div> - Creates a class and makes all elements with the same class name to secrtain style.
-  - <div id=...></div> - The ID of the element of the class.
+  - script src=... - If we want to refer to .js file that was previously saved before on website.
+  - link rel... - Specifies the way current documents are linked.
+  - a href=... - Specifies the URL of the page the link follows to.
+  - style - This tag is used to define the style of the page.
+  - meta name=... - Provides metadata for the URL page.
+  - head - Defines the title for the URL page.
+  - body - Defines URL's document body.
+  - div class=... - Creates a class and makes all elements with the same class name to secrtain style.
+  - div id=... - The ID of the element of the class.
 
 
 ### INFORMATION
@@ -52,5 +52,18 @@ Finished. Please have look at the map: map.html
 
 #### Image
 ![Alt text](https://github.com/SlavkoPrytula/Map_LR_2/blob/master/Screenshot_20200218_145424-1.png?raw=true "Title")
+
+```
+ >>> python main.py
+Please enter a year you would like to have a map for: 1995
+Please enter your location (format: lat, long): 37.0902, 95.7129
+Map is generating...
+Please wait...
+Finished. Please have look at the map: map.html
+```
+
+#### Image
+![Alt text](https://github.com/SlavkoPrytula/Map_LR_2/blob/master/Screenshot_20200218_145424-1.png?raw=true "Title")
+
 
 
