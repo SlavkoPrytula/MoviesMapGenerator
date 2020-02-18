@@ -1,0 +1,257 @@
+['"1988 Presidential Debates" (1988) {(#1.1)}', '', 'Wait Chapel, Wake Forest University - 1834 Wake Forest Road, Winston-Salem, North Carolina, USA']	36.0998131	-80.2440518
+['"1988 Presidential Debates" (1988) {(#1.2)}', '', 'Pauley Pavilion - 301 Westwood Plaza, UCLA, Westwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"48 Hours" (1988)', '', '', '', '', 'West 57th Street, Manhattan, New York City, New York, USA']	40.7658781	-73.9808768
+['"48 Hours" (1988) {A Killer Defense (#23.28)}', '', 'Mocksville, North Carolina, USA']	35.8940236	-80.5617846
+['"48 Hours" (1988) {American Taboo (#18.6)}', '', "Ngele'ia, Tonga"]	-21.1442277	-175.196744
+['"48 Hours" (1988) {American Taboo (#18.6)}', '', "Nuku'alofa, Tonga"]	-21.1343401	-175.2018085
+['"48 Hours" (1988) {American Taboo (#18.6)}', '', 'Tonga']	-19.9160819	-175.2026424
+['"48 Hours" (1988) {Every Picture Tells a Story (#24.14)}', 'Coweta County, Georgia, USA']	33.3500656	-84.7545734
+['"48 Hours" (1988) {Secrets of the River (#26.6)}', 'Wenatchee, Washington, USA']	47.4234599	-120.3103494
+['"48 Hours" (1988) {The End of the Dream (#14.34)}', 'Hawaii, USA']	21.2160437	-157.975203
+['"48 Hours" (1988) {The End of the Dream (#14.34)}', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"48 Hours" (1988) {The Preacher\'s Wife (#24.5)}', '', 'Hewitt, Texas, USA']	31.4623902	-97.1958377
+['"48 Hours" (1988) {The Preacher\'s Wife (#24.5)}', '', 'McLennan County, Texas, USA']	31.5487691	-97.2189254
+['"48 Hours" (1988) {The Preacher\'s Wife (#24.5)}', '', 'Waco, Texas, USA']	31.549333	-97.1466695
+['"48 Hours" (1988) {The Preacher\'s Wife (#24.5)}', '', 'San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"48 Hours" (1988) {Unraveling the Lies of Jodi Arias (#26.28)}', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"7T3" (1988)', '', '', '', '', '', 'Maidstone, Kent, England, UK']	51.2474823	0.7105077
+['"9B" (1988)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"9x9 Roberto" (1988)', '', '', '', '', 'Santo Domingo, Dominican Republic']	18.4801972	-69.942111
+['"A Conversation with..." (1988)', '', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"A Conversation with..." (1988) {Betty White}', '', 'Lake Buena Vista, Florida, USA']	28.38034955	-81.5297578369267
+['"A Dangerous Life" (1988)', '', '', '', 'Sri Lanka']	7.5554942	80.7137847
+['"A Dangerous Life" (1988)', '', '', '', 'Australia']	-24.7761086	134.755
+['"A Dangerous Life" (1988)', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"A Mala de Cart�o" (1988)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Taste for Death" (1988)', '', '', '', 'St Mary Magdalene Church, Rowington Close, Paddington, London, England, UK']	51.5073219	-0.1276474
+['"A v�delem� a sz�" (1988)', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Aaron\'s Way" (1988)', '', '', '', '', 'Solvang, California, USA']	34.5958572	-120.1390894
+['"Abenteuer Forschung" (1988)', '', '', '', 'FSM, Unterf�hring, Bavaria, Germany']	51.0834196	10.4234469
+['"Adrienne Clarkson\'s Summer Festival" (1988)', '', 'CBC Studios, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Agate" (1988)', '', '', '', '', '', 'Tehran, Iran']	35.7006177	51.4013785
+['"Agate" (1988)', '', '', '', '', '', 'Arak, Iran']	34.0956347	49.6913344
+['"Al sur del mundo" (1988)', '', '', '', 'Chile']	-31.7613365	-71.3187697
+['"Allis vivere" (1988)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Almost Grown" (1988) {Take It Slow (#1.5)}', '', 'Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Almost There!" (1988)', '', '', '', '', 'Cerritos, California, USA']	33.8644291	-118.0539323
+['"Almost There!" (1988)', '', '', '', '', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"Almost There!" (1988)', '', '', '', '', 'Los Angeles County, California, USA']	34.3155072	-118.2096814
+['"Almost There!" (1988)', '', '', '', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Amar y vivir" (1988)', '', '', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"America\'s Most Wanted" (1988)', '', '', '', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"America\'s Most Wanted" (1988)', '', '', '', 'Aspen, Colorado, USA']	39.1911128	-106.8235606
+['"America\'s Most Wanted" (1988)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America\'s Most Wanted" (1988)', '', '', '', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"America\'s Most Wanted" (1988)', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"America\'s Most Wanted" (1988)', '', '', '', 'Jacksonville, Florida, USA']	30.3321838	-81.655651
+['"America\'s Most Wanted" (1988)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"America\'s Most Wanted" (1988)', '', '', '', 'Little Rock, Arkansas, USA']	34.7464809	-92.2895948
+['"America\'s Most Wanted" (1988)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Most Wanted" (1988)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"America\'s Most Wanted" (1988)', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"America\'s Most Wanted" (1988)', '', '', '', 'National Museum of Crime & Punishment - 575 7th Street NW, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America\'s Most Wanted" (1988)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Most Wanted" (1988)', '', '', '', 'Oklahoma City, Oklahoma, USA']	35.4729886	-97.5170536
+['"America\'s Most Wanted" (1988)', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"America\'s Most Wanted" (1988)', '', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"America\'s Most Wanted" (1988)', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"America\'s Most Wanted" (1988)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"America\'s Most Wanted" (1988)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America\'s Most Wanted" (1988)', '', '', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"America\'s Most Wanted" (1988) {(#21.38)}', '', 'National Museum of Crime & Punishment - 575 7th Street NW, Washington, District of Columbia, USA']	38.8966361	-77.0216873
+['"America\'s Most Wanted" (1988) {(#21.39)}', '', 'National Museum of Crime & Punishment - 575 7th Street NW, Washington, District of Columbia, USA']	38.8966361	-77.0216873
+['"America\'s Most Wanted" (1988) {(#21.43)}', '', 'National Museum of Crime & Punishment - 575 7th Street NW, Washington, District of Columbia, USA']	38.8966361	-77.0216873
+['"America\'s Most Wanted" (1988) {(#21.45)}', '', 'National Museum of Crime & Punishment - 575 7th Street NW, Washington, District of Columbia, USA']	38.8966361	-77.0216873
+['"America\'s Most Wanted" (1988) {(#22.33)}', '', 'National Museum of Crime & Punishment - 575 7th Street NW, Washington, District of Columbia, USA']	38.8966361	-77.0216873
+['"America\'s Most Wanted" (1988) {(2004-08-28)}', '', 'California, USA']	36.7014631	-118.7559974
+['"America\'s Most Wanted" (1988) {Berny Figueroa/Lucely Aramburo (#23.1)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"America\'s Most Wanted" (1988) {Darin DeVoe}', '', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"America\'s Most Wanted" (1988) {Grahlmann/Blore Murders}', 'Guerneville, California, USA']	38.5017085	-122.9959133
+['"America\'s Most Wanted" (1988) {Irvin Martin (Captured) (#21.12)}', 'Savage, Maryland, USA']	39.1370984	-76.8249361
+['"America\'s Most Wanted" (1988) {Jason Morris Howard}', 'Georgia, USA']	39.7837304	-100.4458825
+['"America\'s Most Wanted" (1988) {Ronald Young}', '', 'Aspen, Colorado, USA']	39.1911128	-106.8235606
+['"America\'s Most Wanted" (1988) {Shawn Clarke & Lamont Cooke (#21.17)}', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"America\'s Most Wanted" (1988) {Shawn Clarke & Lamont Cooke (#21.17)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"America\'s Most Wanted" (1988) {Thomas Edwin Walker (#3.101)}', 'Alameda County, California, USA']	37.6090291	-121.899142
+['"America\'s Most Wanted" (1988) {Warren Jeffs}', '', 'Minot, North Dakota, USA']	48.23251	-101.296273
+['"American Experience" (1988)', '', '', '', 'Arlington, Massachusetts, USA']	42.351824	-71.0709646
+['"American Experience" (1988)', '', '', '', 'Concord, Massachusetts, USA']	42.4605189	-71.3488963
+['"American Experience" (1988)', '', '', '', 'Lexington, Massachusetts, USA']	42.4473175	-71.2245003
+['"American Experience" (1988) {Alexander Hamilton (#19.15)}', 'Juan Dolio, San Pedro de Macoris, Dominican Republic']	18.4268923	-69.4162105
+['"American Experience" (1988) {Hawaii\'s Last Queen (#9.4)}', "'Iolani Palace, Honolulu, Hawaii, USA"]	21.30683655	-157.8587459552695
+['"American Experience" (1988) {Hawaii\'s Last Queen (#9.4)}', "Alii'olani Hale, Honolulu, Hawaii, USA"]	21.3053226	-157.86013860115054
+['"American Experience" (1988) {Hawaii\'s Last Queen (#9.4)}', "Alii'olani Hale, Honolulu, O'ahu, Hawaii, USA"]	39.7837304	-100.4458825
+['"American Experience" (1988) {Hawaii\'s Last Queen (#9.4)}', "HNL - Honolulu International Airport, 300 Rogers Boulevard, Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"American Experience" (1988) {Hawaii\'s Last Queen (#9.4)}', 'Washington Place, Honolulu, Hawaii, USA']	21.30872165	-157.85672886263475
+['"American Experience" (1988) {John & Abigail Adams (#18.5)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Experience" (1988) {John & Abigail Adams (#18.5)}', 'Braintree, Massachusetts, USA']	42.2064195	-71.005067
+['"American Experience" (1988) {Lindbergh (#3.1)}', '', 'Smithsonian Institution, Washington, District of Columbia, USA']	38.8913369	-77.02597980275456
+['"American Experience" (1988) {New York: Center of the World (#16.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Experience" (1988) {Roberto Clemente (#20.12)}', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"American Experience" (1988) {Roberto Clemente (#20.12)}', 'San Juan, Puerto Rico']	18.465299	-66.116666
+['"American Experience" (1988) {Simple Justice (#5.10)}', 'Burgaw, North Carolina, USA']	34.5521113	-77.926098
+['"American Experience" (1988) {Simple Justice (#5.10)}', 'Wilmington, North Carolina, USA']	34.2257282	-77.9447107
+['"American Experience" (1988) {Stonewall Uprising (#23.10)}', 'Greenwich Village, Manhattan, New York City, New York, USA']	40.7319802	-73.9965658
+['"American Experience" (1988) {Stonewall Uprising (#23.10)}', 'Christopher Street, Greenwich Village, Manhattan, New York City, New York, USA']	40.7341288	-73.9993539
+['"American Experience" (1988) {Stonewall Uprising (#23.10)}', 'Central Park, Manhattan, New York City, New York, USA']	40.7827725	-73.9653627406542
+['"American Experience" (1988) {T.R.: The Story of Theodore Roosevelt (Part I) (#9.1)}', 'Badlands, North Dakota, USA']	45.2208205	-102.730996
+['"American Experience" (1988) {T.R.: The Story of Theodore Roosevelt (Part I) (#9.1)}', 'Long Island Sound, New York, USA']	40.9917649	-72.8328789
+['"American Experience" (1988) {T.R.: The Story of Theodore Roosevelt (Part I) (#9.1)}', 'Maine, USA']	45.709097	-68.8590201
+['"American Experience" (1988) {T.R.: The Story of Theodore Roosevelt (Part I) (#9.1)}', 'San Juan Hill, Cuba']	21.9284329	-80.2458539
+['"American Experience" (1988) {The Abolitionists - Part 2 (#25.2)}', 'New Castle, Delaware, USA']	39.6159851	-75.662956
+['"American Experience" (1988) {The Abolitionists - Part 3 (#25.3)}', 'New Castle, Delaware, USA']	39.6159851	-75.662956
+['"American Experience" (1988) {The Abolitionists: Part 1}', 'New Castle, Delaware, USA']	39.6159851	-75.662956
+['"American Experience" (1988) {The Amish (#24.5)}', 'The Amish Farm and House, Lancaster, Pennsylvania, USA']	40.08067	-76.2411283
+['"American Experience" (1988) {The Amish (#24.5)}', 'Jayco, Middlebury, Indiana, USA']	41.654263	-85.7102841
+['"American Experience" (1988) {The Johnstown Flood (#5.4)}', 'Export, Pennsylvania, USA']	40.4181235	-79.625599
+['"American Experience" (1988) {The Johnstown Flood (#5.4)}', 'Johnstown, Pennsylvania, USA']	40.3267407	-78.9219698
+['"American Experience" (1988) {The Johnstown Flood (#5.4)}', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"American Experience" (1988) {The Johnstown Flood (#5.4)}', 'Sugarcreek, Ohio, USA']	40.50312	-81.6409582
+['"American Experience" (1988) {The Johnstown Flood (#5.4)}', 'Zelienople, Pennsylvania, USA']	40.7957622	-80.1370795
+['"American Experience" (1988) {The Massie Affair (#17.12)}', "Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"American Experience" (1988) {Troublesome Creek: A Midwestern (#7.6)}', 'Atlantic, Iowa, USA']	41.4036007	-95.0138776
+['"American Experience" (1988) {Troublesome Creek: A Midwestern (#7.6)}', 'Rolfe, Iowa, USA']	42.8127501	-94.5269204
+['"American Experience" (1988) {Troublesome Creek: A Midwestern (#7.6)}', 'Wiota, Iowa, USA']	41.4002662	-94.8869283
+['"American Experience" (1988) {Tupperware! (#16.6)}', 'Massachusetts, USA']	39.7837304	-100.4458825
+['"American Experience" (1988) {We Shall Remain: Part II - Tecumseh\'s Vision (#21.6)}', 'Georgia, USA']	32.3293809	-83.1137366
+['"American Experience" (1988) {We Shall Remain: Part II - Tecumseh\'s Vision (#21.6)}', 'Indiana, USA']	40.3270127	-86.1746933
+['"American Experience" (1988) {Wyatt Earp (#22.2)}', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	39.7837304	-100.4458825
+['"American Experience" (1988) {Wyatt Earp (#22.2)}', 'Cumbres & Toltec Scenic Railroad, Chama, New Mexico, USA']	36.902958	-106.5780094
+['"American Experience" (1988) {Wyatt Earp (#22.2)}', 'Forrester Media, Inc., Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"American Experience" (1988) {Wyatt Earp (#22.2)}', 'Luna Recording Studio, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"American Experience" (1988) {Wyatt Earp (#22.2)}', 'Queen Mine Tours, Bisbee, Arizona, USA']	31.4481481	-109.9284025
+['"American Experience" (1988) {Wyatt Earp (#22.2)}', 'Windmill Ridge at Mountain View Ranch, Vail, Arizona, USA']	39.7837304	-100.4458825
+['"American Experience" (1988) {Wyatt Earp (#22.2)}', 'Lowell, Arizona, USA']	31.4278776	-109.8936853
+['"American Experience" (1988) {Wyatt Earp (#22.2)}', 'Warren, Arizona, USA']	31.4133669	-109.8774735
+['"American Health Journal" (1988)', '', '', 'USA']	39.7837304	-100.4458825
+['"Am�ndote" (1988)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.100)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.101)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.102)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.103)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.104)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.105)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.106)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.107)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.108)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.109)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.110)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.111)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.112)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.40)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.41)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.42)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.43)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.44)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.45)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.46)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.47)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.48)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.49)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.50)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.51)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.52)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.53)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.54)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.55)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.56)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.57)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.58)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.59)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.60)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.61)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.62)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.63)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.64)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.65)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.66)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.67)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.68)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.69)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.70)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.71)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.72)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.73)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.74)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.75)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.76)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.77)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.78)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.79)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.80)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.81)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.82)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.83)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.84)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.85)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.86)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.87)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.88)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.89)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.90)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.91)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.92)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.93)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.94)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.95)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.96)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.97)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.98)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote" (1988) {(#1.99)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Anabel" (1988)', '', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Another Page" (1988)', '', '', '', '', 'Lexington, Kentucky, USA']	38.0464066	-84.4970393
+['"Antilliaans verhaal" (1988)', '', '', '', 'Aruba']	12.5013629	-69.9618475
+['"Antilliaans verhaal" (1988)', '', '', '', 'Bonaire, Netherlands']	12.167	-68.29096143734236
+['"Antilliaans verhaal" (1988)', '', '', '', 'Cura�ao, Netherlands']	52.5001698	5.7480821
+['"Antilliaans verhaal" (1988)', '', '', '', 'St. Maarten, Netherlands']	50.8381331	4.9237307
+['"Anwalt Abel" (1988) {Zuckerbrot und Peitsche (#11.1)}', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Armada" (1988)', '', '', '', '', '', 'Antwerp, Flanders, Belgium']	51.2211097	4.3997081
+['"Armada" (1988)', '', '', '', '', '', 'Sandwich, Kent, England, UK']	51.2474823	0.7105077
+['"Armada" (1988)', '', '', '', '', '', 'Simancas, Valladolid, Castilla y Le�n, Spain']	39.3262345	-4.8380649
+['"Armada" (1988)', '', '', '', '', '', 'Stoner House, Oxfordshire, England, UK']	51.833333	-1.25
+['"Arriva Cristina" (1988)', '', '', '', 'Cologno Monzese, Milan, Lombardia, Italy']	45.528554	9.2782244
+['"Ayomoy" (1988) {(#1.1)}', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Ayomoy" (1988) {(#1.1)}', '', '', '', 'Shashi Lodge, Mymensingh, Bangladesh']	24.4768783	90.2932426
+['"Baby Boom" (1988)', '', '', '', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Balliamo e cantiamo con Licia" (1988)', '', '', 'Cologno Monzese, Milan, Lombardia, Italy']	45.528554	9.2782244
+['"Bassie en Adriaan en de verdwenen kroon" (1988)', 'Schoonhoven, Zuid Holland, Netherlands']	51.9545806	4.850510298287407
+['"Bassie en Adriaan en de verdwenen kroon" (1988)', 'Slot Teylingen, Teylingen, Zuid Holland, Netherlands']	52.2286931	4.519789

@@ -1,0 +1,1003 @@
+['"1998 Stanley Cup Finals" (1998)', '', '', 'Joe Louis Arena, Detroit, Michigan, USA']	42.3252704	-83.0526881
+['"1998 Stanley Cup Finals" (1998)', '', '', 'MCI Center - 601 F Street NW, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"1998 Stanley Cup Finals" (1998) {Game 1: Washington Capitals vs. Detriot Red Wings (#1.1)}', 'Joe Louis Arena, Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"1998 Stanley Cup Finals" (1998) {Game 2: Washington Capitals vs. Detriot Red Wings (#1.2)}', 'Joe Louis Arena, Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"1998 Stanley Cup Finals" (1998) {Game 3: Detriot Red Wings vs. Washington Capitals (#1.3)}', 'MCI Center - 601 F Street NW, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"1998 Stanley Cup Finals" (1998) {Game 4: Detriot Red Wings vs. Washington Capitals (#1.4)}', 'MCI Center - 601 F Street NW, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"2Rock" (1998) {Oasis}', '', '', '', '', "Earl's Court, London, England, UK"]	51.4916123	-0.193903
+['"37 Honey Street" (1998)', '', '', '', 'Johannesburg, South Africa']	-28.8166236	24.991639
+['"A Child\'s Dream" (1998)', '', '', '', 'Montreal, Qu�bec, Canada']	61.0666922	-107.9917071
+['"A Difficult Woman" (1998)', '', '', '', 'University of Sydney, Camperdown, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Parcel of Rogues" (1998)', '', '', '', 'Scotland, UK']	56.7861112	-4.1140518
+['"A Parcel of Rogues" (1998)', '', '', '', 'Westminster, London, England, UK']	51.5013562	-0.1249302
+['"A Place in the Sun" (1998)', '', '', '', 'Aspen, Colorado, USA']	39.1911128	-106.8235606
+['"A Place in the Sun" (1998)', '', '', '', 'Carlsbad, California, USA']	33.1580933	-117.3505966
+['"A Place in the Sun" (1998)', '', '', '', 'Del Mar, California, USA']	32.9594891	-117.2653146
+['"A Place in the Sun" (1998)', '', '', '', 'Malibu, California, USA']	34.035591	-118.689423
+['"A Place in the Sun" (1998)', '', '', '', 'Miami Beach, Florida, USA']	25.7929198	-80.1353006
+['"A Place in the Sun" (1998)', '', '', '', 'Muskoka, Ontario, Canada']	45.1307013	-79.3839611
+['"A Place in the Sun" (1998)', '', '', '', 'Nassau, New Providence Island, Bahamas']	24.7736546	-78.0000547
+['"A Place in the Sun" (1998)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"A Place in the Sun" (1998)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Place in the Sun" (1998)', '', '', '', 'Whistler, British Columbia, Canada']	50.1171903	-122.9543022
+['"A Respectable Trade" (1998)', '', '', '', 'North Parade, Bath, Somerset, England, UK']	51.3808085	-2.3569441
+['"A Respectable Trade" (1998)', '', '', '', 'The Circus, Bath, Somerset, England, UK']	51.38623835	-2.3650584347196446
+['"A Respectable Trade" (1998)', '', '', '', 'Bath, Somerset, England, UK']	51.3813864	-2.3596963
+['"A Respectable Trade" (1998)', '', '', '', 'Charlestown, Cornwall, England, UK']	50.3329873	-4.7577601
+['"A Respectable Trade" (1998)', '', '', '', 'Corsham Court, Wiltshire, England, UK']	51.435028200000005	-2.1825371381642285
+['"A Scattering of Seeds" (1998) {The Boatswain (#2.12)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"A Turma do Perer�" (1998)', '', '', '', 'Tiradentes, Minas Gerais, Brazil']	-21.1104688	-44.1742937
+['"A Twist in the Tale" (1998)', '', '', '', 'Wellington, New Zealand']	-41.2887953	174.7772114
+['"A Will of Their Own" (1998)', '', '', '', 'Belleville, Illinois, USA']	38.5200504	-89.9839935
+['"A Will of Their Own" (1998)', '', '', '', 'St. Charles, Missouri, USA']	38.7877791	-90.6747372
+['"A Will of Their Own" (1998)', '', '', '', 'St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"A Will of Their Own" (1998)', '', '', '', 'University City, Missouri, USA']	38.6569083	-90.3103443
+['"ABC News Nightline: Betting Without Borders" (1998)', 'Antigua, Antigua and Barbuda']	17.0855891	-61.79456028639201
+['"Abgedreht" (1998)', '', '', '', '', 'Landshut, Bavaria, Germany']	48.536217	12.1516551
+['"Affet bizi hocam" (1998)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Africa: Search for Common Ground" (1998)', '', 'Angola']	-11.8775768	17.5691241
+['"Africa: Search for Common Ground" (1998)', '', 'Burundi']	-3.3634357	29.8870575
+['"Africa: Search for Common Ground" (1998)', '', 'Democratic Republic Of Congo']	-2.9814344	23.8222636
+['"Africa: Search for Common Ground" (1998)', '', 'Kenya']	1.4419683	38.4313975
+['"Africa: Search for Common Ground" (1998)', '', 'Lesotho']	-29.6039267	28.3350193
+['"Africa: Search for Common Ground" (1998)', '', 'Mali']	16.3700359	-2.2900239
+['"Africa: Search for Common Ground" (1998)', '', 'South Africa']	-28.8166236	24.991639
+['"African Explorer" (1998) {Desert Elephants of the Kaokoveld (#1.5)}', 'Namibia']	-23.2335499	17.3231107
+['"African Explorer" (1998) {Desert Elephants of the Kaokoveld (#1.5)}', 'Mozambique']	-19.302233	34.9144977
+['"African Explorer" (1998) {Desert Elephants of the Kaokoveld (#1.5)}', 'Kapama Game Reserve, South Africa']	-24.3971609	31.0836913
+['"African Explorer" (1998) {It\'s All About the Wildlife (#1.9)}', 'Kimberly, South Africa']	-26.2071152	28.4402132
+['"African Explorer" (1998) {It\'s All About the Wildlife (#1.9)}', 'Okavango Delta, Botswana']	-19.3071766	23.186868947839166
+['"African Explorer" (1998) {It\'s All About the Wildlife (#1.9)}', 'Sabi Sabi Reserve, South Africa']	-24.9456508	31.4702162
+['"African Explorer" (1998) {Kalahari 4x4 (#1.8)}', '', 'Kalahari Desert, South Africa']	-23.0	22.0
+['"African Explorer" (1998) {Kalahari 4x4 (#1.8)}', '', 'Tanzania']	-6.5247123	35.7878438
+['"African Explorer" (1998) {Kalahari 4x4 (#1.8)}', '', 'Matusadona, South Africa']	-28.8166236	24.991639
+['"African Explorer" (1998) {Kalahari 4x4 (#1.8)}', '', 'Exeter, South Africa']	-30.2190649	30.7905356
+['"African Explorer" (1998) {Kilimanjaro: Mountain of Greatness (#1.12)}', 'Thornybush, South Africa']	-24.414688	31.1580997
+['"African Explorer" (1998) {Kilimanjaro: Mountain of Greatness (#1.12)}', 'Benguerra, Mozambique']	-21.853258150000002	35.43817830065676
+['"African Explorer" (1998) {Kilimanjaro: Mountain of Greatness (#1.12)}', 'Kilimanjaro, Tanzania']	-3.0764084	37.3539987
+['"African Explorer" (1998) {Kruger National Park (#1.13)}', 'Kruger National Park, South Africa']	-23.915303350000002	31.49070131950694
+['"African Explorer" (1998) {Lesotho 4x4 (#1.6)}', '', 'Lesotho']	-29.6039267	28.3350193
+['"African Explorer" (1998) {Lesotho 4x4 (#1.6)}', '', 'Mauritius']	-20.2759451	57.5703566
+['"African Explorer" (1998) {Lesotho 4x4 (#1.6)}', '', "Gun's Camp, Botswana"]	-23.1681782	24.5928742
+['"African Explorer" (1998) {The Enigmatic Life of Sharks (#1.7)}', 'Waterberg Mountains, South Africa']	-28.8166236	24.991639
+['"African Explorer" (1998) {The Enigmatic Life of Sharks (#1.7)}', 'Indian Ocean']	-9.9999999	69.9999999
+['"African Explorer" (1998) {The Enigmatic Life of Sharks (#1.7)}', "N'Duna Lodge, Zimbabwe"]	-18.4554963	29.7468414
+['"Africans in America: America\'s Journey Through Slavery" (1998)', 'England, UK']	54.7023545	-3.2765753
+['"Africans in America: America\'s Journey Through Slavery" (1998)', 'Ghana']	8.0300284	-1.0800271
+['"Africans in America: America\'s Journey Through Slavery" (1998)', 'USA']	39.7837304	-100.4458825
+['"Agigma psyhis" (1998)', '', '', '', '', 'Athens, Greece']	37.9841493	23.7279843
+['"Agigma psyhis" (1998)', '', '', '', '', 'Dilofo, Ioannina, Greece']	39.8531817	20.7651796
+['"Agigma psyhis" (1998)', '', '', '', '', 'Ioannina, Greece']	39.6639818	20.8522784
+['"Agigma psyhis" (1998)', '', '', '', '', 'Ioannina, Ioannina, Greece']	39.6639818	20.8522784
+['"Agigma psyhis" (1998)', '', '', '', '', 'Patmos, Greece']	38.9953683	21.9877132
+['"Agigma psyhis" (1998)', '', '', '', '', 'The University of Ioannina Campus, Ioannina, Greece']	38.9953683	21.9877132
+['"Agigma psyhis" (1998)', '', '', '', '', 'Voidomatis, Ioannina, Greece']	39.9675882	20.6712129
+['"Agigma psyhis" (1998)', '', '', '', '', 'Zagorohoria, Ipiros, Greece']	38.9953683	21.9877132
+['"Ah bir zengin olsam" (1998)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Air America" (1998)', '', '', '', '', 'Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Abduction (#1.4)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Abduction (#1.4)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {American Gulag (#1.22)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {American Gulag (#1.22)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Betrayal (#1.23)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Betrayal (#1.23)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Blown Away (#1.19)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Blown Away (#1.19)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Catch-23 (#1.15)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Catch-23 (#1.15)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Crosshairs (#1.3)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Crosshairs (#1.3)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Engraved Danger (#1.14)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Eye of the Storm (#1.16)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Eye of the Storm (#1.16)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Fear of Flying (#1.13)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Fear of Flying (#1.13)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Fever (#1.10)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Fever (#1.10)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Heartbreak Hotel (#1.20)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Heartbreak Hotel (#1.20)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {High Noon at Costa Perdida (#1.8)}', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {High Noon at Costa Perdida (#1.8)}', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Hostage Situation (#1.2)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Hostage Situation (#1.2)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Lost City (#1.1)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Lost City (#1.1)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Old Gold (#1.12)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Old Gold (#1.12)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Rebound (#1.6)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Rebound (#1.6)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Red Sub (#1.21)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Red Sub (#1.21)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Safe Passage (#1.24)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Safe Passage (#1.24)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Seller\'s Market (#1.5)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {The Court-Martial of Rio Arnett (#1.17)}', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {The Court-Martial of Rio Arnett (#1.17)}', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {The Cure (#1.25)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {The Cure (#1.25)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {The Hit (#1.7)}', '', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {The Hit (#1.7)}', '', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {The Miracle (#1.26)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {The Miracle (#1.26)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {The Rescue (#1.18)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {The Rescue (#1.18)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {The Witness (#1.11)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {The Witness (#1.11)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Air America" (1998) {Till Death (#1.9)}', '', 'Santa Ventura Studios - 5301 North Ventura Avenue, Ventura, California, USA']	34.4458248	-119.0779359
+['"Air America" (1998) {Till Death (#1.9)}', '', 'Iron Horse Studios, USA']	39.7837304	-100.4458825
+['"Airline" (1998)', '', '', '', '', 'Bristol Airport, Bristol, England, UK']	51.415182	-2.581278198190196
+['"Airline" (1998)', '', '', '', '', 'John Lennon Airport, Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"Airline" (1998)', '', '', '', '', 'Luton Airport, Luton, Bedfordshire, England, UK']	51.8651598	-0.386207
+['"Airline" (1998)', '', '', '', '', 'Newcastle International Airport, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	55.03725795	-1.709906777250662
+['"Aishi suginakute yokatta" (1998)', '', '', 'Florence, Tuscany, Italy']	43.7698712	11.2555757
+['"Aishi suginakute yokatta" (1998)', '', '', 'Morioka, Iwate, Japan']	39.7021331	141.1545397
+['"Aishi suginakute yokatta" (1998)', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Alas, poder y pasi�n" (1998)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alas, poder y pasi�n" (1998)', '', '', '', 'Capital Federal, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alas, poder y pasi�n" (1998)', '', '', '', 'Luj�n, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alas, poder y pasi�n" (1998)', '', '', '', 'Mart�nez, San Isidro, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alas, poder y pasi�n" (1998)', '', '', '', 'Misiones, Argentina']	-26.737224	-54.4315257
+['"Alchemy" (1998)', '', '', '', '', 'SBS Studios, Artarmon, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Algo\'s Factory" (1998)', '', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"All Saints" (1998)', '', '', '', '', 'ATN-7 Studios - 61 Mobbs Lane, Epping, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"All Saints" (1998)', '', '', '', '', 'Concord General Repatriation Hospital, Hospital Road, Concord, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"All Saints" (1998)', '', '', '', '', 'Hornsby Hospital, Hornsby, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"All Saints" (1998)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"All Saints" (1998) {Everybody\'s Human (#1.2)}', '', 'Concord Repatriation General Hospital, Concord, NSW, Australia']	-33.8556716	151.1067667
+['"Alpha Bravo Charlie" (1998)', '', '', '', 'Pakistan']	30.3308401	71.247499
+['"Amazing World of Animals" (1998) {(#3.1)}', '', 'Kenya']	1.4419683	38.4313975
+['"America\'s Greatest Pets" (1998) {(1998-12-22)}', '', 'Fort Worth, Texas, USA']	32.753177	-97.3327459
+['"Amongst Women" (1998)', '', '', '', '', 'Mayo Abbey, County Mayo, Ireland']	53.7619629	-9.1208355
+['"Amongst Women" (1998)', '', '', '', '', 'Islandeady, County Mayo, Ireland']	53.8263524	-9.4026307
+['"Amongst Women" (1998)', '', '', '', '', 'Castlebar, County Mayo, Ireland']	53.8568418	-9.297967
+['"Amor y Moria" (1998)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"An Awfully Big Adventure" (1998) {J.R.R. Tolkien}', 'England, UK']	54.7023545	-3.2765753
+['"An Awfully Big Adventure" (1998) {J.R.R. Tolkien}', 'Oxford, Oxfordshire, England, UK']	51.7520131	-1.2578499
+['"An Awfully Big Adventure" (1998) {J.R.R. Tolkien}', 'Oxfordshire, England, UK']	51.833333	-1.25
+['"Andrei Saguna - un Mesia al romanilor" (1998)', '', 'Virset, Serbia']	44.1534121	20.55144
+['"Andrei Saguna - un Mesia al romanilor" (1998)', '', 'Hopovo, Serbia']	44.1534121	20.55144
+['"Andrei Saguna - un Mesia al romanilor" (1998)', '', 'Karlovitz, Serbia']	44.1534121	20.55144
+['"Andrei Saguna - un Mesia al romanilor" (1998)', '', 'Sibiu, Romania']	45.7973912	24.1519202
+['"Animal Court" (1998)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Animorphs" (1998)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998)', '', '', '', '', 'York University, North York, Toronto, Ontario, Canada']	43.7792419	-79.4835593
+['"Animorphs" (1998) {Between Friends (#1.5)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Changes: Part 1 (#2.3)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Changes: Part 2 (#2.4)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Changes: Part 3 (#2.5)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Face Off: Part 1 (#1.19)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Face Off: Part 2 (#1.20)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Face Off: Part 3 (#2.1)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {My Name Is Erek (#2.2)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {My Name Is Jake (#1.1)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {My Name Is Jake: Part 2 (#1.2)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Not My Problem (#1.17)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {On the Run (#1.4)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Alien (#1.8)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Capture: Part 1 (#1.9)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Capture: Part 2 (#1.10)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Escape (#1.7)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Forgotten (#1.13)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Front (#2.6)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Leader: Part 1 (#1.14)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Leader: Part 2 (#1.15)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Message (#1.6)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Reaction (#1.11)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Release (#1.18)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {The Stranger (#1.12)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Tobias (#1.16)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Animorphs" (1998) {Underground (#1.3)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Anni \'50" (1998)', '', '', '', '', 'Isle of Capri, Naples, Campania, Italy']	42.6384261	12.674297
+['"Any Day Now" (1998)', '', '', '', '', 'Birmingham, Alabama, USA']	33.5206824	-86.8024326
+['"Any Day Now" (1998)', '', '', '', '', 'Ponchatoula, Louisiana, USA']	30.4388041	-90.4414762
+['"Any Day Now" (1998)', '', '', '', '', 'Sylmar, Los Angeles, California, USA']	34.3076252	-118.4492148
+['"Appraise It!" (1998)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Appraise It!" (1998)', '', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"Appraise It!" (1998)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Aquest any, cent!" (1998)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Argumentos" (1998)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Assalto � Televis�o" (1998)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Atlanta\'s Best New Homes" (1998)', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Aynali tahir" (1998)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Babes in the Wood" (1998)', '', '', '', "St. John's Wood, London, England, UK"]	51.531726	-0.1741901
+['"Bajamar, la costa del silencio" (1998)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Ballet Rose - Vidas Proibidas" (1998)', '', '', 'Cascais, Lisbon, Portugal']	38.72240025	-9.396909171649877
+['"Ballet Rose - Vidas Proibidas" (1998)', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Ballet Rose - Vidas Proibidas" (1998)', '', '', 'Teatro Vasco Santana, Portugal']	38.7027644	-9.3626611
+['"Bar�tok k�zt" (1998)', '', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1)}', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1207)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1208)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1209)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1210)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1227)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1228)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1251)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1264)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1271)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1299)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1300)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1301)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1302)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1346)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1347)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1359)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1360)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1361)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1362)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1363)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1364)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1365)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1366)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1395)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1396)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1397)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1413)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1414)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1415)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1416)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1451)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1452)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1453)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1457)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1458)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1459)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1460)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1461)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1462)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1673)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.1974)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2)}', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2689)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2751)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2752)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2753)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2754)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2794)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2796)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.2797)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3213)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3313)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3315)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3327)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3328)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3353)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3355)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3356)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3357)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3369)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3377)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3378)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3379)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3382)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3392)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3396)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3397)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3435)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3436)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3609)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3688)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3694)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3696)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3698)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3705)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3707)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3708)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3711)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3712)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3739)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3740)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3741)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3742)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3743)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3744)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3748)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3749)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3750)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3754)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3755)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3756)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3757)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3758)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3765)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3774)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3775)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3776)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3777)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3778)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3779)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3780)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3787)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3793)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3794)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3807)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3808)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3809)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3810)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3811)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3861)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3862)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3863)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3864)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3875)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3876)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3877)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3879)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3915)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3917)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3947)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.3970)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4014)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4015)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4016)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4017)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4027)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4028)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4113)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4114)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4115)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4116)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4119)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4120)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4121)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4122)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4127)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4128)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4130)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4131)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4132)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4133)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4169)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4170)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4171)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4172)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4180)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4181)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4182)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4183)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4195)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4196)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4199)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4200)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4203)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4204)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4205)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4208)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4209)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4210)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4211)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4212)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4213)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4217)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4218)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4221)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4222)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4223)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4224)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4225)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4226)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4227)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4228)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4229)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4230)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4231)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4232)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4233)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4234)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4235)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4236)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4237)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4238)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4239)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4240)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4241)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4242)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4243)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4244)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4245)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4246)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4254)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4255)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4256)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4257)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4258)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4259)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4260)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4265)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4266)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4267)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4268)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4269)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4270)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4271)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4272)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4273)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4275)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4276)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4277)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4278)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4279)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4280)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4282)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4446)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4447)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4448)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4472)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4473)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4474)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4475)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.4476)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6061)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6062)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6063)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6064)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6065)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6066)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6067)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6068)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6069)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6070)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6071)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6072)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6073)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6074)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6075)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6076)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6077)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6078)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6079)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6080)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6081)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6082)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6083)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6084)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6085)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6086)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6087)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6088)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6089)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6090)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6091)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6092)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6093)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6094)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6095)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6096)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6097)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6098)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6099)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6100)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6101)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6102)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6103)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6104)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6105)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6106)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6107)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6108)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6109)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6110)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6111)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6112)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6113)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6114)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6115)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6116)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6117)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6118)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6119)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6120)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6121)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6122)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6123)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6124)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6125)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6126)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6127)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6128)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6129)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6130)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6131)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6132)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6133)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6134)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6135)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6136)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6137)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6138)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6139)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6140)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6141)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6142)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6143)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6144)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6145)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6146)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6147)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6148)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6149)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6150)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6151)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6152)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6153)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6154)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6155)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6156)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6157)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6158)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6159)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6160)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6161)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6162)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6163)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6164)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6165)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6166)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6167)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6168)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6169)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6170)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6171)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6172)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6173)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6174)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6175)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6176)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6177)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6178)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6179)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6180)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6181)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6182)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6183)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6184)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6185)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6186)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6187)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6188)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6189)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6190)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6191)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6192)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6193)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6194)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6195)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6196)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6197)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6198)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6199)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6200)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6201)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6202)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6203)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6204)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6205)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6206)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6207)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6208)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6209)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6210)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6211)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6212)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6213)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6214)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6215)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6216)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6217)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6218)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6219)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6220)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6221)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6222)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6223)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6224)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6225)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6226)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6227)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6228)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6229)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6230)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6231)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6232)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6233)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6234)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6235)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6236)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6237)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6238)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6239)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6240)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6241)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6242)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6243)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6244)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6245)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6246)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6247)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6248)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6249)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6250)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6251)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6252)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6253)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6254)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6255)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6256)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6257)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6258)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6259)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6260)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6261)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6262)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6263)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6264)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6265)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6266)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6267)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6268)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6269)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6270)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6271)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6272)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6273)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6274)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6275)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6276)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6277)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6278)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6279)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6280)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6281)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6282)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6283)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6284)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6285)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6286)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6287)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6288)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6289)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6290)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6291)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6292)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6293)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6294)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6295)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6296)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6297)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6298)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6299)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6300)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6301)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6302)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6303)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6304)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6305)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6306)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6307)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6308)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6309)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6310)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6311)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6312)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6313)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6314)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6315)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6316)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6317)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6318)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6319)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6320)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6321)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6322)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6323)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6324)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6325)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6326)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6327)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6328)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6329)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6330)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6331)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6332)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6333)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6334)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6335)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6336)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6337)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6338)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6339)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6340)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6341)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6342)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6343)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6344)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6345)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6346)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6347)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6348)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6447)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6448)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6449)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6450)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6451)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6452)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6453)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6454)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6455)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6456)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6457)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6458)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6459)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6460)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6461)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6462)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6463)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6464)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6465)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6466)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6467)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6468)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6469)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6470)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6471)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6472)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6473)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6474)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6475)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6476)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6477)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6478)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6479)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6480)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6481)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6482)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6483)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6484)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6485)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6486)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6487)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6488)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6489)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6490)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6491)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6492)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6493)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6494)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6495)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6496)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6497)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6498)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6499)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6500)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6501)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6502)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6503)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6504)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6505)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6506)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6507)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6508)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6509)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6510)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6511)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6512)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6513)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6514)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6515)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6516)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6517)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6518)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6519)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6520)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6521)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6522)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6523)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6524)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6525)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6526)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6527)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6528)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6529)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6530)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6531)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6532)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6533)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6534)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6535)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6536)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6537)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6538)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6539)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6540)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6541)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6542)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6543)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6544)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6545)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6546)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6547)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6548)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6549)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6550)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6551)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6552)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6553)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6554)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6555)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6556)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6557)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6558)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6559)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6560)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6561)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6562)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6563)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6564)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6565)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6566)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6567)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6568)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6569)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.6570)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.737)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.744)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.745)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.747)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.748)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.752)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.755)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.756)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.757)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.787)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.795)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.859)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.870)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.871)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.872)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.892)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar�tok k�zt" (1998) {(#1.893)}', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Beauty TV" (1998) {The Beauty TV Minute (#1.1)}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Becker" (1998)', '', '', '', '', '', 'Astoria, Queens, New York City, New York, USA']	40.7720145	-73.9302673
+['"Becker" (1998)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Becker" (1998)', '', '', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {2001 1/2: A Graduation Odyssey (#3.15)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {A First Class Flight (#6.9)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {A Little Ho-mance (#6.3)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Activate Your Choices (#1.15)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Afterglow (#6.6)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {All the Rage (#2.15)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Amanda Moves Out (#5.18)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {And the Heartbeat Goes On (#5.4)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Another Tricky Day (#4.11)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Atlas Shirked (#5.8)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Bad to the Bone (#5.12)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Barter Sauce (#4.13)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Becker the Elder (#1.13)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Beckerethics (#3.7)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Blind Curve (#2.11)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Blind Injustice (#5.9)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Breakfast of Chumpions (#4.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {But I\'ve Got Friends I Haven\'t Used Yet (#5.13)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Chock Full O\'Nuts (#6.8)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Choose Me (#1.9)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Chris\' Ex (#5.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Chris-Mess (#5.10)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {City Lights (#1.7)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Cooked (#2.23)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Crosstalk (#2.22)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Cyrano De-Beckerac (#2.3)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {DNR (#6.13)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Dates & Nuts (#6.2)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Daytime Believer (#5.22)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Dinner and a Showdown (#4.8)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Do the Right Thing (#5.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Dog Days (#4.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Dr. Angry Head (#3.9)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Drive, They Said (#1.20)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Elder Hostile (#3.16)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Everybody Loves Becker (#4.24)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {For Whom the Toll Calls (#2.18)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Get Me Out of Here (#4.6)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Hanging with Jake (#4.7)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Hate Thy Neighbor (#2.9)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {He Said, She Said (#2.7)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Heart Breaker (#3.11)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Imm-Oral Fixations (#2.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {It Had to Be Ew (#4.15)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Jake\'s Jaunt (#4.3)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {L.A. Woman (#5.3)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Larry Spoke (#1.14)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Let\'s Talk About Sex (#4.16)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Limits & Boundaries (#1.16)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Linda Quits (#2.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Love! Lies! Bleeding! (#1.12)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Lucky Day (#1.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Man Plans, God Laughs (#1.6)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Margaret Sings the Blues (#6.10)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Margaret\'s Dream (#3.10)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {MisSteaks (#4.22)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Mr. and Ms. Conception (#5.20)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Ms. Fortune (#5.19)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Much Ado About Nothing (#4.23)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {My Boyfriend\'s Back (#2.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {My Dinner with Becker (#1.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Nightmare on Becker Street (#5.15)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Nocturnal Omissions (#3.20)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Old Yeller (#2.16)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Once Upon a Time (#5.11)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {One Angry Man (#2.20)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {One Wong Move (#3.3)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {P.C. World (#1.10)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Pain in the Aspirin (#2.10)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Panic on the 86th (#2.24)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Papa Does Preach (#5.7)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Parannoyed (#4.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Partial Law (#1.17)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Physician, Heal Thyself (#1.8)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Picture Imperfect (#4.17)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Piece Talks (#4.20)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Pilot (#1.1)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Point of Contact (#2.1)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Pretty Poison (#3.14)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Psycho Therapy (#4.1)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Really Good Advice (#4.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Regarding Reggie (#1.22)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Santa on Ice (#2.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Saving Harvey Cohen (#1.18)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Scriptus Interruptus (#1.11)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Sex in the Inner City (#1.3)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Shovel Off to Buffalo (#2.6)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Sight Unseen (#2.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Sister Spoils the Turkey (#6.7)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Small Wonder (#3.22)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Smoke\'em If You Got \'Em (#3.8)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Snow Means Snow (#6.11)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Someone\'s in the Kitchen with Reggie? (#5.1)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Spontaneous Combustion (#6.4)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Stumble in the Bronx (#2.8)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Subway Story (#6.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Sue You (#3.23)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {SuperBob (#3.2)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Take These Pills and Shove \'Em (#1.2)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Talking Points (#4.18)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Tell Me Lies (#1.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Thank You for Not Smoking (#5.17)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The 100th (#5.6)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Bearer of Bad Tidings (#2.19)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Buddy System (#4.9)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Ex-Files (#4.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Film Critic (#3.1)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Ghost of Christmas Presents (#4.10)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Grand Gesture (#5.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Hypocratic Oath (#2.13)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Job (#5.16)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The More You Know (#3.18)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Pain in the Neck (#5.14)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Princess Cruise (#3.13)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Roast That Ruined Them (#2.17)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Rumor (#2.14)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The TorMentor (#3.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Trouble with Harry (#3.12)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Unbelievable Wrongness of Talking (#6.5)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Usual Suspects (#3.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {The Wrong Man (#3.6)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Too Much, Too Late (#4.19)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Trials and Defibrillations (#3.24)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {Truth and Consequences (#1.19)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {V-Day (#4.14)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {What Indifference a Day Makes (#3.4)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {What\'s Love Got to Do with It? (#6.1)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Becker" (1998) {You Say Gay Son I Say Godson (#3.19)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Berkeley Square" (1998)', '', '', '', 'Chavenage House, Tetbury, Gloucestershire, England, UK']	51.65536415	-2.1865569117328345
+['"Berkeley Square" (1998)', '', '', '', 'Gloucester, Gloucestershire, England, UK']	51.8653705	-2.2458192
+['"Berkeley Square" (1998)', '', '', '', 'Priddy, Somerset, England, UK']	51.2560974	-2.67947
+['"Berkeley Square" (1998)', '', '', '', 'Stanway House, Stow-on-the-Wold, Gloucestershire, England, UK']	51.8952624	-1.7553471
+['"Berkeley Square" (1998)', '', '', '', 'Vyvyan Terrace, Clifton, Bristol, England, UK']	51.4581884	-2.6170214
+['"Best of British" (1998) {Victoria Wood (#1.2)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Best of Open Mike with Mike Bullard" (1998)', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Better Days" (1998)', '', '', '', '', 'Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beyond the Hall Door" (1998)', '', '', '', 'Ireland']	52.865196	-7.9794599
+['"Big Bear" (1998)', '', '', '', '', 'Ch�teauguay, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Big Bear" (1998)', '', '', '', '', 'Pasqua First Nations Reserve, Saskatchewan, Canada']	61.0666922	-107.9917071
+['"Big Bear" (1998) {(#1.1)}', '', '', '', 'Pasqua First Nations Reserve, Saskatchewan, Canada']	61.0666922	-107.9917071
+['"Biggi" (1998)', '', '', '', '', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822

@@ -1,0 +1,314 @@
+['"07 zglos sie" (1976)', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"07 zglos sie" (1976) {Major op�znia akcje (#1.1)}', 'Central Station, Aleje Jerozolimskie, Sr�dmiescie, Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"07 zglos sie" (1976) {Major op�znia akcje (#1.1)}', 'Sopot, Pomorskie, Poland']	54.44190905	18.54309444570447
+['"1976 Presidential Debates" (1976) {(#1.1)}', '', 'Walnut Street Theatre - 825 Walnut Street, Philadelphia, Pennsylvania, USA']	39.94851945	-75.15545802825007
+['"1976 Presidential Debates" (1976) {(#1.2)}', '', 'Palace of Fine Arts - 3301 Lyon Street, San Francisco, California, USA']	37.7790262	-122.4199061
+['"1976 Presidential Debates" (1976) {(#1.3)}', '', 'Phi Beta Kappa Memorial Hall, College of William and Mary, Williamsburg, Virginia, USA']	37.27892105	-76.69448606443117
+['"1976 World Series" (1976)', '', '', '', 'Riverfront Stadium - 100 Riverfront Stadium, Cincinnati, Ohio, USA']	39.7837304	-100.4458825
+['"1976 World Series" (1976)', '', '', '', 'Yankee Stadium - E. 161st Street & River Avenue, Bronx, New York City, New York, USA']	40.7127281	-74.0060152
+['"AM Northwest" (1976)', '', '', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {\'Chopped\' Host Ted Allen}', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {(2012-06-01)}', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Actor & Comedian Kevin Pollak}', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Actor Ed Asner}', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Comedian Greg Fitzsimmons}', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Comedian Wendy Liebman}', '', 'KATU Studios, 2153 NE Sandy Blvd., Portland, Oregon, USA']	45.5268925	-122.6439676
+['"AM Northwest" (1976) {Comedian Wendy Liebman}', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Comedienne & \'Daily Show\' Creator Lizz Winstead}', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Ernest Borgnine}', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Fresh Northwest Flavor}', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Helen & Dave\'s Secret Santa Trouble}', 'KATU Studios, 2153 NE Sandy Blvd., Portland, Oregon, USA']	45.5268925	-122.6439676
+['"AM Northwest" (1976) {Helen & Dave\'s Secret Santa Trouble}', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Jon Lovitz}', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Singer/Actress/Author Gloria Loring}', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {Singer/Actress/Author Gloria Loring}', 'KATU Studios, 2153 NE Sandy Blvd., Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {The Brooklyn Brothers Beat the Best}', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {The Brooklyn Brothers Beat the Best}', 'KATU Studios, 2153 NE Sandy Blvd., Portland, Oregon, USA']	45.5268925	-122.6439676
+['"AM Northwest" (1976) {The Supremes\' Mary Wilson}', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"AM Northwest" (1976) {The Supremes\' Mary Wilson}', 'KATU Studios, 2153 NE Sandy Blvd., Portland, Oregon, USA']	45.5202471	-122.6741949
+['"Agronsky & Co." (1976)', '', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Alguna vez, alg�n d�a" (1976)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguna vez, alg�n d�a" (1976) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alice" (1976)', '', '', '', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"Alice" (1976)', '', '', '', '', '', 'Stage 7, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976)', '', '', '', '', '', 'Studio 41, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alice" (1976) {86 the Waitresses (#2.3)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {A Call to Arms (#1.5)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {A Night to Remember (#1.21)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {A Piece of the Rock (#1.3)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {A Semi-Merry Christmas (#2.9)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {A Slight Case of ESP (#3.11)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {After Mel\'s Gone (#6.8)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Beats the Clock (#4.14)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Calls the Shots (#6.11)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Doesn\'t Work Here Anymore: Part 1 (#9.11)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Doesn\'t Work Here Anymore: Part 2 (#9.12)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Faces the Music (#7.11)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Gets a Pass (#1.2)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Locks Belle Out (#5.10)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Sees the Light (#7.9)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice Strikes Up the Band (#5.18)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice and the Acorns (#6.17)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice and the Devoted Dentist (#8.15)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice at the Palace (#7.4)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice by Moonlight (#2.4)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice in TV Land (#4.13)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice\'s Big Four-Oh! (#6.5)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice\'s Blind Date (#8.4)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice\'s Decision (#3.19)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice\'s Halloween Surprise (#6.4)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice\'s Hot Air Romance (#8.16)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice\'s Son, the Drop-Out (#5.14)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Alice\'s Turkey of a Thanksgiving (#7.6)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Auld Acquaintances Should Be Forgot (#4.17)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Baby Makes Five (#5.20)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Be It Ever So Crowded (#8.23)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Bet a Million, Mel (#6.1)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Better Never Than Late (#3.7)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Big Bad Mel (#9.3)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Big Daddy Dawson\'s Coming (#1.8)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Block Those Kicks (#3.5)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Bye Bye Birdie (#5.13)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Cabin Fever (#4.9)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Car Wars (#3.2)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Carrie Chickens Out (#5.15)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Carrie Sharples Strikes Again (#4.7)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Carrie Sings the Blues (#5.8)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Carrie on the Rebound (#7.7)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Carrie\'s Wedding (#4.15)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Citizen Mel (#3.3)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Close Encounters of the Worst Kind (#2.13)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Come Back Little Sharples (#7.15)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Comrade Mel (#6.3)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Cook\'s Tour (#4.23)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Do You Take This Waitress? (#7.2)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Dog Day Evening (#5.2)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Dollars to Donuts (#8.17)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Don\'t Lock Now (#2.19)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Don\'t Play It Again, Elliot (#8.21)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Earthquake (#2.22)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Flo Finds Her Father (#3.24)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Flo\'s Chili Reception (#4.5)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Flo\'s Farewell (#4.18)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Florence of Arabia (#2.16)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Footloose Mel (#9.7)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {For Whom the Belle Toils (#4.19)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Give My Regrets to Broadway (#6.20)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Good Buddy Flo (#4.12)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Good Night, Sweet Vera (#1.9)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Guinness on Tap (#6.2)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Has Anyone Here Seen Telly? (#4.1)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Hello Vegas, Goodbye Diner (#5.3)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Henry\'s Bitter Half (#5.9)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Here Comes Alice Cottontail (#4.24)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Houseful of Hunnicutts (#9.4)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {If the Shoe Fits (#3.22)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {It Had to Be Mel (#8.5)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Joel Grey Saves the Day (#7.5)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Jolene Gets Her Wings (#8.3)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Jolene Hunnicutt, Dynamite Trucker (#6.18)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Jolene Is Stuck on Mel (#8.20)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Jolene Lets the Cat Out of the Bag (#7.23)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Jolene Throws a Curve (#8.13)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Jolene and the Night Watchman (#7.13)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Jolene\'s Brother Jonas (#7.8)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Kiss the Grill Goodbye (#9.9)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Lies My Mother Told Me (#8.14)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Little Alice Bluenose (#4.6)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Love Is Sweeping the Counter (#2.8)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Love Is a Free Throw (#2.12)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Love Me, Love My Horse (#2.15)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Macho, Macho Mel (#5.16)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel Grows Up (#3.17)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel Is Hogg-Tied (#8.1)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel Loves Marie (#4.3)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel Spins His Wheels (#8.22)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel Wins by a Nose (#6.19)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel and the Green Machine (#5.1)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s Big Five-O (#2.18)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s Christmas Carol (#6.9)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s Cousin Wendy? (#7.20)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s Cousin, Wendell (#6.6)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s Cup (#1.22)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s Dream Car (#7.14)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s Happy Burger (#1.24)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s Recession (#2.21)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s in Love (#1.15)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s in a Family Way (#3.8)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel\'s in the Kitchen with Dinah (#4.8)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mel, the Magi (#4.11)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mona Lisa Alice (#4.2)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Monty Falls for Alice (#6.22)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mother-in-Law: Part 1 (#1.12)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Mother-in-Law: Part 2 (#1.13)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {My Cousin, Art Carney (#4.10)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {My Dinner with Debbie (#8.18)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {My Fair Vera (#3.23)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {My Funny Valentine Tux (#4.16)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {My Mother the Landlord (#6.24)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Not with My Niece, You Don\'t (#6.12)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Oh, George Burns! (#2.10)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {One Too Many Girls (#4.20)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {One on One (#9.14)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Pay the Fifty Dollars (#1.4)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Pilot (#1.1)}', '', '', '', 'Studio 41, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alice" (1976) {Profit Without Honor (#4.22)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Romancing Mr. Stone (#9.1)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Sex Education (#1.7)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Sharples vs. Sharples (#6.14)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Single Belles (#2.5)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Sorry, Wrong Lips! (#7.1)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Space Sharples (#9.2)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Spell Mel\'s (#6.23)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Sweet Charity (#3.14)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Sweet Erasable Mel (#7.21)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Take Him, He\'s Yours (#3.1)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Th-th-th-that\'s All Folks (#9.16)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {That Old Back Magic (#2.7)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Accident (#1.16)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Best Little Waitress in the World (#6.16)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Bundle (#1.23)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Bus (#2.24)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Cuban Connection (#2.17)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Dilemma (#1.10)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Eyes of Texas (#2.11)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Failure (#1.17)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Fourth Time Around (#3.15)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Grass Is Always Greener (#7.17)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Great Escape (#5.17)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Happy Hoofers (#3.10)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Hex (#1.18)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Indian Taker (#2.2)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Jerry Reed Fish Story (#5.12)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Last Review (#1.6)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Last Stow It: Part 1 (#3.20)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Last Stow It: Part 2 (#3.21)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The New Improved Mel (#5.7)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Night They Raided Debbie\'s (#9.13)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Odd Couple (#1.20)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Over-the-Hill Girls (#8.6)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Pain of No Return (#1.19)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Pharmacist (#2.14)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Principal of the Thing (#3.12)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Reporter (#2.23)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Robot Wore Pink (#8.9)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Second Time \'Round (#2.1)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Secret of Mel\'s Diner (#7.3)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Sixty Minutes Man (#2.6)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Star in the Storeroom (#2.20)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Valentine\'s Day Massacre (#6.15)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {The Wild One (#6.10)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Tis the Season to Be Jealous (#8.10)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Tommy Fouls Out (#7.18)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Tommy Goes Overboard (#8.11)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Tommy Hyatt, Business Consultant (#7.22)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Tommy\'s First Love (#3.16)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Tommy\'s Lost Weekend (#9.5)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Tommy\'s T.K.O. (#5.6)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Tommy, the Jailbird (#7.12)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Too Many Robert Goulets (#5.4)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Undercover Mel (#9.6)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera Gets Engaged (#8.7)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera Goes Out on a Limb (#5.11)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera Robs the Cradle (#4.4)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera on the Lam (#7.19)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera the Virtuoso (#7.10)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Anniversary Blues (#9.8)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Aunt Agatha (#5.5)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Bouncing Check (#6.7)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Broken Heart (#3.18)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Fine Feathered Friends (#8.19)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Grounded Gumshoe (#9.15)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Mortician (#1.14)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Popcorn Romance (#3.4)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Reunion Romance (#6.21)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Secret Lover (#8.2)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera\'s Wedding (#8.8)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera, Queen of the Soaps (#6.13)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera, the Horse Thief (#8.12)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera, the Nightbird (#9.10)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera, the Torch (#7.16)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Vera, the Vamp (#4.21)}', '', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {What Happened to the Class of \'78? (#3.6)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {What\'re You Doing New Year\'s Eve? (#3.13)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Who Killed Bugs Bunny? (#1.11)}', '', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Who Ordered the Hot Turkey? (#3.9)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alice" (1976) {Who\'s Kissing the Great Chef of Phoenix? (#5.19)}', 'Stage 3, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"All\'s Fair" (1976)', '', '', '', '', 'KTTV/Fox Television Center - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {A Perfect Evening (#1.3)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Charley\'s Father (#1.24)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Discovery Day (#1.5)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Election Eve (#1.6)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Happy Anniversary: Part 1 (#1.8)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Happy Anniversary: Part 2 (#1.9)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {In Name Only (#1.18)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Jealousy (#1.2)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Living Together (#1.4)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Love and Marriage: Part 1 (#1.13)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Love and Marriage: Part 2 (#1.14)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Lucy\'s Job Offer (#1.15)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Rememberance (#1.20)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Save the Yak (#1.19)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Strange Bedfellows (#1.1)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {The Dick and Vanessa Show (#1.21)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {The Gang Leader (#1.7)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {The Jailbirds: Part 1 (#1.22)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {The Jailbirds: Part 2 (#1.23)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {The Leak (#1.11)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {The Presidental Requests: Part 1 (#1.16)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {The Presidental Requests: Part 2 (#1.17)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {True Confessions (#1.12)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All\'s Fair" (1976) {Weekend (#1.10)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alle Jahre wieder: Die Familie Semmeling" (1976)', 'Igls, Tirol, Austria']	47.22521525	11.417829268480467
+['"Alle Jahre wieder: Die Familie Semmeling" (1976)', 'Celerina, Upper Engandine, Switzerland']	46.7985624	8.2319736
+['"Alle origini della mafia" (1976)', '', '', 'Castellammare del Golfo, Trapani, Sicily, Italy']	38.018846	12.885837
+['"Alle origini della mafia" (1976) {Gli antenati (#1.1)}', 'Tonnara di Scopello, Sicilia, Italy']	38.07152585	12.8215772548212
+['"Alle origini della mafia" (1976) {Gli antenati (#1.1)}', 'Erice, Sicily, Italy']	38.0381192	12.5872815
+['"Almost Anything Goes" (1976)', '', '', '', 'ATV-0 Studios, 100-168 Hawthorn Road, Nunawading, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Ark II" (1976)', '', '', '', '', '', 'Malibu Creek State Park - 1925 Las Virgenes Road, Calabasas, California, USA']	34.1446643	-118.6440973
+['"Ark II" (1976) {Don Quixote (#1.14)}', '', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Ark II" (1976) {Robin Hood (#1.9)}', '', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Ark II" (1976) {The Cryogenic Man (#1.7)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Baa Baa Black Sheep" (1976)', '', '', '', 'Indian Dunes Airfield, Valencia, California, USA']	34.413819	-118.5610378
+['"Baa Baa Black Sheep" (1976)', '', '', '', 'Indian Dunes - 28700 Henry Mayo Drive, Valencia, California, USA']	34.413819	-118.5610378
+['"Baa Baa Black Sheep" (1976)', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Baa Baa Black Sheep" (1976) {Flying Misfits (#1.0)}', 'Marine Corps Base Camp Pendleton, California, USA']	33.35453425	-117.42417276260397
+['"Ball Four" (1976)', '', '', '', '', 'CBS Broadcast Center, Manhattan, New York City, New York, USA']	40.76953315	-73.99067563237543
+['"Ball Four" (1976)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Ball Four" (1976) {A Quiet Day at the Iroquois Hotel (#1.4)}', 'CBS Broadcast Center, Manhattan, New York City, New York, USA']	40.76953315	-73.99067563237543
+['"Ball Four" (1976) {High-Flying Rookie (#1.3)}', '', 'CBS Broadcast Center, Manhattan, New York City, New York, USA']	40.76953315	-73.99067563237543
+['"Ball Four" (1976) {The Unpractical Joke (#1.2)}', 'CBS Broadcast Center, Manhattan, New York City, New York, USA']	40.76953315	-73.99067563237543
+['"Ball Four" (1976) {What\'s a Nice Watch Like You Doing in a Place Like This? (#1.5)}', 'CBS Broadcast Center, Manhattan, New York City, New York, USA']	40.76953315	-73.99067563237543
+['"Ball Four" (1976) {Work in Progress (#1.1)}', '', 'CBS Broadcast Center, Manhattan, New York City, New York, USA']	40.76953315	-73.99067563237543
+['"Bert D\'Angelo/Superstar" (1976)', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {A Concerned Citizen (#1.7)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {A Noise in the Streets (#1.6)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {Cops Who Sleep Together (#1.2)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {Flannagan\'s Fleet (#1.8)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {Men with No Past (#1.3)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {Murder in Velvet (#1.1)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {Scag (#1.10)}', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {Serpent\'s Tooth (#1.11)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {The Book of Fear (#1.5)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {The Brown Horse Connection (#1.4)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bert D\'Angelo/Superstar" (1976) {What Kind of Cop Are You? (#1.9)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bien dans sa peau" (1976)', '', '', '', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Big John, Little John" (1976)', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666

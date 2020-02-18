@@ -1,0 +1,1089 @@
+['"#ActorsLife" (2016)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"#Fuga" (2016)', '', '', '', '', '', 'Barra da Tijuca, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9997404	-43.3659929
+['"#KillTorrey" (2016)', '', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"#LoveMyRoomie" (2016)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"#LoveMyRoomie" (2016) {S2. E1 (#2.1)}', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"#MyCurrentSituation: Atlanta" (2016)', '', '', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"#SmurTv" (2016)', '', '', '', '', 'Roanoke, Virginia, USA']	37.270973	-79.9414313
+['"#SmurTv" (2016)', '', '', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"#SmurTv" (2016)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"#SpongeyLeaks" (2016)', '', '', '', '', 'Northridge, California, USA']	34.2345615	-118.5369316
+['"#SpongeyLeaks" (2016) {Leak 2.1: in medias res: Fraudulent Eviction Notices & Bulletproof Vests: Barb\'s 2nd Abuser (#1.4)}', 'Northridge, California, USA']	34.2345615	-118.5369316
+['"#VanLifeAttila" (2016)', '', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"#VanLifeAttila" (2016)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"#VanLifeAttila" (2016)', '', '', '', '', 'Europe']	51.0	10.0
+['"#VanLifeAttila" (2016) {"Over" a Film by Attila (#3.31)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {"Over" a Film by Attila (#3.31)}', 'Barkerville Highway']	53.0626187	-121.8747797
+['"#VanLifeAttila" (2016) {#CookingWithTheHun(bacon turkey) (#3.14)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {1 Year After Starting Meds for Depression (#3.15)}', 'Barkerville Highway']	53.0626187	-121.8747797
+['"#VanLifeAttila" (2016) {@DearestDayna (#4.15)}', '', 'Burnaby, British Columbia, Canada']	49.2433804	-122.9725459
+['"#VanLifeAttila" (2016) {@DearestDayna: Signing Up (#2.11)}', 'Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"#VanLifeAttila" (2016) {A Domestic Life (#3.6)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {A Domestic Life (#3.6)}', 'Quesnel, British Columbia, Canada']	52.9794279	-122.4936273
+['"#VanLifeAttila" (2016) {A Domestic Life (#3.6)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {A Domestic Life (#3.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {All Work and No Play (#4.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {An Ideal Life (#3.5)}', '', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Attila the Drunk (#3.10)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Back in the 1800s (#3.20)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Becky Oben: Part 2 (#1.6)}', 'North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"#VanLifeAttila" (2016) {Becky Oben: Part 3 (#1.7)}', 'North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"#VanLifeAttila" (2016) {Becky Oben: Part 4 (#1.8)}', 'North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"#VanLifeAttila" (2016) {Bullseye (#4.8)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {Cariboo Joy RV Park (#3.7)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Cariboo Joy RV Park (#3.7)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Cariboo Joy RV Park (#3.7)}', 'Quesnel, British Columbia, Canada']	52.9794279	-122.4936273
+['"#VanLifeAttila" (2016) {Clinical Depression: Season Finale (#3.35)}', 'Kelowna, British Columbia, Canada']	49.889326	-119.498291
+['"#VanLifeAttila" (2016) {Constructively Ill (#3.3)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {DearestDayna: Color Me Purple (#2.10)}', 'Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"#VanLifeAttila" (2016) {DearestDayna: Working for Free in Banff (#2.7)}', 'Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"#VanLifeAttila" (2016) {Diminished Mental Capacity: Part 1 (#3.23)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Diminished Mental Capacity: Part 2 (#3.25)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Dr. Joseph Park (#3.2)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Dr. Joseph Park (#3.2)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {First Audition in 5 Years (#4.10)}', 'Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"#VanLifeAttila" (2016) {First Audition in 5 Years (#4.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {Flashback (#2.9)}', '', 'Barkerville Highway']	53.0626187	-121.8747797
+['"#VanLifeAttila" (2016) {Food, Rehearsals, Food (#3.4)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Food, Rehearsals, Food (#3.4)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Forget the Middle Man (#3.19)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Ghosts of Minnehaha (#3.24)}', 'Barkerville, British Columbia, Canada']	53.068471	-121.5153039254653
+['"#VanLifeAttila" (2016) {God Is a Copout (#2.3)}', 'Sicamous, British Columbia, Canada']	50.8367991	-118.9826386
+['"#VanLifeAttila" (2016) {God Is a Copout (#2.3)}', 'Calgary, Alberta, Canada']	51.0534234	-114.0625892
+['"#VanLifeAttila" (2016) {God Is a Copout (#2.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {God Is a Copout (#2.3)}', 'Hope, British Columbia, Canada']	49.3799438	-121.4413515
+['"#VanLifeAttila" (2016) {God Is a Copout (#2.3)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Gramophone (#3.30)}', '', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Hit \'n\' Run (#2.2)}', '', 'Sicamous, British Columbia, Canada']	50.8367991	-118.9826386
+['"#VanLifeAttila" (2016) {Hope. A Dangerous Thing. (#2.1)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Hope. A Dangerous Thing. (#2.1)}', 'Barkerville, British Columbia, Canada']	53.068471	-121.5153039254653
+['"#VanLifeAttila" (2016) {Job 5 (#4.12)}', '', '', 'Burnaby, British Columbia, Canada']	49.2433804	-122.9725459
+['"#VanLifeAttila" (2016) {Job 6 (#4.14)}', '', '', 'North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"#VanLifeAttila" (2016) {Joseph Park: A Term of Slang (#3.34)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Live Finale (#4.28)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {Man Make Fire Aka Cooking with the Hun: Early Days (#3.8)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {My Experiment: #VanLifeAttila(Pilot) (#1.0)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {My Feature Film (#4.5)}', 'Stanley Park, Vancouver, British Columbia, Canada']	49.3019112	-123.14154052837662
+['"#VanLifeAttila" (2016) {New Career (#4.27)}', '', 'Alberta, Canada']	55.001251	-115.002136
+['"#VanLifeAttila" (2016) {Novel Reading: My Memoirs (#2.14)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {Novel Reading: My Memoirs (#2.14)}', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"#VanLifeAttila" (2016) {Novel Reading: My Memoirs (#2.14)}', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"#VanLifeAttila" (2016) {Painful Arrival: PART 1 (#2.12)}', 'Barkerville Highway']	53.0626187	-121.8747797
+['"#VanLifeAttila" (2016) {Painful Arrival: PART 1 (#2.12)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Painful Arrival: PART 1 (#2.12)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Painful Arrival: PART 2 (#2.13)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Parking Problems vs Real Problems (#4.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {Pussy vs Problems (#2.6)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Pussy vs Problems (#2.6)}', 'Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"#VanLifeAttila" (2016) {Ranting: The Frustrated Me (#4.11)}', 'North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"#VanLifeAttila" (2016) {Settling Into My Life-Sorta. (#4.26)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {Shots for the Queen(Victoria) (#3.26)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {St. George Hotel (#3.11)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Stanley (#3.21)}', '', 'Stanley, British Columbia, Canada']	53.0402309	-121.718755
+['"#VanLifeAttila" (2016) {Take 2 and Call Me in the Morning (#3.27)}', 'Quesnel, British Columbia, Canada']	52.9794279	-122.4936273
+['"#VanLifeAttila" (2016) {That Moment When You Know (#3.16)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {That Moment When You Know (#3.16)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {That Moment When You Know (#3.16)}', 'Wendle Lake, British Columbia, Canada']	53.1173414	-121.49901337494916
+['"#VanLifeAttila" (2016) {The Butler Did It (#3.1)}', 'Barkerville, British Columbia, Canada']	53.068471	-121.5153039254653
+['"#VanLifeAttila" (2016) {The Butler Did It (#3.1)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {The Butler Didn\'t Do It (#3.29)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {The Butler Didn\'t Do It (#3.29)}', 'Quesnel, British Columbia, Canada']	52.9794279	-122.4936273
+['"#VanLifeAttila" (2016) {The Day to Day (#3.12)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {The Day to Day (#3.12)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {The Day to Day (#3.12)}', 'Quesnel, British Columbia, Canada']	52.9794279	-122.4936273
+['"#VanLifeAttila" (2016) {The Full Tour (#3.32)}', '', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {The Picnic Table (#3.9)}', 'Wells, British Columbia, Canada']	53.1044428	-121.5723679
+['"#VanLifeAttila" (2016) {Therapy Tools. Butler Tools. (#3.13)}', 'Barkerville, British Columbia, Canada']	53.068471	-121.5153039254653
+['"#VanLifeAttila" (2016) {Therapy Tools. Butler Tools. (#3.13)}', 'Barkerville Highway']	53.0626187	-121.8747797
+['"#VanLifeAttila" (2016) {There\'s No Place Like Home (#3.33)}', 'Boston Bar, British Columbia, Canada']	49.8700939	-121.4416621
+['"#VanLifeAttila" (2016) {WWJD? Part 1: Free Legal Advice (#3.18)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {WWJD? Part 2: Free Legal Advice (#3.22)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Welcome to the 1930\'s (#3.28)}', 'Barkerville, British Columbia, Canada']	53.0666687	-121.5166749
+['"#VanLifeAttila" (2016) {Welcome to the Caribou (#2.4)}', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"#VanLifeAttila" (2016) {Wet Bed/Personal Stories (#1.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"#VanLifeAttila" (2016) {What Is Reality (#2.5)}', 'Barkerville Highway']	53.0626187	-121.8747797
+['"#VanLifeAttila" (2016) {Working for Free (#2.8)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"#VanLifeAttila" (2016) {Working for Free (#2.8)}', 'Banff, Alberta, Canada']	51.1777781	-115.5682504
+['"#VanLifeAttila" (2016) {Working for Free (#2.8)}', 'Winnipeg, Manitoba, Canada']	49.8955367	-97.1384584
+['"#VanLifeAttila" (2016) {You Brought \'Er You Lick \'Er (#4.9)}', 'Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"11.22.63" (2016)', '', '', '', '', 'Cambridge, Ontario, Canada']	43.0138142	-79.2024786
+['"11.22.63" (2016)', '', '', '', '', 'Ayr, Ontario, Canada']	43.2855122	-80.4507012
+['"11.22.63" (2016)', '', '', '', '', 'Downsview, Ontario, Canada']	43.7492988	-79.462248
+['"11.22.63" (2016)', '', '', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"11.22.63" (2016)', '', '', '', '', 'Orono, Ontario, Canada']	43.975028	-78.616447
+['"11.22.63" (2016)', '', '', '', '', 'Dealey Plaza - Elm Street, Dallas, Texas, USA']	32.7762719	-96.7968559
+['"11.22.63" (2016)', '', '', '', '', 'Guelph, Ontario, Canada']	43.546557	-80.249977
+['"11.22.63" (2016)', '', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"11.22.63" (2016)', '', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"11.22.63" (2016)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"11.22.63" (2016) {Happy Birthday, Lee Harvey Oswald (#1.6)}', 'Main Street, Clarington, Ontario, Canada']	43.968821	-78.6137837
+['"11.22.63" (2016) {Other Voices, Other Rooms (#1.3)}', 'Guelph, Ontario, Canada']	43.546557	-80.249977
+['"11.22.63" (2016) {Other Voices, Other Rooms (#1.3)}', 'Westinghouse Avenue, Hamilton Ontario, Canada']	43.2585525	-79.8423487
+['"11.22.63" (2016) {The Kill Floor (#1.2)}', '', 'Dunnville, Ontario, Canada']	42.904136	-79.617233
+['"11.22.63" (2016) {The Rabbit Hole (#1.1)}', '', 'Guelph, Ontario, Canada']	43.546557	-80.249977
+['"11.22.63" (2016) {The Rabbit Hole (#1.1)}', '', 'Huron St. and Alice St. area, Guelph, Ontario, Canada']	43.546557	-80.249977
+['"11.22.63" (2016) {The Rabbit Hole (#1.1)}', '', 'Germania Club, 863 King St E, Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"11.22.63" (2016) {The Rabbit Hole (#1.1)}', '', 'Dallas Convention Center - Dallas, Texas, USA']	39.7837304	-100.4458825
+['"11.22.63" (2016) {The Rabbit Hole (#1.1)}', '', 'Hampton, Ontario, Canada']	43.9717503	-78.7469382
+['"11.22.63" (2016) {The Rabbit Hole (#1.1)}', '', 'Solina, Ontario, Canada']	43.9736944	-78.7836962
+['"11.22.63" (2016) {The Truth (#1.5)}', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"11.22.63" (2016) {The Truth (#1.5)}', '', '', 'Ayr, Ontario, Canada']	43.2855122	-80.4507012
+['"11.22.63" (2016) {The Truth (#1.5)}', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"12 Steps to Multimedia Success" (2016)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12:07" (2016)', '', '', '', '', '', '5101 W. Century Blvd, Inglewood, California, USA']	33.945505	-118.366707
+['"13 Stories TV Originals" (2016)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"14 Keys" (2016)', '', '', '', '', 'Sudbury, Ontario, Canada']	46.49272	-80.991211
+['"16 and Awesome" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"19.43" (2016)', '', '', '', '', '', 'Amiens, Somme, France']	49.8941708	2.2956951
+['"19.43" (2016)', '', '', '', '', '', 'Creuse, Somme, France']	49.8390337	2.1633769
+['"19.43" (2016)', '', '', '', '', '', 'Vignacourt, Somme, France']	50.0118385	2.1967768
+['"19.43" (2016)', '', '', '', '', '', 'Beauvais, Oise, France']	49.4300997	2.0823355
+['"19.43" (2016)', '', '', '', '', '', 'Sains-en-ami�nois, Somme, France']	46.603354	1.8883335
+['"1916" (2016) {Episode One: Awakening (#1.1)}', '', 'India']	22.3511148	78.6677428
+['"1916" (2016) {Episode One: Awakening (#1.1)}', '', 'USA']	39.7837304	-100.4458825
+['"1916" (2016) {Episode One: Awakening (#1.1)}', '', 'France']	46.603354	1.8883335
+['"1916" (2016) {Episode One: Awakening (#1.1)}', '', 'Germany']	51.0834196	10.4234469
+['"1916" (2016) {Episode One: Awakening (#1.1)}', '', 'UK']	54.7023545	-3.2765753
+['"1916" (2016) {Episode One: Awakening (#1.1)}', '', 'Belgium']	50.6402809	4.6667145
+['"1916" (2016) {Episode One: Awakening (#1.1)}', '', 'Ireland']	52.865196	-7.9794599
+['"1Life" (2016)', '', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"2 Femmes � Hollywood" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2016 IHeartRadio Music Festival" (2016)', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2016 Presidential Debates" (2016) {(#1.1)}', '', 'Hofstra University, Hempstead, New York, USA']	40.7063185	-73.618684
+['"2016 Presidential Debates" (2016) {(#1.2)}', '', 'Washington University, St. Louis, Missouri, USA']	38.634807	-90.258941
+['"2016 Presidential Debates" (2016) {(#1.3)}', '', 'Longwood University, Farmville, Virginia, USA']	37.3024713	-78.3923813
+['"2016 Stanley Cup Finals" (2016) {Game 1 (#1.1)}', 'Consol Energy Center, Pittsburgh, Pennsylvania, USA']	40.439621700000004	-79.98950569382804
+['"2016 Stanley Cup Finals" (2016) {Game 2 (#1.2)}', 'Consol Energy Center, Pittsburgh, Pennsylvania, USA']	40.439621700000004	-79.98950569382804
+['"2016 Stanley Cup Finals" (2016) {Game 3 (#1.3)}', 'SAP Center at San Jose - 525 W. Santa Clara, San Jose, California, USA']	37.3361905	-121.8905833
+['"2016 Stanley Cup Finals" (2016) {Game 4 (#1.4)}', 'SAP Center at San Jose - 525 W. Santa Clara, San Jose, California, USA']	37.3361905	-121.8905833
+['"2016 Stanley Cup Finals" (2016) {Game 5 (#1.5)}', 'Consol Energy Center, Pittsburgh, Pennsylvania, USA']	40.439621700000004	-79.98950569382804
+['"2016 Stanley Cup Finals" (2016) {Game 6 (#1.6)}', 'SAP Center at San Jose - 525 W. Santa Clara, San Jose, California, USA']	39.7837304	-100.4458825
+['"2016 Under-17 Women\'s NTC Invitational" (2016)', '', 'U.S. Soccer National Training Center, Carson, California, USA']	33.8322043	-118.2517547
+['"2016 World Series" (2016)', '', '', '', 'Wrigley Field - 1060 W. Addison St., Lake View, Chicago, Illinois, USA']	41.9481283	-87.65636056216721
+['"2016 World Series" (2016)', '', '', '', 'Progressive Field - 2401 Ontario Street, Cleveland, Ohio, USA']	41.4960144	-81.6842002221565
+['"2016 World Series" (2016) {Game 1 (#1.1)}', '', 'Progressive Field - 2401 Ontario Street, Cleveland, Ohio, USA']	41.4960144	-81.6842002221565
+['"2016 World Series" (2016) {Game 2 (#1.2)}', '', 'Progressive Field - 2401 Ontario Street, Cleveland, Ohio, USA']	41.4960144	-81.6842002221565
+['"2016 World Series" (2016) {Game 3 (#1.3)}', '', 'Wrigley Field - 1060 W. Addison St., Lake View, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"2016 World Series" (2016) {Game 4 (#1.4)}', '', 'Wrigley Field - 1060 W. Addison St., Lake View, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"2016 World Series" (2016) {Game 5 (#1.5)}', '', 'Wrigley Field - 1060 W. Addison St., Lake View, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"2016 World Series" (2016) {Game 6 (#1.6)}', '', 'Progressive Field - 2401 Ontario Street, Cleveland, Ohio, USA']	41.4960144	-81.6842002221565
+['"2016 World Series" (2016) {Game 7 (#1.7)}', '', 'Progressive Field - 2401 Ontario Street, Cleveland, Ohio, USA']	41.4960144	-81.6842002221565
+['"2091" (2016) {Bienvenido a Casa (#1.8)}', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {Caballo de Troya (#1.4)}', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Caballo de Troya (#1.4)}', '', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {Control de Da�os (#1.9)}', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Control de Da�os (#1.9)}', '', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {Dej� Vu (#1.3)}', '', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Dej� Vu (#1.3)}', '', '', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {El Apostador (#1.7)}', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {El Apostador (#1.7)}', '', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {Expansi�n (#1.12)}', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Expansi�n (#1.12)}', '', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {La Pieza que Falta (#1.11)}', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {La Pieza que Falta (#1.11)}', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {Lo real (#1.1)}', '', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Lo real (#1.1)}', '', '', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {Perder para Ganar (#1.5)}', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Perder para Ganar (#1.5)}', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {Pe�n a Reina (#1.2)}', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Pe�n a Reina (#1.2)}', '', '', 'Tatacoa Desert, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Reinicio (#1.10)}', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Reinicio (#1.10)}', '', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"2091" (2016) {Tiempo Fuera (#1.6)}', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"2091" (2016) {Tiempo Fuera (#1.6)}', '', '', 'Tatacoa Desert, Colombia']	3.2333462	-75.1690534
+['"24 Hours of Food with Michael Bonacini" (2016)', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"24 Hours of Food with Michael Bonacini" (2016)', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"24 Hours of Food with Michael Bonacini" (2016)', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"24: Legacy" (2016)', '', '', '', '', 'Atlanta Metro Studios, Union City, Georgia, USA']	33.5870558	-84.5424299
+['"24K Orange" (2016)', '', '', '', '', 'Orange County, California, USA']	33.7500378	-117.8704931
+['"24K Orange" (2016) {Citizens Academy (#1.1)}', '', 'Laguna Niguel, California, USA']	33.5225261	-117.7075526
+['"24K Orange" (2016) {Citizens Academy (#1.1)}', '', 'Newport Beach, California, USA']	33.6170092	-117.9294401
+['"24K Orange" (2016) {Citizens Academy (#1.1)}', '', 'Santa Ana, California, USA']	33.7494951	-117.8732213
+['"24K Orange" (2016) {Citizens Academy (#1.1)}', '', 'Santa Ana, California, USA']	33.7494951	-117.8732213
+['"24K Orange" (2016) {El Coraz�n de San Juan Capistrano (#1.2)}', 'San Juan Capistrano, California, USA']	33.5016932	-117.6625509
+['"24h Danger" (2016)', '', '', '', '', 'Thailand']	14.8971921	100.83273
+['"24h Danger" (2016)', '', '', '', '', 'Quebec, Canada']	52.4760892	-71.8258668
+['"24h Danger" (2016)', '', '', '', '', 'Haiti']	19.1399952	-72.3570972
+['"24h Danger" (2016)', '', '', '', '', 'France']	46.603354	1.8883335
+['"24h Danger" (2016)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"24h Danger" (2016)', '', '', '', '', 'Japan']	36.5748441	139.2394179
+['"24h Danger" (2016)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"24h Danger" (2016)', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"24h Danger" (2016)', '', '', '', '', 'Slovenia']	45.8133113	14.4808369
+['"24h Danger" (2016)', '', '', '', '', 'Afghanistan']	33.7680065	66.2385139
+['"25 & Counting" (2016)', '', '', '', '', 'West Los Angeles, Los Angeles, California, USA']	34.0463986	-118.448135
+['"25 & Counting" (2016) {Quarter Life Crisis - Crisis 1 (#1.1)}', 'West Los Angeles, Los Angeles, California, USA']	34.0463986	-118.448135
+['"3%" (2016)', '', '', '', '', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"30 minutos con el sagrado corazon de jesus" (2016)', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"30" (2016)', '', '', '', '', '', 'Stockton University, Galloway, New Jersey, USA']	39.4900756	-74.53401951500001
+['"3riple B" (2016)', '', '', '', '', 'Westwood, Los Angeles, California, USA']	34.0561207	-118.4306347
+['"4 Point Line" (2016)', '', '', '', '', 'Bronx, New York, USA']	40.8466508	-73.8785937
+['"4 Point Line" (2016)', '', '', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"5 Minutitos M�s" (2016)', '', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"5 Minutitos M�s" (2016) {El video m�s viral del mundo (#1.1)}', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"50 Ways to Kill Your Mommy" (2016)', '', '', 'Florida, USA']	39.7837304	-100.4458825
+['"50 Ways to Kill Your Mommy" (2016)', '', '', 'Cancun, Mexico']	21.1617854	-86.8510468
+['"50 Ways to Kill Your Mommy" (2016)', '', '', 'Lapland, Finland']	67.69291045	26.728204479201416
+['"50 Ways to Kill Your Mommy" (2016)', '', '', 'Barcelona, Spain']	41.3828939	2.1774322
+['"50 Ways to Kill Your Mommy" (2016)', '', '', 'West-Coast, USA']	34.0222263	-118.4051088
+['"50 Ways to Kill Your Mommy" (2016)', '', '', 'South Africa']	-28.8166236	24.991639
+['"50 Ways to Kill Your Mommy" (2016)', '', '', 'Highlands, Schotland, UK']	56.8	-5.0
+['"50 Ways to Kill Your Mommy" (2016)', '', '', 'Sahara Desert, Morocco']	31.0894916	-3.9656853
+['"50 Yard Game Films" (2016)', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"50 Yard Game Films" (2016)', '', '', '', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"50 Yard Game Films" (2016)', '', '', '', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"50 Yard Game Films" (2016)', '', '', '', 'Washington, DC, USA']	38.8948932	-77.0365529
+['"50 Yard Game Films" (2016)', '', '', '', 'Cleveland, Ohio, USA']	41.5051613	-81.6934446
+['"60 Days In" (2016)', '', '', '', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Aftermath (#1.13)}', '', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {All Pain, No Gain (#2.3)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Alone for the Holidays (#1.9)}', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Bed and Baggage (#2.12)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Cell Shock (#1.3)}', '', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Criminal Justice (#2.6)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Exodus (#1.12)}', '', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Fight Face (#1.4)}', '', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {First Timers (#1.2)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Friend or Foe (#2.2)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Friends Without Benefits (#1.5)}', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Full Inmate (#1.6)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Hazed and Confused (#2.4)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Meet the Participants (#2.1)}', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Pod Drama (#1.7)}', '', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Pod Wars (#2.5)}', '', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Shakedown (#1.8)}', '', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {The Full Story (#1.15)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Unusual Suspects (#1.1)}', '', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"60 Days In" (2016) {Where Are They Now (#1.14)}', 'Michael L. Becher Adult Correctional Complex, Jefforsonville, Indiana, USA']	39.7837304	-100.4458825
+['"64/8" (2016)', '', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"64/8" (2016) {Totally Sarah (#1.1)}', '', '', 'All About Props, Tucker, Georgia, USA']	39.7837304	-100.4458825
+['"700 Club Asia the Margareth Binalla Story" (2016)', 'Manila, Philippines']	12.7503486	122.7312101
+['"8 Steps to Buying" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"80 e Tal" (2016)', '', '', '', '', 'Ipanema, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9839557	-43.2022163
+['"80 e Tal" (2016)', '', '', '', '', 'Florian�polis, Santa Catarina, Brazil']	-10.3333333	-53.2
+['"9 Days with Cambria" (2016)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"9-1-1 Encounters" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"999: Killer on the Line?" (2016) {French (#1.1)}', 'Wisbech, Cambridgeshire, England, UK']	52.6651733	0.1606824
+['"A Day in L.A." (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Day in L.A." (2016)', '', '', '', '', 'Imperial Art Studios - 695 S Santa Fe Ave, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Day in the Life Of" (2016)', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"A Day in the Life" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Drivers\' Dream" (2016)', '', '', '', 'Okanagan Valley, British Columbia, Canada']	50.4164846	-118.7147708
+['"A Drivers\' Dream" (2016)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A F*cking Web Series" (2016)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fist Within Four Walls" (2016)', '', '', 'Hong Kong']	22.2793278	114.1628131
+['"A Garota da Moto" (2016)', '', '', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016)', '', '', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016)', '', '', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016)', '', '', '', 'Rua Ubatuba 98, Pacaembu, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Fuga (#1.1)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Fuga (#1.1)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Fuga (#1.1)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Fuga (#1.1)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Fuga (#1.1)}', '', 'Cemit�rio S�o Paulo - Rua Cardeal Arcoverde 1250, Pinheiros, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Gata e o Rato (#1.22)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Gata e o Rato (#1.22)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Gata e o Rato (#1.22)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Gata e o Rato (#1.22)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Luta (#1.14)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Luta (#1.14)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Luta (#1.14)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Luta (#1.14)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Morte Planejada (#1.19)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Morte Planejada (#1.19)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {A Morte Planejada (#1.19)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Algu�m Quer Vingan�a (#1.18)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Algu�m Quer Vingan�a (#1.18)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Algu�m Quer Vingan�a (#1.18)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Algu�m Quer Vingan�a (#1.18)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Amigas (#1.24)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Amigas (#1.24)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Amigas (#1.24)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Amigas (#1.24)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Armadilha (#1.23)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Armadilha (#1.23)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Armadilha (#1.23)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Armadilha (#1.23)}', '', 'Rua Ubatuba 98, Pacaembu, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Avec Plaisir (#1.3)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Avec Plaisir (#1.3)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Avec Plaisir (#1.3)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Avec Plaisir (#1.3)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Confronto (#1.26)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Confronto (#1.26)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Confronto (#1.26)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Confronto (#1.26)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Contra-Ataque (#1.20)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Contra-Ataque (#1.20)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Contra-Ataque (#1.20)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Contra-Ataque (#1.20)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Desaparecido (#1.5)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Desaparecido (#1.5)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Desaparecido (#1.5)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Desaparecido (#1.5)}', '', 'Rua Capistrano de Abreu, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Dia de F�ria (#1.15)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Dia de F�ria (#1.15)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Dia de F�ria (#1.15)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Dia de F�ria (#1.15)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Face a Face Com a Inimiga (#1.11)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Face a Face Com a Inimiga (#1.11)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Face a Face Com a Inimiga (#1.11)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Face a Face Com a Inimiga (#1.11)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Fora de Si (#1.21)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Fora de Si (#1.21)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Fora de Si (#1.21)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Fugu (#1.16)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Fugu (#1.16)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Fugu (#1.16)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Fugu (#1.16)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Li��o de Casa (#1.8)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Li��o de Casa (#1.8)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Li��o de Casa (#1.8)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Li��o de Casa (#1.8)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Modelo (#1.7)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Modelo (#1.7)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Modelo (#1.7)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Morte e Vida (#1.9)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Morte e Vida (#1.9)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Morte e Vida (#1.9)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Morte e Vida (#1.9)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Morte e Vida (#1.9)}', '', 'Rua Camerino, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Nico Sumiu (#1.25)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Nico Sumiu (#1.25)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Nico Sumiu (#1.25)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Ningu�m � O Que Parece (#1.12)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Ningu�m � O Que Parece (#1.12)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Ningu�m � O Que Parece (#1.12)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Ningu�m � O Que Parece (#1.12)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Pizza (#1.6)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Pizza (#1.6)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Pizza (#1.6)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Pizza (#1.6)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Sequestro (#1.17)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Sequestro (#1.17)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Sequestro (#1.17)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Sindicato do Crime (#1.4)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Sindicato do Crime (#1.4)}', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Sindicato do Crime (#1.4)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Sindicato do Crime (#1.4)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Sindicato do Crime (#1.4)}', 'Rua Major Quedinho, Bela Vista, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Trampo-Ro�a (#1.2)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Trampo-Ro�a (#1.2)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Trampo-Ro�a (#1.2)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Trampo-Ro�a (#1.2)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Uma Garota Chamada Fang (#1.10)}', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Uma Garota Chamada Fang (#1.10)}', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Uma Garota Chamada Fang (#1.10)}', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Uma Garota Chamada Fang (#1.10)}', 'Escadaria do Bixiga, Bela Vista, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Uma Garota Chamada Fang (#1.10)}', 'Rua Treze de Maio, Bela Vista, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Uma Garota Chamada Fang (#1.10)}', 'Rua dos Ingleses, Bela Vista, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Uma Garota Chamada Fang (#1.10)}', 'Bela Vista, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Viral (#1.13)}', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Viral (#1.13)}', '', 'Rua Souza Lima 67, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Viral (#1.13)}', '', 'Rua Souza Lima 221, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Garota da Moto" (2016) {Viral (#1.13)}', '', 'Rua Souza Lima 287, Barra Funda, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A History of Trouble with Women" (2016)', '', 'California, USA']	36.7014631	-118.7559974
+['"A Impostora" (2016)', '', '', '', '', 'Mozambique']	-19.302233	34.9144977
+['"A Impostora" (2016)', '', '', '', '', 'Katembe, Mozambique']	-26.02895025	32.54964057496335
+['"A Impostora" (2016)', '', '', '', '', 'Maputo, Mozambique']	-25.966213	32.56745
+['"A Impostora" (2016)', '', '', '', '', 'Mercado Municipal, Maputo, Mozambique']	-25.9671487	32.57380415
+['"A Kings Life" (2016)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Little Advice" (2016)', '', '', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"A Little Lost: Web Series" (2016)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Little Off" (2016)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"A Little of Your Time with Quinn Marcus" (2016) {Adam Pally (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Matter of Opinion" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Mission" (2016)', '', '', '', '', 'Ocean Springs, Mississippi, USA']	30.4112904	-88.8279165
+['"A Place Among the Undead" (2016)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Place Among the Undead" (2016)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A Place Among the Undead" (2016)', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"A Place Among the Undead" (2016)', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"AMU Journal" (2016)', '', '', '', '', 'Aligarh']	27.87698975	78.13729027600994
+['"AOK" (2016)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"APB" (2016)', '', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Abandoned Tracks" (2016) {Central and St James Stations (#1.2)}', 'Redfern, NSW, Australia']	-33.8931044	151.2040292
+['"Abandoned Tracks" (2016) {Central and St James Stations (#1.2)}', 'Belmore Park, Sydney, NSW, Australia']	-33.88141555	151.2074611285057
+['"Abandoned Tracks" (2016) {Central and St James Stations (#1.2)}', 'Central Station, Sydney, NSW, Australia']	-33.8793443	151.20937979519775
+['"Abandoned Tracks" (2016) {Central and St James Stations (#1.2)}', 'Hyde Park, Sydney, NSW, Australia']	-33.8716231	151.21150983957932
+['"Abandoned Tracks" (2016) {Central and St James Stations (#1.2)}', 'St. James Station, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Abandoned Tracks" (2016) {Central and St James Stations (#1.2)}', 'Royal Botanical Garden, Sydney, NSW, Australia']	-33.8679574	151.210047
+['"Abandoned Tracks" (2016) {Central and St James Stations (#1.2)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Abandoned Tracks" (2016) {The Helensburgh Tunnels (#1.1)}', 'Helensburgh, NSW, Australia']	-34.1908519	150.9822187
+['"Abandoned Tracks" (2016) {The Helensburgh Tunnels (#1.1)}', 'Woronora Dam, NSW, Australia']	-34.1396	150.9132
+['"Abandoned Tracks" (2016) {The Helensburgh Tunnels (#1.1)}', 'Waterfall, New South Wales, Australia']	-32.2047681	148.6162376
+['"Abandoned Tracks" (2016) {The Helensburgh Tunnels (#1.1)}', 'Stanwell Park, New South Wales, Australia']	-24.7761086	134.755
+['"Abandoned Tracks" (2016) {The Helensburgh Tunnels (#1.1)}', 'Otford, New South Wales, Australia']	-24.7761086	134.755
+['"Abandoned" (2016) {California Water Supply (#1.4)}', 'Salton Sea, California, USA']	33.312137699999994	-115.77738410537086
+['"Abandoned" (2016) {California Water Supply (#1.4)}', 'Salton City, California, USA']	33.296668499999996	-115.95853910224128
+['"Abandoned" (2016) {California Water Supply (#1.4)}', 'Owens Lake, California, USA']	36.42402715	-117.92691635137999
+['"Abandoned" (2016) {California Water Supply (#1.4)}', 'Keeler, California, USA']	36.482546	-117.86575631459041
+['"Abandoned" (2016) {California Water Supply (#1.4)}', 'Inyo County, California, USA']	36.5595325	-117.4074712
+['"Abandoned" (2016) {Ghost Mall (#1.1)}', '', '', 'Cleveland, Ohio, USA']	41.5051613	-81.6934446
+['"Abandoned" (2016) {Ghost Mall (#1.1)}', '', '', 'Randall Park Mall, North Randall, Ohio, USA']	41.434424	-81.525492
+['"Abandoned" (2016) {Ghost Mall (#1.1)}', '', '', 'Rolling Acres Mall, Akron, Ohio, USA']	41.0512005	-81.5820976
+['"Abandoned" (2016) {Ghost Mall (#1.1)}', '', '', 'Euclid Square Mall, Euclid, Ohio, USA']	41.5963715	-81.5037953
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', 'Flat Rock, Newfoundland and Labrador, Canada']	47.0127158	-52.9812831
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', 'Rose Blanche-Harbour le Cou, Newfoundland, Newfoundland and Labrador, Canada']	47.61821835	-58.689227037298586
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', 'Petites, Newfoundland, Newfoundland and Labrador, Canada']	49.12120935	-56.69629621274099
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', 'La Poile, Newfoundland, Newfoundland and Labrador, Canada']	47.6813746	-58.3966862
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', 'Grand Bruit, Newfoundland, Newfoundland and Labrador, Canada']	49.12120935	-56.69629621274099
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', "St. John's, Newfoundland, Newfoundland and Labrador, Canada"]	47.561701	-52.715149
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', 'Trinity Loop Amusement Park, Trinity, Newfoundland, Newfoundland and Labrador, Canada']	49.12120935	-56.69629621274099
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', 'Fogo Island, Newfoundland, Newfoundland and Labrador, Canada']	49.12120935	-56.69629621274099
+['"Abandoned" (2016) {Newfoundland Coast (#1.2)}', '', 'Newfoundland, Newfoundland and Labrador, Canada']	49.12120935	-56.69629621274099
+['"Abandoned" (2016) {Nuclear Waste (#1.5)}', '', 'Royal City, Washington, USA']	46.9009701	-119.6305912
+['"Abandoned" (2016) {Nuclear Waste (#1.5)}', '', 'Satsop, Washington, USA']	47.0257475	-123.47465514234261
+['"Abandoned" (2016) {Nuclear Waste (#1.5)}', '', 'Cape Disappointment, Washington, USA']	39.7837304	-100.4458825
+['"Abandoned" (2016) {Nuclear Waste (#1.5)}', '', 'Astoria, Oregon, USA']	46.187885	-123.831256
+['"Abandoned" (2016) {Nuclear Waste (#1.5)}', '', 'Seaside, Oregon, USA']	45.993246	-123.920213
+['"Abandoned" (2016) {St Louis Schools (#1.3)}', '', 'St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Abandoned" (2016) {St Louis Schools (#1.3)}', '', 'Central Visual and Performing Arts High School - 3616 Garrison Ave., St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Abandoned" (2016) {St Louis Schools (#1.3)}', '', 'Cleveland High School - 4352 Louisiana, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Abandoned" (2016) {St Louis Schools (#1.3)}', '', 'Cleveland Junior Naval Academy - 4939 Kemper Avenue, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Abandoned" (2016) {St Louis Schools (#1.3)}', '', 'Turner Middle School - 2615 Billups, St. Louis, Missouri, USA']	39.7837304	-100.4458825
+['"Abece TV" (2016)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Abel\'s Sister" (2016)', '', '', '', '', 'Yerevan, Armenia']	40.1776121	44.5125849
+['"Aber Bergen" (2016)', '', '', '', '', 'Bergen, Hordaland, Norway']	60.4660419	6.125592
+['"About Him" (2016)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"About That Life" (2016)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"About the Business" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ac\'tiv-ist" (2016)', '', '', '', '', 'Amherst, Massachusetts, USA']	42.3803676	-72.523143
+['"Across" (2016)', '', '', '', '', '', 'Minnesota, USA']	45.9896587	-94.6113288
+['"Across" (2016)', '', '', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Action Super Squad: Short Shots!" (2016) {McGraw on Guns (#1.3)}', 'Grimes, Iowa, USA']	41.6883214	-93.7910575
+['"Action Super Squad: Short Shots!" (2016) {McGraw on Guns (#1.3)}', 'Grimes, Iowa, USA']	41.6883214	-93.7910575
+['"Action Super Squad: Short Shots!" (2016) {Meet Bobby Chang! (#1.1)}', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"Action Super Squad: Short Shots!" (2016) {Meet Bobby Chang! (#1.1)}', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"Action Super Squad: Short Shots!" (2016) {Vas Stupid (#1.4)}', 'Grimes, Iowa, USA']	41.6883214	-93.7910575
+['"Action Super Squad: Short Shots!" (2016) {Vas Stupid (#1.4)}', 'Grimes, Iowa, USA']	41.6883214	-93.7910575
+['"Action Super Squad: Short Shots!" (2016) {Vaselino on Smoking (#1.2)}', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"Action Super Squad: Short Shots!" (2016) {Vaselino on Smoking (#1.2)}', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"Actors Anonymous" (2016)', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"Actors Vs" (2016)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Adam Sessler & the Interesting People" (2016)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam sucht Eva - Promis im Paradies" (2016)', '', 'Tikehau, Tuamotus, French Polynesia']	-16.03442485	-146.0490931059517
+['"Adoptable" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in My Own Backyard" (2016)', '', '', '1650 S. Sinclair St., Anaheim, California, USA']	33.806460238285055	-117.88410906044076
+['"Adventures in My Own Backyard" (2016)', '', '', 'Murrieta, California, USA']	33.560832	-117.2106564
+['"Affordable NYC" (2016)', '', '', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"Afrimericans" (2016)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"After the 80" (2016)', '', '', '', '', 'Springfield, Queensland, Australia']	-17.9316654	144.5233307
+['"After the Bid: Houston" (2016)', '', '', '', 'Houston,Texas, USA']	29.7589382	-95.3676974
+['"After the End" (2016)', '', '', '', '', 'Kuwait']	29.2733964	47.4979476
+['"Aftermath" (2016)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {A Clatter and a Chatter (#1.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {Fever of the Bone (#1.4)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {Here Is No Water But Only Rock (#1.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {Hieronymo\'s Mad Againe (#1.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {In Our Empty Rooms (#1.3)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {In Rats Alley (#1.2)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {In Rats Alley (#1.2)}', '', 'Fort Langley, British Columbia, Canada']	49.169126	-122.5793628
+['"Aftermath" (2016) {Madame Sosostris (#1.6)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {Now That We Talk of Dying (#1.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {RVL 6768 (#1.1)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {RVL 6768 (#1.1)}', '', '', 'Fort Langley, British Columbia, Canada']	49.169126	-122.5793628
+['"Aftermath" (2016) {The Barbarous King (#1.9)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {What the Thunder Said (#1.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {Where the Dead Men Lost Their Bones (#1.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {Whispers of Immortality (#1.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftermath" (2016) {Whispers of Immortality (#1.13)}', 'Langley, British Columbia, Canada']	49.106471850000005	-122.5501311568147
+['"Against the Grain" (2016)', '', '', '', 'Waco, Texas, USA']	31.549333	-97.1466695
+['"Agar.io" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agatha Raisin" (2016)', '', '', '', '', 'Biddestone, Wiltshire, England, UK']	51.25	-1.916667
+['"Agatha Raisin" (2016) {Hell\'s Bells (#1.2)}', '', "Savill's Estate Agent - 22 The Mall, Clifton, Bristol, England, UK"]	51.4538022	-2.5972985
+['"Agatha Raisin" (2016) {Hell\'s Bells (#1.2)}', '', 'West Mall, Clifton, Bristol, England, UK']	51.4543538	-2.6242826
+['"Agatha Raisin" (2016) {The Quiche of Death (#1.0)}', 'Biddestone, Wiltshire, England, UK']	51.25	-1.916667
+['"Agatha Raisin" (2016) {Witch of Wyckhadden (#1.7)}', 'Eastnor Castle, Eastnor, Ledbury, Herefordshire, England, UK']	52.083333	-2.75
+['"Agoro the Phobic Monster" (2016)', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Ahhh Zombies" (2016)', '', '', '', '', 'West Blocton, Alabama, USA']	33.1181748	-87.1249954
+['"Ahhh Zombies" (2016)', '', '', '', '', 'Montevallo, Alabama, USA']	33.1006746	-86.8641558
+['"Al Most Coast to Coast: Web-Series" (2016)', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Al Most Coast to Coast: Web-Series" (2016) {Al Most Misery (#1.4)}', 'Bronx, New York, USA']	40.8466508	-73.8785937
+['"Al Most Coast to Coast: Web-Series" (2016) {Al Most My Life (#1.2)}', "St. Pat's Bar & Grill NYC 22 w 46th street, New York City, New York, USA"]	40.7564278	-73.9803554
+['"Al Most Coast to Coast: Web-Series" (2016) {True Events (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Al otro lado" (2016)', '', '', '', '', 'Spain']	39.3262345	-4.8380649
+['"Al otro lado" (2016)', '', '', '', '', 'Morocco']	31.1728205	-7.3362482
+['"Al otro lado" (2016)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Al otro lado" (2016)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Al otro lado" (2016)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"Al otro lado" (2016)', '', '', '', '', 'Zimbabwe']	-18.4554963	29.7468414
+['"Al otro lado" (2016)', '', '', '', '', 'Bangladesh']	24.4768783	90.2932426
+['"Al otro lado" (2016)', '', '', '', '', 'India']	22.3511148	78.6677428
+['"Al sur del tiempo (Microespacios)" (2016)', '', 'Andalusia, Spain']	39.3262345	-4.8380649
+['"Al sur del tiempo" (2016)', '', '', '', 'Andalusia, Spain']	39.3262345	-4.8380649
+['"Aladin & Alakadam" (2016)', '', '', '', 'Jakarta, Indonesia']	-6.1753942	106.827183
+['"Alan Carr\'s Happy Hour" (2016) {(#1.1)}', '', 'Tape London, England, UK']	51.5142957	-0.1446751
+['"Alaska Aircrash Investigations" (2016)', '', '', 'Alaska, USA']	64.4459613	-149.680909
+['"Albanian Style" (2016)', '', '', '', '', 'Albania']	41.000028	19.9999619
+['"Alberto Casiraghy: Poeta della stampa" (2016)', '', 'Osnago, Lombardy, Italy']	45.675678	9.391148
+['"Alex and Lotus" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alexander von Humboldt Proffesur" (2016)', '', 'Germany']	51.0834196	10.4234469
+['"Alias L�nnrot" (2016) {Joulupukki 2.0 (#1.6)}', '', 'Tampere, Finland']	61.4980214	23.7603118
+['"Alias L�nnrot" (2016) {M�kkitunti (#1.2)}', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Alias L�nnrot" (2016) {Pikku Kakkonen (#1.7)}', '', 'Turenki, Finland']	60.9204847	24.6510032
+['"Alias L�nnrot" (2016) {Pikku Kakkonen (#1.7)}', '', 'Tampere, Finland']	61.4980214	23.7603118
+['"Alias L�nnrot" (2016) {Puhelinmyyj�t (#1.4)}', '', 'Riihim�ki, Finland']	63.2467777	25.9209164
+['"Alias L�nnrot" (2016) {Ruoka-pong (#1.10)}', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Alias L�nnrot" (2016) {S��saarnaajat (#1.3)}', '', 'Espoo, Finland']	60.2241869	24.6603626
+['"Alias L�nnrot" (2016) {Tuppisuut (#1.1)}', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Alias L�nnrot" (2016) {Tuulipuku (#1.9)}', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Alias L�nnrot" (2016) {T�lkkiralli (#1.8)}', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Alias L�nnrot" (2016) {T�lkkiralli (#1.8)}', '', 'Tallinn, Estonia']	59.4372155	24.7453688
+['"All About Manos" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Manos" (2016) {The Doer (#1.3)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Hip Hop with Exodus Swift" (2016)', '', '', 'USA']	39.7837304	-100.4458825
+['"All Talk with Anika Moa" (2016)', '', '', 'Auckland, NZ']	-36.852095	174.7631803
+['"All for One" (2016)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"All for One" (2016) {Flying Off the Handle (#1.2)}', 'Loft404 - 263 Adelaide St. W., Toronto, Ontario, Canada']	43.653963	-79.387207
+['"All in with Cam Newton" (2016) {All in with Josh (#1.6)}', 'Nickelodeon Animation Studio - 231 W Olive Ave, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alle mod 1" (2016)', '', '', '', '', 'Copenhagen, Denmark']	55.6867243	12.5700724
+['"Alles Liebe, Annette" (2016)', '', '', '', 'Schloss Reinharz, Bad Schmiedeberg, Saxony-Anhalt, Germany']	51.7000417	12.674504567623387
+['"Almost Midnight" (2016)', '', '', '', 'Adelaide, South Australia, Australia']	-34.9281805	138.5999312
+['"Alone Together" (2016)', '', '', '', '', 'Scranton, Pennsylvania, USA']	41.4086874	-75.6621294
+['"Alpha-Type" (2016)', '', '', '', '', 'Toronto Ontario, Canada']	43.653963	-79.387207
+['"Als de dijken breken" (2016) {Dijkring 14 (#1.1)}', "Scheveningen, 's-Gravenhage, Zuid-Holland, Netherlands"]	52.1062075	4.2752714
+['"Als de dijken breken" (2016) {Dijkring 14 (#1.1)}', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Als de dijken breken" (2016) {Dijkring 14 (#1.1)}', 'Rotterdam, Zuid-Holland, Netherlands']	51.9278469	4.488595428701715
+['"Alta Tensione" (2016)', '', '', '', '', 'Mef srl, Florence, Italy']	42.6384261	12.674297
+['"Ambitions" (2016)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"America Decides" (2016) {(#1.3)}', '', '', 'Raleigh, North Carolina, USA']	35.7803977	-78.6390989
+['"America Decides" (2016) {(#1.4)}', '', '', 'Manassas, Virginia, USA']	38.744947	-77.48244422524272
+['"America Decides" (2016) {(#1.5)}', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America Decides" (2016) {(#1.6)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Ghosts Flaunted" (2016)', '', '', 'Pleasant View, Utah, USA']	41.3199145	-111.9939299
+['"America\'s Ghosts Flaunted" (2016)', '', '', 'Draper, Utah, USA']	40.5246711	-111.8638226
+['"America\'s Ghosts Flaunted" (2016)', '', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"America\'s Ghosts Flaunted" (2016)', '', '', 'Farmington, Utah, USA']	40.9804423	-111.8874688
+['"America\'s Ghosts Flaunted" (2016)', '', '', 'KOA Campground, Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"American Arm Wrestlers" (2016)', '', '', '', 'Illinois, USA']	40.0796606	-89.4337288
+['"American Crime Story" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime Story" (2016)', '', '', '', 'Hollywood Riviera Studios, Torrance, California, USA']	33.8358492	-118.3406288
+['"American Crime Story" (2016)', '', '', '', '1006 N Rexford Drive, Beverly Hills, California, USA']	34.08693675	-118.411605
+['"American Crime Story" (2016)', '', '', '', '917 South Bundy Drive, Brentwood, Los Angeles, California, USA']	34.04819263376255	-118.4707208201633
+['"American Crime Story" (2016)', '', '', '', '11978 Mayfield Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime Story" (2016)', '', '', '', '3314 Club Drive, Los Angeles, California, USA']	34.03261072447709	-118.40242116744938
+['"American Crime Story" (2016)', '', '', '', 'Mr. Chow Restuarant, 344 N Camden Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"American Crime Story" (2016)', '', '', '', 'Hollywood Forever Cemetery - 6000 Santa Monica Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Crime Story" (2016)', '', '', '', '16254 Mandalay Drive, Encino, California, USA']	34.14042111513991	-118.48842028189598
+['"American Crime Story" (2016)', '', '', '', 'Long Beach Freeway- Interstate 710, Alhambra, California, USA']	34.093042	-118.12706
+['"American Crime Story" (2016)', '', '', '', '8573 Robert Avenue, Sun Valley, California, USA']	34.2175042	-118.3703576
+['"American Crime Story" (2016)', '', '', '', '718 N Elm Drive, Beverly Hills, California, USA']	34.08280968228635	-118.40195327674317
+['"American Crime Story" (2016)', '', '', '', 'Chin Chin- 11740 San Vicente Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime Story" (2016)', '', '', '', '1999 Avenue of the Stars, Los Angeles, California, USA']	34.05867885	-118.41657039399803
+['"American Crime Story" (2016)', '', '', '', '4804 Topeka Drive, Tarzana, California, USA']	34.1714436	-118.5429789
+['"American Crime Story" (2016)', '', '', '', 'Greystone Manor- 643 La Cienega Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime Story" (2016)', '', '', '', 'Le Petit Bistro - 631 N La Cienega Blvd, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"American Crime Story" (2016)', '', '', '', "Mount St. Mary's College, Doheny Mansion - 10 Chester Pl, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"American Crime Story" (2016)', '', '', '', 'The Prince - 3198 W 7th St, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime Story" (2016)', '', '', '', 'The American Legion, Hollywood Post 43 - 2035 N Highland Ave, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime Story" (2016)', '', '', '', 'Hollywood Roosevelt Hotel - 7000 Hollywood Blvd., Hollywood, Los Angeles, California, USA']	34.100968050000006	-118.34181478202902
+['"American Crime Story" (2016)', '', '', '', 'Omni Los Angeles Hotel at California Plaza - 251 S Olive St, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Crime Story" (2016)', '', '', '', 'San Pedro Municipal Building - 638 S Beacon St, San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime Story" (2016)', '', '', '', 'Clark Residences - 306 Loma Drive - Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Crime Story" (2016)', '', '', '', 'Los Angeles Center Studios - 450 S. Bixel Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime Story" (2016) {From the Ashes of Tragedy (#1.1)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"American Doers" (2016)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Doers" (2016)', '', '', '', '', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"American Doers" (2016)', '', '', '', '', 'Wyoming, USA']	43.1700264	-107.5685348
+['"American Doers" (2016)', '', '', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"American Gothic" (2016)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"American Gothic" (2016)', '', '', '', 'Cinespace Studios, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"American Gothic" (2016)', '', '', '', 'Thorold, Ontario, Canada']	43.1179352	-79.202235
+['"American Gothic" (2016)', '', '', '', 'Rattlesnake Point Conservation Area, Ontario, Canada']	43.4706925	-79.915066346497
+['"American Gothic" (2016) {Arrangement in Grey and Black (#1.1)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Gothic" (2016) {The Gross Clinic (#1.7)}', 'Parkwood Estate, Oshawa, Ontario, Canada']	43.91768	-78.862953
+['"American Grit" (2016)', '', '', '', '', 'Washington State, USA']	39.7837304	-100.4458825
+['"American Housewife" (2016)', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Art Show (#1.4)}', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Housewife" (2016) {Art Show (#1.4)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Back to School (#2.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Bag Lady (#1.16)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Blue Christmas (#2.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Boar-Dain (#2.2)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Boo-Who? (#2.5)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Can\'t Hide It Anymore (#1.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Dude, Where\'s My Napkin? (#1.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Family Secrets (#2.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Gala Auction (#2.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Krampus Katie (#1.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Other People\'s Marriages (#1.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Pilot (#1.1)}', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Housewife" (2016) {Pilot (#1.1)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Power Couple (#1.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Surprise (#1.12)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Blow-Up (#1.6)}', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Housewife" (2016) {The Blow-Up (#1.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Club (#1.21)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Couple (#2.9)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Lice Storm (#2.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Man Date (#1.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Nap (#1.2)}', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Housewife" (2016) {The Nap (#1.2)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Otto Motto (#1.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Pig Whisperer (#2.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Playdate (#1.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Polo Match (#1.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Snowstorm (#1.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Snub (#1.5)}', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Housewife" (2016) {The Snub (#1.5)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Uprising (#2.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {The Walk (#1.20)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Then and Now (#1.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Time for Love (#1.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Westport Cotillion (#1.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Housewife" (2016) {Westport Zombies (#1.3)}', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Housewife" (2016) {Westport Zombies (#1.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Murder Song" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Supergroup" (2016)', '', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"American Tarzan" (2016)', '', '', '', 'Dominica']	19.0974031	-70.3028026
+['"American Tarzan" (2016)', '', '', '', 'Dominica']	19.0974031	-70.3028026
+['"American Travelers" (2016)', '', '', '', 'Isla Mujeres, Quintana Roo, Mexico']	21.2371906	-86.7350001
+['"American Travelers" (2016)', '', '', '', 'Hawaii, USA']	21.2160437	-157.975203
+['"American Travelers" (2016)', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"American Travelers" (2016) {American Travelers Caribbean Adventure (#1.1)}', 'Nevis Island']	17.1508813	-62.5852896007
+['"American Travelers" (2016) {American Travelers Caribbean Adventure (#1.1)}', 'Samana, Dominican Republic']	19.2648113	-69.4930017
+['"American Travelers" (2016) {American Travelers Caribbean Adventure (#1.1)}', 'Grand Cayman, Cayman Islands']	19.3298691	-81.17122907994889
+['"Among the Dead" (2016)', '', '', '', '', 'Largo, Florida, USA']	27.9094665	-82.7873244
+['"Amor Maior" (2016)', '', '', '', '', 'Esta��o de Santa Apol�nia, Lisbon, Portugal']	40.0332629	-7.8896263
+['"Amor Maior" (2016)', '', '', '', '', 'Alfama, Lisbon, Portugal']	38.7122871	-9.1298579
+['"Amores Perros" (2016)', '', '', '', '', 'Santiago de Chile, Regi�n Metropolitana de Santiago, Chile']	-31.7613365	-71.3187697
+['"Amy Street" (2016)', '', '', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"Anabel\'s First Date: Web Series" (2016)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Analog in Vienna" (2016)', '', '', '', 'Vienna, Austria']	48.2083537	16.3725042
+['"Ancient Assassins" (2016)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Anders Dark" (2016)', '', '', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"Andrew Zimmern\'s Driven by Food" (2016) {Berlin (#1.7)}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Andrew Zimmern\'s Driven by Food" (2016) {Hyderbad (#1.0)}', 'Hyderabad, Telangana, India']	17.38878595	78.46106473453146
+['"Andrew Zimmern\'s Driven by Food" (2016) {Rio de Janiero (#1.1)}', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Andrew\'s Games" (2016)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Andy\'s Prehistoric Adventures" (2016)', '', '', 'The London Natural History Museum, Cromwell Rd, London, England, UK']	51.5073219	-0.1276474
+['"Andy\'s Prehistoric Adventures" (2016)', '', '', 'The Bottleyard, Whitchurch Lane, Bristol, England, UK']	54.7023545	-3.2765753
+['"Anecdote" (2016)', '', '', '', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"Angelino Heights" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angels from Hell" (2016)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Angie Tribeca" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie Tribeca" (2016) {Boyz II Dead (#2.7)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Angie Tribeca" (2016) {Inside Man (#1.9)}', '', 'Robin Hood Pub, Sherman Oaks, California, USA']	39.7837304	-100.4458825
+['"Animal ER" (2016)', '', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"Animal Kingdom" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Animal Kingdom" (2016)', '', '', '', '', 'Oceanside, California, USA']	33.1958696	-117.3794834
+['"Animal Kingdom" (2016)', '', '', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Animal Kingdom" (2016) {Bleed for It (#2.3)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Animal Kingdom" (2016) {Cry Havoc (#2.6)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Animal Kingdom" (2016) {Forgive Us Our Trespasses (#2.5)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Animal Kingdom" (2016) {Pilot (#1.1)}', '', '', 'Oceanside, California, USA']	33.1958696	-117.3794834
+['"Animal Kingdom" (2016) {Treasure (#2.10)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Animal Work" (2016)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Animalia" (2016)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Animaniac" (2016)', '', '', '', '', 'Greece']	38.9953683	21.9877132
+['"Anne" (2016)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Anomalia" (2016)', '', '', '', '', 'Fribourg, Canton Fribourg, Switzerland']	46.8030044	7.1512891
+['"Anter Pult e Cassabanch" (2016)', '', '', 'Val Di Fassa, Dolomiti, Italy']	42.6384261	12.674297
+['"Apartment 34" (2016)', '', '', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"Aqui T�o Longe" (2016)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Aqui T�o Longe" (2016)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Arch Agency" (2016)', '', '', '', '', '3436 California St. Long Beach, California, USA']	33.6639775	-117.9939367
+['"Arch Agency" (2016)', '', '', '', '', '12085 Centralia Unit I. Hawaiian Gardens, California, USA']	39.7837304	-100.4458825
+['"Archaeology and Jesus" (2016)', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Armageddon Rising" (2016)', '', '', '', 'NYC, New York, USA']	40.7127281	-74.0060152
+['"Armageddon Rising" (2016)', '', '', '', 'New Jersey, USA']	40.0757384	-74.4041622
+['"Arman pohjant�hden alla" (2016) {Alkoholikulttuuri (#2.8)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Arman pohjant�hden alla" (2016) {Asunnottomuus (#1.2)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Arman pohjant�hden alla" (2016) {Cannonball (#1.3)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Arman pohjant�hden alla" (2016) {Cannonball (#1.3)}', 'Tallinn, Estonia']	59.4372155	24.7453688
+['"Arman pohjant�hden alla" (2016) {Kauneusihanteet (#2.7)}', 'Helsinki, Finland']	63.2467777	25.9209164
+['"Arman pohjant�hden alla" (2016) {Mets�stys (#2.6)}', 'Loppi, Finland']	60.7185304	24.4404268
+['"Arman pohjant�hden alla" (2016) {Mets�stys (#2.6)}', 'Espoo, Finland']	60.2241869	24.6603626
+['"Arman pohjant�hden alla" (2016) {Mielenterveys (#2.4)}', 'Tampere, Finland']	61.4980214	23.7603118
+['"Arman pohjant�hden alla" (2016) {Mielenterveys (#2.4)}', 'Helsinki, Finland']	63.2467777	25.9209164
+['"Arman pohjant�hden alla" (2016) {Oikeus & kohtuus (#1.5)}', 'Riihim�ki, Finland']	63.2467777	25.9209164
+['"Arman pohjant�hden alla" (2016) {Poliisivoimat (#2.3)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Arman pohjant�hden alla" (2016) {Poliisivoimat (#2.3)}', 'Tampere, Finland']	61.4980214	23.7603118
+['"Arman pohjant�hden alla" (2016) {Puolustusvoimat (#1.8)}', 'Santahamina, Helsinki, Finland']	60.1524761	25.049372
+['"Arman pohjant�hden alla" (2016) {Puolustusvoimat (#1.8)}', 'Sodankyl�, Finland']	63.2467777	25.9209164
+['"Arman pohjant�hden alla" (2016) {P�ihderiippuvuus (#1.4)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Arman pohjant�hden alla" (2016) {Rikos & rangaistus (#1.1)}', 'Riihim�ki, Finland']	63.2467777	25.9209164
+['"Arman pohjant�hden alla" (2016) {Somenuoret (#2.9)}', 'Hartwall Areena, Helsinki, Finland']	60.2057142	24.929185079427473
+['"Arman pohjant�hden alla" (2016) {Somenuoret (#2.9)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Arman pohjant�hden alla" (2016) {Sotaveteraanit (#2.10)}', 'Lahti, Finland']	60.9838761	25.6561814
+['"Arman pohjant�hden alla" (2016) {Sotaveteraanit (#2.10)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Arman pohjant�hden alla" (2016) {Suomen romanit (#2.1)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Arman pohjant�hden alla" (2016) {Suomen romanit (#2.1)}', 'Keuruu, Finland']	62.2579819	24.7083599
+['"Arman pohjant�hden alla" (2016) {Suomen romanit (#2.1)}', 'Vermon ravirata, Espoo, Finland']	60.2158936	24.841062916720844
+['"Arman pohjant�hden alla" (2016) {Suviseurat (#2.5)}', 'Tornio, Finland']	65.8457589	24.1464
+['"Arman pohjant�hden alla" (2016) {Turvapaikanhakijat (#1.6)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Around the Chakra" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrelats" (2016) {(#1.2)}', '', '', '', 'Teatre Poliorama, Barcelona, Catalonia, Spain']	41.3840778	2.1707374
+['"Art Less" (2016) {Clueless (#1.2)}', '', '', 'New Milford, Connecticut, USA']	41.5867418	-73.41176538312553
+['"Art Less" (2016) {Clueless (#1.2)}', '', '', 'Sherman, Connecticut, USA']	41.5792607	-73.4956795
+['"Art Less" (2016) {Hot Wings (#1.3)}', '', '', 'New Milford, Connecticut, USA']	41.5867418	-73.41176538312553
+['"Art Less" (2016) {Hot Wings (#1.3)}', '', '', 'Sherman, Connecticut, USA']	41.5792607	-73.4956795
+['"Art Less" (2016) {Pilot (#1.1)}', '', '', 'New Milford, Connecticut, USA']	41.5867418	-73.41176538312553
+['"Art Less" (2016) {Pilot (#1.1)}', '', '', 'Sherman, Connecticut, USA']	41.5792607	-73.4956795
+['"Art Less" (2016) {Showtime (#1.5)}', '', '', 'New Milford, Connecticut, USA']	41.5867418	-73.41176538312553
+['"Art Less" (2016) {Showtime (#1.5)}', '', '', 'Sherman, Connecticut, USA']	41.5792607	-73.4956795
+['"Art Less" (2016) {XOXO (#1.4)}', '', '', '', 'New Milford, Connecticut, USA']	41.5867418	-73.41176538312553
+['"Art Less" (2016) {XOXO (#1.4)}', '', '', '', 'Sherman, Connecticut, USA']	41.5792607	-73.4956795
+['"Artbeat of the City" (2016)', '', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"Article 17" (2016)', '', '', '', '', 'Cincinnati, Ohio, USA']	39.1014537	-84.5124602
+['"Article 17" (2016)', '', '', '', '', 'Dayton, Ohio, USA']	39.7589478	-84.1916069
+['"Article 17" (2016)', '', '', '', '', 'Piqua, Ohio, USA']	40.1447732	-84.2424449
+['"Article 17" (2016)', '', '', '', '', 'Columbus, Ohio, USA']	39.9622601	-83.0007065
+['"Article 17" (2016)', '', '', '', '', 'Washington Court House, Ohio, USA']	39.5364511	-83.4390843
+['"Article 17" (2016) {Pilot: Black Site (#1.1)}', '', 'Washington Court House, Ohio, USA']	39.5364511	-83.4390843
+['"Article 17" (2016) {Pilot: Black Site (#1.1)}', '', '3021 Madison Rd, Cincinnati, Ohio, USA']	39.1014537	-84.5124602
+['"Article 17" (2016) {Pilot: Black Site (#1.1)}', '', 'Triangle Park, Dayton, Ohio, USA']	39.78371	-84.20050939306773
+['"Article 17" (2016) {Pilot: Black Site (#1.1)}', '', 'Piqua, Ohio, USA']	40.1447732	-84.2424449
+['"Article 17" (2016) {Pilot: Black Site (#1.1)}', '', '1 capitol square, Columbus, Ohio, USA']	39.7837304	-100.4458825
+['"Article 17" (2016) {Pilot: Black Site (#1.1)}', '', 'North College Hill, Ohio, USA']	39.2183911	-84.5507778
+['"Article 17" (2016) {Pilot: Black Site (#1.1)}', '', 'Ansonia, Ohio, USA']	40.214492	-84.6369011
+['"Article 17" (2016) {Pilot: Black Site (#1.1)}', '', 'Detroit Riverwalk, Detroit, Michigan, USA']	42.3416375	-83.0085618
+['"Artificial Breathing" (2016)', '', '', '', 'Tbilisi, Georgia']	32.3293809	-83.1137366
+['"Artificial Breathing" (2016)', '', '', '', 'Kutaisi, Georgia']	42.25899995	42.66726933814395
+['"Artists of the Industry" (2016)', '', '', 'Oakville, Ontario, Canada']	43.447436	-79.666672
+['"Artists on Deck" (2016)', '', '', '', 'The Upper Deck, Halifax, Nova Scotia, Canada']	44.648618	-63.5859487
+['"Arts Vu" (2016)', '', '', '', '', 'Pittsburg, Texas, USA']	32.9954021	-94.9657688
+['"As We Are" (2016)', '', '', '', '', 'Brighton, East Sussex, England, UK']	50.78357855	0.12148666117747367
+['"Asdmcray" (2016)', '', '', '', '', 'Canton, Ohio, USA']	40.7989522	-81.3784445
+['"Asian Entertainment Tonight" (2016)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask 1iota" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Laftan Anlamaz" (2016)', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Ask Schahrzad" (2016)', '', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Ask Schahrzad" (2016) {Eric Edwards (#1.3)}', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Ask Ve Mavi" (2016)', '', '', '', '', 'Urgup, Nevsehir, Turkey']	38.5928197	34.95890200750077
+['"Aspirin" (2016)', '', '', '', '', 'Iran']	32.6475314	54.5643516
+['"Asteras Rahoulas" (2016)', '', '', '', 'Levidi, Arcadia, Greece']	37.6837506	22.2947384
+['"Asteras Rahoulas" (2016)', '', '', '', 'Athens, Greece']	37.9841493	23.7279843
+['"Asteras Rahoulas" (2016)', '', '', '', 'Archontiko Kaltezioti Hotel, Kapsas, Arcadia, Greece']	37.6146096	22.344456
+['"At Bay" (2016)', '', '', '', '', '', 'Stanford University, Palo Alto, California, USA']	37.431313849999995	-122.16936535498309
+['"At the Channel" (2016)', '', '', '', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Atlanta" (2016)', '', '', '', '', 'Atlanta, Georgia']	33.7490987	-84.3901849
+['"Atlanta" (2016) {Go for Broke (#1.3)}', '', '', 'Zesto Drive In- East Confederate Ave., Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Atletico Textila" (2016)', '', '', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016)', '', '', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Atletico (#1.12)}', '', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Atletico (#1.12)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Bancul cu orbul (#2.5)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Bancul cu orbul (#2.5)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Banii, viata si mustata (#3.3)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Banii, viata si mustata (#3.3)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Ce sa faci? N-ai ce sa faci! (#2.1)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Ce sa faci? N-ai ce sa faci! (#2.1)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Comandante Pierde Vara (#1.7)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Comandante Pierde Vara (#1.7)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Corpul uman e ca un templu (#1.5)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Corpul uman e ca un templu (#1.5)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Daciada (#2.8)}', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Daciada (#2.8)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Datoria istorica (#3.4)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Datoria istorica (#3.4)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Deplasarea (#2.11)}', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Deplasarea (#2.11)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Dezlegare la peste (#1.6)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Dezlegare la peste (#1.6)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Fanul (#2.7)}', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Fanul (#2.7)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {La vie en rose (#1.3)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {La vie en rose (#1.3)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Marea Petrecere Nationala (#2.10)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Marea Petrecere Nationala (#2.10)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Metoda tibetana (#2.12)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Metoda tibetana (#2.12)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Orzul stricat pe gaste (#2.6)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Orzul stricat pe gaste (#2.6)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Papanasii (#3.1)}', '', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Papanasii (#3.1)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Parafina naturala (#1.9)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Parafina naturala (#1.9)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Pepenele (#2.3)}', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Pepenele (#2.3)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Piscina cea de taina (#2.2)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Piscina cea de taina (#2.2)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Seceta (#1.2)}', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Seceta (#1.2)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Sfantul Maradona (#3.2)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Sfantul Maradona (#3.2)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Tactica simularilor (#2.4)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Tactica simularilor (#2.4)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Tati (#1.10)}', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Tati (#1.10)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {The Secret Weapon (#1.1)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {The Secret Weapon (#1.1)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Traiasca nasul! (#1.11)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Traiasca nasul! (#1.11)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Tusiera (#2.9)}', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Tusiera (#2.9)}', '', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Urzeala scaunului (#1.4)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Urzeala scaunului (#1.4)}', 'Romania']	45.9852129	24.6859225
+['"Atletico Textila" (2016) {Zodia norocoasa (#1.8)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Atletico Textila" (2016) {Zodia norocoasa (#1.8)}', 'Romania']	45.9852129	24.6859225
+['"Attacked by ISIS on the Road to Mosul" (2016)', '', 'Iraq']	33.0955793	44.1749775
+['"Attention Deficit Theater" (2016)', '', '', 'Redondo Beach Elks Lodge #1378 - 315 Esplanade, Redondo Beach, California, USA']	33.8455911	-118.3886766
+['"Au-del� des Murs" (2016)', '', '', '', 'AED Studios, Lint, Flanders, Belgium']	51.13560855	4.477644126115031
+['"Audience Music" (2016) {Darius Rucker}', '', '', 'Apollo Theater, Harlem, Manhattan, New York City, New York, USA']	40.810089500000004	-73.94999116732953
+['"Aussie Gold Hunters" (2016)', '', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.1)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.10)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.2)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.3)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.4)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.5)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.6)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.7)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.8)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {(#2.9)}', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {3 Men and Gold (#1.1)}', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {All or Nothing and Gold Rich Patch (#1.5)}', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {Big Storm and Big Finds (#1.4)}', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {Breakdowns and Complications (#1.7)}', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {Digging Deep, Risking Life and Limb (#1.8)}', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {Mech Disasters and a High-Stakes Gamble (#1.2)}', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {Targets and Unwanted Guests (#1.6)}', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Gold Hunters" (2016) {Uprooting and Salt-Lake Gold (#1.3)}', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Aussie Periscope Girl" (2016)', '', '', '', 'Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Aussie Periscope Girl" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aussie Periscope Girl" (2016) {An Eumundi Easter (#1.2)}', 'Eumundi, Queensland, Australia']	-26.4811006	152.9534001
+['"Aussie Periscope Girl" (2016) {Currumbin Crocodile Smiles (#1.4)}', 'Currumbin Wildlife Sanctuary, Gold Coast. Australia']	-28.13739295	153.48522928586823
+['"Aussie Periscope Girl" (2016) {Meet the Beagles (#1.1)}', 'Varsity Lakes, Queensland, Australia']	-28.0792975	153.4143928
+['"Aussie Periscope Girl" (2016) {Outback Sunflower Adventures (#1.6)}', 'Warwick, Queensland, Australia']	-28.2163204	152.0327039
+['"Australia: Beyond 2020" (2016)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Australia: Beyond 2020" (2016)', '', '', '', 'Newcastle, NSW, Australia']	-32.9272881	151.7812534
+['"Australia: Beyond 2020" (2016)', '', '', '', 'Brisbane, Australia']	-27.4689682	153.0234991
+['"Australia: Beyond 2020" (2016)', '', '', '', 'Melbourne, Australia']	-24.7761086	134.755
+['"Australia: Beyond 2020" (2016)', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Australia: Beyond 2020" (2016)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Australia: Beyond 2020" (2016)', '', '', '', 'Bristol, UK']	54.7023545	-3.2765753
+['"Australia: Beyond 2020" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Australia: Beyond 2020" (2016)', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Australia: Beyond 2020" (2016)', '', '', '', 'Virginia, USA']	37.1232245	-78.4927721
+['"Australian Survivor" (2016)', '', '', '', 'Samoa']	-13.7693895	-172.1200508
+['"Auwch_" (2016)', '', '', '', '', '', 'Antwerpen, Belgium']	51.2211097	4.3997081
+['"Auwch_" (2016)', '', '', '', '', '', 'Gent, Oost-Vlaanderen, Belgium']	51.0538286	3.7250121
+['"Away From it All" (2016)', '', '', '', 'Exmouth, Devon, England, UK']	50.6190962	-3.4146801
+['"Away From it All" (2016)', '', '', '', 'Lympstone, Devon, England, UK']	50.6475079	-3.4277242
+['"Away From it All" (2016)', '', '', '', 'Woodbury Common, Devon, England, UK']	50.75	-3.75
+['"Away From it All" (2016)', '', '', '', 'The Railway Club, Exmouth, Devon, England, UK']	50.75	-3.75
+['"Awesome Possum Pony Club" (2016)', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Azalea" (2016)', '', '', '', '', '', 'Hengdian World Studios, Heng Dian, China']	35.000074	104.999927
+['"B-city" (2016)', '', '', '', '', '', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"BBC Newsroom Live" (2016) {(2017-05-25)}', '', "St. Ann's Square, Manchester, Greater Manchester, England, UK"]	53.50652485	-2.3374401422576687
+['"BETA" (2016)', '', '', '', '', '', 'Bilbao, Bilbao, Vizcaya, Pa�s Vasco, Spain']	39.3262345	-4.8380649
+['"BLANCH\'D" (2016)', '', '', '', '', 'Birmingham, Alabama, USA']	33.5206824	-86.8024326
+['"BMI-Turn�" (2016)', '', '', '', '', 'Bergen, Hordaland, Norway']	60.4660419	6.125592
+['"BMI-Turn�" (2016)', '', '', '', '', 'Oslo, Norway']	59.9133301	10.7389701
+['"Baby Makes 3" (2016)', '', '', '', '', 'North Carolina, USA']	35.6729639	-79.0392919
+['"Back Bumper Confessions on Torio TV" (2016)', '', 'Austin Texas, USA']	30.2711286	-97.7436995
+['"Back on the Market" (2016)', '', '', '', 'Downtown, Los Angeles, California, USA']	34.4987133	-118.5843067
+['"Backseat Drivers" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Backstage" (2016)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Bad Bad Girl" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bade Bhaiyya Ki Dulhania" (2016)', '', '', 'Mumbai, India']	18.9387711	72.8353355
+['"Bade Bhaiyya Ki Dulhania" (2016)', '', '', 'Uttarakhand, India']	30.091993549999998	79.32176659343018
+['"Bag Men" (2016)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Bajillion Dollar Propertie$" (2016)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bake Off Creme De La Creme" (2016) {(#1.1)}', '', 'Welbeck Abbey, Worksop, Nottinghamshire, England, UK']	53.262166199999996	-1.1558317079898335
+['"Bake Off Creme De La Creme" (2016) {(#1.2)}', '', 'Welbeck Abbey, Worksop, Nottinghamshire, England, UK']	53.262166199999996	-1.1558317079898335
+['"Bake Off Creme De La Creme" (2016) {(#1.3)}', '', 'Welbeck Abbey, Worksop, Nottinghamshire, England, UK']	53.262166199999996	-1.1558317079898335
+['"Bake Off Creme De La Creme" (2016) {(#1.4)}', '', 'Welbeck Abbey, Worksop, Nottinghamshire, England, UK']	53.262166199999996	-1.1558317079898335
+['"Bake Off Creme De La Creme" (2016) {(#1.5)}', '', 'Welbeck Abbey, Worksop, Nottinghamshire, England, UK']	53.262166199999996	-1.1558317079898335
+['"Bake Off Creme De La Creme" (2016) {(#1.6)}', '', 'Welbeck Abbey, Worksop, Nottinghamshire, England, UK']	53.262166199999996	-1.1558317079898335
+['"Bake Off Creme De La Creme" (2016) {(#1.7)}', '', 'Welbeck Abbey, Worksop, Nottinghamshire, England, UK']	53.262166199999996	-1.1558317079898335
+['"Bake Off Creme De La Creme" (2016) {(#1.8)}', '', 'Welbeck Abbey, Worksop, Nottinghamshire, England, UK']	53.262166199999996	-1.1558317079898335
+['"Balikoowa in the City" (2016)', '', '', '', 'Uganda']	1.5333554	32.2166578
+['"Bana Sevmeyi Anlat" (2016)', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Barbarians Rising" (2016)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Barbarians Rising" (2016)', '', '', '', 'Bulgaria']	42.6073975	25.4856617
+['"Barbarians Rising" (2016) {Rebellion (#1.2)}', '', 'UK']	54.7023545	-3.2765753
+['"Barbarians Rising" (2016) {Rebellion (#1.2)}', '', 'Bulgaria']	42.6073975	25.4856617
+['"Barbarians Rising" (2016) {Resistance (#1.1)}', '', 'UK']	54.7023545	-3.2765753
+['"Barbarians Rising" (2016) {Resistance (#1.1)}', '', 'Bulgaria']	42.6073975	25.4856617
+['"Barbarians Rising" (2016) {Revenge (#1.3)}', '', 'UK']	54.7023545	-3.2765753
+['"Barbarians Rising" (2016) {Revenge (#1.3)}', '', 'Bulgaria']	42.6073975	25.4856617
+['"Barbarians Rising" (2016) {Ruin (#1.4)}', '', 'UK']	54.7023545	-3.2765753
+['"Barbarians Rising" (2016) {Ruin (#1.4)}', '', 'Bulgaria']	42.6073975	25.4856617
+['"Baron noir" (2016) {Jupiter (#1.1)}', '', '', 'MK2 Biblioth�que, Paris, France']	46.603354	1.8883335
+['"Barracuda" (2016)', '', '', '', '', 'Xavier College, 135 Barkers Rd, Kew, Victoria, Australia']	-37.8033586	145.0333285
+['"Barracuda" (2016)', '', '', '', '', 'Ormond College, 49 College Cres, Parkville, Victoria, Australia']	-37.79306205	144.96053702941322
+['"Barracuda" (2016)', '', '', '', '', 'Queens Park Swimming Pool, The Strand, Moonee Ponds, Victoria, Australia']	-37.76187229999999	144.92522090536752
+['"Barracuda" (2016)', '', '', '', '', 'Green Point, Victoria, Australia']	-37.925202549999995	144.9867478184364
+['"Barracuda" (2016) {(#1.1)}', '', '', '', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"Barracuda" (2016) {(#1.1)}', '', '', '', 'Ormond College, Melbourne, Australia']	-37.79306205	144.96053702941322
+['"Barracuda" (2016) {(#1.2)}', '', '', '', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"Barracuda" (2016) {(#1.3)}', '', '', '', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"Barracuda" (2016) {(#1.4)}', '', '', '', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"Barracuda" (2016) {(#1.4)}', '', '', '', 'Green Point Beach, Brighton, Victoria, Australia']	-37.9081962	144.9957991
+['"Barshens" (2016)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Barshens" (2016) {Celebrity Lovechild Quiz (#1.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Barshens" (2016) {Poor Mans Cosplay - Stormtrooper (#1.3)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Barshens" (2016) {Sharticles - East vs. West (#1.2)}', 'North Walsham, Norfolk, England, UK']	52.666667	1.0
+['"Barshens" (2016) {Sharticles - East vs. West (#1.2)}', 'Norwich, Norfolk, England, UK']	52.628606	1.29227
+['"Barshens" (2016) {Sharticles - East vs. West (#1.2)}', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"Barshens" (2016) {Sharticles - East vs. West (#1.2)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Barshens" (2016) {Welcome to Barshens (#1.0)}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Baskets" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baskets" (2016)', '', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Baskets" (2016)', '', '', '', '', '12170 Brookmont Ave, Los Angeles, California, USA']	34.29164131951683	-118.46277316744435
+['"Baskets" (2016) {A night at the Opera (#3.4)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Baskets" (2016) {Family Portrait (#1.10)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Baskets" (2016) {Marthager (#2.6)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Baskets" (2016) {Picnic (#1.9)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baskets" (2016) {Uncle Dad (#1.5)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Batteries Not Included" (2016)', '', '', '', 'Tribeca, Manhattan, New York City, New York, USA']	40.7153802	-74.0093063
+['"Batteries Not Included" (2016) {"Autobots Transform and Roll Out" with Bob Budiansky (#5.1)}', 'Fanwood, New Jersey, USA']	40.6409041	-74.3836416
+['"BattleFrog League Championship" (2016) {Championship Round (#1.3)}', 'Georgia']	32.3293809	-83.1137366
+['"BattleFrog League Championship" (2016) {Knockout Round (#1.2)}', 'Georgia']	32.3293809	-83.1137366
+['"BattleFrog League Championship" (2016) {Opening Round (#1.1)}', 'Georgia']	32.3293809	-83.1137366
+['"Battlecats" (2016)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Battlecats" (2016)', '', '', '', '', 'Basingstoke, Hampshire, England, UK']	51.262826	-1.0861976
+['"Bea y Mara" (2016)', '', '', '', '', 'Malasa�a, Madrid, Spain']	39.3262345	-4.8380649
+['"Bear Grylls: Survival School" (2016)', '', '', 'Snowdonia National Park, Snowdonia, Gwynedd, Wales, UK']	52.90787985	-3.8334236906153603
+['"Bear Grylls: Survival School" (2016)', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Bearded Men Presents D&D: The Improvised Campaign" (2016)', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Beards: A Coming Out Story" (2016)', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beautiful City" (2016) {All}', '', '', '', 'Turkey']	38.9597594	34.9249653
+['"Beauty of Living" (2016)', '', '', '', 'China']	35.000074	104.999927
+['"Beauty or the Bank" (2016)', '', '', '', 'Pensacola, Florida, USA']	30.421309	-87.2169149
+['"Because I Told You So" (2016)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bedrag" (2016)', '', '', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.1)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.10)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.2)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.3)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.4)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.5)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.6)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.7)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.8)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#1.9)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.1)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.10)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.2)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.3)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.4)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.5)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.6)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.7)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.8)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Bedrag" (2016) {(#2.9)}', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Beeldschoon Achterhoek" (2016)', '', '', '', 'Gelderland, Netherlands']	52.1014041	5.9515701
+['"Behind the Blinds Aka Filmmaking 101" (2016)', '', 'Southern California, California, USA']	34.0218833	-118.28586726915088
+['"Behind the Board" (2016)', '', '', '', 'Gatineau, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Behind the Board" (2016)', '', '', '', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Behind the Movie: Exploring Chicago with the Cast of Barbershop - The Next Cut" (2016)', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Behind the Ring Confessions on Torio TV" (2016)', 'Austin Texas, USA']	30.2711286	-97.7436995
+['"Being Heard" (2016)', '', '', '', '', 'Pilot Point, Texas, USA']	33.396503	-96.9605608
+['"Belfast\'s Forgotten Hero: HMS Caroline" (2016)', '', 'Northern Ireland, UK']	54.6294982	-6.7654416
+['"Belfer" (2016)', '', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Belfer" (2016)', '', '', '', '', '', 'Kwidzyn, Pomorskie, Poland']	53.7335842	18.9319222
+['"Belfer" (2016)', '', '', '', '', '', 'Chelmno, Kujawsko-Pomorskie, Poland']	53.3493915	18.4235473
+['"Belfer" (2016)', '', '', '', '', '', 'Kampinoski Park Narodowy, Mazowieckie, Poland']	52.33540965	20.593401497558798
+['"Bembers Rock and Roll Garage" (2016)', '', '', 'Yankee Motors, Nuremberg, Bavaria, Germany']	49.453872	11.077298
+['"Ben & Betsy" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ben & Betsy" (2016) {Betsy Has News (#1.6)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ben & Lauren: Happily Ever After?" (2016) {A House Divided (#1.4)}', 'LA Castle Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Ben & Lauren: Happily Ever After?" (2016) {An Offer We Can\'t Refuse? (#1.2)}', 'LA Castle Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Ben & Lauren: Happily Ever After?" (2016) {Chad to the Bone (#1.3)}', 'LA Castle Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Ben & Lauren: Happily Ever After?" (2016) {Moving On (#1.1)}', 'LA Castle Studios in Burbank California, USA']	39.7837304	-100.4458825
+['"Ben & Lauren: Happily Ever After?" (2016) {Relationship Retreat (#1.5)}', 'LA Castle Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Ben & Lauren: Happily Ever After?" (2016) {What Happens in Vegas (#1.8)}', 'LA Castle Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Ben & Lauren: Happily Ever After?" (2016) {What a Difference a Year Makes (#1.7)}', 'LA Castle Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Bendzin" (2016)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Bengleton Socks" (2016)', '', '', '', 'North Charleston, South Carolina, USA']	32.9131295	-80.0629981965219
+['"Bengleton Socks" (2016)', '', '', '', 'Massillon, Ohio, USA']	40.7967244	-81.5215093
+['"Bengleton Socks" (2016)', '', '', '', 'Gatlinburg, Tennessee, USA']	35.714259	-83.5101638
+['"Bengleton Socks" (2016) {Family Tradition (#1.2)}', 'North Lawrence, Ohio, USA']	40.8418573	-81.6291103
+['"Bennie\'s" (2016)', '', '', '', '', 'Columbia, Maryland, USA']	39.2156213	-76.8582049
+['"Beowulf: Return to the Shieldlands" (2016)', '', 'Weardale, County Durham, England, UK']	54.666667	-1.75
+['"Beowulf: Return to the Shieldlands" (2016) {(#1.3)}', 'County Durham, England, UK']	54.666667	-1.75
+['"Berlin Station" (2016)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin Station" (2016)', '', '', '', '', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016)', '', '', '', '', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016)', '', '', '', '', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016)', '', '', '', '', 'Charlottenburg, Berlin, Germany']	52.515747	13.3096834
+['"Berlin Station" (2016) {By Way of Deception (#1.4)}', 'Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {By Way of Deception (#1.4)}', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {By Way of Deception (#1.4)}', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016) {By Way of Deception (#1.4)}', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {False Negative (#1.8)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin Station" (2016) {False Negative (#1.8)}', '', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {False Negative (#1.8)}', '', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016) {False Negative (#1.8)}', '', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {Just Decisions (#1.6)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin Station" (2016) {Just Decisions (#1.6)}', '', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Just Decisions (#1.6)}', '', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016) {Just Decisions (#1.6)}', '', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {Lights Don\'t Run on Loyalty (#1.2)}', 'Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Lights Don\'t Run on Loyalty (#1.2)}', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Lights Don\'t Run on Loyalty (#1.2)}', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016) {Lights Don\'t Run on Loyalty (#1.2)}', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {Oratorio Berlin (#1.10)}', 'Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Oratorio Berlin (#1.10)}', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Oratorio Berlin (#1.10)}', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016) {Oratorio Berlin (#1.10)}', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {Proof of Life (#1.7)}', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Proof of Life (#1.7)}', '', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Proof of Life (#1.7)}', '', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	28.1373026	-15.4305696
+['"Berlin Station" (2016) {Proof of Life (#1.7)}', '', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {Right Here, Right Now (#2.2)}', 'Ronda, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {Riverrun Dry (#1.3)}', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Riverrun Dry (#1.3)}', '', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Riverrun Dry (#1.3)}', '', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	28.1373026	-15.4305696
+['"Berlin Station" (2016) {Riverrun Dry (#1.3)}', '', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {Station to Station (#1.1)}', 'Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Station to Station (#1.1)}', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Station to Station (#1.1)}', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016) {Station to Station (#1.1)}', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {The Right Hook (#2.6)}', '', 'Flesland Airport, Bergen, Hordaland, Norway']	60.5000209	9.0999715
+['"Berlin Station" (2016) {The Right Hook (#2.6)}', '', 'Bryggen, Bergen, Norway']	60.3974347	5.3235356
+['"Berlin Station" (2016) {The Right Hook (#2.6)}', '', 'Bergen, Hordaland, Norway']	60.5000209	9.0999715
+['"Berlin Station" (2016) {Thomas Shaw (#1.9)}', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Thomas Shaw (#1.9)}', '', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Thomas Shaw (#1.9)}', '', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016) {Thomas Shaw (#1.9)}', '', 'Spain']	39.3262345	-4.8380649
+['"Berlin Station" (2016) {Thomas Shaw (#1.9)}', '', 'Former US listening Station, Teufelsberg, Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Unter Druck (#1.5)}', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Unter Druck (#1.5)}', '', 'Germany']	51.0834196	10.4234469
+['"Berlin Station" (2016) {Unter Druck (#1.5)}', '', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Berlin Station" (2016) {Unter Druck (#1.5)}', '', 'Spain']	39.3262345	-4.8380649
+['"Best Thing You\'ll Ever Do" (2016)', '', '', 'San Francisco Bay Area, California, USA']	37.7884969	-122.3558473
+['"Best Thing You\'ll Ever Do" (2016)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Betrayal Drama" (2016)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Betrayed" (2016) {(#2.8)}', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Betrayed" (2016) {Bent (#2.6)}', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Better Things" (2016)', '', '', '', '', 'Canoga Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Better Things" (2016)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Better Things" (2016) {Arnold Hall (#2.8)}', '', 'Boundary Bay Airport, Delta, British Columbia, Canada']	49.07362195	-123.00442235916404
+['"Better Things" (2016) {Arnold Hall (#2.8)}', '', 'White Rock Pier, Marine Dr, White Rock, British Columbia, Canada']	61.0666922	-107.9917071
+['"Better Things" (2016) {Arnold Hall (#2.8)}', '', 'Surrey, British Columbia, Canada']	49.1913033	-122.8491439
+['"Better Things" (2016) {Future Fever (#1.5)}', '', '21900 Vanowen St, Canoga Park, CA 91304']	34.193667	-118.604666
+['"Better Things" (2016) {Period (#1.2)}', '', '', 'Lankershim Boulevard, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Between Lives: Love Is Blind" (2016)', '', '', 'Bronx, New York, USA']	40.8466508	-73.8785937
+['"Between Lives: Love Is Blind" (2016)', '', '', 'Ocean, New Jersey, USA']	39.977818	-74.3319287
+['"Between the Fighter in Syria" (2016)', '', '', 'Syria']	34.6401861	39.0494106
+['"Beyhadh" (2016)', '', '', '', '', 'Mauritius']	-20.2759451	57.5703566
+['"Beyhadh" (2016)', '', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Beyond the Frame" (2016/I)', '', '', '', 'Colton, California, USA']	34.0739016	-117.3136547
+['"Beyond the Frame" (2016/I)', '', '', '', 'Riverside, California, USA']	33.7219991	-116.0372472
+['"Beyond the Frame" (2016/I)', '', '', '', 'San Bernardino, California, USA']	34.8253019	-116.0833144
+['"Beyond the Frame" (2016/I)', '', '', '', 'Grand Terrace, California, USA']	34.0339031	-117.3136544
+['"Beyond" (2016)', '', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beyond" (2016)', '', '', '', '', '', 'Mission, British Columbia, Canada']	49.1589351	-122.2835833
+['"Beyond" (2016) {Celeste (#1.6)}', '', '', 'Maple Ridge, British Columbia, Canada']	49.2197385	-122.5998426
+['"Beyond" (2016) {Celeste (#1.6)}', '', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beyond" (2016) {Fancy Meeting You Here (#1.5)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beyond" (2016) {I Scream, You Scream (#2.8)}', '', 'Riverview, Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"Big Brother After Show" (2016)', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Bronte D\'Acquisto (#1.3)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Corey Brooks (#1.9)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Da\'Vonne Rogers (#1.5)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Frank Eudy (#1.4)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Jozea Flores (#1.1)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Michelle Meyer (#1.8)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Paulie Calafiore (#1.7)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Victor Arroyo (#1.2)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Brother After Show" (2016) {Big Brother After Show: Zakiyah Everette and Bridgette Dunning (#1.6)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Big Easy Motors" (2016)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Big Fish Texas" (2016)', '', '', '', '', 'Galveston, Texas, USA']	29.299328	-94.7945882
+['"Big Opinions with Grace Parra" (2016)', '', '', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"Big Whiskey" (2016)', '', '', '', '', 'Lynchburg, Tennessee, USA']	35.2831727	-86.3739827
+['"Big Whiskey" (2016)', '', '', '', '', 'Louisville, Kentucky, USA']	38.2542376	-85.759407
+['"Big Whiskey" (2016)', '', '', '', '', 'Frankfurt, Kentucky, USA']	38.2587156	-85.7212545

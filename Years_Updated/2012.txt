@@ -1,0 +1,1412 @@
+['"#ByMySide" (2012)', '', '', '', '', 'Alessandria, Piedmont, Italy']	42.6384261	12.674297
+['"#LakeShow" (2012)', '', '', '', '', 'El Segundo, California, USA']	33.917028	-118.4156337
+['"#LdnOnt" (2012)', '', '', '', '', 'London, Ontario, Canada']	42.988576	-81.246643
+['"#NerdNoise" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"10 Reviews in 10 Minutes" (2012)', '', '', 'Norwich, Norfolk, England, UK']	52.628606	1.29227
+['"10 Reviews in 10 Minutes" (2012)', '', '', 'Norwich, Norfolk, England, UK']	52.628606	1.29227
+['"10 Things I Hate" (2012)', '', '', '', 'Washington, USA']	38.8948932	-77.0365529
+['"10 Things I Hate" (2012)', '', '', '', 'Steilacoom, Washington, USA']	47.1703692	-122.5962874
+['"10 Things I Hate" (2012)', '', '', '', 'Los Angles, California, USA']	36.9742884	-118.2109916
+['"100 Bullets D\'Argento" (2012)', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"1001 Things You Should Know" (2012)', '', '', 'Glasgow, Scotland, UK']	55.8609825	-4.2488787
+['"1002 Momentos de la tele" (2012)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.4)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.5)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.6)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.7)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.8)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#1.9)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.4)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.5)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.6)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.7)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.8)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1002 Momentos de la tele" (2012) {(#2.9)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"13 Steps Down" (2012)', '', '', '', '', 'Notting Hill, London, England, UK']	51.5109995	-0.2055267
+['"13 Steps Down" (2012)', '', '', '', '', 'Ireland']	52.865196	-7.9794599
+['"13 Steps Down" (2012) {(#1.1)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"13 Steps Down" (2012) {(#1.2)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"2 Shot the Show" (2012)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"2012 ECAC Men\'s Hockey Championship" (2012)', '', 'Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"2012 Presidential Debates" (2012) {(#1.1)}', '', 'Magness Center, University of Denver - 2240 E. Buchtel Boulevard, Denver, Colorado, USA']	39.7348381	-104.9653271
+['"2012 Presidential Debates" (2012) {(#1.2)}', '', 'David S. Mack Sports and Exhibition Complex, Hofstra University - 245 N. Hofstra Avenue, Hempstead, New York, USA']	40.7063185	-73.618684
+['"2012 Presidential Debates" (2012) {(#1.3)}', '', 'Wold Performing Arts Center, Lynn University - 3601 N. Military Trail, Boca Raton, Florida, USA']	39.7837304	-100.4458825
+['"2012 Stanley Cup Finals" (2012)', '', '', 'Staples Center - 1111 S. Figueroa Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2012 Stanley Cup Finals" (2012)', '', '', 'Prudential Center, Newark, New Jersey, USA']	40.733404699999994	-74.17116464386132
+['"2012 Stanley Cup Finals" (2012) {Game 1 (#1.1)}', 'Prudential Center, Newark, New Jersey, USA']	40.733404699999994	-74.17116464386132
+['"2012 Stanley Cup Finals" (2012) {Game 2 (#1.2)}', 'Prudential Center, Newark, New Jersey, USA']	40.733404699999994	-74.17116464386132
+['"2012 Stanley Cup Finals" (2012) {Game 3 (#1.3)}', 'Staples Center - 1111 S. Figueroa Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"2012 Stanley Cup Finals" (2012) {Game 4 (#1.4)}', 'Staples Center - 1111 S. Figueroa Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"2012 Stanley Cup Finals" (2012) {Game 5 (#1.5)}', 'Prudential Center, Newark, New Jersey, USA']	40.733404699999994	-74.17116464386132
+['"2012 Stanley Cup Finals" (2012) {Game 6 (#1.6)}', 'Staples Center - 1111 S. Figueroa Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2012 UEFA European Football Championship" (2012)', 'National Stadium, Warsaw, Mazowieckie, Poland']	52.2204245	21.040728759136584
+['"2012 UEFA European Football Championship" (2012)', 'PGE Arena, Gdansk, Pomorskie, Poland']	54.36143405	18.62821847557274
+['"2012 UEFA European Football Championship" (2012)', 'Stadion Miejski, Wroclaw, Dolnoslaskie, Poland']	51.1436468	16.9508397
+['"2012 UEFA European Football Championship" (2012)', 'Stadion Miejski, Poznan, Wielkopolskie, Poland']	52.39576395	16.863460983817166
+['"2012 UEFA European Football Championship" (2012)', 'Olympic Stadium, Kiev, Ukraine']	50.433544499999996	30.52133693277559
+['"2012 UEFA European Football Championship" (2012)', 'Donass Arena Stadium, Donetsk, Ukraine']	49.4871968	31.2718321
+['"2012 UEFA European Football Championship" (2012)', 'Metalist Stadium, Kharkiv, Ukraine']	49.980863	36.26157596317647
+['"2012 UEFA European Football Championship" (2012)', 'Arena Lviv, Lviv, Ukraine']	49.8055205	23.973569165549602
+['"2012 World Series" (2012)', '', '', '', 'AT&T Park, San Francisco, California, USA']	37.7790262	-122.4199061
+['"2012 World Series" (2012)', '', '', '', 'Comerica Park - 2100 Woodward Avenue, Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"2012 World Series" (2012) {Game 1 (#1.1)}', '', 'AT&T Park, San Francisco, California, USA']	37.7811362	-122.457083
+['"2012 World Series" (2012) {Game 2 (#1.2)}', '', 'AT&T Park, San Francisco, California, USA']	37.7811362	-122.457083
+['"2012 World Series" (2012) {Game 3 (#1.3)}', '', 'Comerica Park - 2100 Woodward Avenue, Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"2012 World Series" (2012) {Game 4 (#1.4)}', '', 'Comerica Park - 2100 Woodward Avenue, Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"21 Days of Seaton" (2012)', '', '', '', 'Lexington, Kentucky, USA']	38.0464066	-84.4970393
+['"23 pares" (2012)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Dos puntas tiene el camino (#1.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {El derecho a decidir (#1.4)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {El detector de mentira (#1.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {El muerto que habla (#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Espiando el futuro (#1.6)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Familia real (#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Intimidades p�blicas (#1.8)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Los hermanos sean unidos (#1.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Margen de erro (#1.7)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Reparaciones (#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Separadas al nacer (#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Shalom (#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"23 pares" (2012) {Yo, Myself (#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 and Married" (2012)', '', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"2613" (2012)', '', '', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"3 Audrey" (2012)', '', '', '', '', 'London, Ontario, Canada']	42.988576	-81.246643
+['"3 Cousins" (2012)', '', '', '', '', 'Roma, Lazio, Italy']	41.8933203	12.4829321
+['"3 Cousins" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3 Strikes" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3, 2, 1 - Ilus h�pe" (2012)', '', '', '', 'Tallinn, Estonia']	59.4372155	24.7453688
+['"3, 2, 1 - Ilus h�pe" (2012)', '', '', '', 'Eikesdal, Nesset, M�re og Romsdal, Norway']	60.5000209	9.0999715
+['"3, 2, 1 - Ilus h�pe" (2012)', '', '', '', 'Lahti, Finland']	60.9838761	25.6561814
+['"30 Dates to a Soul Mate" (2012)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"30 d�as juntos" (2012)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 d�as juntos" (2012) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"30 for 30 Shorts" (2012) {Here Now (#1.1)}', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"30 for 30 Shorts" (2012) {Holy Grail: The T206 Honus Wagner (#1.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"30 for 30 Shorts" (2012) {Holy Grail: The T206 Honus Wagner (#1.7)}', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"30 for 30 Shorts" (2012) {Holy Grail: The T206 Honus Wagner (#1.7)}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"30 for 30 Shorts" (2012) {Holy Grail: The T206 Honus Wagner (#1.7)}', 'Santa Ana, California, USA']	33.7494951	-117.8732213
+['"30 for 30 Shorts" (2012) {MECCA: The Floor That Made Milwaukee Famous (#1.22)}', 'Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"30 for 30 Shorts" (2012) {MECCA: The Floor That Made Milwaukee Famous (#1.22)}', 'Paris, �le-de-France, France']	46.603354	1.8883335
+['"30 for 30 Shorts" (2012) {MECCA: The Floor That Made Milwaukee Famous (#1.22)}', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"30 for 30 Shorts" (2012) {MECCA: The Floor That Made Milwaukee Famous (#1.22)}', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"30" (2012)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"30� i februari" (2012)', '', '', '', '', 'Phuket, Thailand']	7.9366015	98.3529292
+['"30� i februari" (2012)', '', '', '', '', 'Sweden']	59.6749712	14.5208584
+['"360TV" (2012)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3SG: The Webseries" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"4 Points" (2012)', '', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"4 minutos con chef Trevi�o" (2012)', '', '', 'San Juan, Puerto Rico']	18.465299	-66.116666
+['"40" (2012)', '', '', '', '', '', 'Culver City, California, USA']	34.0211224	-118.3964665
+['"42 Seconds of Happiness" (2012)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"4X (Non-verbal)" (2012)', '', '', '', 'Israel']	31.5313113	34.8667654
+['"50 Euro Star Style" (2012)', '', '', '', 'Hamburg, Germany']	51.0834196	10.4234469
+['"6 passi nel giallo" (2012) {Gemelle (#1.4)}', '', 'Malta']	35.8885993	14.4476911
+['"6 passi nel giallo" (2012) {Omicidio su misura (#1.5)}', 'Malta']	35.8885993	14.4476911
+['"6 passi nel giallo" (2012) {Presagi (#1.1)}', '', 'Malta']	35.8885993	14.4476911
+['"6 passi nel giallo" (2012) {Sotto protezione (#1.2)}', 'Malta']	35.8885993	14.4476911
+['"6 passi nel giallo" (2012) {Souvenirs (#1.3)}', '', 'Malta']	35.8885993	14.4476911
+['"6 passi nel giallo" (2012) {Vite in ostaggio (#1.6)}', 'Malta']	35.8885993	14.4476911
+['"64 postures" (2012)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"666 Park Avenue" (2012)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012)', '', '', '', 'Clinton Diner, Maspeth, Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {A Crowd of Demons (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {Diabolic (#1.6)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {Downward Spiral (#1.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {Hero Complex (#1.4)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {Hypnos (#1.9)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {Lazarus (#1.13)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {Murmurations (#1.2)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {Pilot (#1.1)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {Sins of the Fathers (#1.11)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {The Comfort of Death (#1.10)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {The Dead Don\'t Stay Dead (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {The Elysian Fields (#1.12)}', 'Clinton Diner, Maspeth, Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"666 Park Avenue" (2012) {What Ever Happened to Baby Jane? (#1.8)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"7neen" (2012)', '', '', '', '', '', 'Sydney, Nova Scotia, Canada']	46.137977	-60.194092
+['":Presentes" (2012)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Carla (#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Carla (#2.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Chifle (#2.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Emilia (#2.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Estefi (#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Estefi (#2.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Fede (#2.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Fisu (#2.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Gonzalo (#2.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Luca (#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Luca (#2.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Mariana (#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Mariana (#2.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Nacho (#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Nacho (#2.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Natu (#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Natu (#2.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Romi (#2.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['":Presentes" (2012) {Todos (#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Devonport, Tasmania, Australia']	-41.1797561	146.3613011
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Wilmot, Tasmania, Australia']	-41.3870316	146.1748539
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Cradle Mountain, Tasmania, Australia']	-41.6846445	145.9513044
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Freycinet, Tasmania, Australia']	-42.2000008	148.3000031
+['"A Brilliant Road Trip" (2012)', '', '', '', 'St Kilda, Victoria, Australia']	-37.8638261	144.981637
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Mount Macedon, Victoria, Australia']	-37.3875384	144.5757825
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Wentworth, New South Wales, Australia']	-33.70988	150.3764087
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Broken Hill, New South Wales, Australia']	-31.965	141.4511111
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Cobar, New South Wales, Australia']	-31.4981502	145.8425707
+['"A Brilliant Road Trip" (2012)', '', '', '', 'Bathurst, New South Wales, Australia']	-33.4166378	149.5804943
+['"A Brilliant Road Trip" (2012) {By Air or By Sea (#1.3)}', 'Wineglass Bay, Tasmania, Australia']	-42.1681068	148.3050059
+['"A Brilliant Road Trip" (2012) {By Air or By Sea (#1.3)}', 'Devonport, Tasmania, Australia']	-41.1797561	146.3613011
+['"A Brilliant Road Trip" (2012) {Locally Grown (#1.2)}', 'Wilmot, Tasmania, Australia']	-41.3870316	146.1748539
+['"A Brilliant Road Trip" (2012) {Locally Grown (#1.2)}', 'Cradle Mountain, Tasmania, Australia']	-41.6846445	145.9513044
+['"A Brilliant Road Trip" (2012) {The Departure (#1.1)}', 'Devonport, Tasmania, Australia']	-41.1797561	146.3613011
+['"A Moody Christmas" (2012)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Mother\'s Son" (2012)', '', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Mother\'s Son" (2012) {(#1.1)}', '', '', 'Kings Langley, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"A Mother\'s Son" (2012) {(#1.1)}', '', '', 'Southwold, Suffolk, England, UK']	52.3266586	1.6794539
+['"A Mother\'s Son" (2012) {(#1.1)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Mother\'s Son" (2012) {(#1.2)}', '', '', 'Kings Langley, Hertfordshire, England, UK']	51.7150748	-0.4618604807446304
+['"A Mother\'s Son" (2012) {(#1.2)}', '', '', 'Southwold, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"A Mother\'s Son" (2012) {(#1.2)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Problem Shared" (2012)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A Taste of Travel" (2012)', '', '', '', 'Europe']	51.0	10.0
+['"A Taste of Travel" (2012)', '', '', '', 'Australia']	-24.7761086	134.755
+['"A Time of Thorns: Zaman El Shok" (2012)', '', 'Beirut, Lebanon']	33.8959203	35.47843
+['"A Time of Thorns: Zaman El Shok" (2012)', '', 'Annaya, Lebanon']	33.8750629	35.843409
+['"A Time of Thorns: Zaman El Shok" (2012)', '', 'Kfarshima, Lebanon']	33.8148106	35.5339533
+['"A Todo Mecate con Alex y Pekas" (2012)', '', '', 'Orange County, California, USA']	33.7500378	-117.8704931
+['"A Touch of Cloth" (2012)', '', '', '', 'The Chimes, Uxbridge, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"A Young Doctor\'s Notebook & Other Stories" (2012) {(#2.1)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"A Young Doctor\'s Notebook & Other Stories" (2012) {(#2.4)}', 'Twickenham Studios, London, England, UK']	51.5073219	-0.1276474
+['"A spas per la Ladinia" (2012)', '', '', '', 'Dolomites, Trentino Alto-Adige, Italy']	46.4296605	11.6856511
+['"ABBA: Dancing Queen" (2012)', '', '', '', 'Sweden']	59.6749712	14.5208584
+['"ABBA: Dancing Queen" (2012)', '', '', '', 'Australia']	-24.7761086	134.755
+['"ACE Insider" (2012)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"AFF Suzuki Cup" (2012)', '', '', '', '', 'Malaysia']	4.5693754	102.2656823
+['"AFF Suzuki Cup" (2012)', '', '', '', '', 'Thailand']	14.8971921	100.83273
+['"AFF Suzuki Cup" (2012) {Finals: Singapore vs. Thailand}', 'Jalan Besar Stadium, Kallang, Singapore']	1.3099506	103.86034576871684
+['"AFF Suzuki Cup" (2012) {Group A: Myanmar vs. Thailand}', 'Rajamangala Stadium, Bangkok, Thailand']	13.7554051	100.6221776
+['"AFF Suzuki Cup" (2012) {Group A: Philippines vs. Myanmar}', 'Supachalasai Stadium, Bangkok, Thailand']	14.8971921	100.83273
+['"AFF Suzuki Cup" (2012) {Group A: Thailand vs. Philippines}', 'Rajamangala Stadium, Bangkok, Thailand']	13.7554051	100.6221776
+['"AFF Suzuki Cup" (2012) {Group A: Thailand vs. Vietnam}', 'Rajamangala Stadium, Bangkok, Thailand']	13.7554051	100.6221776
+['"AFF Suzuki Cup" (2012) {Group A: Vietnam vs. Myanmar}', 'Rajamangala Stadium, Bangkok, Thailand']	13.7554051	100.6221776
+['"AFF Suzuki Cup" (2012) {Group A: Vietnam vs. Philippines}', 'Rajamangala Stadium, Bangkok, Thailand']	13.7554051	100.6221776
+['"AFF Suzuki Cup" (2012) {Group B: Indonesia vs. Laos}', 'Bukit Jalil National Stadium, Bukit Jalil, Kuala Lumpur, Malaysia']	3.0546755	101.69136903264581
+['"AFF Suzuki Cup" (2012) {Group B: Indonesia vs. Singapore}', 'Bukit Jalil National Stadium, Bukit Jalil, Kuala Lumpur, Malaysia']	3.0546755	101.69136903264581
+['"AFF Suzuki Cup" (2012) {Group B: Laos vs. Malaysia}', 'Bukit Jalil National Stadium, Bukit Jalil, Kuala Lumpur, Malaysia']	3.0546755	101.69136903264581
+['"AFF Suzuki Cup" (2012) {Group B: Malaysia vs. Indonesia}', 'Bukit Jalil National Stadium, Bukit Jalil, Kuala Lumpur, Malaysia']	3.0546755	101.69136903264581
+['"AFF Suzuki Cup" (2012) {Group B: Malaysia vs. Singapore}', 'Bukit Jalil National Stadium, Bukit Jalil, Kuala Lumpur, Malaysia']	3.0546755	101.69136903264581
+['"AFF Suzuki Cup" (2012) {Group B: Singapore vs. Laos}', 'Shah Alam Stadium, Shah Alam, Malaysia']	3.08215855	101.54402604496669
+['"AFF Suzuki Cup" (2012) {Semifinals: Malaysia vs. Thailand}', 'Bukit Jalil National Stadium, Bukit Jalil, Kuala Lumpur, Malaysia']	3.0546755	101.69136903264581
+['"AFF Suzuki Cup" (2012) {Semifinals: Philippines vs. Singapore}', 'Rizal Memorial Stadium, Manila, Philippines']	12.7503486	122.7312101
+['"AFF Suzuki Cup" (2012) {Semifinals: Singapore vs. Philippines}', 'Jalan Besar Stadium, Kallang, Singapore']	1.3099506	103.86034576871684
+['"AFF Suzuki Cup" (2012) {Semifinals: Thailand vs. Malaysia}', 'Supachalasai Stadium, Bangkok, Thailand']	14.8971921	100.83273
+['"ARSD Roller Derby" (2012)', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"ATSN: Stop the Threat" (2012)', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {A Car to Die For (#8.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {A Car to Die For (#8.9)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Anonymous Sale (#7.10)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Anonymous Sale (#7.10)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Assault from the Shadows (#5.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Assault from the Shadows (#5.3)}', 'Walter Hall Park, League City, Texas, USA']	29.5129784	-95.102181526444
+['"ATSN: Stop the Threat" (2012) {Assault from the Shadows (#5.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Backdoor Shootout (#8.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Backdoor Shootout (#8.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Bad Deal (#5.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Bad Deal (#5.9)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Bad Idea (#3.23)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Bad Idea (#3.23)}', 'League City, Texas, USA']	29.5074538	-95.0949303
+['"ATSN: Stop the Threat" (2012) {Bad Invasion (#5.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Bad Invasion (#5.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Car Trouble (#5.2)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Car Trouble (#5.2)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Carjacking (#2.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Carjacking (#2.9)}', 'Camarillo, California, USA']	34.2164099	-119.0376573
+['"ATSN: Stop the Threat" (2012) {Carjacking Gone Wrong (#7.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Carjacking Gone Wrong (#7.9)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Caught in the Act (#3.21)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Caught in the Act (#3.21)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Change of Heart (#3.15)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Change of Heart (#3.15)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Convenience Store Robbery (#3.1)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Convenience Store Robbery (#3.1)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Crime Spree (#8.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Crime Spree (#8.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Crime Spree (#8.4)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {DVD to Death (#8.6)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {DVD to Death (#8.6)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Defense Handicap (#6.1)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Defense Handicap (#6.1)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Delivery Defense (#7.6)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Delivery Defense (#7.6)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Double Trouble (#3.6)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Double Trouble (#3.6)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Driveway Theft (#8.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Driveway Theft (#8.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Facing the Tail (#4.10)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Facing the Tail (#4.10)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Fast Food (#2.16)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Fast Food (#2.16)}', 'Camarillo, California, USA']	34.2164099	-119.0376573
+['"ATSN: Stop the Threat" (2012) {Fighting Back (#3.19)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Fighting Back (#3.19)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Foiled Robbery (#8.5)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Foiled Robbery (#8.5)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Followed Money (#6.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Followed Money (#6.7)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Followed Money (#6.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Forced Flat (#8.13)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Forced Flat (#8.13)}', 'Walter Hall Park, League City, Texas, USA']	29.5129784	-95.102181526444
+['"ATSN: Stop the Threat" (2012) {Garage Confrontation (#3.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Garage Confrontation (#3.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Good Samaritan (#3.18)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Good Samaritan (#3.18)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Hide \'N Seek (#5.1)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Hide \'N Seek (#5.1)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Home Alone (#3.8)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Home Alone (#3.8)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Home Defense (#5.8)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Home Defense (#5.8)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Home Held Hostage (#4.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Home Held Hostage (#4.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Home Invasion (#2.18)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Home Invasion (#2.18)}', 'Camarillo, California, USA']	34.2164099	-119.0376573
+['"ATSN: Stop the Threat" (2012) {Hotel Robbery (#6.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Hotel Robbery (#6.3)}', 'Seabrook, Texas, USA']	29.5633199	-95.019723
+['"ATSN: Stop the Threat" (2012) {How Dare You (#6.2)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {How Dare You (#6.2)}', 'League City, Texas, USA']	29.5074538	-95.0949303
+['"ATSN: Stop the Threat" (2012) {Interrupted Robbery (#5.10)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Interrupted Robbery (#5.10)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Kidnappers Part 1 (#4.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Kidnappers Part 1 (#4.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Kidnappers Part 1 (#4.4)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Kidnappers Part 2 (#4.5)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Kidnappers Part 2 (#4.5)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Kidnappers Part 2 (#4.5)}', 'League City, Texas, USA']	29.5074538	-95.0949303
+['"ATSN: Stop the Threat" (2012) {Knife to a Gunfight (#8.2)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Knife to a Gunfight (#8.2)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Knock Kick (#8.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Knock Kick (#8.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Knock Knock (#6.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Knock Knock (#6.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Knockout (#4.6)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Knockout (#4.6)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Locked Door (#3.16)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Locked Door (#3.16)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Lunch Break Robbery (#3.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Lunch Break Robbery (#3.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Mall Incident (#3.2)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Mall Incident (#3.2)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Midnight Mugging (#5.6)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Midnight Mugging (#5.6)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Midnight Robbers (#3.7)}', 'League City, Texas, USA']	29.5074538	-95.0949303
+['"ATSN: Stop the Threat" (2012) {Midnight Robbers (#3.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Morning Surprise (#4.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Morning Surprise (#4.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Mugging Gone Wrong (#3.17)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Mugging Gone Wrong (#3.17)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Neighborhood Watch (#3.22)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Neighborhood Watch (#3.22)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Night Joggers (#6.6)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Night Joggers (#6.6)}', 'Walter Hall Park, League City, Texas, USA']	29.5129784	-95.102181526444
+['"ATSN: Stop the Threat" (2012) {Noises Within (#5.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Noises Within (#5.7)}', 'League City, Texas, USA']	29.5074538	-95.0949303
+['"ATSN: Stop the Threat" (2012) {On the Run (#3.24)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {On the Run (#3.24)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Overwhelming Force (#3.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Overwhelming Force (#3.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Park Robber (#7.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Park Robber (#7.7)}', 'Walter Hall Park, League City, Texas, USA']	29.5074538	-95.0949303
+['"ATSN: Stop the Threat" (2012) {Parking Lot Carjacking (#4.8)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Parking Lot Carjacking (#4.8)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Parking Lot Hold-Up (#3.10)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Parking Lot Hold-Up (#3.10)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Party Crashers (#8.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Party Crashers (#8.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Perceived Threat (#3.25)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Perceived Threat (#3.25)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Protective Order (#6.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Protective Order (#6.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Prowler Chase (#7.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Prowler Chase (#7.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Prowler Chase (#7.3)}', 'Walter Hall Park, League City, Texas, USA']	29.5129784	-95.102181526444
+['"ATSN: Stop the Threat" (2012) {Psycho Redux (#4.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Psycho Redux (#4.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Quick Action (#3.26)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Quick Action (#3.26)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Right Place/Right Time (#3.20)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Right Place/Right Time (#3.20)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Road Rage (#3.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Road Rage (#3.3)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Road Rage (#3.3)}', 'Webster, Texas, USA']	29.5376944	-95.1220967
+['"ATSN: Stop the Threat" (2012) {Road Rage Intervention (#7.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Road Rage Intervention (#7.12)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Robbery Kidnapping (#6.8)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Robbery Kidnapping (#6.8)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Rolling Robbery (#8.1)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Rolling Robbery (#8.1)}', 'Walter Hall Park, League City, Texas, USA']	29.5129784	-95.102181526444
+['"ATSN: Stop the Threat" (2012) {Rude Awakening (#3.14)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Rude Awakening (#3.14)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Runaway Purse (#5.13)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Runaway Purse (#5.13)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Shocked Awake (#7.5)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Shocked Awake (#7.5)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Shopkeeper Ambush (#6.5)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Shopkeeper Ambush (#6.5)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Shoplifting Complex (#5.5)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Shoplifting Complex (#5.5)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Shotgun Robbery (#3.5)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Shotgun Robbery (#3.5)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Storefront Stick-up (#7.2)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Storefront Stick-up (#7.2)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Streetside Shooter (#7.1)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Streetside Shooter (#7.1)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Summer Folly (#6.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Summer Folly (#6.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Targeted Invasion (#5.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Targeted Invasion (#5.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Accident (#3.13)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Accident (#3.13)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {The Apartment (#3.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Apartment (#3.4)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {The Bystander (#7.8)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Bystander (#7.8)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {The Chase (#6.10)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Chase (#6.10)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Jogger (#2.7)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Jogger (#2.7)}', 'Camarillo, California, USA']	34.2164099	-119.0376573
+['"ATSN: Stop the Threat" (2012) {The Movies - Date Night (#2.20)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Movies - Date Night (#2.20)}', 'Camarillo, California, USA']	34.2164099	-119.0376573
+['"ATSN: Stop the Threat" (2012) {The Need to Act (#8.8)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Need to Act (#8.8)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {The Office (#2.14)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {The Office (#2.14)}', 'Camarillo, California, USA']	34.2164099	-119.0376573
+['"ATSN: Stop the Threat" (2012) {Trailer Park (#4.2)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Trailer Park (#4.2)}', 'Webster, Texas, USA']	29.5376944	-95.1220967
+['"ATSN: Stop the Threat" (2012) {Trained and Prepared (#6.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Trained and Prepared (#6.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Unexpected Company (#4.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Unexpected Company (#4.3)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Unlocked Door (#7.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Unlocked Door (#7.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Utility Workers (#8.10)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Utility Workers (#8.10)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Walking Robbery (#5.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Walking Robbery (#5.11)}', 'Walter Hall Park, League City, Texas, USA']	29.5074538	-95.0949303
+['"ATSN: Stop the Threat" (2012) {What\'s in Your Safe? (#4.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {What\'s in Your Safe? (#4.9)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Who\'s the Bad Guy? (#4.1)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Who\'s the Bad Guy? (#4.1)}', 'Nassau Bay, Texas, USA']	29.5446753	-95.0910413
+['"ATSN: Stop the Threat" (2012) {Wrong House (#7.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN: Stop the Threat" (2012) {Wrong House (#7.4)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"AXS Live" (2012)', '', '', '', '', '800 W. Olympic Blvd, Suite 307 Los Angeles, California, USA']	39.7837304	-100.4458825
+['"AXS Live" (2012)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Abbey Road Acoustic Sessions with Absolute Radio" (2012) {Beady Eye}', "Abbey Road Studios, Abbey Road, St. John's Wood, London, England, UK"]	51.53198795	-0.17822595150661952
+['"Abby & Brittany" (2012)', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"Abby & Brittany" (2012)', '', '', '', 'Venice, Veneto, Italy']	45.4371908	12.3345898
+['"Abby & Brittany" (2012) {22nd Birthday Bash (#1.1)}', 'New Brighton, Minnesota, USA']	45.0628999	-93.2060969
+['"Abby & Brittany" (2012) {Graduation (#1.4)}', '', 'New Brighton, Minnesota, USA']	45.0628999	-93.2060969
+['"Abigail" (2012)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Abismo de pasi�n" (2012)', '', '', '', 'Canc�n, Benito Ju�rez, Quintana Roo, Mexico']	19.4326296	-99.1331785
+['"Abismo de pasi�n" (2012)', '', '', '', 'Ermita de Santa Isabel, Yucat�n, Mexico']	19.4326296	-99.1331785
+['"Abismo de pasi�n" (2012)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Abismo de pasi�n" (2012)', '', '', '', 'M�rida, Yucat�n, Mexico']	19.4326296	-99.1331785
+['"Abismo de pasi�n" (2012)', '', '', '', 'Televisa San Angel, Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Absolute X" (2012)', '', '', '', '', 'Hawaii, USA']	21.2160437	-157.975203
+['"Absolute X" (2012)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Absolute X" (2012)', '', '', '', '', 'Cabo San Lucas, Baja California Sur, Mexico']	22.8938884	-109.9200604
+['"Absolute X" (2012)', '', '', '', '', 'Lake Tahoe, Nevada, USA']	29.383643	-98.377856
+['"Absolute X" (2012)', '', '', '', '', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"Absolute X" (2012)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Absolute X" (2012)', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Absolute X" (2012)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Absolute X" (2012)', '', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Absolute X" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Acceso Exclusivo: Pumas" (2012)', '', '', 'Distrito Federal, Mexico']	19.320556250000003	-99.15170107077653
+['"Acceso Exclusivo: Pumas" (2012)', '', '', 'Leon, Guanajuato, Mexico']	22.1866984	-101.0143645
+['"Acceso Exclusivo: Pumas" (2012)', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Access Sportsnet: Los Angeles" (2012)', '', '', 'El Segundo, California, USA']	33.917028	-118.4156337
+['"Access: Middle East" (2012)', '', '', '', 'Dubai, United Arab Emirates']	25.0657	55.1713
+['"Access: Middle East" (2012)', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Access: Middle East" (2012)', '', '', '', 'Cairo, Egypt']	30.048819	31.243666
+['"Access: Middle East" (2012) {WEF - Opportunities in Africa (#1.22)}', 'Cape Town, South Africa']	-33.928992	18.417396
+['"Achter gesloten deuren" (2012)', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Achter gesloten deuren" (2012)', '', '', '', 'Haarlem, Noord-Holland, Netherlands']	52.3885317	4.6388048
+['"Achter gesloten deuren" (2012)', '', '', '', 'Bloemendaal, Noord-Holland, Netherlands']	52.4036594	4.6197687
+['"Across the Board with Joy Bryant" (2012)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Acting Out" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actua" (2012) {Musical d\'or (#1.4)}', '', '', 'Vilassar de Mar, Barcelona, Catalonia, Spain']	41.5064041	2.3913883
+['"Adam & �ve" (2012) {Conviction (#1.7)}', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Conviction (#1.7)}', '', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Crises (#1.3)}', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Crises (#1.3)}', '', '', 'Jewish General Hospital, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Crises (#1.3)}', '', '', 'Copains Gourmands restaurant, Montreal']	45.4972159	-73.6103642
+['"Adam & �ve" (2012) {Crises (#1.3)}', '', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Fantasmes (#1.13)}', '', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Illusions (#1.10)}', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Illusions (#1.10)}', '', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {L\'aventure (#1.9)}', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {L\'aventure (#1.9)}', '', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {La descendance (#1.2)}', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {La descendance (#1.2)}', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {La jalousie (#1.5)}', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {La jalousie (#1.5)}', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {La passion (#1.1)}', '', '', 'Plan�te Oeuf, Montreal']	45.4972159	-73.6103642
+['"Adam & �ve" (2012) {La passion (#1.1)}', '', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Le dernier train (#1.12)}', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Le dernier train (#1.12)}', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Le dernier train (#1.12)}', '', 'Complexe sportif Claude-Robillard, Montreal, Canada']	45.553189	-73.638793
+['"Adam & �ve" (2012) {Le dernier train (#1.12)}', '', 'Polyclinique Cabrini, Montreal, Canada']	45.580978	-73.5648764
+['"Adam & �ve" (2012) {Le lit (#1.8)}', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Le lit (#1.8)}', '', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Le mensonge (#1.6)}', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Le mensonge (#1.6)}', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Le nid (#1.4)}', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {Le nid (#1.4)}', '', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {�poque de r�ve (#1.11)}', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adam & �ve" (2012) {�poque de r�ve (#1.11)}', '', 'Corner of Rue Dandurand and 5th Avenue, Montreal, Canada']	61.0666922	-107.9917071
+['"Add a Friend" (2012)', '', '', '', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Admissions" (2012)', '', '', '', '', 'Guilderland High School, Guilderland Center, New York, USA']	42.6982304	-73.96544238429227
+['"Admissions" (2012) {Everything\'s Not Working (#1.6)}', 'Empire State Aerosciences Museum, Glenville, New York, USA']	42.8605503	-73.93202255
+['"Admissions" (2012) {Finally Shooting Dan (#1.7)}', 'Corner Ice Cream, Schenectady, New York, USA']	42.7236508	-73.9363328
+['"Admissions" (2012) {Gun Shots (#1.2)}', '', '', 'Corner Ice Cream, Schenectady, New York, USA']	42.7236508	-73.9363328
+['"Admissions" (2012) {How I Didn\'t Write My College Essay (#1.1)}', 'Lia Auto Group, Colonie, New York, USA']	42.7178558	-73.8334554
+['"Adrianne Curry\'s Super Fans" (2012)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adrianne Curry\'s Super Fans" (2012)', '', '', 'Joliet, Illinois, USA']	41.5263603	-88.0840212
+['"Adrianne Curry\'s Super Fans" (2012)', '', '', 'Elkhart, Indiana, USA']	41.6012796	-85.8590603
+['"Adventures of JAB" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of JAB" (2012)', '', '', '', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Adventures of JAB" (2012)', '', '', '', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"Adventures of Red Rooster" (2012) {Barfoot Steps In (#1.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Red Rooster" (2012) {Get Dicker and Rhodes (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Red Rooster" (2012) {Groovy and Ricky Meet BillyJo (#1.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Red Rooster" (2012) {Jeeters Vs. the FDA (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Red Rooster" (2012) {Luigi Muscles In (#1.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Red Rooster" (2012) {Wilma Wombat to the Rescue (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventurous Detectivous" (2012)', '', '', 'Mt. Pleasant, Michigan, USA']	43.597646	-84.7668495
+['"Age Matters" (2012)', '', '', '', '', 'Adelaide, South Australia, Australia']	-34.9281805	138.5999312
+['"Agony" (2012)', '', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Aimless" (2012)', '', '', '', '', 'Laurel Canyon, Hollywood Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ain\'t It Cool with Harry Knowles" (2012)', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Ainsi soient-ils" (2012)', '', '', '', "Palais d'I�na, Paris 16, Paris, France"]	48.8566969	2.3514616
+['"Ainsi soient-ils" (2012) {(#3.1)}', '', '', 'Saint-Ch�ron, Essonne, France']	46.603354	1.8883335
+['"Ainsi soient-ils" (2012) {(#3.4)}', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Airport 24/7: Miami" (2012)', '', '', '', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Air Force One (#1.5)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Bird, Plane, Impact! (#3.6)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Blast Radius (#3.5)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Bomb Threat (#2.3)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Catch a Thief (#1.4)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Category X (#1.3)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Caught on Camera (#2.5)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Cavity Search (#2.11)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Dogs, Guns and Gold (#3.3)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Fight or Flight (#2.1)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Fuel Fire (#1.6)}', '', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Full Moon (#2.12)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Guns and Money (#2.13)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Hell or High Water (#2.6)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Homeland Security (#2.7)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Million Dollar Stash (#2.10)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Signs of Disaster (#2.2)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Speed! (#2.4)}', '', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {The Passenger (#1.1)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Ticking Bag Plot (#2.8)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {Upside of Danger (#1.2)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Airport 24/7: Miami" (2012) {What Not to Say at MIA (#3.4)}', 'Miami International Airport, Miami, Florida, USA']	25.7949789	-80.28672341095405
+['"Akasia Julia" (2012)', '', '', '', '', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"Al Kinaaa" (2012)', '', '', '', '', 'Lebanon']	33.8750629	35.843409
+['"Al Kinaaa" (2012)', '', '', '', '', 'Africa']	11.5024338	17.7578122
+['"Alaska Fish Wars" (2012) {Game On (#1.1)}', '', 'Homer, Alaska, USA']	59.6440876	-151.5401477
+['"Alaska Fish Wars" (2012) {Jackpot (#1.3)}', '', 'Homer, Alaska, USA']	59.6440876	-151.5401477
+['"Alaska Marshals" (2012)', '', '', '', 'Alaska, USA']	64.4459613	-149.680909
+['"Alcatraz" (2012)', '', '', '', '', 'North Shore Studios, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Alcatraz" (2012)', '', '', '', '', 'Alcatraz Prison, Alcatraz Island, San Francisco Bay, California, USA']	37.71402905	-122.30779415179862
+['"Alcatraz" (2012)', '', '', '', '', 'Filbert Street, San Francisco, California, USA']	37.8021689	-122.4029913
+['"Alcatraz" (2012)', '', '', '', '', 'San Francisco Bay, California, USA']	37.71402905	-122.30779415179862
+['"Alcatraz" (2012)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Alcatraz" (2012)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Alcatraz" (2012) {Pilot (#1.1)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alec in WILDerland" (2012) {Across America: Part 1 (#5.6)}', 'Montana, USA']	39.7837304	-100.4458825
+['"Alec in WILDerland" (2012) {Across America: Part 1 (#5.6)}', 'Wyoming, USA']	43.1700264	-107.5685348
+['"Alec in WILDerland" (2012) {Across America: Part 2 (#5.7)}', 'South Dakota, USA']	44.6471761	-100.348761
+['"Alec in WILDerland" (2012) {Across America: Part 3 (#5.8)}', 'New York, USA']	40.7127281	-74.0060152
+['"Alec in WILDerland" (2012) {Across America: Part 3 (#5.8)}', 'Vermont, USA']	39.7837304	-100.4458825
+['"Alec in WILDerland" (2012) {Across America: Part 3 (#5.8)}', 'New Hampshire, USA']	43.4849133	-71.6553992
+['"Alec in WILDerland" (2012) {Across America: Part 3 (#5.8)}', 'Rhode Island, USA']	41.7962409	-71.5992372
+['"Alec in WILDerland" (2012) {Across America: Part 4 (#5.9)}', 'Virginia, USA']	37.1232245	-78.4927721
+['"Alec in WILDerland" (2012) {Across America: Part 5 (#5.10)}', 'Florida, USA']	39.7837304	-100.4458825
+['"Alec in WILDerland" (2012) {Across America: Part 6 (#5.11)}', 'Key West, Florida, USA']	24.5625566	-81.7724368
+['"Alec in WILDerland" (2012) {Australia Part 1 (#4.3)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"Alec in WILDerland" (2012) {Australia Part 2 (#4.4)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"Alec in WILDerland" (2012) {Australia Part 3 (#4.5)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"Alec in WILDerland" (2012) {Beached (#1.2)}', '', 'Texas, USA']	31.8160381	-99.5120986
+['"Alec in WILDerland" (2012) {Devil\'s Waterhole (#1.1)}', 'Texas, USA']	31.8160381	-99.5120986
+['"Alec in WILDerland" (2012) {Devils River (#2.1)}', 'Texas, USA']	31.8160381	-99.5120986
+['"Alec in WILDerland" (2012) {Don\'t Leave a Trace (#4.6)}', 'Texas, USA']	31.8160381	-99.5120986
+['"Alec in WILDerland" (2012) {Fish Out of Water (#2.2)}', 'Washington, USA']	39.7837304	-100.4458825
+['"Alec in WILDerland" (2012) {Geocache (#4.2)}', '', 'Lake Corpus Christi State Park, Texas, USA']	28.06229905	-97.87751214715605
+['"Alec in WILDerland" (2012) {Gulf of Mexico (#3.1)}', 'Gulf of Mexico, Texas, USA']	39.7837304	-100.4458825
+['"Alec in WILDerland" (2012) {Hill Country (#1.4)}', 'Texas, USA']	31.8160381	-99.5120986
+['"Alec in WILDerland" (2012) {Let\'s Go Camping (#3.4)}', 'Lake Corpus Christi, Texas, USA']	28.15467035	-97.9253498656267
+['"Alec in WILDerland" (2012) {Lone Star Winter (#5.5)}', 'Texas, USA']	31.8160381	-99.5120986
+['"Alec in WILDerland" (2012) {Nature Calls (#2.3)}', 'Lost Maples State Natural Area, Texas, USA']	29.82092645	-99.58750091507014
+['"Alec in WILDerland" (2012) {Oklahoma Special: Part 1 (#5.1)}', 'Oklahoma, USA']	34.9550817	-97.2684063
+['"Alec in WILDerland" (2012) {Oklahoma Special: Part 2 (#5.2)}', 'Oklahoma, USA']	34.9550817	-97.2684063
+['"Alec in WILDerland" (2012) {Primitive (#1.3)}', '', 'Texas, USA']	31.8160381	-99.5120986
+['"Alec in WILDerland" (2012) {SandyLand (#2.4)}', '', 'Texas, USA']	31.8160381	-99.5120986
+['"Alec in WILDerland" (2012) {South Africa (Anti-rhino Poaching) (#3.3)}', 'East London, South Africa']	-33.0191604	27.8998573
+['"Alec in WILDerland" (2012) {South Africa (Anti-rhino Poaching) (#3.3)}', 'Sabi Park, South Africa']	-28.8166236	24.991639
+['"Alec in WILDerland" (2012) {South Llano River (#3.2)}', 'South Llano River, Texas, USA']	30.490411	-99.7590887
+['"Alec in WILDerland" (2012) {Southern California (#4.1)}', 'California, USA']	36.7014631	-118.7559974
+['"Alec in WILDerland" (2012) {Washington Special: Part 1 (#5.3)}', 'Washington, USA']	38.8948932	-77.0365529
+['"Alec in WILDerland" (2012) {Washington Special: Part 2 (#5.4)}', 'Washington, USA']	38.8948932	-77.0365529
+['"Alien Encounters" (2012) {The Invasion (#2.1)}', '', 'University of Southern California Information Sciences Institute, Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Alien Encounters" (2012) {The Invasion (#2.1)}', '', 'California Nanosystems Institute, Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"Alien Encounters" (2012) {The Invasion (#2.1)}', '', 'University of Massachusetts Amherst, Massachusetts, USA']	42.3869382	-72.52991477067445
+['"Alien Encounters" (2012) {The Offspring (#2.2)}', 'Los Angeles River, California, USA']	34.163011	-118.4697788
+['"Alien Encounters" (2012) {The Offspring (#2.2)}', 'Glasgow University, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"Alien Encounters" (2012) {The Offspring (#2.2)}', 'Arizona State University, Tempe, Arizona, USA']	33.42152185	-111.93316158417922
+['"Alien Watch" (2012)', '', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"All About Lizzie" (2012)', '', '', '', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"All About Lizzie" (2012)', '', '', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"All About Lizzie" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Lizzie" (2012)', '', '', '', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"All in the Method" (2012)', '', '', '', 'Croydon, London, England, UK']	51.3713049	-0.101957
+['"All in the Method" (2012)', '', '', '', 'Chertsey, Surrey, England, UK']	51.392296	-0.5038294
+['"All in the Method" (2012)', '', '', '', 'Kentish Town, London, England, UK']	51.5073219	-0.1276474
+['"All in the Method" (2012) {The Heartbreak Kid (#1.1)}', 'Croydon, London, England, UK']	51.3713049	-0.101957
+['"All-Star Dealers" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All-Star Dealers" (2012)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"All-Star Dealers" (2012)', '', '', '', 'The Hamptons, Long Island, New York, USA']	39.7837304	-100.4458825
+['"All-Star Dealers" (2012)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"All-Star Dealers" (2012)', '', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"Allenby St." (2012)', '', '', '', '', 'Tel Aviv, Israel']	32.0804808	34.7805274
+['"Allenby St." (2012)', '', '', '', '', 'Allenby Street, Tel Aviv, Israel']	32.0613828	34.7737223
+['"Alles Klara" (2012)', '', '', '', '', 'Quedlinburg, Saxony-Anhalt, Germany']	51.7855428	11.1519933
+['"Alles Klara" (2012)', '', '', '', '', 'Blankenburg, Saxony-Anhalt, Germany']	51.820889699999995	10.970734095893887
+['"All� Te Espero" (2012)', '', '', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"All� Te Espero" (2012)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"All� Te Espero" (2012)', '', '', '', '', 'Filandia, Colombia']	2.8894434	-73.783892
+['"Almost Famous: The Series" (2012)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Married" (2012)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Almost Married" (2012)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Almost Married" (2012)', '', '', '', '', 'Ghana']	8.0300284	-1.0800271
+['"Almost Married" (2012)', '', '', '', '', 'Maui, Hawaii, USA']	20.802956799999997	-156.31068331602177
+['"Almost There" (2012)', '', '', '', '', 'Belgium']	50.6402809	4.6667145
+['"Aloha: The Paige Hurd Show" (2012)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alouette" (2012)', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Alt for Danmark" (2012)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Alt for Danmark" (2012)', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Amateur Hour" (2012)', '', '', '', '', 'Kent, Ohio, USA']	41.1536674	-81.357886
+['"Amaz�nia" (2012)', '', '', '', '', 'S�o Paulo, Brazil']	-10.3333333	-53.2
+['"Amb filosofia" (2012) {L\'amor (#3.5)}', '', '', 'La Paloma, Barcelona, Catalonia, Spain']	41.369539	1.7958503
+['"America Unearthed" (2012) {Great Wall of Texas (#2.3)}', 'Rockwall, Texas, USA']	32.8923464	-96.4066987
+['"America\'s Elite" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Elite" (2012)', '', '', '', 'Colorado Springs, Colorado, USA']	38.8339578	-104.8253485
+['"America\'s Elite" (2012)', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"America\'s Elite" (2012)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"America\'s Elite" (2012)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Money Class with Suze Orman" (2012)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next President" (2012)', '', '', 'New Jersey, USA']	40.0757384	-74.4041622
+['"America\'s Next President" (2012)', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"American Candy" (2012)', '', '', '', '', 'Williamsburg, Brooklyn, New York City, New York, USA']	40.714622	-73.95345
+['"American Chainsaw" (2012)', '', '', '', 'Medway, Massachusetts, USA']	42.1417641	-71.3967256
+['"American Chainsaw" (2012)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Chainsaw" (2012)', '', '', '', 'Salem, Massachusetts, USA']	42.5195292	-70.8967226
+['"American Chainsaw" (2012)', '', '', '', 'Manchester, New Hampshire, USA']	42.9956397	-71.4547891
+['"American Chainsaw" (2012)', '', '', '', 'Worcester, Massachusetts, USA']	42.2625932	-71.8022934
+['"American Colony: Meet the Hutterites" (2012)', '', 'King Colony Ranch, Montana, USA']	47.0558045	-109.6371317
+['"American DeTour" (2012)', '', '', '', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"American DeTour" (2012)', '', '', '', 'Olean, Missouri, USA']	38.4108631	-92.5293537
+['"American DeTour" (2012)', '', '', '', 'Olean, Missouri, USA']	38.4108631	-92.5293537
+['"American Dog with Victoria Stilwell" (2012) {The Jail Dogs of Gwinnett County (#1.1)}', 'Gwinnett County Jail, 2900 University Parkway, Lawrenceville, Georgia, USA']	33.9562149	-83.9879625
+['"American Nature" (2012)', '', '', '', 'Sequoia National Forest, California, USA']	35.81102455	-118.4075129459604
+['"American Riviera Television" (2012)', '', '', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"American Riviera" (2012)', '', '', '', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"Americas Superwoman, Next Action Diva" (2012)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amish Mafia" (2012)', '', '', '', '', 'Lancaster County, Pennsylvania, USA']	40.08067	-76.2411283
+['"Amish Mafia" (2012)', '', '', '', '', 'Hart County, Kentucky, USA']	37.2921203	-85.8845579
+['"Amish Mafia" (2012)', '', '', '', '', 'Holmes County, Ohio, USA']	40.5840117	-81.9304045
+['"Amish Mafia" (2012)', '', '', '', '', 'Lancaster, Pennsylvania, USA']	40.08067	-76.2411283
+['"Amish Mafia" (2012)', '', '', '', '', 'Paradise, Pennsylvania, USA']	40.0098226	-76.1285655
+['"Amish Mafia" (2012)', '', '', '', '', 'Minot, North Dakota, USA']	48.23251	-101.296273
+['"Amish Mafia" (2012)', '', '', '', '', 'Washington County, Iowa, USA']	41.3160082	-91.7340327
+['"Amish Mafia" (2012)', '', '', '', '', 'Pennsylvania, USA']	40.9699889	-77.7278831
+['"Amish Mafia" (2012)', '', '', '', '', 'Pinecraft - Sarasota, Florida, USA']	27.3250465	-82.4912075
+['"Amish Mafia" (2012)', '', '', '', '', 'Sarasota, Florida, USA']	27.3364347	-82.5306527
+['"Amish Mafia" (2012) {Devil Comes Calling (#1.3)}', 'Lancaster County, Pennsylvania, USA']	40.08067	-76.2411283
+['"Amish Mafia" (2012) {Fire from the Lord (#1.2)}', 'Lancaster County, Pennsylvania, USA']	40.08067	-76.2411283
+['"Amish Mafia" (2012) {Fire from the Lord (#1.2)}', 'Lebanon, Pennsylvania, USA']	40.375713	-76.4626118
+['"Amish Mafia" (2012) {No Peace for the Wicked (#1.1)}', 'Lancaster County, Pennsylvania, USA']	40.08067	-76.2411283
+['"Amor brav�o" (2012)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amor brav�o" (2012)', '', '', '', '', 'Televisa San Angel, Mexico City, Distrito Federal, Mexico']	19.34476565	-99.20394733773142
+['"Amor brav�o" (2012)', '', '', '', '', 'Aculco, Morelos, Mexico']	19.5394576	-99.0351938
+['"Amor brav�o" (2012)', '', '', '', '', 'Santiago, Chile']	-33.4377968	-70.6504451
+['"Amores de historia" (2012)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Andr�s y Leticia (#1.4)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Claudio y Adri�n (#1.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Clelia y Jer�nimo (#1.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Dardo y Cristina (#1.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {David y Lina (#1.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Ernesto y F�tima (#1.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Jorge y Delia (#1.7)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Kumi y Ariel (#1.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Lucio, Eliana y Carlos (#1.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Mario y Sof�a (#1.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Marta y Leandro (#1.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores de historia" (2012) {Mercedes y Alejandro (#1.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amores verdaderos" (2012)', '', '', '', 'Televisa San Angel, Mexico City, Distrito Federal, Mexico']	19.34476565	-99.20394733773142
+['"Amores verdaderos" (2012)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amores verdaderos" (2012)', '', '', '', 'Colima, Mexico']	19.166667	-104.0
+['"Amores verdaderos" (2012)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Amores verdaderos" (2012)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"An Actors Diary" (2012)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"An Emotional Story" (2012)', '', '', '', 'Bryant, Arkansas, USA']	34.5959265	-92.4890469
+['"An Espresso with Vito" (2012)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"An Evil Man" (2012) {Brain Freeze}', '', '', 'Dettenhausen, Germany']	48.6084636	9.0983623
+['"Ananda" (2012)', '', '', '', '', '', 'Jaisalmer, Rajasthan, India']	27.02801615	70.7785056232077
+['"Ander Egg" (2012)', '', '', '', '', 'Entre R�os, Argentina']	-34.9964963	-64.9672817
+['"Andra Sidan EM" (2012)', '', '', '', '', 'Sweden']	59.6749712	14.5208584
+['"Andrrat" (2012)', '', '', '', '', 'Prishtina, Kosovo']	42.5869578	20.9021231
+['"Anger Management" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna German" (2012)', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Anna German" (2012)', '', '', '', '', 'Wroclaw, Dolnoslaskie, Poland']	51.1263106	16.97819633051261
+['"Anna in a Minute" (2012) {Frith Street, Soho (#1.10)}', 'Frith Street, Soho, London, England, UK']	51.5140093	-0.1317206
+['"Anna in a Minute" (2012) {Frith Street, Soho (#1.10)}', 'Soho, London, England, UK']	51.5131628	-0.1311754
+['"Anna in a Minute" (2012) {Frith Street, Soho (#1.10)}', 'Leicester Square, Soho, London, England, UK']	51.5105992	-0.1308565
+['"Anna in a Minute" (2012) {Hitchcock (#1.11)}', '', 'Leytonstone, London, England, UK']	51.5710783	0.0064237
+['"Anna in a Minute" (2012) {Jack the Ripper (#1.7)}', 'Whitechapel, London, England, UK']	51.5186227	-0.0620807
+['"Anna in a Minute" (2012) {Jack the Ripper (#1.7)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Anna in a Minute" (2012) {Jack the Ripper (#1.7)}', 'Spitalfields, London, England, UK']	51.5195274	-0.0751701
+['"Anna in a Minute" (2012) {Jack the Ripper (#1.7)}', 'Ten Bells, Commercial Street, Spitalfields, London, England, UK']	51.51936325	-0.0742915773033235
+['"Anna in a Minute" (2012) {Valentino (#1.12)}', '', 'Somerset House, Strand, London, England, UK']	51.5109351	-0.11810937305828895
+['"Another Kind of Hero" (2012)', '', '', '', 'El Paso, Texas, USA']	31.7754152	-106.4646348
+['"Antes que sea tarde" (2012)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {(#1.56)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {(#1.78)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {(#1.79)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {(#1.80)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {(#1.81)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {(#1.82)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Anam� Ferreira (#1.75)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Andrea Politti (#1.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Araceli Gonz�lez (#1.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Bel�n Francese (#1.33)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Benjam�n Rojas (#1.31)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Benjam�n Vicu�a (#1.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Carlos Baute (#1.35)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Carolina Papaleo (#1.54)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Catherine Fulop (#1.51)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Claudia Ciardone (#1.69)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Claudia Font�n (#1.64)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Coco Sily (#1.66)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Dady Brieva (#1.41)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Dario Lopilato (#1.60)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Diego Peretti (#1.49)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Diego P�rez (#1.77)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Diego Ramos (#1.18)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Dolores Fonzi (#1.39)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Eleonora Wexler (#1.52)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Eugenia Tobal (#1.53)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Evangelina Anderson (#1.63)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Fabi�n Mazzei (#1.62)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Favio Posca (#1.21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Flavia Palmiero (#1.47)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Florencia Torrente (#1.45)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {F�tima Florez (#1.67)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Georgina Barbarossa (#1.29)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Germ�n Paoloski (#1.48)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Gonzalo Valenzuela (#1.23)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Guillermo Coppola (#1.32)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Hern�n Piqu�n (#1.27)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Horacio Cabak (#1.44)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Horacio Pagani (#1.25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Humberto Tortonese (#1.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Jorge Ib��ez (#1.36)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Jorge Rial (#1.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Jos� Mar�a Muscari (#1.40)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Juan Alberto Bad�a (#1.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Juan Di Natale/Gonzalo Rodr�guez (#1.7)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Juan Jos� Campanella (#1.14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Juana Viale (#1.83)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Karina Jelinek (#1.19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Karina Mazzocco (#1.30)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Lali Esp�sito (#1.20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Laura Azcurra (#1.72)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Leonardo Sbaraglia (#1.46)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Ludovico Di Santo (#1.37)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Luis Ventura (#1.15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Luisana Lopilato (#1.28)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Marcelo De Bellis (#1.43)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Mariano Mart�nez (#1.16)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Mariano Peluffo (#1.68)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Mariano Zabaleta (#1.65)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Martin Seefeld (#1.57)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Mar�a Car�mbula (#1.50)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Mar�a Eugenia Rit� (#1.24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Mar�a Fernanda Callejon (#1.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Mar�a V�zquez (#1.70)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Mat�as Ale (#1.34)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Maximiliano Guerra (#1.22)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Miguel �ngel Cherutti (#1.76)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {M�nica Ayos (#1.74)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Nazarena Velez (#1.17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Nazarena V�lez (#1.61)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Nicole Neumann (#1.71)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Nicol�s V�zquez (#1.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Pablo Rago (#1.26)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Pamela David (#1.38)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Peter Lanzani/Ogro Fabbiani (#1.73)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Ricardo Dar�n (#1.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Ronnie Arias (#1.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Sergio Goycochea (#1.59)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Tacho Riera (#1.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Tom�s Fonzi (#1.55)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Turco Naim (#1.58)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antes que sea tarde" (2012) {Victoria Onetto (#1.42)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Anti-Meth Campaign" (2012)', '', '', '', 'Oklahoma, USA']	34.9550817	-97.2684063
+['"Antigone 34" (2012)', '', '', '', '', 'Montpellier, H�rault, France']	46.603354	1.8883335
+['"Antique America" (2012)', '', '', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Ao Som do Mar, � Luz do C�u" (2012)', '', '', 'Copacabana, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9719642	-43.1843432
+['"Apokalipsis. Poslednie chisla Mayya" (2012)', '', 'Russia']	64.6863136	97.7453061
+['"Apokalipsis. Poslednie chisla Mayya" (2012)', '', 'Guatemala']	15.6356088	-89.8988087
+['"Apokalipsis. Poslednie chisla Mayya" (2012)', '', 'Mexico']	19.4326296	-99.1331785
+['"Apollo Live" (2012)', '', '', '', '', 'Apollo Theatre - 253 W. 125th Street, Harlem, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Apparences" (2012)', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Aquela altura do m�s" (2012)', '', '', '', 'Porto, Portugal']	41.1494512	-8.6107884
+['"Aquela altura do m�s" (2012)', '', '', '', 'Oliveira de Azem�is, Portugal']	40.0332629	-7.8896263
+['"Arcana" (2012)', '', '', '', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"Archivo Cero" (2012)', '', '', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Arctic Air" (2012)', '', '', '', '', 'Hay River, Northwest Territories, Canada']	60.8155874	-115.7866099
+['"Arctic Air" (2012)', '', '', '', '', 'Pitt Meadows Airport, Pitt Meadows, British Columbia, Canada']	49.21562015	-122.7134035802195
+['"Arctic Air" (2012)', '', '', '', '', 'Britannia Beach, British Columbia, Canada']	49.626392	-123.206005
+['"Arctic Air" (2012)', '', '', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012)', '', '', '', '', 'Fort Resolution, Northwest Territories, Canada']	61.1705889	-113.6735624
+['"Arctic Air" (2012) {All In (#1.2)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {All In (#1.2)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arctic Air" (2012) {All the Vital Things (#1.4)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Blood Is Thicker Than Water (#2.11)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Bombs Away (#2.2)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {C-TVAK (#1.6)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {C-TVAK (#1.6)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arctic Air" (2012) {Dangerous Cargo (#2.6)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Drop in for Lunch (#1.10)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Flying Solo (#3.7)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Fool Me Once (#2.12)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Hell Hath No Fury (#2.9)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {High Water (#3.2)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Hijacked (#1.3)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Last Drop (#3.10)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {New North (#1.9)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {New North (#1.9)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arctic Air" (2012) {Northern Lights (#1.5)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Northern Lights (#1.5)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arctic Air" (2012) {Old Wounds (#2.5)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {On the Edge (#3.6)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Open Season (#2.3)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Out of a Clear Blue Sky (#1.1)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Out of a Clear Blue Sky (#1.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arctic Air" (2012) {Rites of Passage (#3.9)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Secrets & Lies (#2.8)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Skeletons in the Closet (#2.10)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Stormy Weather (#2.4)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {The Devils You Know (#3.5)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {The Fall PT.1 (#3.11)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {The Fall PT.2 (#3.12)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {The Finish Line (#3.4)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {The Fling (#3.3)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {The Fugitive (#3.8)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {The Professional (#1.8)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {The Professional (#1.8)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arctic Air" (2012) {The River (#3.1)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {There\'s Gold in Them Thar Hills (#2.7)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Ts\'inada (#2.13)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Vancouver Is Such a Screwed Up City (#1.7)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Arctic Air" (2012) {Vancouver Is Such a Screwed Up City (#1.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arctic Air" (2012) {Wildfire (#2.1)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Are We There Yet?" (2012)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Are We There Yet?" (2012)', '', '', '', 'Konya, Turkey']	38.0211951	32.5224943
+['"Are We There Yet?" (2012)', '', '', '', 'Kayseri, Turkey']	38.6582232	35.5546374
+['"Are We There Yet?" (2012)', '', '', '', 'Izmir, Turkey']	38.4147331	27.1434119
+['"Are We There Yet?" (2012)', '', '', '', 'John F. Kennedy International Airport, Jamaica, Queens, New York City, New York, USA']	40.642947899999996	-73.7793733748521
+['"Are You App?" (2012)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Area 49" (2012)', '', '', '', '', 'West Sacramento, California, USA']	38.5804609	-121.530234
+['"Arizona Centennial Conversations with Sandra Day O\'Connor" (2012)', "O'Connor House - 1300 North College Avenue Tempe, Arizona, USA"]	39.7837304	-100.4458825
+['"Arjun: Har Yug Mein Aayega Ek" (2012)', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Arjun: Har Yug Mein Aayega Ek" (2012)', '', '', 'Goa, India']	15.3004543	74.0855134
+['"Arjun: Har Yug Mein Aayega Ek" (2012)', '', '', 'Delhi, India']	28.6517178	77.2219388
+['"Arjun: Har Yug Mein Aayega Ek" (2012)', '', '', 'Jaipur, Rajasthan, India']	26.916194	75.820349
+['"Arjun: Har Yug Mein Aayega Ek" (2012)', '', '', 'New Delhi, Delhi, India']	28.6141793	77.2022662
+['"Arkitektur I Live" (2012)', '', '', '', 'Sluseholmen, Copenhagen, Denmark']	55.6462692	12.5489769
+['"Arkitektur I Live" (2012)', '', '', '', 'Fiberline, Copenhagen, Denmark']	55.670249	10.3333283
+['"Arkitektur I Live" (2012)', '', '', '', 'Kastrup S�bad, Kastrup, Denmark']	55.670249	10.3333283
+['"Arkitektur I Live" (2012)', '', '', '', 'Skaterparken, Copenhagen, Denmark']	55.670249	10.3333283
+['"Arkitektur I Live" (2012)', '', '', '', 'Performers House, Copenhagen, Denmark']	55.670249	10.3333283
+['"Arkitektur I Live" (2012)', '', '', '', 'Skuespilhuset, Copenhagen, Denmark']	55.68006655	12.594704636164867
+['"Arne Dahl: Ont blod" (2012)', '', '', '', 'Restaurang Tennstopet, Dalagatan 50, Stockholm, Sweden']	59.6749712	14.5208584
+['"Arne Dahl: Ont blod" (2012)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Around the World in 80 Plates" (2012) {Ciao Down (#1.6)}', 'Bologna, Emilia-Romagna, Italy']	44.4936714	11.3430347
+['"Around the World in 80 Plates" (2012) {Cry for Me Argentina (#1.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Around the World in 80 Plates" (2012) {Feeding the Demon (#1.8)}', 'Hong Kong, China']	22.2793278	114.1628131
+['"Around the World in 80 Plates" (2012) {Forget Paris (#1.2)}', 'Paris, France']	48.8566969	2.3514616
+['"Around the World in 80 Plates" (2012) {In and Out of Africa (#1.4)}', 'Marrakech, Morocco']	31.6258257	-7.9891608
+['"Around the World in 80 Plates" (2012) {London Calling (#1.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Around the World in 80 Plates" (2012) {Something Smells Fishy (#1.3)}', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Around the World in 80 Plates" (2012) {Tale of Two Villas (#1.5)}', 'Tuscany, Italy']	43.4586541	11.1389204
+['"Around the World in 80 Plates" (2012) {Thai Breaker (#1.7)}', 'Chiang Mai, Thailand']	18.790876	98.988048
+['"Arrow" (2012)', '', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012)', '', '', '', '', '', 'Hatley Castle, Royal Roads, Colwood, British Columbia, Canada']	48.4234135	-123.4939645
+['"Arrow" (2012)', '', '', '', '', '', 'Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"Arrow" (2012)', '', '', '', '', '', 'Squamish, British Columbia, Canada']	49.6980743	-123.1558612
+['"Arrow" (2012)', '', '', '', '', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Arrow" (2012) {(#6.13)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.14)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.15)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.16)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.17)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.18)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.19)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.20)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.21)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.22)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {(#6.23)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {A Matter of Trust (#5.3)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {A.W.O.L. (#4.11)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Al Sah-Him (#3.21)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {An Innocent Man (#1.4)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {An Innocent Man (#1.4)}', '', '', 'Frankfurt, Germany']	50.1106444	8.6820917
+['"Arrow" (2012) {An Innocent Man (#1.4)}', '', '', 'Brussels, Belgium']	50.8436709	4.3674366933879565
+['"Arrow" (2012) {An Innocent Man (#1.4)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Beacon of Hope (#4.17)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Betrayal (#1.13)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Betrayal (#1.13)}', '', '', 'Brussels, Belgium']	50.8436709	4.3674366933879565
+['"Arrow" (2012) {Betrayal (#1.13)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Beyond Redemption (#4.4)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Birds of Prey (#2.17)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Blast Radius (#2.10)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Blind Spot (#2.11)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Blood Debts (#4.10)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Bratva (#5.12)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Broken Arrow (#3.19)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Broken Dolls (#2.3)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Broken Dolls (#2.3)}', '', '', '511 Royal Avenue, New Westminster, British Columbia, Canada']	49.2005226	-122.9203441
+['"Arrow" (2012) {Broken Hearts (#4.16)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Brotherhood (#4.7)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Burned (#1.10)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Burned (#1.10)}', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Canaries (#3.13)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Canary Cry (#4.19)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Checkmate (#5.16)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {City of Blood (#2.21)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {City of Heroes (#2.1)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Code of Silence (#4.14)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Corto Maltese (#3.3)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Corto Maltese (#3.3)}', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Arrow" (2012) {Crisis on Earth-X, Part 2 (#6.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Crucible (#2.4)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Damaged (#1.5)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Damaged (#1.5)}', '', '', '', 'Brussels, Belgium']	50.8436709	4.3674366933879565
+['"Arrow" (2012) {Damaged (#1.5)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Arrow" (2012) {Damaged (#1.5)}', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Dangerous Liaisons (#5.19)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Dark Waters (#4.9)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Darkness on the Edge of Town (#1.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Darkness on the Edge of Town (#1.22)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Darkness on the Edge of Town (#1.22)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Arrow" (2012) {Dead to Rights (#1.16)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Dead to Rights (#1.16)}', '', '', 'Brussels, Belgium']	50.8436709	4.3674366933879565
+['"Arrow" (2012) {Dead to Rights (#1.16)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Deathstroke (#2.18)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Deathstroke Returns (#6.5)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Disbanded (#5.18)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Divided (#6.10)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Dodger (#1.15)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Dodger (#1.15)}', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Draw Back Your Bow (#3.7)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Eleven-Fifty-Nine (#4.18)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Fallout (#6.1)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Fighting Fire with Fire (#5.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Genesis (#4.20)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Green Arrow (#4.1)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Guilty (#3.6)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Haunted (#4.5)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Heir to the Demon (#2.13)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Home Invasion (#1.20)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Home Invasion (#1.20)}', '', '', 'Brussels, Belgium']	50.6402809	4.6667145
+['"Arrow" (2012) {Home Invasion (#1.20)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Honor Thy Father (#1.2)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Honor Thy Father (#1.2)}', '', 'Brussels, Belgium']	50.8436709	4.3674366933879565
+['"Arrow" (2012) {Honor Thy Father (#1.2)}', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Honor Thy Fathers (#5.21)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Human Target (#5.5)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Identity (#2.2)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Invasion! (#5.8)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Irreconcilable Differences (#6.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Kapiushon (#5.17)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Keep Your Enemies Closer (#2.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {League of Assassins (#2.5)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Left Behind (#3.10)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Legacies (#1.6)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Legacies (#1.6)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Legacy (#5.1)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Legends of Yesterday (#4.8)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Lian Yu (#5.23)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Lone Gunmen (#1.3)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Lone Gunmen (#1.3)}', '', '', 'Frankfurt, Germany']	51.0834196	10.4234469
+['"Arrow" (2012) {Lone Gunmen (#1.3)}', '', '', 'Brussels, Belgium']	50.8436709	4.3674366933879565
+['"Arrow" (2012) {Lone Gunmen (#1.3)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Lost Souls (#4.6)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Lost in the Flood (#4.22)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Midnight City (#3.11)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Missing (#5.22)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Monument Point (#4.21)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Muse of Fire (#1.7)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Muse of Fire (#1.7)}', '', '', 'Brussels, Belgium']	50.6402809	4.6667145
+['"Arrow" (2012) {Muse of Fire (#1.7)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {My Name Is Oliver Queen (#3.23)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Nanda Parbat (#3.15)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Nanda Parbat (#3.15)}', '', '', 'Petra, Jordan']	30.3273975	35.4464006
+['"Arrow" (2012) {Next of Kin (#6.3)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Penance (#5.4)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Pilot (#1.1)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Pilot (#1.1)}', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Promises Kept (#6.6)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Public Enemy (#3.18)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Public Enemy (#3.18)}', '', '', 'Allied Shipyard, North Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Arrow" (2012) {Restoration (#4.3)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Reversal (#6.4)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Sacrifice (#1.23)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Sacrifice (#1.23)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Sacrifice (#1.23)}', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Arrow" (2012) {Salvation (#1.18)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Salvation (#1.18)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Sara (#3.2)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Schism (#4.23)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Second Chances (#5.11)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Seeing Red (#2.20)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Sins of the Father (#4.13)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {So It Begins (#5.6)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Spectre of the Gun (#5.13)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {State v. Queen (#2.7)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {State v. Queen (#2.7)}', '', '', 'Vancouver Art Gallery, 750 Hornby Street, Vancouver, British Columbia, Canada']	49.28287695	-123.1205638545168
+['"Arrow" (2012) {Streets of Fire (#2.22)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Suicidal Tendencies (#3.17)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Suicidal Tendencies (#3.17)}', '', 'Heritage Hall, 3102 Main Street, Vancouver, British Columbia, Canada']	49.25728115	-123.10081718058875
+['"Arrow" (2012) {Suicide Squad (#2.16)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Taken (#4.15)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Thanksgiving (#6.7)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Brave and the Bold (#3.8)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Brave and the Bold (#3.8)}', '', 'Transamerica Pyramid San Francisco, California, USA']	37.795200550000004	-122.40279267840137
+['"Arrow" (2012) {The Calm (#3.1)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Candidate (#4.2)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Climb (#3.9)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Fallen (#3.20)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Huntress Returns (#1.17)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Huntress Returns (#1.17)}', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {The Magician (#3.4)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Man Under the Hood (#2.19)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Odyssey (#1.14)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Odyssey (#1.14)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {The Offer (#3.16)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Recruits (#5.2)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Return (#3.14)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Scientist (#2.8)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Secret Origin of Felicity Smoak (#3.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Sin-Eater (#5.14)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Undertaking (#1.21)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {The Undertaking (#1.21)}', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {The Undertaking (#1.21)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Arrow" (2012) {This Is Your Sword (#3.22)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Three Ghosts (#2.9)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Time of Death (#2.14)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Tremors (#2.12)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Tribute (#6.2)}', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Trust But Verify (#1.11)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Trust But Verify (#1.11)}', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Unchained (#4.12)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Underneath (#5.20)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Unfinished Business (#1.19)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Unfinished Business (#1.19)}', '', 'Baltimore Inner Harbor, Baltimore, Maryland, USA']	39.28532985	-76.61703013174568
+['"Arrow" (2012) {Unfinished Business (#1.19)}', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Unthinkable (#2.23)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Uprising (#3.12)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Vendetta (#1.8)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Vendetta (#1.8)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Vertigo (#1.12)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Vertigo (#1.12)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arrow" (2012) {Vigilante (#5.7)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {What We Leave Behind (#5.9)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Who Are You? (#5.10)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Year\'s End (#1.9)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Arrow" (2012) {Year\'s End (#1.9)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Art Market Review" (2012)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Art Market Review" (2012)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Art Market Review" (2012)', '', '', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Art Market Review" (2012)', '', '', '', 'Downtown, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Art Republik TV" (2012)', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"Art/Trek NYC" (2012)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Arty Pants" (2012)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"As Brasileiras" (2012)', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"As Linhas de Torres Vedras" (2012)', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"As Linhas de Torres Vedras" (2012)', '', '', 'Torres Vedras, Portugal']	39.11014835	-9.276731117530929
+['"As Linhas de Torres Vedras" (2012)', '', '', 'Sintra, Portugal']	38.8355605	-9.352225245746453
+['"As Linhas de Torres Vedras" (2012)', '', '', '�bidos, Leiria, Portugal']	40.0332629	-7.8896263
+['"Ash Global" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Asia\'s Next Top Model" (2012) {The Girl in a Spin (#3.1)}', 'Singapore, Singapore']	1.357107	103.8194992
+['"Assassin vs Assassin" (2012)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Assault Force" (2012)', '', '', '', '', 'Kazakhstan']	47.2286086	65.2093197
+['"Assignment: Unexplained" (2012)', '', '', 'Charlton Flats, Angeles National Forest, California, USA']	34.6169308	-118.59035513054391
+['"Assolti e rimborsati" (2012)', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"At Water\'s Edge" (2012)', '', '', '', 'County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Atlilar" (2012)', '', '', '', '', 'Sofia, Bulgaria']	42.6073975	25.4856617
+['"Atonement: Florence" (2012)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Attack of the Pig-Zombies!" (2012)', '', '', 'Santa Maria della Versa, Pavia, Lombardia, Italy']	44.9861766	9.3001984
+['"Attack of the Pig-Zombies!" (2012) {Pilot/Resistenza (#1.1)}', 'Santa Maria della Versa, Pavia, Lombardia, Italy']	44.9861766	9.3001984
+['"Audrey\'s Kitchen" (2012)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Auf Herz und Nieren" (2012)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Aufnahmezustand" (2012)', '', '', '', 'Funkhaus Berlin, Berlin, Germany']	52.4789206	13.499754146623557
+['"Aurora Short Film Festival" (2012)', '', '', 'Sydney Opera House - 2 Macquarie Street, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Australia on Trial" (2012)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Australiens Nationalparks" (2012)', '', '', 'Australia']	-24.7761086	134.755
+['"Autoweek\'s Vinsetta Garage" (2012)', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"Autoweek\'s Vinsetta Garage" (2012)', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Autoweek\'s Vinsetta Garage" (2012)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Autoweek\'s Vinsetta Garage" (2012)', '', '', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"Autoweek\'s Vinsetta Garage" (2012)', '', '', 'Santa Ana, California, USA']	33.7494951	-117.8732213
+['"Avant les Jeux" (2012)', '', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Awake" (2012)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Game Day (#1.9)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Guilty (#1.3)}', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Kate Is Enough (#1.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Nightswimming (#1.8)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Oregon (#1.5)}', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Pilot (#1.1)}', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Ricky\'s Tacos (#1.7)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Say Hello to My Little Friend (#1.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Slack Water (#1.10)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {That\'s Not My Penguin (#1.6)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {The Little Guy (#1.2)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Turtles All the Way Down (#1.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awake" (2012) {Two Birds (#1.12)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Awkward Moments with Jesus" (2012)', '', '', 'Newberg, Oregon, USA']	45.300596	-122.9725418
+['"Awkward Moments with Jesus" (2012)', '', '', 'McMinnville, Oregon, USA']	45.2100367	-123.194463
+['"Awkward Moments with Jesus" (2012) {Dating Advice (#1.2)}', 'Newberg, Oregon, USA']	45.300596	-122.9725418
+['"Awkward Moments with Jesus" (2012) {Scrabble (#1.3)}', 'Newberg, Oregon, USA']	45.300596	-122.9725418
+['"Awkward Moments with Jesus" (2012) {Speed Dating (#1.1)}', 'McMinnville, Oregon, USA']	45.2100367	-123.194463
+['"B-thrifty, Predator" (2012)', '', '', '', 'Alicante, Spain']	38.353738	-0.4901846
+['"B-thrifty, Predator" (2012) {The Best Swedish Album (#1.4)}', 'Alicante, Comunidad Valenciana, Spain']	38.353738	-0.4901846
+['"B-thrifty, Predator" (2012) {The Oil Fondue (#1.3)}', 'Alicante, Comunidad Valenciana, Spain']	38.353738	-0.4901846
+['"B-thrifty, Predator" (2012) {The Saxo (#1.1)}', '', 'Alicante, Comunidad Valenciana, Spain']	38.353738	-0.4901846
+['"B-thrifty, Predator" (2012) {The Wine Cooler (#1.2)}', 'Alicante, Comunidad Valenciana, Spain']	38.353738	-0.4901846
+['"B4U Talk of the Town" (2012)', '', '', '', 'New York, USA']	39.7837304	-100.4458825
+['"BBC Comedy Feeds" (2012) {C-Bomb (#2.4)}', '', 'Sheffield, South Yorkshire, England, UK']	53.3806626	-1.4702278
+['"BBC Comedy Feeds" (2012) {In Deep (#3.6)}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"BBC Comedy Feeds" (2012) {Rude Boys (#3.7)}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"BBC Proms" (2012) {Prom 59: John Wilson on Broadway (#1.23)}', 'Royal Albert Hall, South Kensington, London, England, UK']	51.5073219	-0.1276474
+['"BIT Parts" (2012)', '', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Baal Veer" (2012) {(#1.422)}', '', '', '', 'Bhullar garden, Madh Island, Mumbai, India']	19.1375285	72.7918857
+['"Baal Veer" (2012) {(#1.422)}', '', '', '', 'Bageecha restaurant, Malwani, Mumbai, India']	19.1860439	72.8196437
+['"Babble-On Begins" (2012)', '', '', '', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"Baby Daddy" (2012)', '', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby Daddy" (2012) {Love and Carriage (#5.1)}', '', 'Stage 17, CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby Time" (2012)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Babylon" (2012)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de la triple carambola (#1.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de las obesas degolladas (primera parte) (#1.7)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de las obesas degolladas (segunda parte) (#1.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de los besos sellados (primera parte) (#1.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de los besos sellados (segunda parte) (#1.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de los besos sellados (tercera parte) (#1.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de los miomorfos expansivos (primera parte) (#1.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de los miomorfos expansivos (segunda parte) (#1.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso de los ojos bien abiertos (#1.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso del arma caliente (#1.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso del c�lculo brillante (#1.4)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso del diablo en el campanario (#1.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babylon" (2012) {El extra�o caso del ri��n asesino (#1.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Babys! Kleines Wunder - Gro�es Gl�ck" (2012)', '', 'Klinikum S�dstadt, Rostock, Mecklenburg-Western Pomerania, Germany']	51.0834196	10.4234469
+['"Back to the Streets" (2012)', '', '', '', 'Kuala Lumpur, Malaysia']	3.1516964	101.6942371
+['"Backstage BYU" (2012)', '', '', '', '', 'Brigham Young University, Provo, Utah, USA']	40.2551075	-111.64965648425293
+['"Backstage: Lakers" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bad Education" (2012)', '', '', '', '', 'Battersea, London, England, UK']	51.4707933	-0.172214
+['"Bad Seeds" (2012)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Baggage Battles" (2012) {Lady Luck (#3.12)}', '', 'St. Paul, Minnesota, USA']	44.9504037	-93.1015026
+['"Baggage Battles" (2012) {Lady Luck (#3.12)}', '', 'St. Bonifacius, Minnesota, USA']	44.9055181	-93.7474636
+['"Baggage Battles" (2012) {Lady Luck (#3.12)}', '', 'St. Paul, Minnesota, USA']	44.9504037	-93.1015026
+['"Baggage Battles" (2012) {Lady Luck (#3.12)}', '', 'West Saint Paul, Minnesota, USA']	44.9161045	-93.101639
+['"Baggage Battles" (2012) {Liar Liar (#2.12)}', '', 'Shreveport, Louisiana, USA']	32.5221828	-93.7651944
+['"Baggage Battles" (2012) {Liar Liar (#2.12)}', '', '5906 North Market Street, Shreveport, Louisiana, USA']	32.604721	-93.848982
+['"Baggage Battles" (2012) {Sin City Win (#3.7)}', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Baggage Battles" (2012) {Sin City Win (#3.7)}', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Baggage Battles" (2012) {Sin City Win (#3.7)}', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Baggage Battles" (2012) {Sin City Win (#3.7)}', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Baggage Battles" (2012) {Space Case (#3.13)}', '', 'Sacramento, California, USA']	38.5815719	-121.4943996
+['"Baggage Battles" (2012) {Space Case (#3.13)}', '', 'Alameda, California, USA']	37.6090291	-121.899142
+['"Baggage Battles" (2012) {Space Case (#3.13)}', '', 'Galt, California, USA']	38.3012325	-121.33103724662058
+['"Baggage Battles" (2012) {Two-Faced (#3.9)}', '', 'Stockton, California, USA']	37.9577016	-121.2907796
+['"Baggage Battles" (2012) {Two-Faced (#3.9)}', '', 'Roseville, California, USA']	38.7521235	-121.2880059
+['"Baggage Battles" (2012) {Two-Faced (#3.9)}', '', 'Woodland, California, USA']	38.6786109	-121.7733285
+['"Baggage Battles" (2012) {Vancouver (#1.9)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Baggage Battles" (2012) {What a Dummy (#3.11)}', '', 'Stockton, California, USA']	37.9577016	-121.2907796
+['"Baggage Battles" (2012) {World War Score (#3.8)}', 'Normandy, France']	49.0677708	0.3138532
+['"BairradaTV" (2012)', '', '', '', '', 'Mealhada, Portugal']	40.347599450000004	-8.447948477823166
+['"BairradaTV" (2012)', '', '', '', '', 'Anadia, Aveiro, Portugal']	40.453937499999995	-8.444865540541723
+['"BairradaTV" (2012)', '', '', '', '', 'Cantanhede, Portugal']	40.3654887	-8.658317806596092
+['"BairradaTV" (2012)', '', '', '', '', 'Coimbra, Portugal']	40.2109801	-8.4292057
+['"BairradaTV" (2012)', '', '', '', '', '�gueda, Portugal']	40.0332629	-7.8896263
+['"BairradaTV" (2012)', '', '', '', '', 'Aveiro, Portugal']	40.640496	-8.6537841
+['"BairradaTV" (2012)', '', '', '', '', 'Praia de Mira, Portugal']	40.4556419	-8.8026211
+['"BairradaTV" (2012)', '', '', '', '', 'Praia da Tocha, Portugal']	40.329393	-8.8419906
+['"BairradaTV" (2012)', '', '', '', '', 'Vagos, Portugal']	40.50338405	-8.693426686518265
+['"BairradaTV" (2012)', '', '', '', '', '�lhavo, Portugal']	40.0332629	-7.8896263
+['"BalconyTV-Sunshine Coast" (2012) {Agnes J Walker: Hey Boy (#2.9)}', 'Sunshine Coast, Queensland, Australia']	-26.5443222	153.0507705
+['"BalconyTV-Sunshine Coast" (2012) {Hope Springs: Sooner or Later (#2.10)}', 'Sunshine Coast, Queensland, Australia']	-26.5443222	153.0507705
+['"BalconyTV-Sunshine Coast" (2012) {Matt Stillert: Four Diggers (#2.7)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"Ballbustaz Tv" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Band Challenge" (2012)', '', '', '', '', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Bandmates" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bank of Dave" (2012)', '', '', '', '', 'Burnley, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"Bar Monkeys" (2012)', '', '', '', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Barmageddon" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barter Kings" (2012) {Big Rig or Bust (#2.3)}', '', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {Clowning Around in Utah (#3.3)}', 'Provo, Utah, USA']	40.2338438	-111.6585337
+['"Barter Kings" (2012) {Driving Home the Deal (#3.7)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {First Comes Love, Then Comes Trading (#2.5)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {For Sail. Will Consider Trade (#2.6)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {Puppy Love (#3.2)}', '', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {Snakes on a Trade (#2.1)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {Swingin\' Deals and Screamin\' Wheels (#2.4)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {Tazed and Confused (#3.1)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {The Gloves Come Off (#3.6)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {The Gloves Come Off (#3.6)}', 'Fresno, California, USA']	36.7295295	-119.70886126075588
+['"Barter Kings" (2012) {The Traders Went Down to Georgia (#2.2)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {There\'s Snow Time Like Trading Time (#3.5)}', 'Provo, Utah, USA']	40.2338438	-111.6585337
+['"Barter Kings" (2012) {There\'s Snow Time Like Trading Time (#3.5)}', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {Tradecation (#3.4)}', '', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {Tradecation (#3.4)}', '', 'Santa Catalina Island, Channel Islands, California, USA']	34.1848815	-118.575941
+['"Barter Kings" (2012) {Trading or Bust (#3.8)}', '', 'Hesperia, California, USA']	34.4263886	-117.3008784
+['"Barter Kings" (2012) {Trading or Bust (#3.8)}', '', 'The New Tropicana Las Vegas - 3801 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Barter Kings" (2012) {Trading or Bust (#3.8)}', '', 'The Little White Wedding Chapel - 1301 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Bastian" (2012) {Amsterdam (2012) (#1.9)}', '', 'Amsterdam, Netherlands']	52.3727598	4.8936041
+['"Bastian" (2012) {Barcelona (2012) (#1.12)}', '', 'Barcelona, Spain']	41.3828939	2.1774322
+['"Bastian" (2012) {Barcelona (2012) (#1.13)}', '', 'Barcelona, Spain']	41.3828939	2.1774322
+['"Bastian" (2012) {Berlin (2012) (#1.7)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Bastian" (2012) {London - G�teborg (2012) (#1.14)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Bastian" (2012) {London - G�teborg (2012) (#1.14)}', 'G�teborg, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Bastian" (2012) {Paris-Amiens (#1.10)}', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Bastian" (2012) {Paris-Amiens (#1.10)}', '', '', 'Amiens, France']	49.8941708	2.2956951
+['"Bastian" (2012) {Warszawa (2012) (#1.5)}', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Batalla de Ingenios" (2012)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bathroomies" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Battle Castle" (2012)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Battle Castle" (2012)', '', '', '', '', 'Abbotsford, British Columbia, Canada']	49.0521162	-122.3294792
+['"Battle Castle" (2012)', '', '', '', '', 'Dover Castle, Dover, Kent, England, UK']	51.1289759	1.3228764412873386
+['"Battle Scars" (2012)', '', '', '', '', 'Edmonton, Alberta, Canada']	53.535411	-113.507996
+['"Battleground" (2012)', '', '', '', '', 'Madison, Wisconsin, USA']	43.074761	-89.3837613
+['"Be Inspired" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Be the People" (2012)', '', '', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"BeatTV" (2012)', '', '', '', '', '', 'The London Studios, Upper Ground, South Bank, Lambeth, London, England, UK']	51.5073219	-0.1276474
+['"Beats in Bites" (2012)', '', '', '', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"Beauty and the Beast" (2012)', '', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012)', '', '', '', 'Cinespace Studios, Toronto, Ontario, Canada']	43.630009799999996	-79.52817339890174
+['"Beauty and the Beast" (2012) {About Last Night (#2.16)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Ancestors (#2.10)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Anniversary (#1.20)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beauty and the Beast" (2012) {Au Revoir (#4.13)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Basic Instinct (#1.4)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Beast Is the New Black (#2.17)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Bob & Carol & Vincent & Cat (#3.3)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Both Sides Now (#3.7)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Both Sides Now (#3.7)}', 'Niagara Falls, Ontario, Canada']	43.100983	-79.115295
+['"Beauty and the Beast" (2012) {Bridesmaid Up! (#1.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Cat and Mouse (#2.18)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Cat and Mouse (#2.18)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beauty and the Beast" (2012) {Cat\'s Out of the Bag (#3.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Catch Me If You Can (#2.15)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Cold Case (#2.19)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Cold Turkey (#1.12)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Destined (#3.13)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Don\'t Die on Me (#2.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {D�j� Vu (#2.22)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Ever After (#2.20)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Father Knows Best (#2.6)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Guess Who\'s Coming to Dinner? (#2.7)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Heart of Darkness (#1.18)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Heart of the Matter (#3.4)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Held Hostage (#2.11)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Hothead (#2.4)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beauty and the Beast" (2012) {Hothead (#2.4)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Kidnapped (#2.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beauty and the Beast" (2012) {Kidnapped (#2.2)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Liar, Liar (#2.3)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Man or Beast? (#2.8)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Monsieur et Madame Bete (#4.1)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Never Turn Back (#1.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beauty and the Beast" (2012) {On Thin Ice (#1.11)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Operation Fake Date (#2.21)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Out of Control (#1.7)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Patient X (#3.10)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Pilot (#1.1)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Playing with Fire (#1.19)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Proceed with Caution (#1.2)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Recipe for Disaster (#2.12)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Redemption (#2.14)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Reunion (#2.5)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Saturn Returns (#1.5)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Seeing Red (#1.10)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Shotgun Wedding (#3.8)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Sins of the Fathers (#3.12)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {The Getaway (#4.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {The Most Dangerous Beast (#3.5)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Till Death (#2.13)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Trapped (#1.8)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Trust No One (#1.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beauty and the Beast" (2012) {Unbreakable (#3.11)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Who Am I? (#2.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beauty and the Beast" (2012) {Who Am I? (#2.1)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beauty and the Beast" (2012) {Worth (#1.6)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Because I\'m Me" (2012)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Becoming Ricardo" (2012) {Becoming Ricardo: And Then There Was Steven (#1.4)}', 'Bronx, New York, USA']	40.8466508	-73.8785937
+['"Becoming Ricardo" (2012) {I Got the Part (#1.2)}', 'Bronx, New York City, New York, USA']	40.8466508	-73.8785937
+['"Becoming Ricardo" (2012) {I Got the Part (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bedlam" (2012)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beeching\'s Legacy" (2012)', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Wales, UK']	52.2928116	-3.73893
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Scotland, UK']	54.7023545	-3.2765753
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Great Ormesby, England, UK']	52.1303511	-0.4965684168947573
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Hemsby, Norfolk, England, UK']	52.6978049	1.684706
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Bourne, Lincolnshire, England, UK']	52.7682148	-0.3771217
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Twenty, England, UK']	52.7710362	-0.2907557
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Guestwick, England, UK']	52.7993389	1.0508211
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Felmingham, England, UK']	52.814062	1.3362096
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Rugby, England, UK']	52.3726682	-1.2620038
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Nuneaton, England, UK']	52.5246182	-1.4684488
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Bellingham, England, UK']	55.1443709	-2.2549272
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Humshaugh, England, UK']	55.0363115	-2.1268457
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Cowes, Isle of Wight, England, UK']	50.6710482	-1.3327111133199459
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Carisbrooke, England, UK']	50.6911525	-1.3128845
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Newport, England, UK']	50.6913105	-1.3163555978208235
+['"Beeching\'s Legacy" (2012)', '', '', '', "Devil's Elbow, England, UK"]	53.4704333	-1.9364798
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Bembridge, England, UK']	50.68396315	-1.0953838908896554
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Freshwater, England, UK']	50.67944875	-1.5059996811505698
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Sandown, England, UK']	50.6613306	-1.150346505454647
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Ventnor, Isle of Wight, England, UK']	50.59648145	-1.217960984565649
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Eardsley Junction, England, UK']	54.7023545	-3.2765753
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Credenhill, England, UK']	52.0880024	-2.8043354
+['"Beeching\'s Legacy" (2012)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Muir of Ord, Scotland, UK']	57.5173183	-4.456204
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Helensburgh Upper, Scotland, UK']	56.0124349	-4.7304396
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Amlwch, Wales, UK']	53.4090317	-4.342649
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Llandudno, Wales, UK']	53.322475	-3.8243251
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Crieff, Scotland, UK']	56.372717	-3.8397453
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Birmingham, England, UK']	52.4796992	-1.9026911
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Southend, England, UK']	51.6020246	-0.9153487
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Hedge End, England, UK']	50.913618549999995	-1.3088754793918098
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Birstall, England, UK']	52.678805100000005	-1.124466850104485
+['"Beeching\'s Legacy" (2012)', '', '', '', 'Ardlui, Scotland, UK']	56.3029414	-4.7215352
+['"Beeching\'s Legacy" (2012) {(#1.1)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Beeching\'s Legacy" (2012) {(#1.2)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Beeching\'s Legacy" (2012) {(#1.3)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Beeching\'s Legacy" (2012) {(#1.4)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Beer Money" (2012)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Before We Go to Sleep" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beg. Borrow. Steal." (2012)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beg. Borrow. Steal." (2012)', '', '', '', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"Behind the Gates" (2012)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Behind the Gates" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Behind the Talent" (2012) {Scare-a-Cuse (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Behind the Talent" (2012) {Scare-a-Cuse (#1.2)}', 'Syracuse, New York, USA']	43.0481221	-76.1474244
+['"Being Brendo" (2012)', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Being Vanessa" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Being: Liverpool" (2012)', '', '', '', 'Anfield Stadium, Anfield, Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"Being: Liverpool" (2012)', '', '', '', 'Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"Belgium\'s Got Talent" (2012/I)', '', '', '', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"Belgium\'s Got Talent" (2012/I)', '', '', '', 'Antwerp, Flanders, Belgium']	51.2211097	4.3997081
+['"Ben & Eric" (2012)', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Benchmarks" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bergica" (2012)', '', '', '', '', 'Antwerp, Flanders, Belgium']	51.2211097	4.3997081
+['"Bergmans video" (2012)', '', '', '', '', 'F�r�, Gotlands l�n, Sweden']	59.6749712	14.5208584
+['"Bergm�li� TV" (2012)', '', '', '', '', 'K�pavogur, Iceland']	64.9841821	-18.1059013
+['"Bergm�li� TV" (2012)', '', '', '', '', 'Reykjav�k, Iceland']	64.9841821	-18.1059013
+['"Bering Sea Gold" (2012)', '', '', '', 'Nome, Alaska, USA']	64.5011111	-165.4063889
+['"Bering Sea Gold" (2012) {The Gold Bar (#6.11)}', '', '315 Front Street, Nome, Alaska, USA']	64.5011111	-165.4063889
+['"Bering Sea Gold: After the Dredge" (2012) {Gains and Losses (#1.2)}', 'Cold Spring Tavern - 5995 Stagecoach Road, Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"Bering Sea Gold: After the Dredge" (2012) {Risks and Relations (#1.1)}', 'Cold Spring Tavern - 5995 Stagecoach Road, Santa Barbara, California, USA']	34.52146625	-119.84043095
+['"Bering Sea Gold: Under the Ice" (2012)', '', '', 'Nome, Alaska, USA']	64.5011111	-165.4063889
+['"Bering Sea Gold: Under the Ice" (2012) {After the Dredge: Part 1 (#1.6)}', 'Indian House - 27655 Seward Highway, Indian, Alaska, USA']	58.3024092	-134.4150185
+['"Bernard & Knives" (2012)', '', '', '', 'Ebbw Vale, Blaenau Gwent, Wales, UK']	51.7812925	-3.2084383
+['"Bernard & Knives" (2012)', '', '', '', 'Maesteg, Bridgend, Wales, UK']	51.5049843	-3.5756674
+['"Best Friends" (2012)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best Friends" (2012)', '', '', '', '', 'Queen Creek, Arizona, USA']	33.2483858	-111.6341585
+['"Best Friends" (2012) {The Callback (#1.6)}', '', 'San Tan Valley, Arizona, USA']	33.1775233	-111.5478925
+['"Best Friends" (2012) {The Callback (#1.6)}', '', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Best Ink" (2012) {Purrfect Ink (#1.6)}', '', '', '3191 Casitas Ave., Los Angeles, California, USA']	34.115775239130436	-118.25140643478261
+['"Best Parks Ever" (2012) {Best Parks for Jaw Dropping Scenery (#1.1)}', 'Grand Canyon National Park, Arizona, USA']	36.307854750000004	-112.29289603702432
+['"Best Parks Ever" (2012) {Best Parks for Jaw Dropping Scenery (#1.1)}', 'Old Faithful, Yellowstone National Park, Wyoming, USA']	39.7837304	-100.4458825
+['"Best Parks Ever" (2012) {Best Parks for Jaw Dropping Scenery (#1.1)}', 'Yellowstone National Park, Wyoming, USA']	44.4648021	-110.8247619
+['"Best Parks Ever" (2012) {Best Parks for Jaw Dropping Scenery (#1.1)}', 'Glacier National Park, Montana, USA']	48.6174862	-113.76088505945765
+['"Best Parks Ever" (2012) {Best Parks for Jaw Dropping Scenery (#1.1)}', 'Great Smoky Mountains National Park - 107 Park Headquarters Road, Gatlinburg, Tennessee, USA']	35.714259	-83.5101638
+['"Best Parks Ever" (2012) {Best Parks for Jaw Dropping Scenery (#1.1)}', 'Yosemite National Park, California, USA']	37.84054795	-119.51658779802511
+['"Best Parks Ever" (2012) {Best Parks for Jaw Dropping Scenery (#1.1)}', 'Zion National Park, Utah, USA']	37.320774	-113.00484758652519
+['"Best of New York" (2012)', '', '', '', 'New York, USA']	39.7837304	-100.4458825
+['"Better Kansas City" (2012)', '', '', '', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"Better Off Dead" (2012)', '', '', '', 'Springfield, Oregon, USA']	44.0462362	-123.0220289
+['"Better Off Dead" (2012)', '', '', '', 'Eugene, Oregon, USA']	44.0505054	-123.0950506
+['"Beverly\'s Full House" (2012)', '', '', '', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"Beyond the Talent" (2012)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bicicleta e Melancia" (2012)', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Bid & Destroy" (2012) {Home Run House (#1.3)}', '', 'Auburn, New Hampshire, USA']	43.0045289	-71.348398
+['"Bid America!" (2012)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bid America!" (2012)', '', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"Bid America!" (2012)', '', '', '', '', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"Bid America!" (2012)', '', '', '', '', 'Oberlin, Ohio, USA']	41.2939386	-82.2173786
+['"Bid America!" (2012)', '', '', '', '', 'Wichita, Kansas, USA']	37.6922361	-97.3375448
+['"Bid America!" (2012)', '', '', '', '', 'Willmar, Minnesota, USA']	45.1219492	-95.0435373
+['"Big Break Atlantis" (2012)', '', '', '', 'Atlantis Hotel and Resort, Nassau, Paradise Island, Bahamas']	25.0783456	-77.3383331
+['"Big Kahuna" (2012)', '', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"Big Kahuna" (2012)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Big Kahuna" (2012)', '', '', '', '', 'Brasil']	-10.3333333	-53.2
+['"Big Kahuna" (2012)', '', '', '', '', 'France']	46.603354	1.8883335
+['"Big Kahuna" (2012)', '', '', '', '', 'Spain']	39.3262345	-4.8380649
+['"Big Yellow A-Hole" (2012)', '', '', '', 'Irving, Texas, USA']	32.8295183	-96.9442177
+['"Big Yellow A-Hole" (2012)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Big Yellow A-Hole" (2012) {An Introduction (#1.1)}', 'Irving, Texas, USA']	32.8295183	-96.9442177
+['"Big Yellow A-Hole" (2012) {An Introduction (#1.1)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Big Yellow A-Hole" (2012) {Did You Just Johnny Depp Me? (#1.5)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Big Yellow A-Hole" (2012) {Did You Just Johnny Depp Me? (#1.5)}', 'Mesquite, Texas, USA']	32.7666103	-96.599472
+['"Big Yellow A-Hole" (2012) {Hello, Richard (#1.2)}', 'Mesquite, Texas, USA']	32.7666103	-96.599472
+['"Big Yellow A-Hole" (2012) {Hello, Richard (#1.2)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Big Yellow A-Hole" (2012) {They Call Me Tink (#1.4)}', 'Mesquite, Texas, USA']	32.7666103	-96.599472
+['"Big Yellow A-Hole" (2012) {They Call Me Tink (#1.4)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"BigBanc" (2012)', '', '', '', '', "L'Hospitalet de Llobregat, Barcelona, Catalonia, Spain"]	41.3598601	2.0997927
+['"Biggest and Baddest" (2012)', '', '', '', 'Venezuela']	8.0018709	-66.1109318
+['"Biggest and Baddest" (2012)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Biggest and Baddest" (2012)', '', '', '', 'Nepal']	28.1083929	84.0917139
+['"Biggest and Baddest" (2012)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Bigtimekids" (2012)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Bikie Wars: Brothers in Arms" (2012)', '', '', 'Sydney, New South Wales, Australia']	-33.842903	151.072535

@@ -1,0 +1,186 @@
+['"Acrobat Ranch" (1950)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Forum of the Air" (1950)', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Andy and Della Russell" (1950)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Answer Yes or No" (1950)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Armstrong Circle Theatre" (1950) {The Right Approach (#4.11)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Around the Town" (1950)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Art Ford on Broadway" (1950)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"BBC Sunday-Night Theatre" (1950) {A Life in the Sun (#6.35)}', 'Assembly Hall, The Mound, Edinburgh, Scotland, UK']	55.9491898	-3.1948892958860755
+['"BBC Sunday-Night Theatre" (1950) {As You Like It/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {Julius Caesar/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {Othello/II}', '', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {Over the Garden Fence (#7.8)}', 'Folkestone, Kent, England, UK']	51.2474823	0.7105077
+['"BBC Sunday-Night Theatre" (1950) {Special: Humpty Dumpty - On Ice (#5.2)}', 'Wembley Arena, Wembley, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {Special: Sleeping Beauty - On Ice (#4.2)}', 'Wembley Arena, Wembley, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Captive (#5.52)}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Comedy of Errors/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Confidential Clerk (#4.35)}', 'Royal Lyceum Theatre, Edinburgh, Scotland, UK']	55.9470125	-3.2043513286066823
+['"BBC Sunday-Night Theatre" (1950) {The Life and Death of King John (#3.3)}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Life and Death of King John/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Life of King Henry V (#2.16)}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Life of King Henry V/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Merchant of Venice (#6.11)}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Merchant of Venice/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Merry Wives of Windsor/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Taming of the Shrew/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Tragedy of King Richard II (#1.44)}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Tragedy of King Richard II/III}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {The Tragedy of King Richard II/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {Tovarich (#5.4)}', "Lime Grove Studios, Lime Grove, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {Troilus and Cressida/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Theatre" (1950) {Twelfth Night/II}', 'BBC Lime Grove Studios, Lime Grove, Shepherds Bush, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"Beat the Clock" (1950)', '', '', '', '', 'Ritz Theatre, New York City, New York, USA']	40.7127281	-74.0060152
+['"Beat the Clock" (1950)', '', '', '', '', 'CBS Studio 51, New York City, New York, USA']	40.7127281	-74.0060152
+['"Beulah" (1950)', '', '', '', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {A Skunk Named Sam (#4.9)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Alice and the Actor (#2.15)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah Gets Her Man (#2.9)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah Gets a Fur Coat (#1.14)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah Goes Gardening (#3.4)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah Meets Aunt Mildred (#1.35)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah Meets the Eel (#1.12)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and Politics (#1.3)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Airplane (#4.4)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Bank (#3.6)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Boxer (#1.13)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Contest (#1.15)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Cowboy (#4.5)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Health Fanatic (#1.8)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Honeymooners (#1.37)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Jalopy (#4.16)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Motor (#1.27)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Real Estate (#1.9)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Shop (#1.24)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Stock Market (#1.34)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Stuffed Shirts (#1.38)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah and the Young Lawyer (#2.4)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Decision (#1.11)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Elopement (#1.4)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Fine (#1.10)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Good Deed (#1.31)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Hidden Treasure (#1.21)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Horse (#2.3)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Reform Plan (#1.33)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Southern Cooking (#1.18)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Beulah\'s Surprise (#1.29)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Bill Becomes a Baker (#1.20)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Bill\'s Baby (#2.6)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Bill\'s Birthday Blues (#2.10)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Bill\'s Examination (#4.11)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Bill\'s Fight Fix (#1.19)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Bill, the Babysitter (#1.23)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Charmin\' Bill (#1.32)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Child\'s Eye View (#4.7)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Donnie Goes Into Politics (#2.12)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Donnie Goes to Work (#3.1)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Donnie Joins the Circus (#4.1)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Donnie and the Boarding School (#1.30)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Donnie and the Dogs (#3.2)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Fire Prevention (#2.7)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Harry Builds a Den (#4.17)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Harry Raises Chinchillas (#4.3)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Harry and the Exercise Bug (#4.2)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Harry\'s Birthday (#1.1)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Harry\'s Rival (#1.5)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Home Sweet Home (#2.16)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {House for Sale (#1.17)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {It\'s All Done with Wires (#4.15)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {King and Queen (#1.26)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Let the Men Handle It (#4.14)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Love Thy Neighbor (#2.1)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Lucky Number (#4.6)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Puppy Love (#1.36)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Second Wedding (#2.8)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Temporary Genius (#2.14)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Big Surprise (#1.6)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Camping Trip (#2.5)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Cardboard Champion (#2.2)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Great Cake (#3.5)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Lucky Suit (#1.2)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Magician (#1.25)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Marriage Bureau (#1.16)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Marriage Racket (#2.13)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Missing Milk (#4.12)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The New Arrival (#2.11)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Play (#1.39)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Reducing Expert (#1.22)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Runaways (#1.28)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Silent Partner (#1.7)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Stamp Collection (#4.8)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {The Waltz (#3.3)}', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {They Also Serve (#4.13)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Beulah" (1950) {Trial Separation (#4.10)}', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Big Top" (1950)', '', '', '', '', 'Camden, New Jersey, USA']	39.9448402	-75.1198911
+['"Big Top" (1950)', '', '', '', '', 'North Philadelphia, Pennsylvania, USA']	39.9946558	-75.1543919
+['"Big Town" (1950)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.13)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.15)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.22)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.3)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.32)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.4)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.41)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.5)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.6)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {(#1.7)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Anything for Money (#1.26)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Blindspot (#2.25)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Box 243 (#1.40)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Breaking Point (#2.23)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {By the Tracks (#2.1)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Christmas Trimmings (#2.13)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Cottage in the Woods (#1.39)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Cry Danger (#1.14)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Daner Detour (#2.12)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Dangerous (#1.30)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Dark Window (#1.19)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Door to Nowhere (#1.2)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Funland (#2.24)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Girl in Flight (#1.12)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Honeymoon Cottage (#1.35)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Key Witness (#1.34)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Lady of the House (#1.38)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Lady\'s Man (#1.23)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Many Happy Returns (#1.47)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Medical Report (#1.24)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Midnight Story (#2.22)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Miss Cinderella (#1.21)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Neighborhood Story (#1.42)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Night Trip (#2.8)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Off Beat (#1.48)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Red for Danger (#2.2)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Respectable Living Room (#1.11)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Run of Luck (#1.16)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Solitaire (#2.14)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Song and Dance (#2.16)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Spotlight (#1.36)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Success Story (#1.45)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Table for Two (#2.9)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Bargain (#2.19)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Black Room (#2.3)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Box (#1.29)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Brother (#2.15)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Canary Shop (#2.17)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Doll (#2.10)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Fifth Floor (#2.5)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The First Robin (#1.37)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Girl Next Door (#2.11)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Girl in the Glass (#1.46)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Guilty Package (#2.34)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Honeymoon (#2.18)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Juke Box (#2.4)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Laundress (#2.21)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Overcoat (#1.20)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Palmer Methods (#1.27)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Pay-Off (#1.1)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Return (#1.28)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Strawberry Blonde (#1.18)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Suitor (#2.6)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Sunburst (#1.31)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Three Rs (#2.7)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Turning Point (#1.44)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Wallflower (#2.20)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Warning (#1.25)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {The Woman\'s Page (#1.43)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Third Floor Back (#1.17)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Town" (1950) {Window Cleaner (#1.33)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152

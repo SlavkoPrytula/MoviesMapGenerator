@@ -1,0 +1,762 @@
+['"\'Da Kink in My Hair" (2007) {A Mother of a Day (#1.10)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {All That Glitters (#1.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Black Cake, White Cake (#2.10)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Chicken (#1.3)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Coming Out of the Closet (#2.11)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Computer Love (#2.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Di Heart of Di Matter (#1.13)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Empress of Eglinton (#2.8)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Empty Bag Can\'t Stand Up (#1.4)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Every Hoe Have Him Stick (#1.6)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Everything in Its Right Place (#2.1)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Fass & Facety (#1.2)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Forced Ripe Mango (#2.5)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Honesty the Best Policy? (#2.7)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Licks! (#2.6)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Looks Can Be Revealing (#2.2)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Love Can\'t Wrap Up in a Paper (#1.5)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Me Throw Me Corn But Me No Call No Fowl (#1.11)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Mouth Open Story Jump Out (#1.8)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Of Papers and Patois (#2.3)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Oil\'s Well That Ends Well (#2.13)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Pardnah Me? (#2.12)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Playing Social (#2.4)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Rules Are Made... (#1.1)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {Speaky Spokey (#1.12)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"\'Da Kink in My Hair" (2007) {The Man of the House (#1.7)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"0511 Sondersendung zu Theaterformen" (2007)', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007)', '', '', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {10 Jahre AWO rennt}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {A Clockwork Orange im Ballhof}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {AWO-Kinderlauf}', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Andrea Focks im Atelier}', 'Barsinghausen, Lower Saxony, Germany']	52.30223	9.4623741
+['"0511 TV Lokal" (2007) {Autofreier Sonntag in Hannover}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Babylon - Theaterfestival}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Bandfactory - Frames}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Biomekkanik + Auto-Auto im Talk}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Bravo, Bene! Arnulf Ratings Aufw�rts}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {DNA-Test}', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Dagmar Huth}', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {David Thorpe im Kunstverein}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Ein Sonntag im Park}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Elektromobilit�t auf der MobiliTec}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {F�hrmannsfest}', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Gartenlust im Georgengarten}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Hahnenfu� bedeckt Maschsee}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Hanover\'s Boys\' Choir}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Hart am Wind - Kinder & Jugend -Theaterfestival}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Ideen-Expo 2009}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Internationaler Gro�modellflugtag Lehrte}', 'Lehrte, Lower Saxony, Germany']	52.3749334	9.9748557
+['"0511 TV Lokal" (2007) {Jazz am Ballhof 2}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Kari Bremnes - Masala}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Kinos am Raschplatz - Wiederer�fnung}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Kunst im Kaufhaus - Made in Korea}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Kunsthandwerkermarkt in Celle}', 'Celle, Lower Saxony, Germany']	52.624056	10.081052
+['"0511 TV Lokal" (2007) {Leigh Bowery and Dresscodes}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Lichtgestalten}', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Lindemann & Stroganow im TAK}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Lune Ndiaye - K�nstler aus Senegal}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Magen-Darm-Tag in der MHH}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Malte Sartorius - Venedig}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Mindestlohn-Karawane}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Moonlight Shopping}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Musik-Kulturfest in Hannover-Linden}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Old fashioned - K�rperformen}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Pee Wee Ellis - Masala}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Perlen - Schwul-Lesbisches Film Festival Hannover}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Poetry Slam - 3Raum im Ballhof}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Poetry Slam mit Bas B�ttcher}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Pressekonferenz Schauspielhaus}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Produzentengalerie Falkenberg}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Reinert-Kassner - Erwachsenenfortbildg}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Rock alternatif fran�ais}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Rosa von Praunheim im Interview zu seinem Film \'Die Jungs vom Bahnhof Zoo\'}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Rufus Beck, die deutsche H�rbuch-Stimme von Harry Potter}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Salsa Night}', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Schmucki-Festival}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Scillabl�tenfest in Hannover-Linden}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Scillabl�tenfest}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Ship O\'Fools}', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Sommerfest im JazzClub}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {State of Perfection}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Tafelfreuden in der Handwerksform}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {The Winner of Fireworks}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Tour durch Linden mit Sid Auffarth}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Vorstellung des EcoCarrier - Kleintransporter mit Elektroantrieb}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Zukunftszug}', '', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"0511 TV Lokal" (2007) {Zur Situation der Nachwuchsregisseure}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"1 chan KNB" (2007)', '', '', '', '', 'Toyama, Japan']	36.6468015	137.2183531
+['"1 vs 100" (2007)', '', '', '', '', 'Central City Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Corcovado, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9519478	-43.210579
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Christ the Redeemer, Corcovado, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9519173	-43.210495
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'P�o de A��car, Urca, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Isabel Samba School, Ipanema, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Manaus, Amazonas, Brazil']	-3.1316333	-59.9825041
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Rio Negro, Amazonas, Brazil']	-0.2472483	-65.7712574
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Aria� Amazon Towers Hotel, Manaus, Amazonas, Brazil']	-10.3333333	-53.2
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Bacu Tribe Village, Amazonas, Brazil']	-10.3333333	-53.2
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Copacabana Palace Hotel, Rio de Janeiro, Brazil']	-22.9670027	-43.1790751
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Beloso Beach, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Garota de Ipanema, Ipanema, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9852383	-43.202981
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Pedra Bonita, Parque Nacional da Tijuca, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"1,000 Places to See Before You Die" (2007) {Brazil (#1.4)}', 'Cosme Velho District, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Fairmont Chateau Whistler - 4599 Chateau Blvd, Whistler, British Columbia, Canada']	50.1171903	-122.9543022
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Tofino, British Columbia, Canada']	49.1529643	-125.9047083
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Wickaninnish Inn - 500 Osprey Ln, Tofino, British Columbia, Canada']	49.123013400000005	-125.90132416766636
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', "Tojo's Restaurant - 1133 W Broadway, Vancouver, British Columbia, Canada"]	49.2636245	-123.1298503
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Fairmont Waterfront - 900 Canada Place Way, Vancouver, British Columbia, Canada']	49.2872705	-123.1136348
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Rogers Arena - 800 Griffiths Way, Vancouver, British Columbia, Canada']	49.2779085	-123.10894170979472
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Granville Island Public Market, Granville Island, Vancouver, British Columbia, Canada']	49.272487749999996	-123.1351226629414
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Vancouver Aquarium, Stanley Park, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"1,000 Places to See Before You Die" (2007) {Canada (#1.13)}', 'Whistler Blackcomb, Whistler, British Columbia, Canada']	50.0814471	-122.96277182265675
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Paris, France']	48.8566969	2.3514616
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'H�tel de Crillon - 10 Place de la Concorde, Paris 8, Paris, France']	46.603354	1.8883335
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Arc de Triomphe, Paris 8, Paris, France']	48.8737791	2.295037226037673
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Rue Montorgueil, Paris 2, Paris, France']	48.8638519	2.3464796
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Taillevent - 15 Rue Lamennais, Paris 8, Paris, France']	48.8566969	2.3514616
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'H�tel des Invalides, Rue de Grenelle, Paris 7, Paris, France']	48.8566969	2.3514616
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Seine River, Paris, France']	48.8588732	2.3323866
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Montmartre, Paris 18, Paris, France']	48.88546185	2.3391535013803098
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Basilique du Sacr�-Coeur, Montmartre, Paris 18, Paris, France']	48.8566969	2.3514616
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Tour Eiffel, Champ de Mars, Paris 7, Paris, France']	48.8566969	2.3514616
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Monaco']	43.7323492	7.4276832
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Casino Square, Monte Carlo, Monaco']	43.7391605	7.428023
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Hotel de Paris, Place du Casino, Monte Carlo, Monaco']	43.738835300000005	7.426632622648073
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Casino de Monte Carlo, Monte Carlo, Monaco']	43.7391605	7.428023
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Monte Carlo, Monaco']	43.7402961	7.426559
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Monte Carlo Bay Hotel and Resort - 40 Avenue Princesse Grace, Monte Carlo, Monaco']	43.7323492	7.4276832
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Observatory Cave, Monte Carlo, Monaco']	43.7323492	7.4276832
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Eze Village, Alpes-Maritimes, France']	43.7288923	7.3620705
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Saint-Paul-de-Vence, Alpes-Maritimes, France']	43.697972	7.1216304
+['"1,000 Places to See Before You Die" (2007) {France (#1.6)}', 'Auberge des Templiers, Saint-Paul-de-Vence, Alpes-Maritimes, France']	43.697972	7.1216304
+['"1,000 Places to See Before You Die" (2007) {Mexico (#1.11)}', 'Mexico']	19.4326296	-99.1331785
+['"1,000 Places to See Before You Die" (2007) {Mexico (#1.11)}', 'Guadalajara, Jalisco, Mexico']	20.6720375	-103.3383962
+['"1,000 Places to See Before You Die" (2007) {Mexico (#1.11)}', 'Tequila, Jalisco, Mexico']	20.8821155	-103.8370907
+['"1,000 Places to See Before You Die" (2007) {Mexico (#1.11)}', 'La Rojena Distillery, Tequila, Jalisco, Mexico']	19.4326296	-99.1331785
+['"1,000 Places to See Before You Die" (2007) {Mexico (#1.11)}', 'Tlaquepaque, Jalisco, Mexico']	20.6084288	-103.3151995
+['"1,000 Places to See Before You Die" (2007) {Mexico (#1.11)}', 'Zihuatanejo, Guerrero, Mexico']	17.6467874	-101.5519746
+['"1,000 Places to See Before You Die" (2007) {Mexico (#1.11)}', 'La Casa que Canta, Zihuatanejo, Guerrero, Mexico']	19.4326296	-99.1331785
+['"1,000 Places to See Before You Die" (2007) {Mexico (#1.11)}', 'Playa de la Ropa, Zihuatanejo, Guerrero, Mexico']	17.6467874	-101.5519746
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'South Africa']	-28.8166236	24.991639
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Gansbaai Island, South Africa']	-34.582778	19.352222
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Hermanus, South Africa']	-34.4175	19.2361111
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Birkenhead House, Hermanus, South Africa']	-28.8166236	24.991639
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Botlierskop Game Reserve, South Africa']	-28.8166236	24.991639
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Botlierskop Lodge, Botlierskop Game Reserve, South Africa']	-28.8166236	24.991639
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Cango Valley, South Africa']	-33.5082255	22.3647576
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Cape Town, Western Cape, South Africa']	-33.928992	18.417396
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Table Mountain, Cape Town, Western Cape, South Africa']	-33.9593679	18.4042289
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Mount Nelson Hotel, Cape Town, Western Cape, South Africa']	-33.9318337	18.411345674085347
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'District Six Museum - 25A Buitenkant Street, Zonnebloem, Cape Town, Western Cape, South Africa']	-33.928992	18.417396
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Kayamandi Township, Cape Town, Western Cape, South Africa']	-33.919419399999995	18.843672256389397
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Bo Kaap, Cape Town, Western Cape, South Africa']	-33.9210939	18.4141003
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Victoria & Alfred Waterfront, Cape Town, Western Cape, South Africa']	-33.9062597	18.419855
+['"1,000 Places to See Before You Die" (2007) {South Africa (#1.7)}', 'Robben Island, Cape Town, Western Cape, South Africa']	-33.805299950000006	18.36888354984039
+['"10 Years of Monkey Business" (2007)', '', '', 'Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"100 Nen Interview" (2007)', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"100 Winners" (2007)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"100% Azull" (2007)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"100% Azull" (2007)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"12 Miles of Bad Road" (2007)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"13 maravillas" (2007)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"2 Dudes Catering" (2007)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2007 LG Action Sports World Championships" (2007)', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"2007 World Series of Poker" (2007)', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2007 World Series of Poker" (2007) {No Limit Hold Em Main Event: Part 10 (#1.20)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2007 World Series of Poker" (2007) {No Limit Hold Em Main Event: Part 11 (#1.21)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2007 World Series of Poker" (2007) {No Limit Hold Em Main Event: Part 12 (#1.22)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2007 World Series: Boston Red Sox vs. Colorado Rockies" (2007)', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2007 World Series: Boston Red Sox vs. Colorado Rockies" (2007)', 'Coors Field - 2001 Blake Street, Denver, Colorado, USA']	39.7560314	-104.99292855531493
+['"2007 World Series: Boston Red Sox vs. Colorado Rockies" (2007)', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"2007 World Series: Boston Red Sox vs. Colorado Rockies" (2007)', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2900 Happiness" (2007) {(#3.1)}', '', '', 'Hellerup, Sj�lland, Denmark']	55.670249	10.3333283
+['"3 Minute Wonder: Preparing for the Worst" (2007)', 'UK']	54.7023545	-3.2765753
+['"3-Minute Game Show" (2007)', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"42" (2007/I)', '', '', '', '', '', 'Latvia']	56.8406494	24.7537645
+['"42" (2007/I)', '', '', '', '', '', 'Lithuania']	55.3500003	23.7499997
+['"42" (2007/I)', '', '', '', '', '', 'Poland']	52.215933	19.134422
+['"4Real" (2007)', '', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"4Real" (2007)', '', '', '', '', '', 'Cambodia']	13.5066394	104.869423
+['"4Real" (2007)', '', '', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"4Real" (2007)', '', '', '', '', '', 'Haiti']	19.1399952	-72.3570972
+['"4Real" (2007)', '', '', '', '', '', 'Liberia']	5.7499721	-9.3658524
+['"4Real" (2007)', '', '', '', '', '', 'Peru']	-6.8699697	-75.0458515
+['"50 A�os de la telenovela: Mentiras y verdades" (2007)', 'Mexico']	19.4326296	-99.1331785
+['"59 segons" (2007)', '', '', '', '', 'Sant Cugat, Barcelona, Catalonia, Spain']	41.467969	2.0782386
+['"6! Setzen - Das Wissensduell Gro� gegen Klein" (2007)', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"7 vite" (2007)', '', '', '', '', '', 'Naples, Campania, Italy']	40.8359336	14.2487826
+['"9 mm, cr�menes a la medida de la historia" (2007)', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"9 mm, cr�menes a la medida de la historia" (2007) {Caso Falc�n}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"9 mm, cr�menes a la medida de la historia" (2007) {Caso Tacuara}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"9 mm, cr�menes a la medida de la historia" (2007) {El ministerio}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"9 mm, cr�menes a la medida de la historia" (2007) {La contraofensiva}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"9 mm, cr�menes a la medida de la historia" (2007) {Un mensaje para el general}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"90 Plein Street" (2007)', '', '', '', 'Gauteng Province, South Africa']	-28.8166236	24.991639
+['"90 Plein Street" (2007)', '', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"A Bela e o Mestre" (2007)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Comicbook Orange" (2007)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Comicbook Orange" (2007)', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"A Comicbook Orange" (2007)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"A Comicbook Orange" (2007) {Convention Edition with Frank Quitely and Greg Pak (#2.2)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"A M�quina de Lavar Pratos" (2007)', '', '', 'Portugal']	40.0332629	-7.8896263
+['"A Pedra do Reino" (2007)', '', '', '', 'Tapero�, Para�ba, Brazil']	-10.3333333	-53.2
+['"A Place in Spain: Costa Chaos" (2007)', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A Place in Spain: Costa Chaos" (2007)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A Total Write-Off!" (2007)', '', '', '', 'Catalyst Theatre - 8529 Gateway Boulevard NW, Edmonton, Alberta, Canada']	61.0666922	-107.9917071
+['"A Total Write-Off!" (2007)', '', '', '', 'Edmonton, Alberta, Canada']	53.535411	-113.507996
+['"A las 10 con Fernanda" (2007)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"ADHDtv: With Lew Marklin" (2007)', '', '', 'California, USA']	39.7837304	-100.4458825
+['"ADHDtv: With Lew Marklin" (2007)', '', '', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {A Lew Marklin Show New Year (#1.20)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"ADHDtv: With Lew Marklin" (2007) {Democratic Battle (#2.7)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"ADHDtv: With Lew Marklin" (2007) {Free at Last (#2.10)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"ADHDtv: With Lew Marklin" (2007) {Iowan Caucus: Hello Mister Obama! (#2.1)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Christina De Rosa (#3.1)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Christina De Rosa (#3.1)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Georgia (#3.3)}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Georgia (#3.3)}', 'Brentwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Georgia (#3.3)}', 'Santa Barbara Channels, Studio A, Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Georgia (#3.3)}', 'Westwood, Los Angeles, California, USA']	34.0561207	-118.4306347
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Helter Skelter (#2.19)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Helter Skelter (#2.19)}', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Lou Gossett (#3.2)}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Lou Gossett (#3.2)}', 'Malibu, California, USA']	34.035591	-118.689423
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Lou Gossett (#3.2)}', 'Santa Barbara Channels Studios, Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie Does Lou Gossett (#3.2)}', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"ADHDtv: With Lew Marklin" (2007) {Lewie and Geeno Do Post Easter (#1.4)}', 'Goleta, California, USA']	34.4358295	-119.8276389
+['"ADHDtv: With Lew Marklin" (2007) {Lewie and Geeno Do Post Easter (#1.4)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie and Geeno Do Radio: Part 1 (#1.2)}', 'Clear Channel Radio, Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie and Geeno Do Radio: Part 1 (#1.2)}', 'Rincon Radio, Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie and Geeno Do Radio: Part 1 (#1.2)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie and Geeno\'s Summerz-End (#1.14)}', 'Goleta Beach, Goleta, California, USA']	34.4541349	-119.8284401
+['"ADHDtv: With Lew Marklin" (2007) {Lewie and Geeno\'s Summerz-End (#1.14)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Lewie\'s in the Big House (#2.9)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"ADHDtv: With Lew Marklin" (2007) {Meet Chrissy (#1.6)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Obama Ball 90210 (#2.18)}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"ADHDtv: With Lew Marklin" (2007) {Obama Ball 90210 (#2.18)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {On with the Show (#1.21)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Sammie of the 90210 (#2.20)}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"ADHDtv: With Lew Marklin" (2007) {Sammie of the 90210 (#2.20)}', 'Santa Barbara Channels, Studio A, Santa Barbara, California, USA']	39.7837304	-100.4458825
+['"ADHDtv: With Lew Marklin" (2007) {Sammie of the 90210 (#2.20)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Stroke Man (#2.4)}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Stroke Man and the Soul Brotha (#2.6)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"ADHDtv: With Lew Marklin" (2007) {The Lewie N Drew Show (#2.13)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"ADHDtv: With Lew Marklin" (2007) {The Mullets in Outer Space (#2.8)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"ADHDtv: With Lew Marklin" (2007) {Ubiquitous Taco (#2.12)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"ADHDtv: With Lew Marklin" (2007) {Who the Hell Is Sarah Palin? (#2.14)}', 'Santa Barbara Court House, Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"ADHDtv: With Lew Marklin" (2007) {Who the Hell Is Sarah Palin? (#2.14)}', 'Santa Barbara Riviera, Santa Barbara, California, USA']	34.4701965	-119.6770273
+['"AZ Entertainment 360" (2007)', '', '', '', 'Scottsdale, Arizona, USA']	33.4942189	-111.9260184
+['"Abbey & Janice: Beauty & The Best" (2007)', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Abbey & Janice: Beauty & The Best" (2007)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Abgedreht in Stuttgart" (2007)', '', '', '', 'Freiburg im Breisgau, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Abgedreht in Stuttgart" (2007)', '', '', '', 'Stuttgart, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Abhi Abhi To Aye Ho" (2007)', '', '', '', 'Evernew Studios, Lahore, Pakistan']	30.3308401	71.247499
+['"Abhi Abhi To Aye Ho" (2007)', '', '', '', 'Lahore, Pakistan']	31.5656079	74.3141775
+['"About a Girl" (2007)', '', '', '', '', 'Princes Park, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"About a Girl" (2007)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Accidental Addict" (2007)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Acomp��enos" (2007)', '', '', '', '', 'Vigo, Pontevedra, Galicia, Spain']	42.2376602	-8.7247205
+['"Acorralada" (2007)', '', '', '', '', 'Aruba']	12.5013629	-69.9618475
+['"Acorralada" (2007)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Across the River to Motor City" (2007)', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"Across the River to Motor City" (2007)', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Across the River to Motor City" (2007)', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Across the River to Motor City" (2007)', '', '', 'Windsor, Ontario, Canada']	42.30423	-83.029861
+['"Adriaan" (2007)', '', '', '', '', 'Bloemendaal, Noord-Holland, Netherlands']	52.4036594	4.6197687
+['"Adventures in Doggie Daycare" (2007)', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Adventures in Hollyhood" (2007)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Hollyhood" (2007)', '', '', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"Affedilmeyen" (2007)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Afrika, mon amour" (2007)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Afrika, mon amour" (2007)', '', '', '', 'Kenya']	1.4419683	38.4313975
+['"Afrika, mon amour" (2007)', '', '', '', 'Scotland, UK']	56.7861112	-4.1140518
+['"Afrika, mon amour" (2007)', '', '', '', 'Vienna, Austria']	48.2083537	16.3725042
+['"Afrotainers" (2007)', '', '', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Aftenshowet" (2007)', '', '', '', '', 'Nyhavn, Copenhagen, Denmark']	55.6800411	12.589739427928343
+['"Aftenshowet" (2007) {(2008-10-14)}', '', '', 'Musikhuset, �rhus, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2008-10-15)}', '', '', 'Musikhuset, �rhus, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2008-10-16)}', '', '', 'Musikhuset, �rhus, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2008-10-17)}', '', '', 'Musikhuset, �rhus, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2008-12-10)}', '', '', 'Nyhavn, Copenhagen, Denmark']	55.6800411	12.589739427928343
+['"Aftenshowet" (2007) {(2009-04-20)}', '', '', 'S�nderborg, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2009-04-21)}', '', '', 'S�nderborg, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2009-04-22)}', '', '', 'S�nderborg, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2009-04-23)}', '', '', 'S�nderborg, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2009-04-24)}', '', '', 'S�nderborg, Jylland, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2009-06-02)}', '', '', 'Amager Strand, Denmark']	55.6561353	12.6318585
+['"Aftenshowet" (2007) {(2009-06-02)}', '', '', 'Tivoli, Copenhagen, Denmark']	55.6733426	12.56904219598006
+['"Aftenshowet" (2007) {(2012-08-29)}', '', '', 'Svendborg, Fyn, Denmark']	55.670249	10.3333283
+['"Aftenshowet" (2007) {(2017-06-15)}', '', '', 'Bornholm, Denmark']	55.143205449999996	14.922572149451753
+['"After Hours" (2007)', '', '', '', '', 'Singapore, Singapore']	1.357107	103.8194992
+['"After the Catch" (2007) {Ambition (#6.2)}', '', "Whale's Tail - 323 South Main Street, Breckenridge, Colorado, USA"]	39.4816537	-106.0383518
+['"After the Catch" (2007) {Bering Sea Brothers (#3.2)}', "RT's Longboard Grill - 1466 Garnet Ave, San Diego, California, USA"]	32.7174209	-117.1627714
+['"After the Catch" (2007) {Brothers (#2.2)}', '', "Pratty's CAV - 10 Parker Street, Gloucester, Massachusetts, USA"]	42.6159286	-70.6619888
+['"After the Catch" (2007) {Deck Hands (#2.4)}', '', "Pratty's CAV - 10 Parker Street, Gloucester, Massachusetts, USA"]	42.6159286	-70.6619888
+['"After the Catch" (2007) {Emergency! (#2.3)}', '', "Pratty's CAV - 10 Parker Street, Gloucester, Massachusetts, USA"]	42.6159286	-70.6619888
+['"After the Catch" (2007) {Fishermen\'s Code (#6.5)}', "Whale's Tail - 323 South Main Street, Breckenridge, Colorado, USA"]	39.7837304	-100.4458825
+['"After the Catch" (2007) {Fresh Blood (#5.4)}', '', "The Shack Hawaii Kai - 377 Keahole St # C2, Honolulu, O'ahu, Hawaii, USA"]	39.7837304	-100.4458825
+['"After the Catch" (2007) {Frozen Crab (#3.3)}', '', "RT's Longboard Grill - 1466 Garnet Ave, San Diego, California, USA"]	32.7174209	-117.1627714
+['"After the Catch" (2007) {Gamblers (#6.4)}', '', "Whale's Tail - 323 South Main Street, Breckenridge, Colorado, USA"]	39.4816537	-106.0383518
+['"After the Catch" (2007) {High Tide (#5.5)}', '', "The Shack Hawaii Kai - 377 Keahole St # C2, Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"After the Catch" (2007) {Legends (#2.1)}', '', "Pratty's CAV - 10 Parker Street, Gloucester, Massachusetts, USA"]	42.6159286	-70.6619888
+['"After the Catch" (2007) {Life Is Good (#3.5)}', '', "RT's Longboard Grill - 1466 Garnet Ave, San Diego, California, USA"]	32.7174209	-117.1627714
+['"After the Catch" (2007) {Looking Ahead (#6.6)}', '', "Whale's Tail - 323 South Main Street, Breckenridge, Colorado, USA"]	39.4816537	-106.0383518
+['"After the Catch" (2007) {Low Tide (#5.1)}', '', "The Shack Hawaii Kai - 377 Keahole St # C2, Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"After the Catch" (2007) {Man vs. Nature (#1.2)}', 'Lockspot Cafe - 3005 NW 54th Street, Seattle, Washington, USA']	39.7837304	-100.4458825
+['"After the Catch" (2007) {Mysteries at Sea (#1.3)}', 'Lockspot Cafe - 3005 NW 54th Street, Seattle, Washington, USA']	39.7837304	-100.4458825
+['"After the Catch" (2007) {No Trespassing (#3.4)}', "RT's Longboard Grill - 1466 Garnet Ave, San Diego, California, USA"]	32.7174209	-117.1627714
+['"After the Catch" (2007) {On the Edge (#1.4)}', '', 'Lockspot Cafe - 3005 NW 54th Street, Seattle, Washington, USA']	47.6038321	-122.3300624
+['"After the Catch" (2007) {Overboard (#1.1)}', '', 'Lockspot Cafe - 3005 NW 54th Street, Seattle, Washington, USA']	47.6038321	-122.3300624
+['"After the Catch" (2007) {Real Life (#2.5)}', '', "Pratty's CAV - 10 Parker Street, Gloucester, Massachusetts, USA"]	42.6159286	-70.6619888
+['"After the Catch" (2007) {Relentless (#5.2)}', '', "The Shack Hawaii Kai - 377 Keahole St # C2, Honolulu, O'ahu, Hawaii, USA"]	39.7837304	-100.4458825
+['"After the Catch" (2007) {Save Me (#5.3)}', '', "The Shack Hawaii Kai - 377 Keahole St # C2, Honolulu, O'ahu, Hawaii, USA"]	39.7837304	-100.4458825
+['"After the Catch" (2007) {Staying on Course (#3.1)}', "RT's Longboard Grill - 1466 Garnet Ave, San Diego, California, USA"]	32.7174209	-117.1627714
+['"After the Catch" (2007) {The Fleet (#4.4)}', '', 'The Blue Nile - 532 Frenchmen Street, New Orleans, Louisiana, USA']	29.9631581	-90.0578562
+['"After the Catch" (2007) {The Good Captain Phil (#4.5)}', 'The Blue Nile - 532 Frenchmen Street, New Orleans, Louisiana, USA']	29.9631581	-90.0578562
+['"After the Catch" (2007) {The Northwestern (#4.2)}', 'The Blue Nile - 532 Frenchmen Street, New Orleans, Louisiana, USA']	29.9631581	-90.0578562
+['"After the Catch" (2007) {The Time Bandit (#4.1)}', 'The Blue Nile - 532 Frenchmen Street, New Orleans, Louisiana, USA']	29.9631581	-90.0578562
+['"After the Catch" (2007) {The Unexpected (#6.1)}', "Whale's Tail - 323 South Main Street, Breckenridge, Colorado, USA"]	39.4816537	-106.0383518
+['"After the Catch" (2007) {The Wizard (#4.3)}', '', 'The Blue Nile - 532 Frenchmen Street, New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"After the Catch" (2007) {View from Shore (#6.3)}', "Whale's Tail - 323 South Main Street, Breckenridge, Colorado, USA"]	39.4816537	-106.0383518
+['"After the Climb" (2007)', '', '', '', 'New Preston, Connecticut, USA']	41.6791805	-73.35574608037183
+['"Age of Love" (2007)', '', '', '', '', 'Downtown, Los Angeles, California, USA']	34.4987133	-118.5843067
+['"Agentul VIP" (2007)', '', '', '', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Ahornallee" (2007)', '', '', '', '', 'D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Ahornallee" (2007)', '', '', '', '', 'K�niginstra�e 23, Maxvorstadt, Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Ai confini della piet�" (2007)', '', '', '', 'Palermo, Sicily, Italy']	38.1112268	13.3524434
+['"Air Australia" (2007)', '', '', '', '', 'Perth, Western Australia, Australia']	-31.9527121	115.8604796
+['"Air Galicia" (2007)', '', '', '', '', 'Galicia, Spain']	42.61946	-7.863112
+['"Aire Yoga" (2007)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Ajj Da Mudda" (2007)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Al diablo con los guapos" (2007)', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Al rojo vivo fin de semana con Candela Ferro" (2007)', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Al sabor del chef" (2007)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Alberta\'s Best is Hiring" (2007)', '', '', 'Alberta, Canada']	55.001251	-115.002136
+['"Alberta\'s Best is Hiring" (2007)', '', '', 'British Columbia, Canada']	55.001251	-125.002441
+['"Alberta\'s Best is Hiring" (2007)', '', '', 'Manitoba, Canada']	61.0666922	-107.9917071
+['"Alberta\'s Best is Hiring" (2007)', '', '', 'Ontario, Canada']	50.000678	-86.000977
+['"Aleel El Heilah" (2007)', '', '', '', 'Cairo, Egypt']	26.2540493	29.2675469
+['"Aliens in America" (2007)', '', '', '', 'H.J. Cambie Secondary School, Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Aliens in America" (2007)', '', '', '', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"Aliens in America" (2007)', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Aliens in America" (2007)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"All Together Now" (2007)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Allemaal film" (2007)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"AllesTester im Einsatz" (2007)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Allsang P� Grensen" (2007)', '', '', '', 'Fredriksten festning, Halden, Norway']	59.119903050000005	11.396865659900218
+['"Almost Epic" (2007)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amango" (2007)', '', '', '', '', '', 'Santiago, Chile']	-33.4377968	-70.6504451
+['"Amazing Facts Presents" (2007) {God\'s Health Plan (#1.9)}', 'Silver Spring, Maryland, USA']	38.9959461	-77.0276231
+['"Amazing Facts Presents" (2007) {History\'s Greatest Hoax (#1.8)}', 'Silver Spring, Maryland, USA']	38.9959461	-77.0276231
+['"Amazing Facts Presents" (2007) {The Millennium of Peace Part 2 (#2.11)}', 'Berrien Springs, Michigan, USA']	41.9464336	-86.3388965
+['"Amazing Facts Presents" (2007) {Wedlock Becoming Unholy Deadlock (#1.10)}', 'Silver Spring, Maryland, USA']	38.9959461	-77.0276231
+['"Amazon Heartbeat" (2007)', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"Amazon Heartbeat" (2007)', '', '', '', 'Peru']	-6.8699697	-75.0458515
+['"Amazon Heartbeat" (2007)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Ameer al shuaraa" (2007)', '', '', '', 'Abu Dhabi, United Arab Emirates']	24.39647445	54.536663086435915
+['"Ameer al shuaraa" (2007)', '', '', '', 'Al Raha Theatre, Abu Dhabi, United Arab Emirates']	24.0002488	53.9994829
+['"Ameer al shuaraa" (2007)', '', '', '', 'Egypt']	26.2540493	29.2675469
+['"Ameer al shuaraa" (2007)', '', '', '', 'Jordan']	31.1667049	36.941628
+['"Ameer al shuaraa" (2007)', '', '', '', 'Kuwait']	29.2733964	47.4979476
+['"Ameer al shuaraa" (2007)', '', '', '', 'Lebanon']	33.8750629	35.843409
+['"Ameer al shuaraa" (2007)', '', '', '', 'Oman']	21.0000287	57.0036901
+['"Ameer al shuaraa" (2007)', '', '', '', 'Qatar']	25.3336984	51.2295295
+['"Ameer al shuaraa" (2007)', '', '', '', 'Saudi Arabia']	25.6242618	42.3528328
+['"Ameer al shuaraa" (2007)', '', '', '', 'Syria']	34.6401861	39.0494106
+['"America at a Crossroads" (2007) {Kansas to Kandahar: Citizen Soldiers at War}', 'Kandahar, Afghanistan']	33.7680065	66.2385139
+['"America at a Crossroads" (2007) {Kansas to Kandahar: Citizen Soldiers at War}', 'Kansas, USA']	38.27312	-98.5821872
+['"America at a Crossroads" (2007) {Kansas to Kandahar: Citizen Soldiers at War}', 'Pakistan']	30.3308401	71.247499
+['"America at a Crossroads" (2007) {The Anti-Americans (A Hate/Love Relationship)}', 'London, England, UK']	51.5073219	-0.1276474
+['"America at a Crossroads" (2007) {The Anti-Americans (A Hate/Love Relationship)}', 'Montauban, Tarn-et-Garonne, Midi-Pyr�n�es, France']	46.603354	1.8883335
+['"America at a Crossroads" (2007) {The Anti-Americans (A Hate/Love Relationship)}', 'Mragowo, Warminsko-Mazurskie, Poland']	53.8660707	21.3045796
+['"America at a Crossroads" (2007) {The Anti-Americans (A Hate/Love Relationship)}', 'Paris, France']	48.8566969	2.3514616
+['"America at a Crossroads" (2007) {The Anti-Americans (A Hate/Love Relationship)}', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"America\'s Psychic Challenge" (2007)', '', '', 'Twin Peaks, California, USA']	37.75464	-122.44648
+['"American Greed" (2007) {Computer Hacker Masterminds}', 'NCFTA, Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"American Greed" (2007) {Computer Hacker Masterminds}', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"American Heiress" (2007)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"American Heiress" (2007)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"American Heiress" (2007) {Crash and Burn (#1.2)}', 'Mexico']	19.4326296	-99.1331785
+['"Amor de batey" (2007)', '', '', '', '', 'Santo Domingo, Dominican Republic']	18.4801972	-69.942111
+['"Amore criminale" (2007)', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Amyna zonis" (2007)', '', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007)', '', '', '', '', 'Serifos, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.1)}', '', '', '', 'Athens, Greece']	37.9841493	23.7279843
+['"Amyna zonis" (2007) {(#1.1)}', '', '', '', 'Serifos, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.10)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.11)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.12)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.13)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.14)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.15)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.16)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.2)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.3)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.4)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.5)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.6)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.7)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.8)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Amyna zonis" (2007) {(#1.9)}', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Ana W Ant Wal Internet" (2007)', '', '', '', 'Saudi Arabia']	25.6242618	42.3528328
+['"Ana W Ant Wal Internet" (2007)', '', '', '', 'Bahrain']	26.1551249	50.5344606
+['"Ana W Ant Wal Internet" (2007)', '', '', '', 'Beirut, Lebanon']	33.8959203	35.47843
+['"Anash and the Legacy of the Sun-Rock" (2007)', '', 'Whitehorse, Yukon, Canada']	60.721571	-135.054932
+['"Ancient Megastructures" (2007)', '', '', '', 'Chichester, West Sussex, England, UK']	50.8364862	-0.7791721
+['"Ancient Megastructures" (2007)', '', '', '', 'France']	46.603354	1.8883335
+['"Ancient Megastructures" (2007)', '', '', '', 'Giza, Egypt']	30.0170039	31.2134508
+['"Ancient Megastructures" (2007)', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Ancient Megastructures" (2007)', '', '', '', 'The Colosseum, Rome, Lazio, Italy']	41.8902614	12.493087103595503
+['"Ancient Megastructures" (2007)', '', '', '', 'Tunisia']	33.8439408	9.400138
+['"Andra Avenyn" (2007)', '', '', '', '', 'Gothenburg, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Andrew Marr\'s History of Modern Britain" (2007)', 'UK']	54.7023545	-3.2765753
+['"Andrew Marr\'s History of Modern Britain" (2007)', 'USA']	39.7837304	-100.4458825
+['"Andrew\'s Guide to Being a Man" (2007)', '', '', 'Brisbane, Queensland, Australia']	-27.4689682	153.0234991
+['"Andy Barker, P.I." (2007)', '', '', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Andy Barker, P.I." (2007) {Dial M for Laptop (#1.4)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Andy Barker, P.I." (2007) {Fairway, My Lovely (#1.2)}', 'Knollwood Golf Club, 12040 Balboa Blvd., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Andy Barker, P.I." (2007) {Fairway, My Lovely (#1.2)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Andy Barker, P.I." (2007) {Pilot (#1.1)}', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Andy Barker, P.I." (2007) {The Big No Sleep (#1.5)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Andy Barker, P.I." (2007) {The Lady Varnishes (#1.6)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Andy Barker, P.I." (2007) {Three Days of the Chicken (#1.3)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Angry Planet" (2007) {Burning Australia (#4.1)}', 'Coober Pedy, South Australia, Australia']	-29.01639205	134.75696701291264
+['"Angry Planet" (2007) {Burning Australia (#4.1)}', 'Australia']	-24.7761086	134.755
+['"Angry Planet" (2007) {Cabo Verde Volcano (#4.5)}', 'Fogo, Cape Verde']	16.0000552	-24.0083947
+['"Angry Planet" (2007) {Crystal Cave (#3.11)}', '', 'Chihuahua, Mexico']	28.5000001	-106.0000001
+['"Angry Planet" (2007) {Crystal Cave (#3.11)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Angry Planet" (2007) {Crystal Cave (#3.11)}', '', 'Naica, Mexico']	19.4326296	-99.1331785
+['"Angry Planet" (2007) {Empty Quarter (#3.13)}', '', 'Dubai, United Arab Emirates']	25.0657	55.1713
+['"Angry Planet" (2007) {Hawaii-Surf & Snow (#2.4)}', 'Hawaii, USA']	39.7837304	-100.4458825
+['"Angry Planet" (2007) {Hurricane (#2.2)}', '', 'Florida Keys, Florida, USA']	24.6670875	-81.5831421
+['"Angry Planet" (2007) {Hurricane (#2.2)}', '', 'Jamaica']	18.1850507	-77.3947693
+['"Angry Planet" (2007) {Hurricane (#2.2)}', '', "Peggy's Cove, Nova Scotia, Canada"]	44.4937733	-63.9148632
+['"Angry Planet" (2007) {Island Caving (#2.1)}', '', 'Alberta, Canada']	61.0666922	-107.9917071
+['"Angry Planet" (2007) {Island Caving (#2.1)}', '', 'Vancouver Island, British Columbia, Canada']	49.592949450000006	-125.70255696124094
+['"Angry Planet" (2007) {Island Caving (#2.1)}', '', 'Vancouver Island, British Columbia, Canada']	49.592949450000006	-125.70255696124094
+['"Angry Planet" (2007) {Melting Siberia (#5.1)}', '', 'Siberia, Russia']	64.6863136	97.7453061
+['"Angry Planet" (2007) {Rising Oceans (#4.3)}', '', 'Tuvalu']	-7.768959	178.1167698
+['"Angry Planet" (2007) {Rising Oceans (#4.3)}', '', 'Fiji']	-18.1239696	179.0122737
+['"Angry Planet" (2007) {River of Doubt (#4.4)}', '', 'Brazil']	-10.3333333	-53.2
+['"Angry Planet" (2007) {Thunder Down Under (#2.5)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Angry Planet" (2007) {Thunder Down Under (#2.5)}', 'Uluru/Ayers Rock, Uluru-Kata Tjuta National Park, Northern Territory, Australia']	-24.7761086	134.755
+['"Angry Planet" (2007) {Thunder Down Under (#2.5)}', 'Great Barrier Reef, Queensland, Australia']	-17.59030415	146.63741162358355
+['"Angry Planet" (2007) {Thunder Down Under (#2.5)}', 'Coonabarabran, New South Wales, Australia']	-31.4006676	150.4363045
+['"Angry Planet" (2007) {Waterspouts (#2.3)}', '', 'Florida Keys, Florida, USA']	24.6670875	-81.5831421
+['"Angry Planet" (2007) {Waterspouts (#2.3)}', '', 'Everglades National Park, Florida, USA']	25.3870275	-80.88026316596292
+['"Angry Planet" (2007) {Wild Water (#1.8)}', '', 'Isla Guadalupe, Baja California Norte, Mexico']	29.035065600000003	-118.26984470403457
+['"Angry Planet" (2007) {Wild Water (#1.8)}', '', 'Ontario, Canada']	61.0666922	-107.9917071
+['"Angry Planet" (2007) {Wild Water (#1.8)}', '', 'Niagara River, Ontario, Canada']	43.011552	-79.02582602459746
+['"Animalia" (2007)', '', '', '', '', 'Village Roadshow Studios, Oxenford, Queensland, Australia']	-27.91054195	153.31264045360678
+['"Anime Select\'s Tokyo Reporter" (2007)', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Anne Will" (2007)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Anne" (2007)', '', '', '', '', '', 'Sri Lanka']	7.5554942	80.7137847
+['"Annem" (2007) {(#1.1)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.10)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.11)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.12)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.13)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.14)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.2)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.3)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.4)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.5)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.6)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.7)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.8)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Annem" (2007) {(#1.9)}', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Apne Dil Se Puchho" (2007) {Bhagyashali Kaun (#1.3)}', 'Indore, Madhya Pradesh, India']	22.7203616	75.8681996
+['"Apne Dil Se Puchho" (2007) {Bhagyashali Kaun (#1.3)}', 'Ujjain, Madhya Pradesh, India']	23.174597	75.7851423
+['"Apne Dil Se Puchho" (2007) {Fati Shirt (#1.5)}', '', 'Ujjain, Madhya Pradesh, India']	23.174597	75.7851423
+['"Apne Dil Se Puchho" (2007) {Golu (#1.2)}', '', 'Ujjain, Madhya Pradesh, India']	23.174597	75.7851423
+['"Apne Dil Se Puchho" (2007) {Mini Mahatma (#1.1)}', 'Ujjain, Madhya Pradesh, India']	23.174597	75.7851423
+['"Apne Dil Se Puchho" (2007) {Prasad (#1.4)}', '', 'Ujjain, Madhya Pradesh, India']	23.174597	75.7851423
+['"Apteeker" (2007)', '', '', '', '', 'Estonia']	58.7523778	25.3319078
+['"Aqui H� Talento" (2007)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Archipels" (2007) {Soley}', '', '', '', 'Haiti']	19.1399952	-72.3570972
+['"Are We There Yet?: World Adventure" (2007)', '', 'Canada']	61.0666922	-107.9917071
+['"Are We There Yet?: World Adventure" (2007)', '', 'Costa Rica']	10.2735633	-84.0739102
+['"Are We There Yet?: World Adventure" (2007)', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are We There Yet?: World Adventure" (2007)', '', 'France']	46.603354	1.8883335
+['"Are We There Yet?: World Adventure" (2007)', '', 'Germany']	51.0834196	10.4234469
+['"Are We There Yet?: World Adventure" (2007)', '', 'Kenya']	1.4419683	38.4313975
+['"Are We There Yet?: World Adventure" (2007)', '', 'Mexico']	19.4326296	-99.1331785
+['"Are We There Yet?: World Adventure" (2007)', '', 'Peru']	-6.8699697	-75.0458515
+['"Are We There Yet?: World Adventure" (2007)', '', 'USA']	39.7837304	-100.4458825
+['"Are We There Yet?: World Adventure" (2007)', '', 'Ukraine']	49.4871968	31.2718321
+['"Are You Smarter Than a 5th Grader?" (2007/I)', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Are You Smarter Than a 5th Grader?" (2007/I) {(2010-11-09)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Area 18" (2007)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Armageddon - Der Einschlag" (2007)', '', '', 'Cameroon']	4.6125522	13.1535811
+['"Armageddon - Der Einschlag" (2007)', '', '', 'Hawaii, USA']	39.7837304	-100.4458825
+['"Armageddon - Der Einschlag" (2007)', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Armageddon - Der Einschlag" (2007)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Armageddon - Der Einschlag" (2007)', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Armed & Famous" (2007)', '', '', '', '', 'Muncie, Indiana, USA']	40.1936892	-85.3865271
+['"Army Wives" (2007)', '', '', '', '', 'Charleston Air Force Base, North Charleston, South Carolina, USA']	32.8995682	-80.031016
+['"Army Wives" (2007)', '', '', '', '', 'Charleston Naval Base, Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007)', '', '', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {A Tribe Is Born (#1.1)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {AWOL (#4.14)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {About Face (#3.2)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Adjustment Period (#7.11)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {After Action Report (#6.10)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {After Birth (#1.2)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {All in the Family (#2.17)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {All or Nothing (#7.13)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Army Strong (#4.13)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {As Time Goes By... (#3.15)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Ashes to Ashes (#7.1)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Baby Steps (#6.18)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Battle Buddies (#5.10)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Battle Scars (#6.16)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Be All You Can Be (#4.4)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Best Laid Plans (#3.1)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Blood Relative (#6.12)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Blood and Treasure (#7.9)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Blowback (#7.3)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Brace for Impact (#7.7)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Casting Out the Net (#2.9)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Casualties (#6.8)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Centennial (#6.19)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Change of Station (#4.12)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Collateral Damage (#4.1)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Coming Home (#3.9)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Command Presence (#5.2)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Countermeasures (#5.9)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Damaged (#7.12)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Departures, Arrivals (#2.18)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Dirty Laundry (#1.10)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Disarmament (#7.5)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Disengagement (#3.5)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Domestic Maneuvers (#6.22)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Drop Zone (#5.11)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Duplicity (#2.10)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Duty to Inform (#3.13)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Evasive Maneuvers (#4.6)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Fallout (#6.11)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Family Readiness (#3.6)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Farewell to Arms (#5.13)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Fatal Reaction (#6.14)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Fields of Fire (#3.18)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Fire in the Hole (#3.17)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Firefight (#5.12)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {First Response (#3.12)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Forward March (#4.18)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {From the Ashes (#7.2)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {General Complications (#6.13)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Goodbye Stranger (#1.13)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Great Expectations (#2.12)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Guns & Roses (#4.5)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Hail & Farewell (#1.7)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Handicap (#6.21)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Hearth and Home (#7.4)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Hearts & Minds (#4.15)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Heavy Losses (#4.7)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Hello, Stranger (#6.17)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Homefront (#4.3)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Incoming (#3.4)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Independence Day (#1.5)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Jackpot (#7.8)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Last Minute Changes (#2.19)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Learning Curve (#6.4)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Leaving the Tribe (#2.4)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Line of Departure (#5.1)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Losing Battles (#7.6)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Loyalties (#2.8)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {M.I.A. (#3.10)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Mothers & Wives (#2.11)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Movement to Contact (#5.3)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Moving Out (#3.3)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Mud, Sweat & Tears (#4.16)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Murder in Charleston (#4.17)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Need to Know Basis (#3.14)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {New Orders (#4.9)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Nobody\'s Perfect (#1.9)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Non-Combatants (#6.9)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {On Behalf of a Grateful Nation (#5.4)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {One of Our Own (#1.4)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Only the Lonely (#1.8)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Onward (#6.23)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Onward Christian Soldier (#3.7)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Operation: Tango (#3.11)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Over and Out (#4.8)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Payback (#2.14)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Perchance to Dream (#6.2)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Post and Prejudice (#3.8)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Reckoning (#7.10)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Rules of Engagement (#1.12)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Safe Havens (#2.13)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Safety First (#4.11)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Scars and Stripes (#4.2)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Soldier On (#5.5)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Strangers in a Strange Land (#2.2)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Strategic Alliances (#5.7)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Supporting Arms (#5.8)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {System Failure (#6.7)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Thank You for Letting Me Share (#2.15)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {The Art of Separation (#1.3)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {The Best of Friends (#6.3)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {The Hero Returns (#2.5)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {The Messenger (#2.3)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {The War at Home (#6.20)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Thicker Than Water (#2.6)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Tough Love (#6.15)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Transitions (#2.16)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Trial & Error (#4.10)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {True Colors (#6.5)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Truth and Consequences (#1.11)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Uncharted Territory (#2.7)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Viral (#6.6)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Walking Wounded (#5.6)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Who We Are (#1.6)}', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Winds of War (#6.1)}', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Army Wives" (2007) {Would You Know My Name (#2.1)}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Aroma mexiquense" (2007)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aroma" (2007)', '', '', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Arre Mago" (2007)', '', '', '', '', 'Guaymas, Sonora, Mexico']	28.0738847	-111.01852472776024
+['"Arriba & Alante" (2007)', '', '', '', 'Telesistema, Santo Domingo, Dominican Republic']	18.474807849999998	-69.91564261326931
+['"Art Fennel Reports" (2007)', '', '', '', 'Wilmington, Delaware, USA']	39.7459468	-75.546589
+['"Art and the City" (2007)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Art and the City" (2007)', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Art and the City" (2007)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Art and the City" (2007)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Art and the City" (2007)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Arteria" (2007)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"As Ti Tud Not Padu" (2007)', '', '', '', 'Ljubljana, Slovenia']	45.8133113	14.4808369
+['"As the Bell Rings" (2007/I)', '', '', '', 'ABC Ripponlea Studios, Elsternwick, Melbourne, Victoria, Australia']	-24.7761086	134.755
+['"As the Bell Rings" (2007/I)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"As the Bell Rings" (2007/I)', '', '', '', 'Merton Studios - 1 Deer Park Road, Merton, London, England, UK']	51.5073219	-0.1276474
+['"As the Bell Rings" (2007/II)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Aschermittwoch der Kabarettisten" (2007) {(2011-03-09)}', 'Deutsches Theater, Munich, Bavaria, Germany']	48.136818149999996	11.562003674633374
+['"Asi" (2007)', '', '', '', '', '', 'Antakya, Turkey']	36.219114	36.1616275
+['"Asia Brief" (2007)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Asian Idol" (2007)', '', '', '', '', 'Jakarta, Indonesia']	-6.1753942	106.827183
+['"Ask God" (2007)', '', '', '', '', 'Aurora, Illinois, USA']	41.7571701	-88.3147539
+['"Asta seara filmam in familie" (2007)', '', '', 'Bucharest, Romania']	45.9852129	24.6859225
+['"Astro-Nots" (2007)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"At the End of My Leash" (2007)', '', '', '', 'Alberta, Canada']	61.0666922	-107.9917071
+['"At the End of My Leash" (2007) {Dog-Eat-Mom World (#1.12)}', 'Alberta, Canada']	61.0666922	-107.9917071
+['"At the End of My Leash" (2007) {Three\'s Company, 4\'s a Crowd (#1.10)}', 'Alberta, Canada']	61.0666922	-107.9917071
+['"Atlanta Shorts" (2007)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Aunque mal paguen" (2007)', '', '', '', 'El Guayabo, Venezuela']	8.6247408	-72.3386594
+['"Australia\'s Got Talent" (2007)', '', '', '', 'HSV-7 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Australia\'s Got Talent" (2007)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Ayrilik" (2007)', '', '', '', '', 'Amasra, Turkey']	41.7489175	32.3866959
+['"Ayrilik" (2007)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ayrilik" (2007)', '', '', '', '', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"Azteca deportes noreste" (2007)', '', '', 'Monterrey, Nuevo Le�n, Mexico']	19.4326296	-99.1331785
+['"BBC Electric Proms" (2007)', '', '', '', 'Camden, London, England, UK']	51.5073219	-0.1276474
+['"BBC Inside Out Yorkshire and Lincolnshire" (2007)', 'National Museum of Photography Film & Television, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Inside Out Yorkshire and Lincolnshire" (2007)', 'Tankersley, South Yorkshire, England, UK']	53.48153335	-1.3810422066149592
+['"BBC News 8pm Summary" (2007) {(2014-11-26)}', '', 'BBC Broadcasting House, Central London, England, UK']	51.51878285	-0.14383148508415589
+['"BPM Spotlight" (2007)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"BPM Spotlight" (2007)', '', '', '', '', 'Amsterdam, Netherlands']	52.3727598	4.8936041
+['"BPM Spotlight" (2007)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"BPM Spotlight" (2007)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"BPM Spotlight" (2007)', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"BPM Spotlight" (2007)', '', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"BPM Spotlight" (2007)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"BPM Spotlight" (2007)', '', '', '', '', 'Europe']	51.0	10.0
+['"Backcountry Boot Camp" (2007)', '', '', '', 'Wyoming, USA']	43.1700264	-107.5685348
+['"Bad Dad" (2007)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baie des flamboyants" (2007)', '', '', '', "Guadeloupe, D�partements d'Outre-Mer, France"]	46.603354	1.8883335
+['"Bailando por un sue�o: 1er campeonato internacional de baile" (2007)', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Baisden After Dark" (2007)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bait Car" (2007)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Bait Car" (2007)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bait Car" (2007)', '', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Bait Car" (2007)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bait Car" (2007)', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Bajo Las Riendas del Amor" (2007)', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Bakkan! Gurabia teikoku" (2007)', '', '', 'Guam']	13.450125700000001	144.75755102972062
+['"Bakkan! Gurabia teikoku" (2007)', '', '', 'Osaka, Japan']	36.5748441	139.2394179
+['"Bakkan! Gurabia teikoku" (2007)', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Balanced Health" (2007)', '', '', '', 'Aurora, Illinois, USA']	41.7571701	-88.3147539
+['"Baldwin Hills" (2007)', '', '', '', '', 'Baldwin Hills, Los Angeles, California, USA']	34.0075684	-118.3505956
+['"Bali 3 in 1" (2007)', '', '', '', '', 'Indonesia']	-2.4833826	117.8902853
+['"Ballers" (2007)', '', '', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Banda sonora" (2007)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Banda sonora" (2007) {(#3.3)}', '', '', '', 'Gran Teatre del Liceu, Barcelona, Catalonia, Spain']	41.380499799999996	2.1733443254130815
+['"Banda sonora" (2007) {(#3.5)}', '', '', '', 'Teatre T�voli de Barcelona, Barcelona, Catalonia, Spain']	39.3262345	-4.8380649
+['"Banda sonora" (2007) {(#3.6)}', '', '', '', 'Luz de Gas, Barcelona, Catalonia, Spain']	41.3945976	2.1491592
+['"Banda sonora" (2007) {(#3.8)}', '', '', '', 'Teatre Borr�s, Barcelona, Catalonia, Spain']	39.3262345	-4.8380649
+['"Banda sonora" (2007) {(#4.14)}', '', '', '', 'Mercado de la Boquer�a, Barcelona, Catalonia, Spain']	39.3262345	-4.8380649
+['"Banda sonora" (2007) {(#4.8)}', '', '', '', 'Teatre Condal, Barcelona, Catalonia, Spain']	41.3747886	2.1647518
+['"Banda sonora" (2007) {(#5.11)}', '', '', '', 'Teatre Tantarantana, Barcelona, Catalonia, Spain']	41.3759426	2.1678212
+['"Banda sonora" (2007) {(#5.19)}', '', '', '', 'Sant Jordi Club, Barcelona, Catalonia, Spain']	41.2279525	1.7313471
+['"Banda sonora" (2007) {(#5.23)}', '', '', '', 'Sitges, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Banda sonora" (2007) {(#5.3)}', '', '', '', 'Teatre T�voli de Barcelona, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Banda sonora" (2007) {(#5.5)}', '', '', '', 'Club Capitol, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Banda sonora" (2007) {(#5.5)}', '', '', '', 'Sitges, Barcelona, Catalonia, Spain']	41.2366707	1.8228136
+['"Banda sonora" (2007) {(#5.6)}', '', '', '', 'Palau de la M�sica Catalana, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Banda sonora" (2007) {(#8.4)}', '', '', '', 'Teatre Nacional de Catalunya, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Banged Up Abroad" (2007)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Banged Up Abroad" (2007)', '', '', '', 'Peru']	-6.8699697	-75.0458515
+['"Banged Up Abroad" (2007) {Bangladesh (#2.4)}', '', 'Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Banged Up Abroad" (2007) {Bangladesh (#2.4)}', '', 'Zia International Airport, Dhaka, Bangladesh']	23.8462861	90.40215
+['"Banged Up Abroad" (2007) {Bangladesh (#2.4)}', '', 'Dhaka Central Jail, Dhaka, Bangladesh']	23.66063595	90.37855110039847
+['"Banged Up Abroad" (2007) {Cuba (#3.8)}', '', '', 'Dominican Republic']	19.0974031	-70.3028026
+['"Banged Up Abroad" (2007) {Gold Smuggling from Hong Kong to Nepal (#1.3)}', 'Hong Kong, China']	35.000074	104.999927
+['"Banged Up Abroad" (2007) {Gold Smuggling from Hong Kong to Nepal (#1.3)}', 'Nepal']	28.1083929	84.0917139
+['"Banged Up Abroad" (2007) {I Am Not a Terrorist (#6.12)}', 'Colombia']	2.8894434	-73.783892
+['"Banged Up Abroad" (2007) {India: Hostage to Terror (#2.7)}', 'Delhi, India']	28.6517178	77.2219388
+['"Banged Up Abroad" (2007) {India: Hostage to Terror (#2.7)}', 'Perth, Western Australia, Australia']	-31.9527121	115.8604796
+['"Banged Up Abroad" (2007) {Mexican Prison Escape (#7.6)}', 'Colombia']	2.8894434	-73.783892
+['"Banged Up Abroad" (2007) {Nightmare in Somalia (#6.18)}', 'Morocco']	31.1728205	-7.3362482
+['"Banged Up Abroad" (2007) {Pakistan (#2.8)}', '', 'Karachi, Pakistan']	30.3308401	71.247499
+['"Banged Up Abroad" (2007) {Saudi Bootlegger (#5.1)}', 'Jordan']	31.1667049	36.941628
+['"Banged Up Abroad" (2007) {Spain (#4.5)}', '', 'Guayaquil, Guayas, Ecuador']	-2.1899066	-79.887726
+['"Banged Up Abroad" (2007) {Spain (#4.5)}', '', 'Quito, Pichincha, Ecuador']	-0.2201641	-78.5123274
+['"Banged Up Abroad" (2007) {Uganda: Death in the Jungle (#2.2)}', 'Uganda']	1.5333554	32.2166578
+['"Bannmeile" (2007)', '', '', '', '', 'Tipi, Berlin, Germany']	52.51839305	13.367163940291022
+['"Barbarians II" (2007)', '', '', '', '', 'Lithuania']	55.3500003	23.7499997
+['"Barwy szczescia" (2007)', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Barwy szczescia" (2007)', '', '', '', 'Serock, Mazowieckie, Poland']	52.5135193	21.0731162
+['"Bastard Boys" (2007)', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Bastard Boys" (2007)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Batalla de las Bandas" (2007)', '', '', '', 'House in El Hatillo - Tegucigalpa, Honduras']	14.1324665	-87.1717477
+['"Battle for the Holy Land: Jerusalem" (2007)', '', 'Israel']	31.5313113	34.8667654
+['"Battle for the Holy Land: Jerusalem" (2007)', '', 'Jordan']	31.1667049	36.941628
+['"Battle for the Holy Land: Jerusalem" (2007)', '', 'UK']	54.7023545	-3.2765753
+['"Bay of Plenty" (2007)', '', '', '', '', 'Durban, KwaZulu-Natal, South Africa']	-29.861825	31.009909
+['"Bay of Plenty" (2007)', '', '', '', '', 'Lamontville, KwaZulu-Natal, South Africa']	-28.8166236	24.991639
+['"Be on TV" (2007)', '', '', '', '', 'Shoreditch, London, England, UK']	51.5266694	-0.0798926
+['"Begeertes" (2007)', '', '', '', '', 'Fourways, Johannesburg, South Africa']	-26.005	28.0038889
+['"Begeertes" (2007)', '', '', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"Begin Japanology" (2007)', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Begin Japanology" (2007) {Ise Jingu}', '', '', 'Ise Grand Shrine - 1 Ujitachi-cho, Ise City, Mie Prefecture, Japan']	34.487442	136.709333
+['"Begin Japanology" (2007) {Ramen}', '', '', 'Tokyo Ramen Street, Tokyo, Japan']	35.6805476	139.7680781
+['"Begin Japanology" (2007) {Ramen}', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Begin Japanology" (2007) {Ramen}', '', '', 'Hokkaido, Japan']	43.43395355	142.95144677396019
+['"Begin Japanology" (2007) {Ramen}', '', '', 'Fukushimoa Prefecture, Japan']	36.5748441	139.2394179
+['"Begin Japanology" (2007) {Ramen}', '', '', 'Fukuoka Prefecture, Japan']	36.5748441	139.2394179
+['"Begin Japanology" (2007) {Ramen}', '', '', 'Shinyokohama Ramen Museum, Yokohama, Japan']	36.5748441	139.2394179
+['"Begin Japanology" (2007) {Ramen}', '', '', 'China']	35.000074	104.999927
+['"Begin Japanology" (2007) {Tokyo Skytree}', '', 'Tokyo Skytree, 1-1-2 Oshiage, Sumida, Tokyo, Japan']	35.700429	139.805017
+['"Bellezas indomables" (2007)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Berlinerpoplene" (2007)', '', '', '', 'Byneset, Norway']	60.5000209	9.0999715
+['"Best Evidence" (2007)', '', '', '', '', 'Roswell, New Mexico, USA']	33.3943282	-104.5229518
+['"Better Half" (2007)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Better Living in USA" (2007)', '', '', '', 'New York, USA']	39.7837304	-100.4458825
+['"Better Living in USA" (2007) {Flora Zeta (#2.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills Bert" (2007)', '', '', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bienvenido a casa" (2007)', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Bienvenue chez..." (2007) {Addolorata (#1.13)}', '', 'Torre Orsaia, Salerno, Campania, Italy']	40.133304	15.473266
+['"Bienvenue chez..." (2007) {Birute (#1.7)}', '', 'Grutas Park, Lithuania']	54.0325024	24.0771597
+['"Bienvenue chez..." (2007) {Bosse (#1.3)}', '', 'Hanko, Finland']	59.8228008	22.9695005
+['"Bienvenue chez..." (2007) {Didda (#1.15)}', '', 'Reykjav�k, Iceland']	64.9841821	-18.1059013
+['"Bienvenue chez..." (2007) {Elisabetta (#1.10)}', '', 'Sicily, Italy']	37.587794	14.155048
+['"Bienvenue chez..." (2007) {Hassan (#1.1)}', '', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"Bienvenue chez..." (2007) {Henrietta (#1.2)}', '', 'Burnham Overy, Norfolk, England, UK']	52.952297	0.7413082
+['"Bienvenue chez..." (2007) {Jean (#1.9)}', '', 'Ardennes, Belgium']	50.25	5.72
+['"Bienvenue chez..." (2007) {Jim (#1.6)}', '', '', 'Islay, Argyll and Bute, Scotland, UK']	55.758633	-6.165468260386538
+['"Bienvenue chez..." (2007) {Manon (#1.4)}', '', 'Paris, France']	48.8566969	2.3514616
+['"Bienvenue chez..." (2007) {Maura (#1.11)}', '', 'Inishmore, Aran Islands, County Galway, Ireland']	52.865196	-7.9794599
+['"Bienvenue chez..." (2007) {Mehmet (#1.5)}', '', 'Nicosia, Cyprus']	35.1739302	33.364726
+['"Bienvenue chez..." (2007) {Pepe (#1.12)}', '', 'Formentera, Balearic Islands, Spain']	38.7063909	1.4335265588311943
+['"Bienvenue chez..." (2007) {Stavros (#1.14)}', '', 'Cyprus']	34.9823018	33.1451285
+['"Big Medicine" (2007)', '', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974

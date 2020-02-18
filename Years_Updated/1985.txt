@@ -1,0 +1,311 @@
+['"1985 World Series" (1985)', '', '', '', 'Busch Stadium - 250 Stadium Plaza, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"1985 World Series" (1985)', '', '', '', 'Kauffman Stadium - 1 Royal Way, Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"227" (1985)', '', '', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985)', '', '', '', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985)', '', '', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"227" (1985) {A Class Act (#4.12)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {A Date to Remember (#4.15)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {A Daughter Is a Precious Thing (#1.11)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {A Funny Thing Happened on the Way to the Pageant (#4.3)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {A Good Citizen (#2.17)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {A Letter to the President (#1.8)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {A Matter of Choice (#2.12)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {A Pampered Tale (#5.3)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {A Yen for Lester (#4.7)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {A Young Man\'s Fancy (#1.16)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {And Baby Makes Three (#3.4)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {And the Survey Says... (#4.6)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Author, Author (#2.9)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Babes in the Woods (#4.14)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Best Friends (#3.24)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Blues (#3.20)}', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Brenda\'s Last Date (#1.15)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Brother from a Sister City (#4.5)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Bull\'s Eye (#3.5)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Check Snub (#2.22)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Come Into My Parlor (#2.7)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Come the Revolution (#5.14)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Country Cousins (#3.23)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Do Not Pass Go: Part 1 (#5.18)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Do Not Pass Go: Part 2 (#5.19)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Do You Love Me? (#1.5)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Double Your Pleasure (#4.4)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Family Hero (#1.3)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Far from the Tree (#2.14)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Father\'s Day (#2.8)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Fifty Big Ones (#1.19)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Flying Down to Leo\'s (#5.8)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Football Widow (#1.10)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {For Richer, for Poorer (#4.17)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {For Sale (#4.24)}', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Gone Fishing (#5.21)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Got a Job (#2.13)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Guess Who\'s Not Coming to Christmas? (#5.12)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Happy Twentieth (#2.18)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Hide the Star (#4.2)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Honesty (#1.1)}', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {House Number (#4.22)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {How the West Was Fun: Part 1 (#5.5)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {How the West Was Fun: Part 2 (#5.6)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Jack�e (#4.23)}', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Knock It Off (#5.17)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Looking Back (#4.8)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Low Noon (#3.2)}', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Mary Nightingale (#2.2)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Mary\'s Brother (#1.2)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Mary\'s Christmas (#1.13)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Mary\'s Cookies (#4.16)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Matchmakers (#2.10)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Men\'s Club (#3.1)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {My Aching Back (#3.22)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Nightmare on 227 (#5.22)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {No Place Like Home (#5.24)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {No, My Darling Daughter (#4.21)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Pick Six (#1.21)}', '', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Pillow Talk (#2.6)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Pilot (#1.6)}', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"227" (1985) {Pity the Poor Working Girl (#1.9)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Play Christy for Me (#5.16)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Play It Again, Stan (#4.11)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Rapture (#3.10)}', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Redecorating Blues (#1.18)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Reunion Blues (#5.9)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Rich Kid (#2.20)}', '', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {See You in Court (#3.8)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Shall We Dance? (#3.14)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Slam Dunked (#1.20)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Snowbound (#3.13)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Sweet Sixteen (#3.16)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Take My Diva... Please (#5.1)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Teach Me Tonight: Part 1 (#3.6)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Teach Me Tonight: Part 2 (#3.7)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Temptations (#2.5)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Tenants, Anyone? (#5.2)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Audit (#2.16)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Bed of Rose\'s (#1.14)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Bet (#4.20)}', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {The Big Deal (#3.18)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {The Big Piano Play-Off (#1.12)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Butler Did It (#3.21)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Class of \'89 (#4.18)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Class of \'90 (#5.23)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Facade (#3.11)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Fight of the Century (#5.4)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Fourth Time Around (#2.19)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {The Great Manhunt (#2.4)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {The Handwriting on the Wall (#2.11)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {The Honeymoon\'s Over (#3.9)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The New Neighbors (#3.19)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Night They Arrested Santa Claus (#4.9)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Perfume Game (#5.10)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Prince (#4.13)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Real Decoys (#4.10)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Refrigerator (#1.4)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Roommate (#3.17)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Sidewalk Sale (#1.7)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {The Sing-Off (#3.15)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Talk Show (#3.12)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Wheel of Misfortune (#2.1)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {The Whiz Kid (#4.1)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {The Working Game (#2.21)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {There Go the Clowns (#5.13)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {There Goes the Building (#3.3)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Toyland (#2.15)}', '', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Trial and Error (#4.19)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Video-Activity (#5.7)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {War Is Heck (#5.11)}', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Washington Affair (#2.3)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {We the People (#1.17)}', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"227" (1985) {Where Do We Go from Here? (#5.15)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {You Gotta Have Art (#5.20)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"227" (1985) {Young Man with a Job (#1.22)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"5 dni z zycia emeryta" (1985)', '', '', '', 'Poland']	52.215933	19.134422
+['"6 en punto" (1985)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"A Fortunate Life" (1985)', '', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"A Thousand Skies" (1985)', '', '', '', 'Port Douglas, Queensland, Australia']	-16.4845983	145.4636294
+['"A Thousand Skies" (1985)', '', '', '', 'Clare Valley, South Australia, Australia']	-33.8333914	138.6120042
+['"A Thousand Skies" (1985)', '', '', '', 'Flinders Ranges, South Australia, Australia']	-31.497	138.545
+['"A Thousand Skies" (1985)', '', '', '', 'Hawker, South Australia, Australia']	-31.8876169	138.4227131
+['"A Thousand Skies" (1985)', '', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"A Thousand Skies" (1985)', '', '', '', 'South Australia, Australia']	-30.5343665	135.6301212
+['"A Thousand Skies" (1985)', '', '', '', 'Victoria, Australia']	-36.5986096	144.6780052
+['"A.D." (1985) {Part 1 (#1.1)}', '', '', '', 'Tunisia']	33.8439408	9.400138
+['"A.D." (1985) {Part 2 (#1.2)}', '', '', '', 'Tunisia']	33.8439408	9.400138
+['"A.D." (1985) {Part 3 (#1.3)}', '', '', '', 'Tunisia']	33.8439408	9.400138
+['"A.D." (1985) {Part 4 (#1.4)}', '', '', '', 'Tunisia']	33.8439408	9.400138
+['"A.D." (1985) {Part 5 (#1.5)}', '', '', '', 'Tunisia']	33.8439408	9.400138
+['"Abandonada" (1985)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"About Time" (1985) {Once Upon a Time (#1.2)}', '', 'Quincy, Mieussy, Haute-Savoie, France']	46.1532703	6.4935045
+['"Acimak" (1985)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Akhri Chattan" (1985)', '', '', '', '', 'Pakistan']	30.3308401	71.247499
+['"Akko ni omakase!" (1985)', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Al ragol allathy fakada dhakeratoh marratein" (1985)', 'Egypt']	26.2540493	29.2675469
+['"Albion Market" (1985)', '', '', '', '', 'Salford, Greater Manchester, England, UK']	53.4877463	-2.2891921
+['"Alfred Hitchcock Presents" (1985)', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alltagsgeschichten" (1985) {9 Flugstunden von zu Hause}', 'Dominican Republic']	19.0974031	-70.3028026
+['"Alltagsgeschichten" (1985) {Im Caf�haus}', '', 'Vienna, Austria']	48.2083537	16.3725042
+['"Alltagsgeschichten" (1985) {Im Waschsalon}', '', 'Vienna, Austria']	48.2083537	16.3725042
+['"Amazing Stories" (1985)', '', '', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985)', '', '', '', 'Pico House - 410 N. Main Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Amazing Stories" (1985)', '', '', '', 'Plaza Park, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amazing Stories" (1985) {Alamo Jobe (#1.3)}', '', 'Mexican Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Blue Man Down (#2.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Boo! (#1.17)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Dorothy and Ben (#1.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Fine Tuning (#1.7)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Gather Ye Acorns (#1.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Gershwin\'s Trunk (#2.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Ghost Train (#1.1)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Go to the Head of the Class (#2.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Grandpa\'s Ghost (#1.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Guilt Trip (#1.9)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Hell Toupee (#1.21)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Lane Change (#2.13)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Life on Death Row (#2.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Magic Saturday (#2.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Mirror, Mirror (#1.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Miscalculation (#2.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Miss Stardust (#2.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Moving Day (#2.20)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Mr. Magic (#1.8)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Mummy Daddy (#1.4)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {No Day at the Beach (#1.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {One for the Books (#1.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {One for the Road (#1.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Remote Control Man (#1.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Santa \'85 (#1.11)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Secret Cinema (#1.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Such Interesting Neighbors (#2.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Thanksgiving (#2.9)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The 21-Inch Sun (#2.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The Doll (#1.22)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The Eternal Mind (#2.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The Greibble (#2.6)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The Main Attraction (#1.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The Main Attraction (#1.2)}', 'University High School - 11800 Texas Avenue, West Los Angeles, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amazing Stories" (1985) {The Mission (#1.5)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The Pumpkin Competition (#2.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The Sitter (#1.13)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {The Wedding Ring (#2.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Vanessa in the Garden (#1.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Welcome to My Nightmare (#2.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {What If...? (#2.11)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {Without Diana (#2.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amazing Stories" (1985) {You Gotta Believe Me (#2.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Abingdon, Virginia, USA']	36.7095788	-81.9774878
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Dublin, County Dublin, Ireland']	53.3497645	-6.2602732
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Galveston, Texas, USA']	29.299328	-94.7945882
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Grasse, Alpes-Maritimes, France']	43.6589011	6.9239103
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Greeley, Colorado, USA']	40.4233142	-104.7091322
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Niagara Falls, New York, USA']	43.08436	-79.0614686
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Paris, France']	48.8566969	2.3514616
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'The Players Club, New York City, New York, USA']	40.7375	-73.9875
+['"American Masters" (1985) {A Conversation with Gregory Peck (#15.6)}', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"American Masters" (1985) {Annie Leibovitz: Life Through a Lens (#20.8)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {Annie Leibovitz: Life Through a Lens (#20.8)}', 'Rhinebeck, New York, USA']	41.9268754	-73.9126639
+['"American Masters" (1985) {Annie Leibovitz: Life Through a Lens (#20.8)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"American Masters" (1985) {Annie Leibovitz: Life Through a Lens (#20.8)}', 'Versailles, Yvelines, France']	48.8035403	2.1266886
+['"American Masters" (1985) {Annie Leibovitz: Life Through a Lens (#20.8)}', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"American Masters" (1985) {Edgar Allan Poe: Buried Alive (#31.6)}', 'Fort Independence, Castle Island, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Masters" (1985) {Ernest Hemingway: Rivers to the Sea (#19.6)}', 'Ketchum, Idaho, USA']	43.680741	-114.363662
+['"American Masters" (1985) {Ernest Hemingway: Rivers to the Sea (#19.6)}', 'Spain']	39.3262345	-4.8380649
+['"American Masters" (1985) {Garrison Keillor: The Man on the Radio in the Red Shoes (#23.5)}', 'Fitzgerald Theater - 10 Exchange Street E., St. Paul, Minnesota, USA']	39.7837304	-100.4458825
+['"American Masters" (1985) {Garrison Keillor: The Man on the Radio in the Red Shoes (#23.5)}', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"American Masters" (1985) {Garrison Keillor: The Man on the Radio in the Red Shoes (#23.5)}', 'St. Paul, Minnesota, USA']	44.9504037	-93.1015026
+['"American Masters" (1985) {George Lucas: Heroes, Myths and Magic (#7.2)}', 'Skywalker Ranch, San Rafael, California, USA']	37.9735346	-122.5310874
+['"American Masters" (1985) {Good Rockin\' Tonight: The Legacy of Sun Records (#16.5)}', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"American Masters" (1985) {John Muir in the New World (#25.3)}', 'Alaska, USA']	64.4459613	-149.680909
+['"American Masters" (1985) {John Muir in the New World (#25.3)}', 'Florida, USA']	27.7567667	-81.4639835
+['"American Masters" (1985) {John Muir in the New World (#25.3)}', 'Georgia, USA']	32.3293809	-83.1137366
+['"American Masters" (1985) {John Muir in the New World (#25.3)}', 'Wisconsin, USA']	39.7837304	-100.4458825
+['"American Masters" (1985) {John Muir in the New World (#25.3)}', 'Yosemite National Park, California, USA']	37.84054795	-119.51658779802511
+['"American Masters" (1985) {Les Paul: Chasing Sound (#21.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Masters" (1985) {Les Paul: Chasing Sound (#21.3)}', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"American Masters" (1985) {Les Paul: Chasing Sound (#21.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {Les Paul: Chasing Sound (#21.3)}', 'Waukesha, Wisconsin, USA']	43.0116784	-88.2314813
+['"American Masters" (1985) {Maurice Sendak: Mon Cher Papa (#2.6)}', 'Connecticut, USA']	41.6500201	-72.7342163
+['"American Masters" (1985) {No Direction Home: Bob Dylan (#19.7)}', 'Hibbing, Minnesota, USA']	47.427155	-92.937689
+['"American Masters" (1985) {No Direction Home: Bob Dylan (#19.7)}', 'New York, USA']	39.7837304	-100.4458825
+['"American Masters" (1985) {Philip Johnson, Self Portrait (#1.2)}', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"American Masters" (1985) {Philip Johnson, Self Portrait (#1.2)}', 'Fort Worth, Texas, USA']	32.753177	-97.3327459
+['"American Masters" (1985) {Philip Johnson, Self Portrait (#1.2)}', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"American Masters" (1985) {Philip Johnson, Self Portrait (#1.2)}', 'New Canaan, Connecticut, USA']	41.1458207	-73.4963532
+['"American Masters" (1985) {Philip Johnson, Self Portrait (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {Sam Cooke: Crossing Over (#24.1)}', 'Long Island, New York, USA']	40.85172235	-73.09921882199973
+['"American Masters" (1985) {Sam Cooke: Crossing Over (#24.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Masters" (1985) {Sam Cooke: Crossing Over (#24.1)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"American Masters" (1985) {Sam Cooke: Crossing Over (#24.1)}', 'South Side, Chicago, Illinois, USA']	41.856439	-87.6110589
+['"American Masters" (1985) {Sidney Poitier: One Bright Light (#14.5)}', 'Cat Island, Bahamas']	24.3385	-75.61499318805444
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', 'Anaheim ICE - 300 W. Lincoln Avenue, Anaheim, California, USA']	33.8347516	-117.911732
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', 'Chiat/Day Building - 340 Main Street, Venice, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', 'DG Bank Building, Pariser Platz, Mitte, Berlin, Germany']	52.5176896	13.4023757
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', 'Gehry Residence, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', 'Guggenheim Museum, Bilbao, Vizcaya, Pa�s Vasco, Spain']	39.3262345	-4.8380649
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', "Maggie's Centre, Ninewells Hospital, Dundee, Scotland, UK"]	56.4605938	-2.97019
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', 'Santa Monica Place - 4th Street & Broadway, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', 'Vitra Design Museum, Weil am Rhein, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"American Masters" (1985) {Sketches of Frank Gehry (#20.7)}', 'Walt Disney Concert Hall - 111 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Masters" (1985) {Sweet Honey in the Rock: Raise Your Voice (#19.2)}', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"American Masters" (1985) {The Architect & the Painter: The Creative Lives of Ray & Charles Eames (#25.8)}', 'Detroit Metropolitan Wayne County Airport, Michigan, USA']	42.205699100000004	-83.35297537621658
+['"American Masters" (1985) {The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table (#2.9)}', 'Rose Room, Algonquin Hotel - 59 W. 44th Street, Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"American Masters" (1985) {The World of Nat King Cole (#20.2)}', 'Havana, Cuba']	23.135305	-82.3589631
+['"American Masters" (1985) {Tony Bennett: The Music Never Ends (#21.6)}', 'Astoria, Queens, New York City, New York, USA']	40.7720145	-73.9302673
+['"American Masters" (1985) {Tony Bennett: The Music Never Ends (#21.6)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"American Masters" (1985) {Tony Bennett: The Music Never Ends (#21.6)}', 'Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'Cannes Film Festival, Cannes, Alpes-Maritimes, France']	43.5515198	7.0134418
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'Cafe Carlyle, Carlyle Hotel - 35 East 76th Street, Broadway, Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'London, England, UK']	51.5073219	-0.1276474
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'Cannes Film Festival, Cannes, Alpes-Maritimes, France']	43.5515198	7.0134418
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'London, England, UK']	51.5073219	-0.1276474
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Masters" (1985) {Woody Allen: A Documentary (#25.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {You Must Remember This: The Warner Bros. Story (#22.4)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"American Masters" (1985) {You Must Remember This: The Warner Bros. Story (#22.4)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"American Masters" (1985) {You Must Remember This: The Warner Bros. Story (#22.4)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"American Masters" (1985) {You Must Remember This: The Warner Bros. Story (#22.4)}', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"American Masters" (1985) {You Must Remember This: The Warner Bros. Story (#22.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Masters" (1985) {You Must Remember This: The Warner Bros. Story (#22.4)}', 'Times Square, Manhattan, New York City, New York, USA']	40.757280550000004	-73.98585503545917
+['"American Masters" (1985) {Yours for a Song: The Women of Tin Pan Alley (#13.7)}', 'Bemelmans Bar, Carlyle Hotel, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {Yours for a Song: The Women of Tin Pan Alley (#13.7)}', 'Juilliard School, Lincoln Center for the Performing Arts - Columbus Avenue & 61st Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Masters" (1985) {Yours for a Song: The Women of Tin Pan Alley (#13.7)}', 'National Arts Club - 15 Gramercy Park South, Gramercy Park, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Animais" (1985) {A Crianca e o Zoo (#1.2)}', '', 'Lisbon Zoo, Portugal']	40.0332629	-7.8896263
+['"Animais" (1985) {A Tartaruga Marinha (#1.1)}', '', 'Madeira Island, Portugal']	32.751748750000004	-16.981752048847362
+['"Animais" (1985) {A Tartaruga Marinha (#1.1)}', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"Animais" (1985) {A Tartaruga Marinha (#1.1)}', '', 'Madeira, Portugal']	40.0332629	-7.8896263
+['"Animais" (1985) {A Vida a Beira Mar (#1.5)}', '', 'Portugal']	40.0332629	-7.8896263
+['"Animais" (1985) {A Vida a Beira Mar (#1.5)}', '', 'Algarve, Portugal']	40.0332629	-7.8896263
+['"Animais" (1985) {As Galinhas (#1.3)}', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"Animais" (1985) {As Ovelhas (#1.4)}', '', '', 'Serra da Estrela, Guarda, Portugal']	40.4358994	-7.516865473467464
+['"Animais" (1985) {As Ovelhas (#1.4)}', '', '', 'Alentejo, Portugal']	40.0332629	-7.8896263
+['"Animais" (1985) {Os Gatos (#1.6)}', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"Anna of the Five Towns" (1985)', '', '', '', 'Isle of Man']	54.2358167	-4.514598745698255
+['"Anne of Green Gables" (1985)', '', '', '', 'Black Creek Pioneer Village, North York, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Anne of Green Gables" (1985)', '', '', '', 'Cornell House, Toronto, Ontario, Canada']	43.6866123	-79.2728346
+['"Anne of Green Gables" (1985)', '', '', '', 'Doon Pioneer Village, Waterloo, Ontario, Canada']	43.466874	-80.524635
+['"Anne of Green Gables" (1985)', '', '', '', 'Dundurn Castle, Hamilton, Ontario, Canada']	43.2694696	-79.884192
+['"Anne of Green Gables" (1985)', '', '', '', 'McLean Estate, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Anne of Green Gables" (1985)', '', '', '', 'Ontario, Canada']	61.0666922	-107.9917071
+['"Anne of Green Gables" (1985)', '', '', '', 'Orwell Corner Rural Life Museum, Orwell, Prince Edward Island, Canada']	61.0666922	-107.9917071
+['"Anne of Green Gables" (1985)', '', '', '', 'Pickering Museum Village, Pickering, Ontario, Canada']	43.835765	-79.090576
+['"Anne of Green Gables" (1985)', '', '', '', 'Pleasure Valley Resort, Ontario, Canada']	61.0666922	-107.9917071
+['"Anne of Green Gables" (1985)', '', '', '', 'Prince Edward Island, Canada']	61.0666922	-107.9917071
+['"Anne of Green Gables" (1985)', '', '', '', 'Rustico Summer Haven Resort, Prince Edward Island, Canada']	61.0666922	-107.9917071
+['"Anne of Green Gables" (1985)', '', '', '', 'Simcoe County Museum, Minesing, Ontario, Canada']	61.0666922	-107.9917071
+['"Anne of Green Gables" (1985)', '', '', '', 'Spadina House - 285 Spadina Road, Toronto, Ontario, Canada']	43.679018049999996	-79.40811569159052
+['"Anne of Green Gables" (1985)', '', '', '', 'Uxbridge, Ontario, Canada']	44.107556	-79.127655
+['"Anne of Green Gables" (1985)', '', '', '', 'Victoria University, Toronto, Ontario, Canada']	43.667176	-79.3932816
+['"Anne of Green Gables" (1985)', '', '', '', 'Wentworth Heritage Village, Rockton, Ontario, Canada']	43.300558	-80.1258509
+['"Anne of Green Gables" (1985)', '', '', '', 'Windermere House, Windermere, Ontario, Canada']	47.970506	-83.4854184
+['"Anne of Green Gables" (1985) {Part 1 (#1.1)}', '', 'Westfield Heritage Village, Rockton, Ontario, Canada']	43.3198088	-80.1428933
+['"Anne of Green Gables" (1985) {Part 2 (#1.2)}', '', 'Westfield Heritage Village, Rockton, Ontario, Canada']	43.3198088	-80.1428933
+['"Arco �ris" (1985)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Arroz Doce" (1985)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Auto Racing \'85" (1985) {Southern 500}', '', '', 'Darlington Raceway, 1301 Harry Byrd Highway, Darlington, South Carolina, USA']	34.3609331	-79.9438572
+['"Bik hue gim" (1985)', '', '', '', '', 'Hong Kong, China']	22.2793278	114.1628131

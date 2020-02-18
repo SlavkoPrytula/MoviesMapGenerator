@@ -1,0 +1,496 @@
+['"$25 Million Dollar Hoax" (2004)', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"\'Wag kukurap" (2004)', '', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"...Amb Manel Fuentes" (2004)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"10.5" (2004)', '', '', '', '', '', 'Hollywood Sign, Hollywood Hills, Los Angeles, California, USA']	34.1340991	-118.3216523
+['"10.5" (2004)', '', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"100 Greatest Discoveries" (2004)', '', '', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"100 Greatest Discoveries" (2004)', '', '', 'Old Town, Alexandria, Virginia, USA']	38.8051426	-77.0383022
+['"100 Greatest Discoveries" (2004)', '', '', 'Prince Georges County, Maryland, USA']	38.803929	-76.8518695
+['"100 Greatest Discoveries" (2004)', '', '', 'Staunton, Virginia, USA']	38.1495947	-79.072557
+['"100 Greatest Discoveries" (2004)', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"100 Greatest Stand-Ups of All Time" (2004)', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"100 Proof" (2004)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"100 Proof" (2004)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"100 Proof" (2004)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"100 h�jdare" (2004)', '', '', '', '', 'Europa Studios, Sundbyberg, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"100 h�jdare" (2004)', '', '', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 3 (#6.3)}', 'Berkeley, California, USA']	37.8708393	-122.2728639
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 3 (#6.3)}', 'Florida, USA']	27.7567667	-81.4639835
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 3 (#6.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 3 (#6.3)}', 'Tulsa, Oklahoma, USA']	36.1556805	-95.9929113
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 6 (#6.6)}', 'Amarillo, Texas, USA']	35.2072185	-101.8338246
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 6 (#6.6)}', 'Cadillac Ranch, Interstate 40, Amarillo, Texas, USA']	35.2072185	-101.8338246
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 6 (#6.6)}', 'Erick, Oklahoma, USA']	35.2153299	-99.8664925
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 6 (#6.6)}', 'Heartland Museum of Military Vehicles, Interstate 80, Lexington, Kentucky, USA']	38.0464066	-84.4970393
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 6 (#6.6)}', 'Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 6 (#6.6)}', 'Jackson, Georgia, USA']	34.1282559	-83.5753386
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Del 6 (#6.6)}', 'Lexington, Nebraska, USA']	40.7788486	-99.7414869
+['"100 h�jdare" (2004) {V�rldens sk�naste land - Final (#6.8)}', 'Greenville, Alabama, USA']	31.8295972	-86.6177517
+['"10i entoli" (2004) {Metaxy filon (#2.22)}', '', 'Athens, Greece']	37.9841493	23.7279843
+['"110% Tony Squires" (2004)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"12 corazones" (2004)', '', '', '', '', 'Occidental Studios - 201 N. Occidental Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"15/Love" (2004)', '', '', '', '', 'Eastern Townships Region, Qu�bec, Canada']	61.0666922	-107.9917071
+['"15/Love" (2004)', '', '', '', '', 'Saint-C�saire, Qu�bec, Canada']	61.0666922	-107.9917071
+['"18 - Allein unter M�dchen" (2004)', '', '', 'Hackeburg, Mecklenburg-Western Pomerania, Germany']	51.0834196	10.4234469
+['"18 - Allein unter M�dchen" (2004)', '', '', 'Reichskammergericht, Berlin, Germany']	51.0834196	10.4234469
+['"2004 Jammys: The Theatre at Madison Square Garden" (2004)', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"2004 Presidential Debates" (2004) {(#1.1)}', '', 'BankUnited Center, University of Miami - 1245 Dauer Drive, Coral Gables, Florida, USA']	25.690551499999998	-80.23500897983699
+['"2004 Presidential Debates" (2004) {(#1.2)}', '', 'Field House, Washington University - 330 North Big Bend Boulevard, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2004 Presidential Debates" (2004) {(#1.3)}', '', 'ASU Gammage, Arizona State University - 1200 S. Forest Avenue, Tempe, Arizona, USA']	33.4255056	-111.9400125
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio Algarve, Faro, Algarve, Portugal']	37.0162727	-7.9351771
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio Cidade de Coimbra, Coimbra, Portugal']	40.0332629	-7.8896263
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio D. Afonso Henriques, Guimar�es, Portugal']	40.0332629	-7.8896263
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio Dr. Magalh�es Pessoa, Leiria, Portugal']	40.0332629	-7.8896263
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio Jos� Alvalade, Lisbon, Portugal']	40.0332629	-7.8896263
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio Municipal de Aveiro, Aveiro, Portugal']	40.0332629	-7.8896263
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio Municipal de Braga, Braga, Portugal']	40.0332629	-7.8896263
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio do Bessa, Porto, Portugal']	40.0332629	-7.8896263
+['"2004 UEFA European Football Championship" (2004)', 'Est�dio do Drag�o, Porto, Portugal']	40.0332629	-7.8896263
+['"2004 World Series of Poker" (2004)', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2004 World Series" (2004)', '', '', '', 'Baghdad, Iraq']	33.3024309	44.3787992
+['"2004 World Series" (2004)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2004 World Series" (2004)', '', '', '', 'Busch Stadium - 250 Stadium Plaza, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2004 World Series" (2004)', '', '', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2004 World Series" (2004)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"2004 World Series" (2004)', '', '', '', 'St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"24 oras" (2004)', '', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"24 saat" (2004)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"24Inside" (2004)', '', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"29 Minutes & Counting" (2004)', '', '', '', 'Rosamond, California, USA']	34.8641446	-118.1634075
+['"3. t�r" (2004)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"3.2 Percent" (2004)', '', '', '', '', 'Utah, USA']	39.4225192	-111.7143584
+['"30 segundos" (2004)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"3R (Respect, Relax, Respond)" (2004)', '', '', 'Metro Manila, Philippines']	12.7503486	122.7312101
+['"55 Degrees North" (2004)', '', '', '', 'Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9738474	-1.6131572
+['"5ive Days to Midnight" (2004)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"60 Minute Makeover" (2004)', '', '', '', 'Barnet, Hertfordshire, England, UK']	51.6677802	-0.2426863
+['"60 Minute Makeover" (2004)', '', '', '', 'Birkenhead, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"60 Minute Makeover" (2004)', '', '', '', 'Caterham, Surrey, England, UK']	51.2819693	-0.0771032
+['"60 Minute Makeover" (2004)', '', '', '', 'Chertsey, Surrey, England, UK']	51.392296	-0.5038294
+['"60 Minute Makeover" (2004)', '', '', '', 'Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"60 Minute Makeover" (2004)', '', '', '', 'Congleton, Cheshire, England, UK']	53.1631463	-2.2110691
+['"60 Minute Makeover" (2004)', '', '', '', 'Crowborough, East Sussex, England, UK']	51.0590028	0.1635863
+['"60 Minute Makeover" (2004)', '', '', '', 'Darlington, County Durham, England, UK']	54.5242081	-1.5555812
+['"60 Minute Makeover" (2004)', '', '', '', 'East Grinstead, West Sussex, England, UK']	51.0	-0.416667
+['"60 Minute Makeover" (2004)', '', '', '', 'East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"60 Minute Makeover" (2004)', '', '', '', 'Farnham, Surrey, England, UK']	51.21023055	-0.7981514987271019
+['"60 Minute Makeover" (2004)', '', '', '', 'Finchley, London, England, UK']	51.5973246	-0.1805587
+['"60 Minute Makeover" (2004)', '', '', '', 'Gloucester, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"60 Minute Makeover" (2004)', '', '', '', 'Hackthorpe, Cumbria, England, UK']	54.6016237	-2.7099322
+['"60 Minute Makeover" (2004)', '', '', '', 'Halifax, West Yorkshire, England, UK']	53.7229229	-1.8604874
+['"60 Minute Makeover" (2004)', '', '', '', 'Hammersmith, London, England, UK']	51.4920377	-0.2236401
+['"60 Minute Makeover" (2004)', '', '', '', 'Harrogate, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"60 Minute Makeover" (2004)', '', '', '', 'High Wycombe, Buckinghamshire, England, UK']	51.627422	-0.7484153
+['"60 Minute Makeover" (2004)', '', '', '', 'Hoxton, London, England, UK']	51.5323935	-0.086078
+['"60 Minute Makeover" (2004)', '', '', '', 'Knebworth House, Stevenage, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"60 Minute Makeover" (2004)', '', '', '', 'Leeds, West Yorkshire, England, UK']	53.7974185	-1.5437941
+['"60 Minute Makeover" (2004)', '', '', '', 'Leicester, Leicestershire, England, UK']	52.6361398	-1.1330789
+['"60 Minute Makeover" (2004)', '', '', '', 'Milton Keynes, Buckinghamshire, England, UK']	52.0429797	-0.7589607
+['"60 Minute Makeover" (2004)', '', '', '', 'New Mills, Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"60 Minute Makeover" (2004)', '', '', '', 'Northampton, Northamptonshire, England, UK']	52.2381355	-0.8963907
+['"60 Minute Makeover" (2004)', '', '', '', 'Nottingham, Nottinghamshire, England, UK']	52.9534193	-1.1496461
+['"60 Minute Makeover" (2004)', '', '', '', 'Preston, Lancashire, England, UK']	53.7593363	-2.6992717
+['"60 Minute Makeover" (2004)', '', '', '', 'Ramsbottom, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"60 Minute Makeover" (2004)', '', '', '', 'Romford, Essex, England, UK']	51.8959542	0.9170016
+['"60 Minute Makeover" (2004)', '', '', '', 'Salford, Greater Manchester, England, UK']	53.4877463	-2.2891921
+['"60 Minute Makeover" (2004)', '', '', '', 'Southampton, Hampshire, England, UK']	51.075913799999995	-1.5196262241315694
+['"60 Minute Makeover" (2004)', '', '', '', 'Southport, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"60 Minute Makeover" (2004)', '', '', '', 'Stockport, Cheshire, England, UK']	53.364136	-2.0711439
+['"60 Minute Makeover" (2004)', '', '', '', 'Swindon, Wiltshire, England, UK']	51.5613683	-1.7856853
+['"60 Minute Makeover" (2004)', '', '', '', 'Sydenham, London, England, UK']	51.4269433	-0.0545387
+['"60 Minute Makeover" (2004)', '', '', '', 'Warwick, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"60 Minute Makeover" (2004)', '', '', '', 'Weston-super-Mare, Somerset, England, UK']	51.3471927	-2.9778916
+['"60 Minute Makeover" (2004)', '', '', '', 'Woodford Green, Essex, England, UK']	51.7152208	0.5226443
+['"969" (2004)', '', '', '', '', '', 'Calgary, Alberta, Canada']	51.0534234	-114.0625892
+['"969" (2004)', '', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Brush with the Mersey" (2004)', '', '', 'Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"A Ferreirinha" (2004)', '', '', '', '', 'Porto, Portugal']	41.1494512	-8.6107884
+['"A Place by the Sea" (2004)', '', '', '', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"A Place by the Sea" (2004)', '', '', '', 'Dundee, Scotland, UK']	56.4605938	-2.97019
+['"A Place by the Sea" (2004)', '', '', '', 'Filey, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Place by the Sea" (2004)', '', '', '', 'Lyme Regis, Dorset, England, UK']	50.7361334	-2.9317343744389417
+['"A Place by the Sea" (2004)', '', '', '', 'Montrose, Angus, Scotland, UK']	56.711484	-2.4681517
+['"A Place by the Sea" (2004)', '', '', '', 'Scarborough, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Place by the Sea" (2004)', '', '', '', 'Sidmouth, Devon, England, UK']	50.6790033	-3.237657
+['"A Place by the Sea" (2004)', '', '', '', 'Stonehaven, Aberdeenshire, Scotland, UK']	56.9640234	-2.2087993
+['"A Place by the Sea" (2004)', '', '', '', 'Whitby, North Yorkshire, England, UK']	54.4874141	-0.6155111
+['"A Place in Greece" (2004)', '', '', '', 'Crete, Greece']	35.3084749	24.463320724202934
+['"A Thing Called Love" (2004)', '', '', '', 'Wollaton, Nottingham, Nottinghamshire, England, UK']	52.9479602	-1.209770975032371
+['"A Wealth of Wisdom" (2004)', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"A Wife for William" (2004)', '', '', '', 'Ingatestone Hall, Ingatestone, Essex, England, UK']	51.661479850000006	0.39050341383883114
+['"A las regaderas" (2004)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"A mi�a sogra e m�is eu" (2004)', '', '', '', 'Santiago de Compostela, A Coru�a, Galicia, Spain']	39.3262345	-4.8380649
+['"A.M." (2004)', '', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"ABC/TTV Micro-Mini Series" (2004)', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"ALF\'s Hit Talk Show" (2004)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"AOL: Music-On-Demand" (2004)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"APBA Offshore Nationals" (2004)', '', '', 'Cape Cod, Massachusetts, USA']	41.7988074	-69.9960134711573
+['"APBA Offshore Nationals" (2004)', '', '', 'Cleveland, Ohio, USA']	41.5051613	-81.6934446
+['"APBA Offshore Nationals" (2004)', '', '', 'Corpus Christi, Texas, USA']	27.7477253	-97.4014129
+['"APBA Offshore Nationals" (2004)', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"APBA Offshore Nationals" (2004)', '', '', 'Marathon, Florida, USA']	24.7137524	-81.0903512
+['"Aavishkaar: Ek Rakshak" (2004)', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Abroad Again in Britain" (2004) {Brighton Pavilion (#1.2)}', 'Brighton Pavilion, Brighton, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Abroad Again in Britain" (2004) {Cragside House (#1.4)}', 'Cragside House, Rothbury, Northumberland, England, UK']	55.313604299999994	-1.8856735829119962
+['"Abroad Again in Britain" (2004) {Edinburgh Castle (#1.5)}', 'Edinburgh Castle, Edinburgh, Scotland, UK']	55.94868985	-3.200410205428727
+['"Abroad Again in Britain" (2004) {Portsmouth Dockyard (#1.3)}', 'Fort Brockhurst, Gosport, Hampshire, England, UK']	50.8149725	-1.1545922
+['"Abroad Again in Britain" (2004) {Portsmouth Dockyard (#1.3)}', 'Portchester Castle, Castle Street, Portchester, Hampshire, England, UK']	51.083333	-1.166667
+['"Abroad Again in Britain" (2004) {Portsmouth Dockyard (#1.3)}', 'Portsmouth Docks, Portsmouth, Hampshire, England, UK']	51.083333	-1.166667
+['"Abroad Again in Britain" (2004) {Portsmouth Dockyard (#1.3)}', 'Portsmouth, Hampshire, England, UK']	50.8036831	-1.075614
+['"Abroad Again in Britain" (2004) {Salisbury Cathedral (#1.1)}', 'Salisbury Cathedral, Salisbury, Wiltshire, England, UK']	51.25	-1.916667
+['"Acapulco fest 2004" (2004)', '', '', '', 'Acapulco, Guerrero, Mexico']	16.8680495	-99.8940182
+['"Achar!" (2004)', '', '', '', '', '', 'Singapore']	1.357107	103.8194992
+['"Act!one" (2004)', '', '', '', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Act!one" (2004)', '', '', '', '', 'H�meenlinna, Finland']	63.2467777	25.9209164
+['"Act!one" (2004)', '', '', '', '', 'Tampere, Finland']	61.4980214	23.7603118
+['"Action Figures" (2004)', '', '', '', '', 'Huntington Beach, California, USA']	33.6783336	-118.0000166
+['"Action Figures" (2004)', '', '', '', '', 'Laguna Beach, California, USA']	33.5426975	-117.7853665
+['"Action Figures" (2004)', '', '', '', '', 'Dana Point, California, USA']	33.4669721	-117.6981075
+['"Adhikaar" (2004)', '', '', '', '', 'Bhopal, India']	23.2530923	77.3962718
+['"Adi ask olsun" (2004)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Advokat" (2004)', '', '', '', '', 'Russia']	64.6863136	97.7453061
+['"Advokat" (2004) {Alibi dlya korolevy (#1.1)}', '', 'Moscow, Russia']	55.4792046	37.3273304
+['"Afrikas �je" (2004)', '', '', '', '', 'Aldo Elephant Park, South Africa']	-28.8166236	24.991639
+['"After 9, It Gets a Little Blue" (2004)', '', '', 'Chapel Hill, North Carolina, USA']	35.9131542	-79.05578
+['"After 9, It Gets a Little Blue" (2004)', '', '', 'Mebane, North Carolina, USA']	36.0959715	-79.2669619
+['"Aga kizi" (2004)', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Agatha Christie\'s Marple" (2004)', '', '', 'Eastbourne, East Sussex, England, UK']	50.7685761	0.2957854
+['"Agatha Christie\'s Marple" (2004) {4:50 from Paddington (#1.3)}', 'Eltham Palace, Court Road, Eltham, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Marple" (2004) {4:50 from Paddington (#1.3)}', 'Highclere Castle, Highclere, Hampshire, England, UK']	51.32660235	-1.3605163180511601
+['"Agatha Christie\'s Marple" (2004) {4:50 from Paddington (#1.3)}', 'Knebworth House, Stevenage, Hertfordshire, England, UK']	51.8670421	-0.187051
+['"Agatha Christie\'s Marple" (2004) {4:50 from Paddington (#1.3)}', 'Loseley Park, Guildford, Surrey, England, UK']	51.2144587	-0.581872
+['"Agatha Christie\'s Marple" (2004) {4:50 from Paddington (#1.3)}', 'Rothley station, Great Central Railway, Leicestershire, England, UK']	52.666667	-1.0
+['"Agatha Christie\'s Marple" (2004) {A Caribbean Mystery (#6.1)}', 'Cape Town, South Africa']	-33.928992	18.417396
+['"Agatha Christie\'s Marple" (2004) {A Murder Is Announced (#1.4)}', 'Dorchester Abbey, Dorchester-on-Thames, Oxfordshire, England, UK']	51.64361155	-1.164193979577883
+['"Agatha Christie\'s Marple" (2004) {A Murder Is Announced (#1.4)}', 'Chilworth Manor, Chilworth, Guildford, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Agatha Christie\'s Marple" (2004) {A Murder Is Announced (#1.4)}', 'Eilean Donan Castle, Kyle of Lochalsh, Highland, Scotland, UK']	57.5066357	-5.0038367
+['"Agatha Christie\'s Marple" (2004) {A Pocket Full of Rye (#4.1)}', 'Englefield House, Theale, Reading, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Agatha Christie\'s Marple" (2004) {A Pocket Full of Rye (#4.1)}', 'Victoria House, Bloomsbury Square, Bloomsbury, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Marple" (2004) {A Pocket Full of Rye (#4.1)}', 'West Wycombe Park, West Wycombe, Buckinghamshire, England, UK']	51.644135649999996	-0.8054521180200145
+['"Agatha Christie\'s Marple" (2004) {At Bertram\'s Hotel (#3.1)}', 'Claremont Fan Court School, Esher, Surrey, England, UK']	51.35834165	-0.3702710017888756
+['"Agatha Christie\'s Marple" (2004) {At Bertram\'s Hotel (#3.1)}', 'Polesden Lacey, Great Bookham, Dorking, Surrey, England, UK']	54.7023545	-3.2765753
+['"Agatha Christie\'s Marple" (2004) {At Bertram\'s Hotel (#3.1)}', 'Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Agatha Christie\'s Marple" (2004) {By the Pricking of My Thumbs (#2.3)}', 'Loseley Park, Guildford, Surrey, England, UK']	51.2144587	-0.581872
+['"Agatha Christie\'s Marple" (2004) {Endless Night (#6.3)}', 'Sidmouth, Devon, England, UK']	50.6790033	-3.237657
+['"Agatha Christie\'s Marple" (2004) {Endless Night (#6.3)}', 'Dorchester on Thames, Oxfordshire, England, UK']	51.833333	-1.25
+['"Agatha Christie\'s Marple" (2004) {Endless Night (#6.3)}', 'The Homewood Surrey, England, UK']	51.35002955	-0.3884656301605302
+['"Agatha Christie\'s Marple" (2004) {Greenshaw\'s Folly (#6.2)}', 'Hatfield House, Hatfield, Hertfordshire, England, UK']	51.7605139	-0.20879851305478084
+['"Agatha Christie\'s Marple" (2004) {Greenshaw\'s Folly (#6.2)}', 'Knebworth House, Knebworth, Stevenage, Hertfordshire, England, UK']	51.8670421	-0.187051
+['"Agatha Christie\'s Marple" (2004) {Murder Is Easy (#4.2)}', 'Southgate Underground Station, Southgate Circus, Southgate, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Marple" (2004) {Ordeal by Innocence (#3.2)}', 'Nether Winchendon House, Nether Winchendon, Buckinghamshire, England, UK']	51.75	-0.75
+['"Agatha Christie\'s Marple" (2004) {Sleeping Murder (#2.1)}', 'Sidmouth, Devon, England, UK']	50.6790033	-3.237657
+['"Agatha Christie\'s Marple" (2004) {The Blue Geranium (#5.3)}', 'Hatfield House, Hatfield, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Agatha Christie\'s Marple" (2004) {The Blue Geranium (#5.3)}', 'Library, Hatfield House, Hatfield, Hertfordshire, England, UK']	51.76407745	-0.22583838420793756
+['"Agatha Christie\'s Marple" (2004) {The Body in the Library (#1.1)}', 'Dorney Court, Dorney, Buckinghamshire, England, UK']	51.502580449999996	-0.6684001569528171
+['"Agatha Christie\'s Marple" (2004) {The Body in the Library (#1.1)}', 'Eastbourne, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Agatha Christie\'s Marple" (2004) {The Body in the Library (#1.1)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Agatha Christie\'s Marple" (2004) {The Moving Finger (#2.2)}', "St Mary's Church, Chilham, Kent, England, UK"]	51.2474823	0.7105077
+['"Agatha Christie\'s Marple" (2004) {The Moving Finger (#2.2)}', 'Chilham Castle, Chilham, Kent, England, UK']	51.2474823	0.7105077
+['"Agatha Christie\'s Marple" (2004) {The Moving Finger (#2.2)}', 'Chilham, Kent, England, UK']	51.2447805	0.9645024
+['"Agatha Christie\'s Marple" (2004) {The Murder at the Vicarage (#1.2)}', 'Hambleden, Buckinghamshire, England, UK']	54.7023545	-3.2765753
+['"Agatha Christie\'s Marple" (2004) {The Pale Horse (#5.1)}', 'Hughenden Manor, Buckinghamshire, England, UK']	51.75	-0.75
+['"Agatha Christie\'s Marple" (2004) {The Secret of Chimneys (#5.2)}', 'Knebworth House, Stevenage, Hertfordshire, England, UK']	51.8670421	-0.187051
+['"Agatha Christie\'s Marple" (2004) {The Sittaford Mystery (#2.4)}', 'Dorney Court, Dorney, Buckinghamshire, England, UK']	51.502580449999996	-0.6684001569528171
+['"Agatha Christie\'s Marple" (2004) {The Sittaford Mystery (#2.4)}', 'The Flower Pot Pub, Aston, Henley-on-Thames, Oxfordshire, England, UK']	51.833333	-1.25
+['"Agatha Christie\'s Marple" (2004) {Towards Zero (#3.3)}', 'Salcombe, Devon, England, UK']	50.2388158	-3.7726121
+['"Agatha Christie\'s Marple" (2004) {Why Didn\'t They Ask Evans? (#4.4)}', 'Loseley Park, Guildford, Surrey, England, UK']	51.2144587	-0.581872
+['"Ah be Istanbul" (2004)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ahava Ze Koev" (2004)', '', '', '', '', 'Ashdod, Israel']	31.7977314	34.6529922
+['"Ahava Ze Koev" (2004)', '', '', '', '', 'Tel Aviv, Israel']	32.0804808	34.7805274
+['"Ahora toca" (2004)', '', '', '', '', 'Hermosillo, Sonora, Mexico']	29.0948207	-110.9692202
+['"Airline" (2004)', '', '', '', '', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"Airline" (2004)', '', '', '', '', 'Baltimore-Washington International Airport, Maryland, USA']	39.17452575	-76.67104838454202
+['"Airline" (2004)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Airline" (2004)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Airline" (2004)', '', '', '', '', 'William P. Hobby Airport - 7800 Airport Boulevard, Houston, Texas, USA']	29.7589382	-95.3676974
+['"Al otro lado del espejo" (2004)', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Alain Nu Project" (2004)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Alguna pregunta m�s?" (2004)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Algunes imatges m�s" (2004)', '', '', '', 'Catalonia, Spain']	41.8523094	1.5745043
+['"Aliye" (2004)', '', '', '', '', '', 'Edirne, Turkey']	41.6759327	26.5587225
+['"Aliye" (2004)', '', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Amanti e segreti" (2004)', '', '', '', 'Ferrara, Ferrara, Emilia-Romagna, Italy']	44.8372737	11.6186451
+['"Amarte es mi pecado" (2004)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amarte es mi pecado" (2004)', '', '', '', 'Michoac�n, Mexico']	19.4326296	-99.1331785
+['"Amarte es mi pecado" (2004)', '', '', '', 'Morelia, Michoac�n, Mexico']	19.4326296	-99.1331785
+['"Amarte es mi pecado" (2004)', '', '', '', 'P�tzcuaro, Michoac�n, Mexico']	19.4326296	-99.1331785
+['"America or Busted" (2004)', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"America or Busted" (2004)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Candidate" (2004)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Casino" (2004)', '', '', '', 'Green Valley Ranch Casino - 2300 Paseo Verde Parkway, Henderson, Nevada, USA']	36.0301134	-114.9826194
+['"American Dreams" (2004)', '', '', '', 'Martin Luther King Jr. High School, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Dreams" (2004)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Dreams" (2004)', '', '', '', 'Paul Robeson High School, Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"Amish in the City" (2004)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amnesia" (2004)', '', '', '', '', 'Isle of Wight, England, UK']	50.6710482	-1.3327111133199459
+['"Amnesia" (2004)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Amnesia" (2004) {(#1.1)}', '', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Amnesia" (2004) {(#1.2)}', '', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Amo en el D.F." (2004)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amor del bueno" (2004)', '', '', '', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"Amores" (2004)', '', '', '', '', '', 'Puerto Rico']	18.22141715	-66.4132818505648
+['"Amores" (2004)', '', '', '', '', '', 'San Juan, Puerto Rico']	18.465299	-66.116666
+['"Amy, la ni�a de la mochila azul" (2004)', '', 'Canc�n, Benito Ju�rez, Quintana Roo, Mexico']	19.4326296	-99.1331785
+['"Amy, la ni�a de la mochila azul" (2004)', '', 'Mexico']	19.4326296	-99.1331785
+['"Ana" (2004)', '', '', '', '', '', 'Dubai, United Arab Emirates']	25.0657	55.1713
+['"Animal Icons" (2004) {Hollywood\'s Prehistoric Superstars (#1.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Animal Icons" (2004) {Hollywood\'s Prehistoric Superstars (#1.9)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Aplauso, aplauso" (2004)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Apuesta por un amor" (2004)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Apuesta por un amor" (2004)', '', '', '', 'M�rida, Yucat�n, Mexico']	19.4326296	-99.1331785
+['"Aqui se Respira el Miedo" (2004)', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Arap sa�i" (2004)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Archivo abierto" (2004)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Argumentos nueva etapa" (2004)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Ariane Ferry" (2004)', '', '', '', '', 'France']	46.603354	1.8883335
+['"Ariane Ferry" (2004)', '', '', '', '', 'Romania']	45.9852129	24.6859225
+['"Ariane Ferry" (2004) {Dernier voyage (#1.6)}', '', 'Romania']	45.9852129	24.6859225
+['"Ariane Ferry" (2004) {Dernier voyage (#1.6)}', '', 'Sinaia, Prahova, Romania']	45.3456607	25.5479283
+['"Ariane Ferry" (2004) {F�cheuse compagnie (#1.3)}', 'Romania']	45.9852129	24.6859225
+['"Ariane Ferry" (2004) {Jeunesse �ternelle (#1.4)}', 'Romania']	45.9852129	24.6859225
+['"Ariane Ferry" (2004) {La monitrice (#1.1)}', '', 'Romania']	45.9852129	24.6859225
+['"Ariane Ferry" (2004) {La revenante (#1.5)}', '', 'Romania']	45.9852129	24.6859225
+['"Ariane Ferry" (2004) {Une passion impossible (#1.2)}', 'Romania']	45.9852129	24.6859225
+['"Arizona Highways" (2004)', '', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"Arman reilaa" (2004)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Arman reilaa" (2004)', '', '', '', '', 'Florence, Tuscany, Italy']	43.7698712	11.2555757
+['"Arman reilaa" (2004)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Arman reilaa" (2004)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Arman reilaa" (2004)', '', '', '', '', 'Milan, Lombardia, Italy']	45.4668	9.1905
+['"Arman reilaa" (2004)', '', '', '', '', 'Nice, Alpes-Maritimes, France']	43.7009358	7.2683912
+['"Arns rike" (2004)', '', '', '', '', 'Axevalla Hed, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Around the World with Tippi" (2004)', '', '', 'Africa']	11.5024338	17.7578122
+['"Around the World with Tippi" (2004)', '', '', 'Australia']	-24.7761086	134.755
+['"Around the World with Tippi" (2004)', '', '', 'Canada']	61.0666922	-107.9917071
+['"Art Museums of the World" (2004)', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Art Museums of the World" (2004)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Art Museums of the World" (2004)', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Art Museums of the World" (2004)', '', '', 'Rijksmuseum, Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Art in Progress" (2004) {Julian Schnabel in Naples}', 'Naples, Campania, Italy']	40.8359336	14.2487826
+['"Art in Progress" (2004) {Lorna Simpson}', '', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"Art in Progress" (2004) {Lorna Simpson}', '', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"Arts du mythe" (2004) {Fon Statue of the God Gu}', 'Abomey, Benin']	7.165446	1.9828803672675925
+['"Arts du mythe" (2004) {Fon Statue of the God Gu}', 'Cotonou, Benin']	6.3676953	2.4252507
+['"Arts du mythe" (2004) {Fon Statue of the God Gu}', 'Porto-Novo, Benin']	6.4990718	2.6253361
+['"Arts du mythe" (2004) {Rock Crystal Skull}', '', 'Idar-Oberstein, Rhineland-Palatinate, Germany']	49.7106197	7.313321
+['"Arts du mythe" (2004) {Rock Crystal Skull}', '', 'Paris, France']	48.8566969	2.3514616
+['"Artworks Scotland" (2004) {Running at the Speed of Light}', "Arthur's Seat, Edinburgh, Scotland, UK"]	55.9440812	-3.161833
+['"Artworks Scotland" (2004) {The Missing}', '', 'Irvine, North Ayrshire, Scotland, UK']	55.6143121	-4.6655591
+['"Arucitys" (2004)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Askimizda �l�m var" (2004)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Aspe" (2004)', '', '', '', '', '', 'Brugge, West-Vlaanderen, Belgium']	51.2085526	3.226772
+['"Aspe" (2004)', '', '', '', '', '', 'Ghent, Flanders, Belgium']	51.0538286	3.7250121
+['"Aspe" (2004) {Knock-out (#9.5)}', '', '', 'Lissewege, Flanders, Belgium']	51.317002200000005	3.19908349221177
+['"Asuntos pendientes" (2004)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"At Your Service" (2004)', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"Athens 2004: Games of the XXVIII Olympiad" (2004)', 'Athens Olympic Sports Complex, Athens, Greece']	38.9953683	21.9877132
+['"Athens 2004: Games of the XXVIII Olympiad" (2004)', 'Athens, Greece']	37.9841493	23.7279843
+['"Athens on Location" (2004)', '', '', '', 'Aegaian Islands, Greece']	38.9953683	21.9877132
+['"Athens on Location" (2004)', '', '', '', 'Athens, Greece']	37.9841493	23.7279843
+['"Athens on Location" (2004)', '', '', '', 'Mykonos Island, Greece']	37.45142265	25.392309996672353
+['"Aunque usted no lo viera" (2004)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2004-08-03)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2004-08-10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2004-08-17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2004-08-24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2004-08-31)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2004-09-07)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2004-09-14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-03-29)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-04-12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-04-19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-04-26)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-05-03)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-05-10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-05-17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-05-24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-05-31)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-06-07)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-06-14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-06-21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-06-28)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-07-05)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-07-12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-07-19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-09-13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-09-20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-09-27)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-10-07)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-10-14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-10-21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-10-28)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-11-04)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-11-11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-11-18)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aunque usted no lo viera" (2004) {(2005-11-25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Austin Movie Show" (2004)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Aventura sin l�mite" (2004)', '', '', '', 'Amazonas, Venezuela']	3.5	-66.0
+['"Aventura sin l�mite" (2004)', '', '', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"Avere ventanni" (2004)', '', '', '', '', 'Terni, Umbria, Italy']	42.6537515	12.439811632836722
+['"Avere ventanni" (2004)', '', '', '', '', 'Como, Lombardia, Italy']	45.939475900000005	9.149410145408947
+['"Avere ventanni" (2004)', '', '', '', '', 'San Giovanni Rotondo, Foggia, Apulia, Italy']	41.7050554	15.7306463
+['"Avere ventanni" (2004)', '', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Avere ventanni" (2004)', '', '', '', '', 'Afragola, Naples, Campania, Italy']	40.8359336	14.2487826
+['"Avere ventanni" (2004)', '', '', '', '', 'Sardinia, Italy']	40.0912813	9.0305773
+['"Avere ventanni" (2004)', '', '', '', '', 'Messina, Sicily, Italy']	38.1937571	15.5542082
+['"Avere ventanni" (2004)', '', '', '', '', 'Genoa, Liguria, Italy']	44.40726	8.9338624
+['"Avere ventanni" (2004)', '', '', '', '', 'Trieste, Friuli-Venezia Giulia, Italy']	45.6500335	13.7706559
+['"Avere ventanni" (2004)', '', '', '', '', 'Milan, Lombardia, Italy']	45.4668	9.1905
+['"Avere ventanni" (2004) {Nouvelle vague (#1.1)}', '', 'Milan, Lombardia, Italy']	45.4668	9.1905
+['"Avrupa Yakasi" (2004)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.1)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.10)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.11)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.12)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.13)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.2)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.3)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.4)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.5)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.6)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.7)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.8)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Avrupa Yakasi" (2004) {(#1.9)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Azize" (2004)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"B.M.O.C.: Big Man on Campus" (2004)', '', '', 'Citrus Bowl - 1610 W. Church Street, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Back to Reality" (2004)', '', '', '', 'Black Island Studios, Alliance Road, Acton, London, England, UK']	51.5073219	-0.1276474
+['"Backstage with Barry Nolan" (2004)', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Bad�a en Concierto" (2004)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bajor-show" (2004)', '', '', '', '', 'Budapest, Hungary']	47.1817585	19.5060937
+['"Balderdash" (2004)', '', '', '', '', 'Tribune Studios - 5800 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Balzakovskiy vozrast, ili Vse muzhiki svo..." (2004)', 'Chystye prudy, Moscow, Russia']	64.6863136	97.7453061
+['"Balzakovskiy vozrast, ili Vse muzhiki svo..." (2004)', 'Moscow, Russia']	55.4792046	37.3273304
+['"Bananas Family Comedy" (2004)', '', '', '', 'Columbus, Ohio, USA']	39.9622601	-83.0007065
+['"Bands Reunited" (2004)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Bands Reunited" (2004)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bands Reunited" (2004)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Baneg�rden" (2004)', '', '', '', '', 'K�benhavns Hovedbaneg�rd, Copenhagen, Denmark']	55.670249	10.3333283
+['"Barbarians" (2004)', '', '', '', '', 'Lithuania']	55.3500003	23.7499997
+['"Barely Famous" (2004)', '', '', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"Barking!" (2004)', '', '', '', '', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"Barrios" (2004) {La familia de Camello}', '', 'San Juan, Puerto Rico']	18.465299	-66.116666
+['"Bathroom Renovations" (2004)', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"Bathroom Renovations" (2004)', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Battlestar Galactica" (2004)', '', '', '', 'Simon Fraser University, Burnaby, British Columbia, Canada']	49.2767454	-122.91777374910319
+['"Battlestar Galactica" (2004)', '', '', '', '140, Tidewater Way, Lions Bay, British Columbia, Canada']	49.45875	-123.23533
+['"Battlestar Galactica" (2004)', '', '', '', 'British Columbia Railway, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Battlestar Galactica" (2004)', '', '', '', 'Burnaby, British Columbia, Canada']	49.2433804	-122.9725459
+['"Battlestar Galactica" (2004)', '', '', '', 'Canadian Motion Picture Park Studios, Burnaby, British Columbia, Canada']	49.2433804	-122.9725459
+['"Battlestar Galactica" (2004)', '', '', '', 'Orpheum Theatre, Vancouver, British Columbia, Canada']	49.2800398	-123.1202935
+['"Battlestar Galactica" (2004)', '', '', '', 'Pinecone Burke Provincial Park, British Columbia, Canada']	49.52000665	-122.66408471407357
+['"Battlestar Galactica" (2004)', '', '', '', 'Port Mann Power Station, Surrey, British Columbia, Canada']	61.0666922	-107.9917071
+['"Battlestar Galactica" (2004)', '', '', '', 'The Waterfall Building, Vancouver, British Columbia, Canada']	49.2694407	-123.13977662412242
+['"Battlestar Galactica" (2004)', '', '', '', 'Vancouver Art Gallery, 750 Hornby Street, Vancouver, British Columbia, Canada']	49.28287695	-123.1205638545168
+['"Battlestar Galactica" (2004)', '', '', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Battlestar Galactica" (2004) {33 (#1.1)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {33 (#1.1)}', '', 'Lynn Canyon Park, British Columbia, Canada']	49.3437387	-123.01977408419688
+['"Battlestar Galactica" (2004) {33 (#1.1)}', '', 'Simon Fraser University, Burnaby, British Columbia, Canada']	49.2767454	-122.91777374910319
+['"Battlestar Galactica" (2004) {A Day in the Life (#3.15)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {A Measure of Salvation (#3.7)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Act of Contrition (#1.4)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Bastille Day (#1.3)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Bastille Day (#1.3)}', 'Vancouver Public Library, 360 West Georgia Street, Vancouver, British Columbia, Canada']	49.27965895	-123.11561399015199
+['"Battlestar Galactica" (2004) {Black Market (#2.14)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Collaborators (#3.5)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Colonial Day (#1.11)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Colonial Day (#1.11)}', 'Chan Centre for the Performing Arts, University of British Columbia, 6265 Crescent Road, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Battlestar Galactica" (2004) {Colonial Day (#1.11)}', 'Koerner Plaza, University of British Columbia, Robson Square Campus - 800 Robson Street, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Battlestar Galactica" (2004) {Colonial Day (#1.11)}', 'University of British Columbia, Robson Square Campus - 800 Robson Street, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Battlestar Galactica" (2004) {Dirty Hands (#3.16)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Downloaded (#2.18)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Epiphanies (#2.13)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Exodus: Part 1 (#3.3)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Exodus: Part 1 (#3.3)}', 'Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Battlestar Galactica" (2004) {Exodus: Part 2 (#3.4)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Exodus: Part 2 (#3.4)}', 'Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Battlestar Galactica" (2004) {Final Cut (#2.8)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Flesh and Bone (#1.8)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Flight of the Phoenix (#2.9)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Fragged (#2.3)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Hero (#3.8)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Home: Part 1 (#2.6)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Home: Part 2 (#2.7)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Kobol\'s Last Gleaming: Part 1 (#1.12)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Kobol\'s Last Gleaming: Part 2 (#1.13)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Kobol\'s Last Gleaming: Part 2 (#1.13)}', 'Convocation Mall, Simon Fraser University, Burnaby, British Columbia, Canada']	49.2433804	-122.9725459
+['"Battlestar Galactica" (2004) {Kobol\'s Last Gleaming: Part 2 (#1.13)}', 'Simon Fraser University, Burnaby, British Columbia, Canada']	49.2767454	-122.91777374910319
+['"Battlestar Galactica" (2004) {Lay Down Your Burdens: Part 1 (#2.19)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Lay Down Your Burdens: Part 2 (#2.20)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Lay Down Your Burdens: Part 2 (#2.20)}', 'Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Battlestar Galactica" (2004) {Litmus (#1.6)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Litmus (#1.6)}', '', 'Scotia Bank, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Battlestar Galactica" (2004) {Occupation (#3.1)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Occupation (#3.1)}', 'Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Battlestar Galactica" (2004) {Pegasus (#2.10)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Precipice (#3.2)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Precipice (#3.2)}', 'Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Battlestar Galactica" (2004) {Rapture (#3.12)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Rapture (#3.12)}', '', 'Kamloops, British Columbia, Canada']	50.6758269	-120.3394159
+['"Battlestar Galactica" (2004) {Resistance (#2.4)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Resurrection Ship: Part 1 (#2.11)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Resurrection Ship: Part 2 (#2.12)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Sacrifice (#2.16)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Scar (#2.15)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Scattered (#2.1)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Scattered (#2.1)}', 'Convocation Mall, Simon Fraser University, Burnaby, British Columbia, Canada']	49.2433804	-122.9725459
+['"Battlestar Galactica" (2004) {Six Degrees of Separation (#1.7)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Taking a Break from All Your Worries (#3.13)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {The Captain\'s Hand (#2.17)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {The Eye of Jupiter (#3.11)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {The Eye of Jupiter (#3.11)}', 'Kamloops, British Columbia, Canada']	50.6758269	-120.3394159
+['"Battlestar Galactica" (2004) {The Farm (#2.5)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {The Hand of God (#1.10)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {The Passage (#3.10)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {The Woman King (#3.14)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Tigh Me Up, Tigh Me Down (#1.9)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Tigh Me Up, Tigh Me Down (#1.9)}', 'Vancouver Main Post Office Tunnel, Richards Street, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Battlestar Galactica" (2004) {Tigh Me Up, Tigh Me Down (#1.9)}', 'Shaw Tower Public Parking, 1067 West Cordova Street, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Battlestar Galactica" (2004) {Torn (#3.6)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Unfinished Business (#3.9)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Valley of Darkness (#2.2)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {Water (#1.2)}', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2004) {You Can\'t Go Home Again (#1.5)}', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Ba�a das Mulheres" (2004)', '', '', '', 'Cascais, Lisbon, Portugal']	38.72240025	-9.396909171649877
+['"Ba�a das Mulheres" (2004)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"BeMdinat Ha-Yehudim" (2004)', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Beat the Burglar" (2004)', '', '', '', 'Brighton, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Beautiful Trio" (2004)', '', '', '', '', 'Singapore']	1.357107	103.8194992
+['"Beauty Queen" (2004)', '', '', '', '', 'Lindau, Bavaria, Germany']	47.550753	9.6926624
+['"Beauty School" (2004)', '', '', '', '', 'Guiseley, West Yorkshire, England, UK']	53.8748297	-1.707511
+['"Behind the Net" (2004)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benedetti dal Signore" (2004)', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Benedetti dal Signore" (2004)', '', '', '', 'Cinecitt� Studios, Cinecitt�, Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Besos robados" (2004) {(#1.1)}', '', '', '', 'Lima, Peru']	-6.8699697	-75.0458515
+['"Beyond Fame" (2004)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beyond Fame" (2004) {Celebrity Entrepreneurs (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beyond Fame" (2004) {For the Love of a Child (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beyond Invention" (2004)', '', '', '', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Beyond Invention" (2004)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Beyond Invention" (2004)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beyond Invention" (2004)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Beyond Invention" (2004)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Bianca - Wege zum Gl�ck" (2004)', '', '', 'Studio Babelsberg, Potsdam, Brandenburg, Germany']	52.38260355	13.113726021425222
+['"Bianca - Wege zum Gl�ck" (2004)', '', '', 'Schloss Petzow, Werder, Brandenburg, Germany']	52.5334548	12.7177745
+['"Bienvenida realidad" (2004)', '', '', '', 'Santiago, Chile']	-33.4377968	-70.6504451
+['"Big Brother Croatia" (2004)', '', '', '', 'Croatia']	45.5643442	17.0118954
+['"Big Brother Croatia" (2004)', '', '', '', 'Thailand']	14.8971921	100.83273
+['"Big Brother Croatia" (2004) {(#1.1)}', '', '', 'Croatia']	45.5643442	17.0118954
+['"Big Brother Croatia" (2004) {(#5.1)}', '', '', 'Thailand']	14.8971921	100.83273
+['"Big Brother VIP 3" (2004)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Big Brother Vip 3: Capitulo 2" (2004)', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Big Brother\'s Efourum" (2004)', '', '', '', 'Elstree Studios, Borehamwood, Hertfordshire, England, UK']	51.6582116	-0.2708065
+['"Big Movie Guide" (2004)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Biker Build-Off" (2004)', '', '', '', 'Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA']	34.18055525	-116.96850289553923
+['"Biker Build-Off" (2004)', '', '', '', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"Bikini USA: Picture This St. Pete" (2004)', '', 'St. Pete Beach, Florida, USA']	27.7253065	-82.741212
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'St. Pete Beach, Florida, USA']	27.7253065	-82.741212
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'Daytona Beach, Florida, USA']	29.2108147	-81.0228331
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'Fort Lauderdale, Florida, USA']	26.1223084	-80.1433786
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'South Padre Island, Texas, USA']	26.1036887	-97.1646938
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'Freeport, Texas, USA']	28.9541368	-95.3596617
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'Canc�n, Benito Ju�rez, Quintana Roo, Mexico']	19.4326296	-99.1331785
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'South Beach, Miami Beach, Florida, USA']	25.7929198	-80.1353006
+['"Bikini USA: Texas Ski Ranch" (2004)', '', '', 'Hot Springs, Arkansas, USA']	34.5038393	-93.0552437
+['"Bikini-USA Hush" (2004)', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974

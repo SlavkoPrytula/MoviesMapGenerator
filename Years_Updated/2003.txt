@@ -1,0 +1,687 @@
+['"1-800-Missing" (2003)', '', '', '', '', 'Riverdale Collegiate Institute, Toronto, Ontario, Canada']	43.66996435	-79.33452913814912
+['"1-800-Missing" (2003)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"10-8: Officers on Duty" (2003)', '', '', '', 'California, USA']	39.7837304	-100.4458825
+['"10-8: Officers on Duty" (2003)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"10-8: Officers on Duty" (2003)', '', '', '', 'Los Angeles Police Museum - 6045 York Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"10-8: Officers on Duty" (2003)', '', '', '', 'Los Angeles Police Department, Highland Park Station - 6045 York Blvd, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"10-8: Officers on Duty" (2003)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"100% mujer" (2003)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"11 tras el bal�n" (2003)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"12 corazones" (2003)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"2 Wheel Tuesday" (2003)', '', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"2 vrouwen, 3 miljard mannen" (2003)', '', '', 'Cape Town, Western Cape, South Africa']	-33.928992	18.417396
+['"2 vrouwen, 3 miljard mannen" (2003)', '', '', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"2 vrouwen, 3 miljard mannen" (2003)', '', '', 'Jamaica']	18.1850507	-77.3947693
+['"2 vrouwen, 3 miljard mannen" (2003)', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"20h10 p�tantes" (2003)', '', '', '', '', 'Bourges, Cher, France']	47.0805693	2.398932
+['"20h10 p�tantes" (2003)', '', '', '', '', 'Paris, France']	46.603354	1.8883335
+['"20h10 p�tantes" (2003)', '', '', '', '', 'Place Etienne Dolet, Bourges, Cher, France']	47.081548350000006	2.3992121856895707
+['"20h10 p�tantes" (2003)', '', '', '', '', 'Plage du Noga-Hilton, Cannes, Alpes-Maritimes, France']	43.5515198	7.0134418
+['"2RSLVJ" (2003) {Snoop Dogg}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"5 minuts m�s" (2003)', '', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"5. b" (2003)', '', '', '', '', '', 'Br�rup Skole, Skive, Jylland, Denmark']	56.6459244	8.932732160154906
+['"72 Hours: True Crime" (2003)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"93 Faubourg Saint-Honor�" (2003)', '', '', '93 Faubourg Saint-Honor�, Paris 8, Paris, France']	48.8566969	2.3514616
+['">Play" (2003)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"A Casa das Sete Mulheres" (2003)', '', '', 'Pelotas, Rio Grande do Sul, Brazil']	-31.7699736	-52.3410161
+['"A Casa das Sete Mulheres" (2003)', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Diarista" (2003)', '', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Floresta M�gica" (2003)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A House That\'s Just Like Yours" (2003)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A House That\'s Just Like Yours" (2003)', '', '', 'Richmond, Surrey, England, UK']	51.3066341	-0.7166168
+['"A House That\'s Just Like Yours" (2003)', '', '', 'Teddington Studios, Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"A Minute with Stan Hooper" (2003)', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"A World in Arms" (2003)', '', '', '', 'France']	46.603354	1.8883335
+['"A Year in Tuscany" (2003)', '', '', '', 'Tuscany, Italy']	43.4586541	11.1389204
+['"A contracorrent" (2003)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A la vuelta de la esquina" (2003)', '', '', 'Mexico']	19.4326296	-99.1331785
+['"A-lien & B-lien" (2003)', '', '', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"A.G.A." (2003)', '', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"A.U.S.A." (2003)', '', '', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"A.U.S.A." (2003)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"AV Squad" (2003)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {A Desert Island with Cameron Diaz (#1.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Alison Is Back. Or Is She? (#3.11)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {An Array of Videos (#5.3)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Another Array of Videos (#6.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Another Spring Break (#6.12)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Bottom of a Well (#6.5)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Celebrate Your Youth (#1.14)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Check Out the Echo in Here (#1.9)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Did He Just Play Stash? (#5.8)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Did He Really Just Say That? (#3.10)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Dudes with Make-up (#1.5)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Everyone Welcome Kristen (#2.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {From Chomeo to Kramer (#3.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {From Marcata to 54th (#2.8)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {From Supergrass to Magnet (#3.9)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Fun and Games (#1.4)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Get Your Ticket Here Please (#3.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Going Back to My Town (#1.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Good Times (#2.9)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {He\'s Back (#3.2)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {I Thought It Was 32-20 (#5.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Is Anyone Coming to the Studio? (#5.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Is That Really P.O.D.? (#2.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Is This for Real? (#7.2)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Jam Band Tribute (#3.12)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Jeff Webster Is the Man (#2.10)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Let\'s Do the Pop Punk Thing (#6.9)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Machine Gun What? (#1.11)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {More Music Videos (#6.8)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {More Videos... (#1.12)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Music Videos (#6.11)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Neko Case (#6.7)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {New School Year (#5.1)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Nice Motorcycle (#1.8)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {One of Dave\'s Finest (#6.3)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Popper Has Left the Building (#5.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Put Away the Hand Lotion (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Sean John\'s Here, Everybody (#7.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Second Dose (#5.2)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Shake the What Out? (#1.10)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Soundcheck Works (#6.10)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {That\'s a Wrap, Folks (#7.3)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {The Hot Spot (#2.6)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {The New Kid (#3.7)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {The Pilot (#1.1)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {This Is Our Emergency (#1.13)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {This Venue Is a Dump (#2.3)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Vote or Die (#3.5)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {We Like Videos (#1.15)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {We Love the Beasties (#6.6)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Welcome to the Studio at Studio 54 (#2.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {Where\'s Chris? (#3.8)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"AV Squad" (2003) {You Gotta Go There to Come Back (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Aandhi" (2003)', '', '', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Aap Jo Bolen Haan Toh Haan" (2003)', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Abby" (2003)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Abby" (2003)', '', '', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ablam b�yle istedi" (2003)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"About Us" (2003) {Fishermen\'s Terminal}', '', "Fishermen's Terminal - 3919 18th Avenue W, Seattle, Washington, USA"]	47.6038321	-122.3300624
+['"About Us" (2003) {Nazrah: A Muslim Woman\'s Perspective}', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"About Us" (2003) {The Wonderland Project}', '', 'Mount Rainier National Park, Washington, USA']	46.854452550000005	-121.70658147767665
+['"Abre tus ojos" (2003)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.100)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.101)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.102)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.103)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.104)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.105)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.106)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.107)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.108)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.109)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.110)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.111)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.112)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.113)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.114)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.115)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.116)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.117)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.118)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.119)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.120)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.20)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.30)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.31)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.32)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.33)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.34)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.35)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.36)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.37)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.38)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.39)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.40)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.41)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.42)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.43)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.44)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.45)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.46)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.47)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.48)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.49)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.50)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.51)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.52)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.53)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.54)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.55)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.56)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.57)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.58)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.59)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.60)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.61)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.62)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.63)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.64)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.65)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.66)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.67)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.68)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.69)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.70)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.71)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.72)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.73)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.74)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.75)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.76)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.77)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.78)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.79)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.80)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.81)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.82)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.83)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.84)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.85)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.86)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.87)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.88)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.89)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.90)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.91)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.92)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.93)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.94)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.95)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.96)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.97)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.98)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abre tus ojos" (2003) {(#1.99)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"AbreLatas" (2003)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Across America" (2003) {Canoeing Around the Country (#2.36)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Across America" (2003) {Combat Medicine (#3.4)}', 'Camp Bullis - Harry Wurzbach Rd, San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"Across America" (2003) {Combat Medicine (#3.4)}', 'Fort Sam Houston, San Antonio, Texas, USA']	29.462353649999997	-98.43205242526918
+['"Across America" (2003) {Queens of the Roller Derby (#2.22)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Ac�stico" (2003)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Adumot" (2003)', '', '', '', '', '', 'Givat Shmuel, Israel']	32.0769463	34.8524656
+['"Adumot" (2003)', '', '', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Afers exteriors" (2003)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Afers exteriors" (2003)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Afers exteriors" (2003)', '', '', '', 'Naples, Campania, Italy']	40.8359336	14.2487826
+['"Afers exteriors" (2003)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Afers exteriors" (2003)', '', '', '', 'Prague, Czech Republic']	50.0874654	14.4212535
+['"Afers exteriors" (2003)', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Afers exteriors" (2003)', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Afers exteriors" (2003)', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Afers exteriors" (2003)', '', '', '', 'Vatican City']	41.90381485	12.453152716779822
+['"Afers exteriors" (2003)', '', '', '', 'Vienna, Austria']	47.2000338	13.199959
+['"Afers exteriors" (2003) {Hait� (#4.1)}', '', '', 'Ille-�-Vache, Haiti']	19.1399952	-72.3570972
+['"Afers exteriors" (2003) {Hait� (#4.1)}', '', '', 'Port-au-Prince, Haiti']	18.547327	-72.3395928
+['"Age of Steam" (2003)', '', '', '', '', 'Camborne, Cornwall, England, UK']	50.2138828	-5.2990347
+['"Age of Steam" (2003)', '', '', '', '', 'Heysham, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"Age of Steam" (2003)', '', '', '', '', 'Loch Catrine, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"Age of Steam" (2003)', '', '', '', '', 'National Railway Museum, York, North Yorkshire, England, UK']	53.959310099999996	-1.0968486848778125
+['"Age of Steam" (2003)', '', '', '', '', 'Tanfield Railway, Marley Hill, Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"Age of Steam" (2003)', '', '', '', '', 'Thursford Collection, Thursford, Norfolk, England, UK']	52.87117285	0.9402604472807357
+['"Aizliegtas speles" (2003)', '', '', '', 'Jurmala, Latvia']	56.9727164	23.7886979
+['"Aizliegtas speles" (2003)', '', '', '', 'Latvia']	56.8406494	24.7537645
+['"Aizliegtas speles" (2003)', '', '', '', 'Riga, Latvia']	56.8406494	24.7537645
+['"Akademi T�rkiye" (2003)', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Al Hajjaj" (2003)', '', '', '', '', 'Jordan']	31.1667049	36.941628
+['"Al Hajjaj" (2003)', '', '', '', '', 'Lebanon']	33.8750629	35.843409
+['"Alacakaranlik" (2003)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Alarm f�r Cobra 11 - Einsatz f�r Team 2" (2003) {Countdown auf der Todesbr�cke (#1.0)}', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alegria" (2003)', '', '', '', '', 'M�laga, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Alegria" (2003)', '', '', '', '', 'Ronda, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Alegria" (2003)', '', '', '', '', 'Seville, Seville, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Alegrijes y rebujos" (2003)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Alegrijes y rebujos" (2003) {La fiesta}', '', 'La Curacao, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alexandria" (2003)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Alienated" (2003)', '', '', '', '', 'Victoria, British Columbia, Canada']	48.4283182	-123.3649533
+['"All About the Andersons" (2003)', '', '', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Don\'t Be a Dater Hater (#1.2)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Everyone Plays (#1.8)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Face the Music (#1.16)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Flo\'s Dream (#1.7)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Get Out of Dodge... Ball (#1.11)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Go with the Flo (#1.3)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Golden Child (#1.5)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Home Movie (#1.13)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Into the Woods (#1.15)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {It\'s My Son, I Can Raise Him If I Want to (#1.4)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Joe\'s Big Break (#1.9)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {My Hero (#1.6)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {One Flew Over the Kai-Kai\'s Nest (#1.12)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Pilot (#1.1)}', '', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Time Bandit (#1.14)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All About the Andersons" (2003) {Training Wheels (#1.10)}', 'Stage 9, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"All of Us" (2003)', '', '', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Amar otra vez" (2003)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amar otra vez" (2003)', '', '', '', '', 'Uruapan, Michoac�n, Mexico']	19.4326296	-99.1331785
+['"Ambush Makeover" (2003)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Ambush Makeover" (2003)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Ambush Makeover" (2003)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Ambush Makeover" (2003)', '', '', '', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"Ambush Makeover" (2003)', '', '', '', 'Indianapolis, Indiana, USA']	39.7683331	-86.1583502
+['"Ambush Makeover" (2003)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Ambush Makeover" (2003)', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"Ambush Makeover" (2003)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Ambush Makeover" (2003)', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Ambush Makeover" (2003)', '', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"Ambush Makeover" (2003)', '', '', '', 'Princeton, New Jersey, USA']	40.3492744	-74.6592958
+['"Ambush Makeover" (2003)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America\'s Most Talented Kid" (2003)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003)', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"America\'s Next Top Model" (2003)', '', '', 'Bangkok, Thailand']	13.7542529	100.493087
+['"America\'s Next Top Model" (2003)', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"America\'s Next Top Model" (2003)', '', '', 'Beijing, China']	35.000074	104.999927
+['"America\'s Next Top Model" (2003)', '', '', 'Cape Town, Western Cape, South Africa']	-33.928992	18.417396
+['"America\'s Next Top Model" (2003)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"America\'s Next Top Model" (2003)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003)', '', '', 'Milan, Lombardia, Italy']	45.4668	9.1905
+['"America\'s Next Top Model" (2003)', '', '', 'Paris, France']	48.8566969	2.3514616
+['"America\'s Next Top Model" (2003)', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"America\'s Next Top Model" (2003)', '', '', 'Shanghai, China']	31.2322758	121.4692071
+['"America\'s Next Top Model" (2003)', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"America\'s Next Top Model" (2003)', '', '', 'S�o Paulo, Brazil']	-10.3333333	-53.2
+['"America\'s Next Top Model" (2003)', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"America\'s Next Top Model" (2003) {Alek Wek (#16.2)}', 'WaterMarke Tower - 705 West 9th Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {All-Star Finale (#17.13)}', 'Crete, Greece']	35.3084749	24.463320724202934
+['"America\'s Next Top Model" (2003) {All-Star Finale (#17.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {Barney Cheng (#18.9)}', 'Macau, China']	22.1757605	113.5514142
+['"America\'s Next Top Model" (2003) {Beverly Johnson (#18.5)}', 'CN Tower - 301 Front Street West, Toronto, Ontario, Canada']	43.6425637	-79.38708718320467
+['"America\'s Next Top Model" (2003) {Beverly Johnson (#18.5)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"America\'s Next Top Model" (2003) {Celebrity Life (#23.11)}', 'Universal Studios Florida, Universal Orlando Resort - 1000 Universal Studios Plaza, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"America\'s Next Top Model" (2003) {Daniella Issa Helayel (#16.11)}', 'Marrakech, Morocco']	31.6258257	-7.9891608
+['"America\'s Next Top Model" (2003) {Diane von Furstenberg (#15.2)}', '419 Ocean Front Walk, Venice, California, USA']	33.995044	-118.4668875
+['"America\'s Next Top Model" (2003) {Diane von Furstenberg (#15.2)}', 'Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.10258315	-118.34019700458315
+['"America\'s Next Top Model" (2003) {Diane von Furstenberg (#15.2)}', 'Venice, Los Angeles, California, USA']	33.995044	-118.4668875
+['"America\'s Next Top Model" (2003) {Eric Daman (#16.7)}', 'Universal Studios Theme Park, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"America\'s Next Top Model" (2003) {Eric Daman (#16.7)}', 'WaterMarke Tower - 705 West 9th Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {Erin Wasson (#16.1)}', 'WaterMarke Tower - 705 West 9th Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {Exploring Greece (#17.10)}', 'Crete, Greece']	35.3084749	24.463320724202934
+['"America\'s Next Top Model" (2003) {Fierce Eyes (#11.5)}', 'Lucky Strike Lanes - 6801 Hollywood Blvd., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"America\'s Next Top Model" (2003) {Finale Part 1: The Finalists Shoot Their Guess Campaign (#20.15)}', 'Bali, Indonesia']	-8.3304977	115.0906401
+['"America\'s Next Top Model" (2003) {Finale Part 1: The Finalists Shoot Their Guess Campaign (#20.15)}', 'Jalan Karang Mas Sejahtera, Jimbaran, Bali, Indonesia']	-8.789154799999999	115.16300971612904
+['"America\'s Next Top Model" (2003) {Finale Part 2: The Guy or Girl Who Becomes America\'s Next Top Model (#20.16)}', 'Bali, Indonesia']	-2.4833826	117.8902853
+['"America\'s Next Top Model" (2003) {Finale Part 2: The Guy or Girl Who Becomes America\'s Next Top Model (#20.16)}', 'Jalan Karang Mas Sejahtera, Jimbaran, Bali, Indonesia']	-8.789154799999999	115.16300971612904
+['"America\'s Next Top Model" (2003) {Finale Part One: The Last Girl Standing (#21.15)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {Finale Part One: The Last Girl Standing (#21.15)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {Finale Part Two: America\'s Next Top Model Is... (#21.16)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {Finale Part Two: America\'s Next Top Model Is... (#21.16)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {Fortress of Fierceness (#13.3)}', 'Santa Anita Park & Racetrack - 285 West Huntington Drive, Arcadia, California, USA']	34.1362075	-118.0401497
+['"America\'s Next Top Model" (2003) {Franca Sozzani (#16.10)}', 'Marrakech, Morocco']	31.6258257	-7.9891608
+['"America\'s Next Top Model" (2003) {Francesco Carrozzini (#15.7)}', '419 Ocean Front Walk, Venice, California, USA']	33.99377791836735	-118.47963851020408
+['"America\'s Next Top Model" (2003) {Francesco Carrozzini (#16.4)}', 'WaterMarke Tower - 705 West 9th Street, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"America\'s Next Top Model" (2003) {High Fashion Highlights (#15.12)}', '419 Ocean Front Walk, Venice, California, USA']	33.99377791836735	-118.47963851020408
+['"America\'s Next Top Model" (2003) {Jez Smith (#18.11)}', 'Hong Kong, China']	22.2793278	114.1628131
+['"America\'s Next Top Model" (2003) {Karolina Kurkova (#15.5)}', '419 Ocean Front Walk, Venice, California, USA']	33.995044	-118.4668875
+['"America\'s Next Top Model" (2003) {Kyle Hagler (#15.10)}', 'Milan, Lombardia, Italy']	45.4668	9.1905
+['"America\'s Next Top Model" (2003) {Lana Marks (#16.8)}', 'WaterMarke Tower - 705 West 9th Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {Lori Goldstein (#16.3)}', 'WaterMarke Tower - 705 West 9th Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {Margherita Missoni (#15.9)}', '419 Ocean Front Walk, Venice, California, USA']	33.99377791836735	-118.47963851020408
+['"America\'s Next Top Model" (2003) {Margherita Missoni (#15.9)}', 'Milan, Lombardia, Italy']	45.4668	9.1905
+['"America\'s Next Top Model" (2003) {Margherita Missoni (#15.9)}', 'Venice, Veneto, Italy']	45.4371908	12.3345898
+['"America\'s Next Top Model" (2003) {Matthew Rolston (#15.4)}', '419 Ocean Front Walk, Venice, California, USA']	33.99377791836735	-118.47963851020408
+['"America\'s Next Top Model" (2003) {Nicholas Tse (#18.10)}', 'Macau, China']	22.1757605	113.5514142
+['"America\'s Next Top Model" (2003) {Nicholas Tse (#18.10)}', 'Hong Kong, China']	35.000074	104.999927
+['"America\'s Next Top Model" (2003) {Nikos Papadopoulos (#17.9)}', 'Crete, Greece']	35.3084749	24.463320724202934
+['"America\'s Next Top Model" (2003) {Patricia Field (#15.3)}', '419 Ocean Front Walk, Venice, California, USA']	33.99377791836735	-118.47963851020408
+['"America\'s Next Top Model" (2003) {Patricia Field (#15.3)}', 'Malibu, California, USA']	34.035591	-118.689423
+['"America\'s Next Top Model" (2003) {Patricia Field (#15.3)}', 'Venice, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {Patrick Demarchelier (#15.6)}', '419 Ocean Front Walk, Venice, California, USA']	33.99377791836735	-118.47963851020408
+['"America\'s Next Top Model" (2003) {Put Your Best Face Forward (#12.5)}', 'Ellis Island, New York Harbor, New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Next Top Model" (2003) {Rachel Zoe (#16.5)}', 'WaterMarke Tower - 705 West 9th Street, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"America\'s Next Top Model" (2003) {Roberto Cavalli (#15.13)}', 'Milan, Lombardia, Italy']	45.4668	9.1905
+['"America\'s Next Top Model" (2003) {Season Finale (#18.13)}', 'Macau, China']	22.1757605	113.5514142
+['"America\'s Next Top Model" (2003) {Sonia Dara (#16.6)}', 'WaterMarke Tower - 705 West 9th Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {The Fiercee Awards (#11.7)}', 'Orpheum Theater - 842 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {The Girl Who Became Bootyful (#22.10)}', 'SLS Las Vegas Hotel & Casino - 2535 South Las Vegas Blvd, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"America\'s Next Top Model" (2003) {The Girl Who Becomes America\'s Next Top Model (#19.12)}', 'Rose Hall Great House Resort, Montego Bay, Cornwall, Jamaica']	18.4724603	-77.9217357
+['"America\'s Next Top Model" (2003) {The Girl Who Becomes America\'s Next Top Model (#19.12)}', 'Falmouth, Jamaica']	18.4929078	-77.6574376
+['"America\'s Next Top Model" (2003) {The Girl Who Becomes Art for Tyra (#19.10)}', 'Jamaica']	18.1850507	-77.3947693
+['"America\'s Next Top Model" (2003) {The Girl Who Becomes Art for Tyra (#19.10)}', "Dunn's River Falls, Ocho Rios, St. Ann, Jamaica"]	18.4075785	-77.101204
+['"America\'s Next Top Model" (2003) {The Girl Who Blames the Taxi Driver (#8.11)}', 'Maroubra, Sydney, New South Wales, Australia']	-33.9455221	151.253571
+['"America\'s Next Top Model" (2003) {The Girl Who Blames the Taxi Driver (#8.11)}', 'Sydney Harbour Bridge, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"America\'s Next Top Model" (2003) {The Girl Who Blames the Taxi Driver (#8.11)}', 'Westin Hotel, Martin Place, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"America\'s Next Top Model" (2003) {The Girl Who Didn\'t Hug Goodbye (#3.12)}', 'Tokyo, Japan']	35.6828387	139.7594549
+['"America\'s Next Top Model" (2003) {The Girl Who Does Not Want to Dance (#8.12)}', 'Westin Hotel, Martin Place, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"America\'s Next Top Model" (2003) {The Girl Who Does What Tyler Perry Says (#19.4)}', '3rd Street Promenade, Santa Monica, California, USA']	34.0169981	-118.4976531
+['"America\'s Next Top Model" (2003) {The Girl Who Does What Tyler Perry Says (#19.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"America\'s Next Top Model" (2003) {The Girl Who Freaks Out on Horseback (#19.11)}', 'Montego Bay, Cornwall, Jamaica']	18.4724603	-77.9217357
+['"America\'s Next Top Model" (2003) {The Girl Who Gets Caught in a Lie (#21.13)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {The Girl Who Gets Caught in a Lie (#21.13)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {The Girl Who Licks the Floor (#19.7)}', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"America\'s Next Top Model" (2003) {The Girl Who Took a Shot in the Dark (#22.13)}', 'SLS Las Vegas Hotel & Casino - 2535 South Las Vegas Blvd, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"America\'s Next Top Model" (2003) {The Girl Whose Walk Is TOO Good (#20.9)}', 'Canyon Ranch, 368 E. Carlisle Rd., Westlake Village, California, USA']	34.1460234	-118.8061794
+['"America\'s Next Top Model" (2003) {The Girls Go to Jamaica (#19.9)}', 'Jamaica']	18.1850507	-77.3947693
+['"America\'s Next Top Model" (2003) {The Girls Meet Taye Diggs (#3.9)}', 'Tokyo, Japan']	36.5748441	139.2394179
+['"America\'s Next Top Model" (2003) {The Girls Who Went Down Under (#8.9)}', 'Bondi Beach, Sydney, New South Wales, Australia']	-24.7761086	134.755
+['"America\'s Next Top Model" (2003) {The Girls Who Went Down Under (#8.9)}', 'Circular Quay, The Rocks, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"America\'s Next Top Model" (2003) {The Girls Who Went Down Under (#8.9)}', 'Hyde Park, Sydney, New South Wales, Australia']	-24.7761086	134.755
+['"America\'s Next Top Model" (2003) {The Girls Who Went Down Under (#8.9)}', 'Kingsford Smith International Airport, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"America\'s Next Top Model" (2003) {The Girls Who Went Down Under (#8.9)}', 'Queen Victoria Building, Sydney, New South Wales, Australia']	-24.7761086	134.755
+['"America\'s Next Top Model" (2003) {The Girls Who Went Down Under (#8.9)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"America\'s Next Top Model" (2003) {The Girls Who Went Down Under (#8.9)}', 'Westin Hotel, Martin Place, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"America\'s Next Top Model" (2003) {The Guy Who Becomes a Bat (#20.14)}', 'Bali, Indonesia']	-2.4833826	117.8902853
+['"America\'s Next Top Model" (2003) {The Guy Who Closed the Deal in Vegas (#22.12)}', 'SLS Las Vegas Hotel & Casino - 2535 South Las Vegas Blvd, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"America\'s Next Top Model" (2003) {The Guy Who Gets to Kiss the Girl (#20.5)}', 'Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.10258315	-118.34019700458315
+['"America\'s Next Top Model" (2003) {The Guy Who Gets to Kiss the Girl (#20.5)}', 'The Grill on Hollywood - 6801 Hollywood Blvd #407, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {The Guy Who Has a Panic Attack (#20.12)}', 'Bali, Indonesia']	-8.3304977	115.0906401
+['"America\'s Next Top Model" (2003) {The Guy Who Parties Too Hard (#21.12)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {The Guy Who Parties Too Hard (#21.12)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {The Guy with Moves Like Elvis (#21.14)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {The Guy with Moves Like Elvis (#21.14)}', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"America\'s Next Top Model" (2003) {The Top Thirteen Are Chosen (#6.1)}', 'Sowden House - 5121 Franklin Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top Model" (2003) {Tyson Beckford (#17.12)}', 'Crete, Greece']	35.3084749	24.463320724202934
+['"America\'s Next Top Model" (2003) {What Happens in Vegas (#12.1)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"America\'s Next Top Model" (2003) {Zac Posen (#15.8)}', '419 Ocean Front Walk, Venice, California, USA']	33.99377791836735	-118.47963851020408
+['"American Chopper: The Series" (2003)', '', '', 'Hollywood Boulevard, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Chopper: The Series" (2003)', '', '', 'Montgomery, New York, USA']	42.8941269	-74.4099745
+['"American Chopper: The Series" (2003)', '', '', 'NBC Studios - 30 Rockefeller Plaza, Manhattan, New York City, New York, USA']	40.7591424	-73.9796681
+['"American Chopper: The Series" (2003)', '', '', 'Orange County, New York, USA']	41.3873306	-74.2507287
+['"American Chopper: The Series" (2003)', '', '', 'Rock Tavern, New York, USA']	41.4662049	-74.1912587
+['"American Juniors" (2003)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amor Descarado" (2003)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Am�" (2003)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Am�" (2003)', '', '', '', '', '', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"Am�" (2003)', '', '', '', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"Am�" (2003)', '', '', '', '', '', 'Reykjav�k, Iceland']	64.9841821	-18.1059013
+['"An Inside Look" (2003) {Gold}', '', '', '', 'Australia']	-24.7761086	134.755
+['"An Inside Look" (2003) {Gold}', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"Anatomie des Verbrechens" (2003)', '', '', 'Germany']	51.0834196	10.4234469
+['"Ancient Discoveries" (2003)', '', '', '', 'China']	35.000074	104.999927
+['"Ancient Egyptians" (2003)', '', '', '', 'Morocco']	31.1728205	-7.3362482
+['"Ancient Egyptians" (2003)', '', '', '', 'Ouarzazate, Morocco']	30.920193	-6.910923
+['"Anderson Cooper 360�" (2003) {(2013-06-21)}', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Anderson Cooper 360�" (2003) {(2013-06-21)}', '', 'Ankara, Turkey']	38.9597594	34.9249653
+['"Anderson Cooper 360�" (2003) {(2013-06-21)}', '', 'Antakya, Turkey']	36.219114	36.1616275
+['"Anderson Cooper 360�" (2003) {(2013-06-21)}', '', 'Diyarbakir, Turkey']	38.9597594	34.9249653
+['"Anderson Cooper 360�" (2003) {(2013-06-21)}', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Anderson Cooper 360�" (2003) {(2013-06-21)}', '', 'Kugulu-Park, Istanbul, Turkey']	41.00582905	28.643081755187236
+['"Anderson Cooper 360�" (2003) {(2013-06-21)}', '', 'Taksim, Istanbul, Turkey']	41.0375196	28.9854261
+['"Anderson Cooper 360�" (2003) {(2014-10-24)}', '', 'Crimea, Ukraine']	49.4871968	31.2718321
+['"Anderson Cooper 360�" (2003) {(2014-10-24)}', '', 'Donetsk, Ukraine']	48.0158753	37.8013407
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'Ferguson, Missouri, USA']	38.744707	-90.3038975
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'Edward Jones Dome - 901 North Broadway, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'Clayton Municipal Court, Clayton, Missouri, USA']	38.6373754	-90.307816
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'Saint Louis Galleria, St Louis, Missouri, USA']	38.63510455	-90.3476632779996
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'West Florissant Avenue, Ferguson, Missouri, USA']	38.7709398	-90.2799258
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'Crestwood, St. Louis County, Missouri, USA']	38.55881599999999	-90.3757777162534
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'Ferguson Police Department, Ferguson, Missouri, USA']	38.740806899999995	-90.30315477299337
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'Plaza Frontenac, 1701 S Lindbergh Blvd, St Louis, Missouri, USA']	38.630065450000004	-90.40744665
+['"Anderson Cooper 360�" (2003) {(2014-11-24)}', '', 'Clayton, Missouri, USA']	38.6504352	-90.3362473
+['"Anderson Cooper 360�" (2003) {(2014-12-02)}', '', 'Aleppo, Syria']	36.19924	37.1637253
+['"Anderson Cooper 360�" (2003) {(2014-12-02)}', '', 'Ferguson, Missouri, USA']	38.744707	-90.3038975
+['"Anderson Cooper 360�" (2003) {(2014-12-02)}', '', 'Grand Forks, North Dakota, USA']	47.9078244	-97.0592028
+['"Anderson Cooper 360�" (2003) {(2014-12-02)}', '', 'Kobani, Syria']	36.8886218	38.3535094
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'Harrisburg, Pennsylvania, USA']	40.2663107	-76.8861122
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'New Jersey, USA']	40.0757384	-74.4041622
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'New York, USA']	40.7127281	-74.0060152
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'Port Richmond, Philadelphia, Pennsylvania, USA']	39.9863549	-75.1009166
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"Anderson Cooper 360�" (2003) {Amtrak Train Crash: 7 Dead, 200 Injured}', 'Washington, USA']	39.7837304	-100.4458825
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Tyler, Texas, USA']	32.3512601	-95.3010624
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Waco, Texas, USA']	31.549333	-97.1466695
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Texas, USA']	39.7837304	-100.4458825
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Lacy Lakeview, McLennan County, Texas, USA']	31.5487691	-97.2189254
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Hollister, California, USA']	36.8524545	-121.4016021
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Galveston, Texas, USA']	29.299328	-94.7945882
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"Anderson Cooper 360�" (2003) {Biker Brawl}', '', 'Corpus Christi, Texas, USA']	27.7477253	-97.4014129
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Emanuel African Methodist Episcopal Church, Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Jasper County, South Carolina, USA']	32.4048602	-81.0414726
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Hampton, South Carolina, USA']	32.7861789	-81.1237271
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Walterboro, South Carolina, USA']	32.9021377	-80.6672631
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Beaufort, South Carolina, USA']	32.4315813	-80.6698286
+['"Anderson Cooper 360�" (2003) {Charleston Church Shooting}', 'Shelby, North Carolina, USA']	35.2919489	-81.5402112
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Claremore, Oklahoma, USA']	36.3126005	-95.6160686
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Crockett, Texas, USA']	30.6517377	-101.3766686
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Hays County, Texas, USA']	30.0447901	-98.0393127
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Del Rio, Texas, USA']	29.3655405	-100.8946984
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Milam, Texas, USA']	30.7626867	-96.9981706
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Travis County, Texas, USA']	30.2878569	-97.7561392
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Jena, Louisiana, USA']	31.6832271	-92.1337448
+['"Anderson Cooper 360�" (2003) {Storms Slam Houston}', 'Ciudad Acu�a, Coahu�la, Mexico']	19.4326296	-99.1331785
+['"Angels in America" (2003)', '', '', '', 'Bethesda Fountain, Central Park, Manhattan, New York City, New York, USA']	40.774309349999996	-73.9708367973161
+['"Angels in America" (2003)', '', '', '', 'Kaufman Astoria Studios - 3412 36th Street, Astoria, Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"Angels in America" (2003)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Angels in America" (2003)', '', '', '', 'New York Institute of Techology, 1855 Broadway, New York City, New York, USA']	39.7837304	-100.4458825
+['"Angels in America" (2003)', '', '', '', 'Tivoli, Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Animal Cops: Houston" (2003)', '', '', '', 'Harris County, Texas, USA']	29.8119769	-95.3741247
+['"Animal Magnetism" (2003)', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Animal Magnetism" (2003)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Aqu� no hay quien viva" (2003)', '', '', '', 'Fuenlabrada, Madrid, Spain']	40.282476	-3.7923422
+['"Archivos con Alfonso Rodr�guez" (2003)', '', '', 'Santo Domingo, Dominican Republic']	18.4801972	-69.942111
+['"Archivos con Alfonso Rodr�guez" (2003)', '', '', 'Antena Latina, Santo Domingo, Dominican Republic']	18.47563205	-69.92776428805894
+['"Archivos del m�s all�" (2003)', '', '', '', 'Venezuela']	8.0018709	-66.1109318
+['"Ardetroya" (2003)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Around the World" (2003)', '', '', '', 'Bangladesh']	24.4768783	90.2932426
+['"Around the World" (2003)', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Around the World" (2003)', '', '', '', 'Ethiopia']	10.2116702	38.6521203
+['"Around the World" (2003)', '', '', '', 'Guatemala']	15.6356088	-89.8988087
+['"Around the World" (2003)', '', '', '', 'Kyrgyzstan']	41.5089324	74.724091
+['"Around the World" (2003)', '', '', '', 'Uganda']	1.5333554	32.2166578
+['"Arrested Development" (2003)', '', '', '', 'Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Arrested Development" (2003)', '', '', '', 'Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Arrested Development" (2003)', '', '', '', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"Arrested Development" (2003)', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Arrested Development" (2003)', '', '', '', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003)', '', '', '', 'University High School - 11800 Texas Avenue, West Los Angeles, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Afternoon Delight (#2.6)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Altar Egos (#1.16)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Amigos (#2.3)}', '', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Beef Consomme (#1.13)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Best Man for the Gob (#1.19)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Bringing Up Buster (#1.3)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Burning Love (#2.9)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Charity Drive (#1.5)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Development Arrested (#3.13)}', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"Arrested Development" (2003) {Development Arrested (#3.13)}', 'RMS Queen Mary - 1126 Queens Highway, Long Beach, California, USA']	39.7837304	-100.4458825
+['"Arrested Development" (2003) {Development Arrested (#3.13)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Exit Strategy (#3.12)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Fakin\' It (#3.10)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Family Ties (#3.11)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Flight of the Phoenix (#4.1)}', 'California, USA']	36.7014631	-118.7559974
+['"Arrested Development" (2003) {For British Eyes Only (#3.2)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arrested Development" (2003) {Forget Me Now (#3.3)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arrested Development" (2003) {Good Grief! (#2.4)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arrested Development" (2003) {Hand to God (#2.12)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arrested Development" (2003) {In God We Trust (#1.7)}', 'Memorial Park, Pasadena, California, USA']	34.148477	-118.1474604
+['"Arrested Development" (2003) {In God We Trust (#1.7)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Justice Is Blind (#1.17)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Key Decisions (#1.4)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Let \'Em Eat Cake (#1.22)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Making a Stand (#3.8)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Marta Complex (#1.12)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Meat the Veals (#2.16)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Missing Kitty (#1.18)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Motherboy XXX (#2.13)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Mr. F (#3.5)}', '', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {My Mother the Car (#1.8)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Not Without My Daughter (#1.21)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Notapusy (#3.4)}', '', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Out on a Limb (#2.11)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Pier Pressure (#1.10)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Pilot (#1.1)}', '', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Prison Break-In (#3.7)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Public Relations (#1.11)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Queen for a Day (#2.8)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Ready, Aim, Marry Me (#2.10)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Righteous Brothers (#2.18)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {S.O.B.s (#3.9)}', '', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Sad Sack (#2.5)}', '', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Shock and Aww (#1.14)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Spring Breakout (#2.17)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Staff Infection (#1.15)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Storming the Castle (#1.9)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Switch Hitter (#2.7)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Sword of Destiny (#2.15)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {The Cabin Show (#3.1)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {The Cabin Show (#3.1)}', 'Varsity Theater - 166 E. Main Street, Ashland, Oregon, USA']	39.7837304	-100.4458825
+['"Arrested Development" (2003) {The Immaculate Election (#2.14)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {The Ocean Walker (#3.6)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {The One Where Michael Leaves (#2.1)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {The One Where They Build a House (#2.2)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Top Banana (#1.2)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Visiting Ours (#1.6)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrested Development" (2003) {Whistler\'s Mother (#1.20)}', 'Stage 5, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arresting Design" (2003)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Art Treasures" (2003)', '', '', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"ArtStreet" (2003)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Arte en peque�as dosis" (2003)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aschberg\'s World" (2003)', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Aschberg\'s World" (2003)', '', '', '', 'Pakistan']	30.3308401	71.247499
+['"Aschberg\'s World" (2003)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Ask Gilby" (2003)', '', '', '', '', 'Akron, Ohio, USA']	41.083064	-81.518485
+['"Ask Rita" (2003)', '', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Ask Rita" (2003)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask olsun" (2003)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Assistens kirkeg�rden" (2003)', '', '', '', 'Assistens Kirkeg�rd, N�rrebro, Copenhagen, Denmark']	55.670249	10.3333283
+['"Atomix TV" (2003)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Australia Uncovered" (2003)', '', '', '', 'Fraser Island, Queensland, Australia']	-25.24672	153.1468043687652
+['"Australian Idol" (2003)', '', '', '', 'Fox Studios, Moore Park, Sydney, New South Wales, Australia']	-24.7761086	134.755
+['"Australian Idol" (2003)', '', '', '', 'Global Television Studios, North Ryde, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Australian Idol" (2003)', '', '', '', 'Sydney Opera House - 2 Macquarie Street, Sydney, New South Wales, Australia']	-24.7761086	134.755
+['"Auto-B-Good" (2003)', '', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"Automotive Showcase" (2003)', '', '', '', 'Christmas, Florida, USA']	28.520462000000002	-80.99779866448843
+['"Automotive Showcase" (2003)', '', '', '', 'Clermont, Florida, USA']	28.53876915	-81.73427469580952
+['"Automotive Showcase" (2003)', '', '', '', 'Groveland, Florida, USA']	28.5580546	-81.8511889
+['"Automotive Showcase" (2003)', '', '', '', 'MTD Studios, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Automotive Showcase" (2003)', '', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Automotive Showcase" (2003)', '', '', '', 'Sebring, Florida, USA']	27.4957453	-81.4410425
+['"Automotive Showcase" (2003)', '', '', '', 'Winter Park, Florida, USA']	28.6000625	-81.34274384364849
+['"Automotivevision.TV" (2003)', '', '', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Automotivevision.TV" (2003)', '', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"Automotivevision.TV" (2003)', '', '', '', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"Automotivevision.TV" (2003)', '', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"Automotivevision.TV" (2003)', '', '', '', 'Scottsdale, Arizona, USA']	33.4942189	-111.9260184
+['"Autos y m�s" (2003)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Avatopia" (2003)', '', '', '', '', 'Halmstad, Hallands l�n, Sweden']	59.6749712	14.5208584
+['"Avatopia" (2003)', '', '', '', '', 'Malm�, Sk�ne l�n, Sweden']	59.6749712	14.5208584
+['"Average Joe" (2003)', '', '', '', '', 'Hawaii, USA']	21.2160437	-157.975203
+['"Average Joe" (2003)', '', '', '', '', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"BTV4U Morgenmuffel" (2003)', '', '', '', 'Ludwigsburg, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"BTV4U chat_stream" (2003)', '', '', '', 'Ludwigsburg, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Baba" (2003)', '', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Bachelor, de begeerde vrijgezel" (2003)', '', 'Spain']	39.3262345	-4.8380649
+['"Baekjoui hosu" (2003)', '', '', '', '', 'South Korea']	36.5581914	127.9408564
+['"Bag tremmer" (2003)', '', '', '', '', 'Horsens Statsf�ngsel, Horsens, Jylland, Denmark']	55.8611696	9.8444774
+['"Bag tremmer" (2003)', '', '', '', '', 'Nyborg Statsf�ngsel, Nyborg, Fyn, Denmark']	55.670249	10.3333283
+['"Bajo la misma piel" (2003)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Ban sheng yuan" (2003)', '', '', '', '', 'Shanghai, China']	31.2322758	121.4692071
+['"Ban�nh�j, avagy t�l�lni Bagi-Nacs�t" (2003)', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Bar del infierno" (2003)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bark-Off" (2003)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"BattleField Detectives" (2003)', '', '', '', 'Gettysburg, Pennsylvania, USA']	39.8309417	-77.2311047
+['"BattleField Detectives" (2003)', '', '', '', "Harper's Ferry, West Virginia, USA"]	39.323418	-77.7319766
+['"BattleField Detectives" (2003)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"BattleField Detectives" (2003) {Custer\'s Last Stand (#1.1)}', 'Little Bighorn Battlefield National Monument - 756 Battlefield Tour Road, Crow Agency, Montana, USA']	39.7837304	-100.4458825
+['"Battlestar Galactica" (2003)', '', '', '', 'Bloedel Floral Conservatory, Vancouver, British Columbia, Canada']	49.242069799999996	-123.1137689239109
+['"Battlestar Galactica" (2003)', '', '', '', 'British Columbia Railway, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Battlestar Galactica" (2003)', '', '', '', 'Horseshoe Bay, West Vancouver, British Columbia, Canada']	49.3744409	-123.2739191
+['"Battlestar Galactica" (2003)', '', '', '', 'Simon Fraser University, Burnaby, British Columbia, Canada']	49.2767454	-122.91777374910319
+['"Battlestar Galactica" (2003)', '', '', '', 'University of British Columbia, Robson Square Campus - 800 Robson Street, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Battlestar Galactica" (2003)', '', '', '', 'Vancouver Film Studios, Vancouver, British Columbia, Canada']	49.2612189	-123.02658531247799
+['"Battlestar Galactica" (2003)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Bayazet" (2003)', '', '', '', '', 'Mosfilm Studios, Moscow, Russia']	64.6863136	97.7453061
+['"Bayazet" (2003)', '', '', '', '', 'Syria']	34.6401861	39.0494106
+['"Bednaya Nastya" (2003)', '', '', '', '', 'Moscow, Russia']	55.4792046	37.3273304
+['"Bednaya Nastya" (2003)', '', '', '', '', 'Winter Palace, St. Petersburg, Russia']	59.94046655	30.31518289682713
+['"Beef Baloney" (2003)', '', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Beef Baloney" (2003)', '', '', '', '', 'Beggs, Oklahoma, USA']	35.7425976	-96.0702731
+['"Beef Baloney" (2003)', '', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Beef Baloney" (2003)', '', '', '', '', "Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Beef Baloney" (2003)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Beef Baloney" (2003)', '', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Beef Baloney" (2003)', '', '', '', '', 'Stillwater, Oklahoma, USA']	36.1156306	-97.0585717
+['"Beef Baloney" (2003)', '', '', '', '', 'Tulsa, Oklahoma, USA']	36.1556805	-95.9929113
+['"Beit Sefer Chagavim" (2003)', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Bekarlar" (2003)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Belinder auktioner" (2003)', '', '', '', 'Liding�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Belinder auktioner" (2003)', '', '', '', 'Sveriges Television, G�rdet, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Below the Belt" (2003)', '', '', '', '', 'Cape Town, Western Cape, South Africa']	-33.928992	18.417396
+['"Below the Belt" (2003)', '', '', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"Ben y�e" (2003)', '', '', '', '', 'Beijing, China']	39.906217	116.3912757
+['"Ben y�e" (2003)', '', '', '', '', 'Zhuozhou Yingshicheng, Hebei Province, China']	35.000074	104.999927
+['"Berglunds begravningar" (2003)', '', '', '', 'Eds Church, Upplands V�sby, Sollentuna, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Berglunds begravningar" (2003)', '', '', '', 'Filmhusatelj�erna, Filmhuset, Svenska Filminstitutet, G�rdet, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Berglunds begravningar" (2003)', '', '', '', 'G�rdet, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Berglunds begravningar" (2003)', '', '', '', 'V�stberga, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Berserk mot Nordpolen" (2003) {I isbj�rnens rike (#1.4)}', 'Svalbard, Norway']	78.7198519	20.3493328
+['"Berserk mot Nordpolen" (2003) {Mot hvalross og is (#1.3)}', 'The Artic Sea']	33.3349447	-115.9938355
+['"Berserk mot Nordpolen" (2003) {M�te med veggen (#1.5)}', 'Barents Sea, Arctic Ocean']	83.0	-170.0
+['"Berserk mot Nordpolen" (2003) {Nye utfordringer (#1.2)}', 'The North Sea, Norway']	60.5000209	9.0999715
+['"Berserk mot Nordpolen" (2003) {Ved veis ende (#1.6)}', 'Arctic Ocean']	83.0	-170.0
+['"Best of Both Worlds" (2003)', '', '', '', 'Hawaii, USA']	21.2160437	-157.975203
+['"Best of Both Worlds" (2003)', '', '', '', 'Hong Kong, China']	35.000074	104.999927
+['"Betania, orgullo y pasion" (2003)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Betania, orgullo y pasion" (2003) {(#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Betania, orgullo y pasion" (2003) {(#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Betania, orgullo y pasion" (2003) {(#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Between Lust and Brookings Drive" (2003)', '', 'St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Between the Sheets" (2003) {(#1.1)}', '', '', 'Addingham, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"Between the Sheets" (2003) {(#1.2)}', '', '', 'Addingham, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"Between the Sheets" (2003) {(#1.3)}', '', '', 'Addingham, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"Between the Sheets" (2003) {(#1.4)}', '', '', 'Addingham, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"Between the Sheets" (2003) {(#1.5)}', '', '', 'Addingham, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"Between the Sheets" (2003) {(#1.6)}', '', '', 'Addingham, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"Beyond the Action" (2003)', '', '', '', 'British Columbia, Canada']	55.001251	-125.002441
+['"Beyond the Action" (2003)', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Beyond the Action" (2003)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Beyond the Action" (2003)', '', '', '', 'Los Angeles County, California, USA']	34.3155072	-118.2096814
+['"Beyond the Action" (2003)', '', '', '', 'New South Wales, Australia']	-31.8759835	147.2869493
+['"Beyond the Action" (2003)', '', '', '', 'Oregon, USA']	43.9792797	-120.737257
+['"Beyond the Action" (2003)', '', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"Beyond the Action" (2003)', '', '', '', 'San Diego County, California, USA']	32.9637838	-116.7706277
+['"Big Bite" (2003)', '', '', '', '', 'HSV-7 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Big Bite" (2003)', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Big Brother VIP" (2003)', '', '', '', 'Fornebu, Norway']	59.8995111	10.6286917
+['"Big Brother bei Nachtfalke" (2003)', '', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Big Time" (2003)', '', '', '', '', 'Alex Theatre - 216 N. Brand Boulevard, Glendale, California, USA']	39.7837304	-100.4458825
+['"Big Time" (2003)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big West Conference NCAA Basketball" (2003)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big brother: El complot" (2003)', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Bikini Destinations" (2003) {California (#1.7)}', 'Corona Del Mar, Newport Beach, California, USA']	33.6170092	-117.9294401
+['"Bikini Destinations" (2003) {California (#1.7)}', 'Crystal Cove State Park - 8471 Pacific Coast Hwy., Laguna Beach, California, USA']	39.7837304	-100.4458825
+['"Bikini Destinations" (2003) {California (#1.7)}', 'El Mirage Dry Lake, California, USA']	34.642436599999996	-117.59821798766575
+['"Bikini Destinations" (2003) {On Location at Lake Powell with TheBikiniNetwork.com (#1.4)}', 'Lake Powell, Utah, USA']	37.5444447	-110.77080590668845
+['"Bikini Destinations" (2003) {On Location with TheBikiniNetwork.com (#1.3)}', 'Harbor Island, Bahamas']	24.7736546	-78.0000547
+['"Bikini Destinations" (2003) {On Location with TheBikiniNetwork.com (#1.3)}', 'Paradise Island, Bahamas']	25.08335515	-77.3063341678734
+['"Bikini Destinations" (2003) {On Location with TheBikiniNetwork.com (#1.3)}', 'Rose Island, Bahamas']	24.7736546	-78.0000547

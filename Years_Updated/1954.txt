@@ -1,0 +1,15 @@
+['"1954 World Series" (1954) {Game 1}', '', '', 'Polo Grounds, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"1:0 f�r Sie" (1954)', '', '', '', '', 'Rheinhalle, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"A Time to Live" (1954)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"All About Baby" (1954)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Annie Oakley" (1954)', '', '', '', '', 'Alabama Hills, Lone Pine, California, USA']	36.583175999999995	-118.07835929489717
+['"Annie Oakley" (1954)', '', '', '', '', 'Corriganville, Ray Corrigan Ranch, Simi Valley, California, USA']	34.2694474	-118.781482
+['"Annie Oakley" (1954)', '', '', '', '', 'Iverson Ranch - 1 Iverson Lane, Chatsworth, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Annie Oakley" (1954)', '', '', '', '', 'Melody Ranch - 24715 Oak Creek Avenue, Newhall, California, USA']	34.3798765	-118.5291917
+['"Annie Oakley" (1954)', '', '', '', '', 'Pioneertown, California, USA']	34.1566737	-116.4961263
+['"Annie Oakley" (1954)', '', '', '', '', 'Walker Ranch - 19152 Placerita Canyon Road, Newhall, California, USA']	34.3798765	-118.5291917
+['"Annie Oakley" (1954) {Indian Justice (#3.9)}', '', 'Vasquez Rocks Natural Area Park - 10700 W. Escondido Canyon Rd., Agua Dulce, California, USA']	36.773557	-121.737165
+['"Annie Oakley" (1954) {Powder Rock Stampede (#2.20)}', 'Newhall, California, USA']	34.3798765	-118.5291917
+['"Annie Oakley" (1954) {The Front Trail (#3.24)}', '', 'Alabama Hills, Lone Pine, California, USA']	36.583175999999995	-118.07835929489717
+['"Annie Oakley" (1954) {Valley of the Shadows (#1.11)}', 'Alabama Hills, Lone Pine, California, USA']	36.583175999999995	-118.07835929489717
+['"Art et magie de la cuisine" (1954) {Oranges En Surprise}', 'Paris, France']	48.8566969	2.3514616

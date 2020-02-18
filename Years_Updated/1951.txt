@@ -1,0 +1,11 @@
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Palmdale, California, USA']	34.5793131	-118.1171108
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA']	34.18055525	-116.96850289553923
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Big Bear Valley, San Bernardino National Forest, California, USA']	34.18055525	-116.96850289553923
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Cedar Lake, Big Bear Valley, San Bernardino National Forest, California, USA']	39.7837304	-100.4458825
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Columbia/Warner Bros. Ranch - 411 North Hollywood Way, Burbank, California, USA']	34.1816482	-118.3258554
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Corriganville, Ray Corrigan Ranch, Simi Valley, California, USA']	34.2694474	-118.781482
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Iverson Ranch - 1 Iverson Lane, Chatsworth, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Lone Pine, California, USA']	36.583175999999995	-118.07835929489717
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Melody Ranch - 24715 Oak Creek Avenue, Newhall, California, USA']	34.3798765	-118.5291917
+['"Adventures of Wild Bill Hickok" (1951)', '', '', 'Walker Ranch - 19152 Placerita Canyon Road, Newhall, California, USA']	34.3798765	-118.5291917
+['"All Around the Town" (1951)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152

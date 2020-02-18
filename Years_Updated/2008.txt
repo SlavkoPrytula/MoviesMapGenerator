@@ -1,0 +1,1533 @@
+['"(S)avis" (2008) {(#1.13)}', '', '', '', 'Teatre Nacional de Catalunya, Barcelona, Catalonia, Spain']	41.3999764	2.185709260410055
+['"(S)avis" (2008) {(#1.13)}', '', '', '', 'Teatre Romea, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"(S)avis" (2008) {(#2.1)}', '', '', '', 'Parlament de Catalunya, Barcelona, Catalonia, Spain']	41.38810965	2.1888825518499733
+['"...De ra�z luna" (2008)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"1 Kadin 1 Erkek" (2008)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"1 quart de 3" (2008)', '', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"1-2-3 Moskau!" (2008)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"1-2-3 Moskau!" (2008)', '', '', '', '', 'Moscow, Russia']	64.6863136	97.7453061
+['"1-2-3 Moskau!" (2008)', '', '', '', '', 'Novgorod, Russia']	58.5209862	31.2757862
+['"1-2-3 Moskau!" (2008)', '', '', '', '', 'Riga, Latvia']	56.8406494	24.7537645
+['"1-2-3 Moskau!" (2008)', '', '', '', '', 'Tallinn, Estonia']	59.4372155	24.7453688
+['"1-2-3 Moskau!" (2008)', '', '', '', '', 'Vilnius, Vilnius County, Lithuania']	54.6870458	25.2829111
+['"1-2-3 Moskau!" (2008)', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"10 Days to War" (2008)', '', '', '', '', 'Inglis Barracks, Mill Hill, London, England, UK']	51.5073219	-0.1276474
+['"10 Days to War" (2008)', '', '', '', '', 'Jordan']	31.1667049	36.941628
+['"10 Great Reasons" (2008)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"10 Great Reasons" (2008)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"1000 Ways to Die" (2008) {Come on Get Deathy (#2.7)}', 'Escarpment Studios - 5610 Soto Street, Huntington Park, California, USA']	33.9827043	-118.2120343
+['"1000 Ways to Die" (2008) {Come on Get Deathy (#2.7)}', 'Hollywood Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1000 Ways to Die" (2008) {Come on Get Deathy (#2.7)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"1000 Ways to Die" (2008) {Come on Get Deathy (#2.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1000 Ways to Die" (2008) {Come on Get Deathy (#2.7)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"1000 Ways to Die" (2008) {Dead Before They Know It (#4.7)}', 'Blue Cloud Movie Ranch - 20000 Blue Cloud Road, Santa Clarita, California, USA']	34.3916641	-118.542586
+['"1000 Ways to Die" (2008) {Dead Before They Know It (#4.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1000 Ways to Die" (2008) {Dead Before They Know It (#4.7)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"1000 Ways to Die" (2008) {Dead to Rights (#2.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1000 Ways to Die" (2008) {Death Penalties (#5.6)}', 'Fred C. Nelles Correctional Facility, Whittier, California, USA']	33.9708782	-118.0308396
+['"1000 Ways to Die" (2008) {Hurry Up and Die (#3.7)}', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"1000 Ways to Die" (2008) {I See Dead People (And They\'re Cracking Me Up) (#1.12)}', 'La Paz Liquor, 4101 West Magnolia Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"1000 Ways to Die" (2008) {I See Dead People (And They\'re Cracking Me Up) (#1.12)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1000 Ways to Die" (2008) {I See Dead People (And They\'re Cracking Me Up) (#1.12)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"1000 Ways to Die" (2008) {Stench of Death}', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"101 Cars You Must Drive" (2008)', '', '', 'California, USA']	36.7014631	-118.7559974
+['"101 Cars You Must Drive" (2008)', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"112 - Sie retten dein Leben" (2008)', '', '', 'Action concept, Kalscheuren, H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008)', '', '', 'D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.1)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.1)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.10)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.10)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.100)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.100)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.101)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.101)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.102)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.102)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.103)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.103)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.104)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.104)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.105)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.105)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.106)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.106)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.107)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.107)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.108)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.108)}', '', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"112 - Sie retten dein Leben" (2008) {(#1.108)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.108)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.109)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.109)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.109)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.11)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.11)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.11)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.110)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.110)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.12)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.12)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.12)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.13)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.13)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.13)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.14)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.14)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.14)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.15)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.15)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.16)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.16)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.16)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.17)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.17)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.17)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.18)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.18)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.18)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.19)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.19)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.2)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.2)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.2)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.20)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.20)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.20)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.21)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.21)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.22)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.22)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.23)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.23)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.24)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.25)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.25)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.26)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.26)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.27)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.27)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.28)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.28)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.29)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.29)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.3)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.3)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.3)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.30)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.30)}', '', 'North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.31)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.31)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.31)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.32)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.32)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.32)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.33)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.33)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.34)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.34)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.34)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.35)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.35)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.35)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.36)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.36)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.36)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.37)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.37)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.37)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.38)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.38)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.4)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.4)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.40)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.40)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.40)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.5)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.5)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.6)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.6)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.68)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.68)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.68)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.7)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.8)}', '', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.8)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.81)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.81)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.82)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.83)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.83)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.84)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.84)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.85)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.85)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.86)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.86)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.87)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.87)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.88)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.88)}', '', 'FTL, Aldenhoven, North Rhine-Westphalia, Germany']	50.8962734	6.2827943
+['"112 - Sie retten dein Leben" (2008) {(#1.89)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.89)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.9)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.90)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.90)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.91)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.91)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.92)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.92)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.93)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.93)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.94)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.94)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.95)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.95)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.96)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.96)}', '', 'North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.97)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.98)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.98)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {(#1.99)}', '', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {(#1.99)}', '', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Doreens Zusammenbruch (#1.46)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Doreens Zusammenbruch (#1.46)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Doreens Zusammenbruch (#1.46)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Ein Ungl�ck jagt das n�chste (#1.43)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Ein Ungl�ck jagt das n�chste (#1.43)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Ein Ungl�ck jagt das n�chste (#1.43)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Ein Ungl�ck kommt selten allein (#1.53)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Ein Ungl�ck kommt selten allein (#1.53)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Ein Ungl�ck kommt selten allein (#1.53)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Ein tiefer Fall (#1.41)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Ein tiefer Fall (#1.41)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Einbruch in die Schule (#1.49)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Einbruch in die Schule (#1.49)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Einbruch in die Schule (#1.49)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Eingeklemmt im Bettkasten (#1.57)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Eingeklemmt im Bettkasten (#1.57)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Eingeklemmt im Bettkasten (#1.57)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Flo und Steffi werden in flagranti erwischt (#1.55)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Flo und Steffi werden in flagranti erwischt (#1.55)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Flo und Steffi werden in flagranti erwischt (#1.55)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Florian ger�t in Lebensgefahr (#1.50)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Florian ger�t in Lebensgefahr (#1.50)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Gef�hrliches Blind-Date (#1.48)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Gef�hrliches Blind-Date (#1.48)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Gef�hrliches Blind-Date (#1.48)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Gef�hlschaos bei Steffi (#1.45)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Gef�hlschaos bei Steffi (#1.45)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Gef�hlschaos bei Steffi (#1.45)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Heiko der Held (#1.44)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Heiko der Held (#1.44)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Heiko der Held (#1.44)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Heikos Romantik wird gef�hrlich (#1.39)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Heikos Romantik wird gef�hrlich (#1.39)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Heikos Romantik wird gef�hrlich (#1.39)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Martin und Driesen landen im Bett (#1.60)}', 'FTL, Aldenhoven, North Rhine-Westphalia, Germany']	50.8962734	6.2827943
+['"112 - Sie retten dein Leben" (2008) {Martin und Driesen landen im Bett (#1.60)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Martin und Driesen landen im Bett (#1.60)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Mit dem Skateboard auf die Autobahn (#1.56)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Mit dem Skateboard auf die Autobahn (#1.56)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Mit dem Skateboard auf die Autobahn (#1.56)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Rauchen kann t�dlich sein (#1.59)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Rauchen kann t�dlich sein (#1.59)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Rauchen kann t�dlich sein (#1.59)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Sch�nheit hat ihren Preis (#1.54)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Sch�nheit hat ihren Preis (#1.54)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Sch�nheit hat ihren Preis (#1.54)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Stromschlag (#1.51)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Stromschlag (#1.51)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Sturz in die Tiefe (#1.52)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Sturz in die Tiefe (#1.52)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Sturz in die Tiefe (#1.52)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Turbulente Taxifahrt (#1.47)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Turbulente Taxifahrt (#1.47)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Turbulente Taxifahrt (#1.47)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {Vom Blitz getroffen (#1.58)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Vom Blitz getroffen (#1.58)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {Vom Blitz getroffen (#1.58)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"112 - Sie retten dein Leben" (2008) {�rzte f�r S�dafrika (#1.42)}', 'Action Concept Studios, H�rth-Kalscheuren, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {�rzte f�r S�dafrika (#1.42)}', 'H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"112 - Sie retten dein Leben" (2008) {�rzte f�r S�dafrika (#1.42)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"17 - o poveste despre destin" (2008)', '', '', 'Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008)', '', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"17 - o poveste despre destin" (2008) {...sangele apa nu se face!... (#1.6)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"17 - o poveste despre destin" (2008) {...sangele apa nu se face!... (#1.6)}', 'Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {Azi cinstea se plateste (#1.3)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {Azi cinstea se plateste (#1.3)}', 'Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {La voia destinului (#1.1)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"17 - o poveste despre destin" (2008) {La voia destinului (#1.1)}', 'Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {O a doua sansa... (#1.8)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {O a doua sansa... (#1.8)}', 'Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {O joaca de copii (#1.2)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"17 - o poveste despre destin" (2008) {O joaca de copii (#1.2)}', 'Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {O lume nebuna (#1.7)}', 'Bucharest, Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {O lume nebuna (#1.7)}', 'Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {Totul se plateste (#1.5)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"17 - o poveste despre destin" (2008) {Totul se plateste (#1.5)}', 'Romania']	45.9852129	24.6859225
+['"17 - o poveste despre destin" (2008) {Tradare in masa (#1.4)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"17 - o poveste despre destin" (2008) {Tradare in masa (#1.4)}', 'Romania']	45.9852129	24.6859225
+['"1st Look" (2008)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"1st Look" (2008)', '', '', '', '', 'Hong Kong, China']	35.000074	104.999927
+['"1st Look" (2008)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"1st Look" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1st Look" (2008)', '', '', '', '', 'Mammoth Lakes, California, USA']	37.6268015	-118.84674999730211
+['"1st Look" (2008)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"1st Look" (2008)', '', '', '', '', 'Puerto Rico']	18.22141715	-66.4132818505648
+['"1st Look" (2008)', '', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"1st Look" (2008)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"1st Look" (2008)', '', '', '', '', 'Telluride, Colorado, USA']	37.9374939	-107.8122852
+['"1stLook LA" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2 Dy a Ni" (2008)', '', '', '', '', 'Pontypridd, Rhondda Cynon Taff, Wales, UK']	54.7023545	-3.2765753
+['"2 Girls, 1 Cup: The Show" (2008)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"20 Second Movie Reviews" (2008)', '', '', 'Munster, Indiana, USA']	41.5644798	-87.5125412
+['"2008 UEFA European Football Championship" (2008)', 'Ernst-Happel-Stadion, Vienna, Austria']	48.2071637	16.419642566184816
+['"2008 UEFA European Football Championship" (2008)', 'Letzigrund Stadion, Z�rich, Kanton Z�rich, Switzerland']	46.7985624	8.2319736
+['"2008 UEFA European Football Championship" (2008)', 'St Jakob Stadium, Basel, Kanton Basel Stadt, Switzerland']	47.5581077	7.5878261
+['"2008 UEFA European Football Championship" (2008)', 'Stade de Gen�ve, Geneva, Canton de Gen�ve, Switzerland']	46.7985624	8.2319736
+['"2008 UEFA European Football Championship" (2008)', 'Stade de Suisse Wankdorf, Bern, Kanton Bern, Switzerland']	46.9622088	7.4647263
+['"2008 UEFA European Football Championship" (2008)', 'Stadion Salzburg Wals-Siezenheim, Salzburg, Salzburg, Austria']	47.816406150000006	12.99824882791507
+['"2008 UEFA European Football Championship" (2008)', 'Stadion Tivoli NEU, Innsbruck, Tyrol, Austria']	47.255878949999996	11.412067950229543
+['"2008 UEFA European Football Championship" (2008)', 'W�rthersee Stadion, Klagenfurt, Carinthia, Austria']	46.6228162	14.3079604
+['"2008 World Series of Poker" (2008)', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2008 World Series of Poker" (2008) {No Limit Hold\'em Main Event: Part 11 (#1.23)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2008 World Series of Poker" (2008) {No Limit Hold\'em Main Event: Part 12 (#1.24)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2008 World Series of Poker" (2008) {No Limit Hold\'em Main Event: Part 13 (#1.25)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2008 World Series of Poker" (2008) {No Limit Hold\'em Main Event: Part 14 (#1.26)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"2009: A True Story" (2008)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24 uur met..." (2008)', '', '', '', '', 'Studio Hilversum, Hilversum, Noord-Holland, Netherlands']	52.236464	5.1725403
+['"24/7 Chicago" (2008)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"3 Minute Wonder: The Place Prize" (2008)', '', 'London, England, UK']	51.5073219	-0.1276474
+['"3 Minute Wonder: The Place Prize" (2008)', '', 'The Beach, Brighton, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"3 ein Viertel" (2008)', '', '', '', '', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"3 ein Viertel" (2008)', '', '', '', '', 'Essen, North Rhine-Westphalia, Germany']	51.4582235	7.0158171
+['"30 Days \'Til I\'m Famous" (2008)', '', '', 'Costa Rica']	10.2735633	-84.0739102
+['"30 Days \'Til I\'m Famous" (2008)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"30 Days \'Til I\'m Famous" (2008)', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"30 Days \'Til I\'m Famous" (2008)', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"365gay News" (2008)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"39 i p�l" (2008)', '', '', '', '', 'Poland']	52.215933	19.134422
+['"3MW: Rivers of Blood" (2008)', '', '', '', 'Birmingham, West Midlands, England, UK']	52.4796992	-1.9026911
+['"3MW: Voices" (2008)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"5 Minute Office Workout" (2008)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"50 Cent: The Money and the Power" (2008)', '', 'Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"5th Year" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 Maya. Lichnoe otnoshenie" (2008)', '', '', 'Moscow, Russia']	55.4792046	37.3273304
+['"90210" (2008)', '', '', '', '', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"90210" (2008)', '', '', '', '', '', "Mount St. Mary's College - 12001 Chalon Road, Bel Air, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"90210" (2008)', '', '', '', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008)', '', '', '', '', '', 'Tropicana Bar, Hollywood Roosevelt Hotel - 7000 Hollywood Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {#realness (#5.13)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {\'Tis Pity (#4.22)}', '', '', 'La Brea Tar Pits - 5801 Wilshire Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {\'Tis Pity (#4.22)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {2021 Vision (#3.3)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {902-100 (#5.8)}', '', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {99 Problems (#5.7)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {A Portrait of the Artist as a Young Call Girl (#5.18)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {A Tale of Two Parties (#4.23)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {A Thousand Words (#4.9)}', '', 'Alverno High School - 200 North Michillinda Avenue, Sierra Madre, California, USA']	34.1616729	-118.0528456
+['"90210" (2008) {A Thousand Words (#4.9)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {A Trip to the Moon (#2.9)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {A Trip to the Moon (#2.9)}', '', 'Hermosa Beach, California, USA']	33.86428	-118.39591
+['"90210" (2008) {Age of Inheritance (#3.2)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {All About a Boy (#3.14)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {And Away They Go! (#2.11)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {And Away They Go! (#2.11)}', '', 'Santa Anita Park & Racetrack - 285 West Huntington Drive, Arcadia, California, USA']	34.1362075	-118.0401497
+['"90210" (2008) {Another, Another Chance (#2.18)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Another, Another Chance (#2.18)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Another, Another Chance (#2.18)}', 'Torrance, California, USA']	33.8358492	-118.3406288
+['"90210" (2008) {Babes in Toyland (#4.17)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Benefit of the Doubt (#4.6)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Best Lei\'d Plans (#3.10)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Between a Sign and a Hard Place (#1.20)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Between a Sign and a Hard Place (#1.20)}', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.917028	-118.4156337
+['"90210" (2008) {Between a Sign and a Hard Place (#1.20)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Blood Is Thicker Than Mud (#4.18)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Blue Ivy (#4.20)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Blue Naomi (#3.17)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Bride and Prejudice (#4.21)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Brother from Another Mother (#5.14)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {By Accident (#1.14)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {By Accident (#1.14)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {By Accident (#1.14)}', '', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"90210" (2008) {Catch Me If You Cannon (#3.5)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Clark Raving Mad (#2.16)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Clark Raving Mad (#2.16)}', '', 'El Segundo, California, USA']	33.917028	-118.4156337
+['"90210" (2008) {Confessions (#2.22)}', '', '', 'Rose Garden, Exposition Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Confessions (#2.22)}', '', '', 'Natural History Museum of Los Angeles County - 900 Exposition Boulevard, Exposition Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Confessions (#2.22)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Dude, Where\'s My Husband? (#5.17)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Environmental Hazards (#2.5)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Environmental Hazards (#2.5)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Environmental Hazards (#2.5)}', '', 'Royce Hall - 340 Royce Drive, UCLA, Westwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Forever Hold Your Peace (#4.24)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {Games People Play (#1.10)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {Games People Play (#1.10)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Games People Play (#1.10)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {Girl Fight! (#2.14)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Girl Fight! (#2.14)}', '', '', 'Leo Carrillo State Beach - 35000 W. Pacific Coast Highway, Malibu, California, USA']	34.035591	-118.689423
+['"90210" (2008) {Greek Tragedy (#4.3)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Hate 2 Love (#5.5)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Hello, Goodbye, Amen (#1.12)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Hello, Goodbye, Amen (#1.12)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Hello, Goodbye, Amen (#1.12)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Hello, Goodbye, Amen (#1.12)}', '', 'Malibu, California, USA']	34.035591	-118.689423
+['"90210" (2008) {Hello, Goodbye, Amen (#1.12)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {Help Me, Rhonda (#1.15)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Help Me, Rhonda (#1.15)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Help Me, Rhonda (#1.15)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"90210" (2008) {Here Comes Honey Bye Bye (#5.12)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Holiday Madness (#3.11)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Holiday Madness (#3.11)}', '', 'Sisters of the Immaculate Heart of Mary - 3431 Waverly Drive, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {Hollywood Forever (#1.7)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Hollywood Forever (#1.7)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Hollywood Forever (#1.7)}', '', 'Hollywood Forever Cemetery - 6000 Santa Monica Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Hollywood Forever (#1.7)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {How Much Is That Liam in the Window (#3.6)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {I See London, I See France... (#3.7)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Into the Wild (#5.4)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {It\'s All Fun and Games (#5.3)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {It\'s Getting Hot in Here (#3.13)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {It\'s Getting Hot in Here (#3.13)}', "Walt Disney's Golden Oak Ranch - 19802 Placerita Canyon Road, Newhall, California, USA"]	34.3798765	-118.5291917
+['"90210" (2008) {It\'s High Time (#3.16)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {It\'s the Great Masquerade, Naomi Clark (#4.7)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Javianna (#2.21)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Let the Games Begin (#4.4)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Liars (#3.12)}', '', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Life\'s a Beach (#5.16)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Life\'s a Drag (#1.17)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Life\'s a Drag (#1.17)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Life\'s a Drag (#1.17)}', '', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {Love Me or Leave Me (#1.13)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Love Me or Leave Me (#1.13)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Love Me or Leave Me (#1.13)}', '', 'Malibu, California, USA']	34.035591	-118.689423
+['"90210" (2008) {Love Me or Leave Me (#1.13)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {Lucky Strike (#1.3)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {Lucky Strike (#1.3)}', '', '', 'Del Amo Fashion Center - Hawthorne Boulevard & Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"90210" (2008) {Lucky Strike (#1.3)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Lucky Strike (#1.3)}', '', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {Mama Can You Hear Me? (#4.14)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Meet the Parent (#2.20)}', '', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"90210" (2008) {Meet the Parent (#2.20)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Misery Loves Company (#5.10)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Misery Loves Company (#5.10)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Misery Loves Company (#5.10)}', '', 'Malibu, California, USA']	34.035591	-118.689423
+['"90210" (2008) {Model Behavior (#1.6)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Model Behavior (#1.6)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Model Behavior (#1.6)}', '', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"90210" (2008) {Mother Dearest (#3.8)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Multiple Choices (#2.19)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Multiple Choices (#2.19)}', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"90210" (2008) {Multiple Choices (#2.19)}', '', 'Will Rogers Memorial Park - 9650 Sunset Blvd, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"90210" (2008) {Nerdy Little Secrets (#3.19)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Nerdy Little Secrets (#3.19)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {No Good Deed (#4.16)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {O Holly Night (#4.12)}', '', '', 'Malibu, California, USA']	34.035591	-118.689423
+['"90210" (2008) {O Holly Night (#4.12)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Of Heartbreaks and Hotels (#1.16)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Of Heartbreaks and Hotels (#1.16)}', 'Cafe Susina - 7122 Beverly Blvd., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {Of Heartbreaks and Hotels (#1.16)}', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Of Heartbreaks and Hotels (#1.16)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {Off the Rails (#1.18)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Off the Rails (#1.18)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Off the Rails (#1.18)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Okaeri, Donna! (#1.19)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Okaeri, Donna! (#1.19)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {One Party Can Ruin Your Whole Summer (#1.24)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {One Party Can Ruin Your Whole Summer (#1.24)}', '145 N Rossmore Ave, Los Angeles, California, USA']	34.073747222222224	-118.32745666666666
+['"90210" (2008) {One Party Can Ruin Your Whole Summer (#1.24)}', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {One Party Can Ruin Your Whole Summer (#1.24)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Party Politics (#4.5)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Project Runaway (#4.11)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Rats and Heroes (#2.13)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Revenge with the Nerd (#3.15)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Rush Hour (#4.2)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Scandal Royale (#5.21)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Secrets and Lies (#1.9)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Secrets and Lies (#1.9)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Secrets and Lies (#1.9)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {Senior Year, Baby (#3.1)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Should Old Acquaintance Be Forgot? (#4.13)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Sit Down, You\'re Rocking the Boat (#2.3)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Smoked Turkey (#4.10)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Smoked Turkey (#4.10)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Strange Brew (#5.15)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Sweaty Palms and Weak Knees (#2.17)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {That Which We Destroy (#1.11)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {That Which We Destroy (#1.11)}', '', 'Marriott Hotel - 4100 Admiralty Way, Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"90210" (2008) {That Which We Destroy (#1.11)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {That Which We Destroy (#1.11)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {The Bachelors (#3.4)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Bubble (#1.4)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Bubble (#1.4)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {The Bubble (#1.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {The Bubble (#1.4)}', '', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {The Con (#5.6)}', '', '', '', 'Redondo Beach, California, USA']	33.8455911	-118.3886766
+['"90210" (2008) {The Con (#5.6)}', '', '', '', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"90210" (2008) {The Con (#5.6)}', '', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Dionysian Debacle (#1.21)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Dionysian Debacle (#1.21)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {The Dionysian Debacle (#1.21)}', '', 'University High School - 11800 Texas Avenue, West Los Angeles, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {The Empire State Strikes Back (#5.19)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Empire State Strikes Back (#5.19)}', 'Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {The Enchanted Donkey (#3.18)}', '', 'Figueroa Hotel - 939 S. Figueroa Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {The Enchanted Donkey (#3.18)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {The Heart Will Go On (#4.19)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {The Jet Set (#1.2)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {The Jet Set (#1.2)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {The Jet Set (#1.2)}', '', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {The Party\'s Over (#1.22)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Party\'s Over (#1.22)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.917028	-118.4156337
+['"90210" (2008) {The Porn King (#2.4)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Prom Before the Storm (#3.21)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Sea Change (#5.2)}', '', '', 'Malibu Rocky Oaks Vineyard - 340 Kanan Rd, Malibu, California, USA']	34.035591	-118.689423
+['"90210" (2008) {The Sea Change (#5.2)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {The Things We Do for Love (#5.9)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {There\'s No Place Like Homecoming (#1.8)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {There\'s No Place Like Homecoming (#1.8)}', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {There\'s No Place Like Homecoming (#1.8)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {They\'re Playing Her Song (#3.9)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {Til Death Do Us Part (#5.1)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {To New Beginnings! (#2.1)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {To New Beginnings! (#2.1)}', '', '325 Homewood Rd, Los Angeles, California, USA']	34.06366903950998	-118.48358004958482
+['"90210" (2008) {To New Beginnings! (#2.1)}', '', 'Huntington Beach, California, USA']	33.6783336	-118.0000166
+['"90210" (2008) {To New Beginnings! (#2.1)}', '', 'Hyatt Regency Huntington Beach Resort & Spa - 21500 Pacific Coast Highway Huntington Beach, California, USA']	33.65079115	-117.98993858452823
+['"90210" (2008) {To New Beginnings! (#2.1)}', '', 'Torrance, California, USA']	33.8358492	-118.3406288
+['"90210" (2008) {To Sext or Not to Sext (#2.2)}', '', 'Ahmanson Mansion - 401 South Hudson Place, Hancock Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {To Sext or Not to Sext (#2.2)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {To Thine Own Self Be True (#2.10)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {To the Future! (#3.22)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {To the Future! (#3.22)}', '', '', 'Rancho Palos Verdes, California, USA']	33.7483311	-118.3707683
+['"90210" (2008) {Trust, Truth, and Traffic (#4.15)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"90210" (2008) {Trust, Truth, and Traffic (#4.15)}', 'Redondo Beach Elks Lodge #1378 - 315 Esplanade, Redondo Beach, California, USA']	33.8455911	-118.3886766
+['"90210" (2008) {Unmasked (#2.7)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Up in Smoke (#4.1)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Up in Smoke (#4.1)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Up in Smoke (#4.1)}', '', '', 'Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Vegas, Maybe? (#4.8)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Vegas, Maybe? (#4.8)}', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"90210" (2008) {We All Fall Down (#5.22)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {We\'re Not Not in Kansas Anymore (#5.11)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {We\'re Not in Kansas Anymore (#1.1)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {We\'re Not in Kansas Anymore (#1.1)}', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.917028	-118.4156337
+['"90210" (2008) {We\'re Not in Kansas Anymore (#1.1)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {What\'s Past Is Prologue (#2.15)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {What\'s Past Is Prologue (#2.15)}', 'Beverly Gardens Park, Beverly Hills, California, USA']	34.0723509	-118.40346215
+['"90210" (2008) {What\'s Past Is Prologue (#2.15)}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"90210" (2008) {Wide Awake and Dreaming (#1.5)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Wide Awake and Dreaming (#1.5)}', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"90210" (2008) {Wide Awake and Dreaming (#1.5)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"90210" (2008) {Wild Alaskan Salmon (#2.6)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Wild Alaskan Salmon (#2.6)}', '', '874 W. Potrero Rd, Thousand Oaks, California, USA']	34.1578368	-119.0254362
+['"90210" (2008) {Wild Alaskan Salmon (#2.6)}', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"90210" (2008) {Winter Wonderland (#2.12)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Winter Wonderland (#2.12)}', '', 'Torrance, California, USA']	33.8358492	-118.3406288
+['"90210" (2008) {Women on the Verge (#3.20)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {Women on the Verge (#3.20)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Women\'s Intuition (#2.8)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Women\'s Intuition (#2.8)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"90210" (2008) {You Can\'t Win \'em All (#5.20)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Zero Tolerance (#1.23)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"90210" (2008) {Zero Tolerance (#1.23)}', '', '', 'El Segundo High School - 640 Main Street, El Segundo, California, USA']	33.9247393	-118.41415256243585
+['"9mm: S�o Paulo" (2008)', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"A History of Scotland" (2008)', '', '', '', 'Scotland, UK']	56.7861112	-4.1140518
+['"A History of Scotland" (2008) {Bishop Makes King (#1.3)}', 'Dumfries & Galloway, Scotland, UK']	55.083333	-3.833333
+['"A History of Scotland" (2008) {Let\'s Pretend (#2.2)}', 'Ch�teau de Saint-Germain-en-Laye, Yvelines, France']	46.603354	1.8883335
+['"A History of Scotland" (2008) {Let\'s Pretend (#2.2)}', 'Gosford House, Longniddry, East Lothian, Scotland, UK']	55.9785145	-2.8902304
+['"A History of Scotland" (2008) {Let\'s Pretend (#2.2)}', 'House of Dun, Montrose, Angus, Scotland, UK']	54.7023545	-3.2765753
+['"A History of Scotland" (2008) {Let\'s Pretend (#2.2)}', 'Newhailes House, Musselburgh, East Lothian, Scotland, UK']	55.916667	-2.75
+['"A History of Scotland" (2008) {The Price of Progress (#2.3)}', 'Chesapeake, Virginia, USA']	36.7183708	-76.2466798
+['"A History of Scotland" (2008) {The Price of Progress (#2.3)}', 'Gallery of Modern Art, Royal Exchange Square, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"A History of Scotland" (2008) {The Price of Progress (#2.3)}', 'Glasgow, Strathclyde, Scotland, UK']	55.8317061	-4.0333295
+['"A History of Scotland" (2008) {The Price of Progress (#2.3)}', 'Jamaica']	18.1850507	-77.3947693
+['"A History of Scotland" (2008) {The Price of Progress (#2.3)}', 'Nassau Hall, Princeton University, Princeton, New Jersey, USA']	39.7837304	-100.4458825
+['"A History of Scotland" (2008) {The Price of Progress (#2.3)}', 'Pollok House, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"A History of Scotland" (2008) {The Price of Progress (#2.3)}', 'Rose Hall Great House Resort, Montego Bay, Cornwall, Jamaica']	18.1850507	-77.3947693
+['"A History of Scotland" (2008) {This Land Is Our Land (#2.4)}', 'Abbotsford House, Melrose, Scottish Borders, Scotland, UK']	54.7023545	-3.2765753
+['"A History of Scotland" (2008) {This Land Is Our Land (#2.4)}', 'Armadale Castle, Skye, Highland, Scotland, UK']	57.5066357	-5.0038367
+['"A History of Scotland" (2008) {This Land Is Our Land (#2.4)}', 'Hopetoun House, South Queensferry, Edinburgh, Scotland, UK']	54.7023545	-3.2765753
+['"A Outra" (2008)', '', '', '', '', 'Vila Flor, Portugal']	41.32030665	-7.166355986187879
+['"A Outra" (2008)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Outra" (2008)', '', '', '', '', 'Macedo de Cavaleiros, Portugal']	41.5362124	-6.9560267
+['"A Outra" (2008)', '', '', '', '', 'Maputo, Mozambique']	-25.966213	32.56745
+['"A Outra" (2008)', '', '', '', '', 'Mirandela, Portugal']	41.489615	-7.1774792
+['"A Outra" (2008) {(#1.218)}', '', '', '', 'Aeroporto, Lisbon, Portugal']	38.768620850000005	-9.128247856220423
+['"A Thousand Apologies" (2008)', '', '', '', 'Auckland, New Zealand']	-36.852095	174.7631803
+['"A Vodka Movie" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.D. La guerre de l\'ombre" (2008)', '', '', "Pontoise, Val-d'Oise, France"]	49.0508845	2.1008067
+['"A.D. La guerre de l\'ombre" (2008)', '', '', 'Place du Trocad�ro, Paris 16, Paris, France']	48.8566969	2.3514616
+['"AF1 (Alle for en)" (2008)', '', '', '', 'Oslo, Norway']	59.9133301	10.7389701
+['"AKBingo!" (2008)', '', '', '', '', 'Japan']	36.5748441	139.2394179
+['"AMV Heaven" (2008)', '', '', '', '', 'Christchurch, Canterbury, New Zealand']	-43.530955	172.6366455
+['"AVRO Junior Songfestival 2008" (2008)', '', '', 'Studio Baarn, Baarn, Utrecht, Netherlands']	52.2071074	5.2940784
+['"AVRO Junior Songfestival 2008" (2008) {Finale (#1.3)}', 'Studio Baarn, Baarn, Utrecht, Netherlands']	52.2071074	5.2940784
+['"AVRO Junior Songfestival 2008" (2008) {Halve finale #1 (#1.1)}', 'Studio Baarn, Baarn, Utrecht, Netherlands']	52.2071074	5.2940784
+['"AVRO Junior Songfestival 2008" (2008) {Halve finale #2 (#1.2)}', 'Studio Baarn, Baarn, Utrecht, Netherlands']	52.2071074	5.2940784
+['"Abenteuer Diagnose" (2008)', '', '', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Abi" (2008)', '', '', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Above the Line" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Absurd Fights" (2008)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Absurd Fights" (2008)', '', '', '', '', 'Sherman Oaks, Los Angeles, California, USA']	34.1508718	-118.4489865
+['"Absurd Fights" (2008) {Duct Tape (#1.2)}', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Absurd Fights" (2008) {Garden Hose (#1.3)}', '', 'Sherman Oaks, Los Angeles, California, USA']	34.1508718	-118.4489865
+['"Abu Ja\'afar Al-Mansur" (2008)', '', '', '', 'Jordan']	31.1667049	36.941628
+['"Abu Ja\'afar Al-Mansur" (2008)', '', '', '', 'Lebanon']	33.8750629	35.843409
+['"Accepti sau Nu" (2008)', '', '', '', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Achtung! Hartwich" (2008)', '', '', '', 'MMC Studios, H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Adanali" (2008)', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Adventure Girls" (2008)', '', '', '', 'China']	35.000074	104.999927
+['"Adventure Girls" (2008)', '', '', '', 'Indonesia']	-2.4833826	117.8902853
+['"Adventure Girls" (2008)', '', '', '', 'Malaysia']	4.5693754	102.2656823
+['"Adventure Girls" (2008)', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"Adventure Girls" (2008)', '', '', '', 'Singapore']	1.357107	103.8194992
+['"Adventure Girls" (2008)', '', '', '', 'Thailand']	14.8971921	100.83273
+['"Adventure Now" (2008)', '', '', '', '', 'Franklin, Tennessee, USA']	35.925193	-86.8689365
+['"Adventure Now" (2008) {A New Tape (#2.1)}', '', 'White Sands National Monument, New Mexico, USA']	32.7350236	-106.2468497
+['"Adventure Now" (2008) {A New Tape (#2.1)}', '', 'White Sands, New Mexico, USA']	32.381369	-106.4789925
+['"Adventure Now" (2008) {Attack to the Future (#3.5)}', "Kaua'i, Hawaii, USA"]	22.050466550000003	-159.55876775017003
+['"Adventure Now" (2008) {Exposition: Impossible (#3.1)}', "Kaua'i, Hawaii, USA"]	22.050466550000003	-159.55876775017003
+['"Adventure Now" (2008) {Security Measure 42 (#2.5)}', 'White Sands, New Mexico, USA']	32.381369	-106.4789925
+['"Adventure Now" (2008) {Station 42 (#3.6)}', '', "Kaua'i, Hawaii, USA"]	22.050466550000003	-159.55876775017003
+['"Adventure Now" (2008) {That\'s Why You\'re Famous (#2.4)}', 'White Sands, New Mexico, USA']	32.381369	-106.4789925
+['"Adventure Now" (2008) {The Dibbity Doots (#2.3)}', 'White Sands, New Mexico, USA']	32.381369	-106.4789925
+['"Adventure Now" (2008) {These Aren\'t the Droids You\'re Looking For (#2.2)}', 'White Sands, New Mexico, USA']	32.381369	-106.4789925
+['"Adventure Now" (2008) {Things You Can\'t Know (#3.2)}', "Kaua'i, Hawaii, USA"]	22.050466550000003	-159.55876775017003
+['"Adventure Now" (2008) {Time Flies When You\'re Having Bombs (#3.4)}', "Kaua'i, Hawaii, USA"]	22.050466550000003	-159.55876775017003
+['"Adventure Now" (2008) {Volcaniac (#3.3)}', '', "Kaua'i, Hawaii, USA"]	22.050466550000003	-159.55876775017003
+['"Afganskiy prizrak" (2008)', '', '', '', 'Cyprus']	34.9823018	33.1451285
+['"Afganskiy prizrak" (2008)', '', '', '', 'Dubna, Russia']	56.74177675	37.17553296960783
+['"Afganskiy prizrak" (2008)', '', '', '', 'Kimry, Russia']	56.8563178	37.35631550386293
+['"Afganskiy prizrak" (2008)', '', '', '', 'Krim, Ukraine']	46.4986535	30.7215963
+['"Afganskiy prizrak" (2008)', '', '', '', 'Moscow, Russia']	55.4792046	37.3273304
+['"Afganskiy prizrak" (2008)', '', '', '', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"Afinando a lingua" (2008)', '', '', '', 'Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Afropop: The Ultimate Cultural Exchange" (2008)', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"After Judgment" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After Judgment" (2008)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"After the First 48" (2008) {In Harm\'s Way (#2.21)}', 'Harris County, Texas, USA']	29.8119769	-95.3741247
+['"Agentki" (2008)', '', '', '', '', 'Poland']	52.215933	19.134422
+['"Agrodolce" (2008)', '', '', '', '', 'Sicily, Italy']	37.587794	14.155048
+['"Aguas con el muro" (2008)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Ainda Bem que Apareceste" (2008)', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Aisleyne" (2008)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Aisleyne" (2008)', '', '', '', '', 'Birmingham, West Midlands, England, UK']	52.4796992	-1.9026911
+['"Aisleyne" (2008)', '', '', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"Aisling\'s Diary" (2008)', '', '', '', 'County Dublin, Ireland']	53.40642945	-6.287101473674747
+['"Ajian sumairu" (2008) {Futari no sausup� - Myanmar yaky� daihy� ch�mu no tatakai}', 'Yangon, Burma']	16.7967129	96.1609916
+['"Akasya duragi" (2008)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Al extremo" (2008)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Album" (2008)', '', '', '', '', '', 'Frederiksberg, Denmark']	55.678016	12.5326186
+['"Album" (2008)', '', '', '', '', '', 'Thyvej, Vanl�se, Copenhagen, Denmark']	55.670249	10.3333283
+['"Alejandro en Coche" (2008)', '', '', '', 'Santiago, Dominican Republic']	19.3286702	-70.9033942
+['"Alfs Welt" (2008)', '', '', '', '', 'Eggendorf, Lower Austria, Austria']	47.8571336	16.3216005
+['"Alive & Kicking, Episode 3: Tamar Cats" (2008)', '', 'Tasmania, Australia']	-42.14220555	146.6723517878467
+['"All Access" (2008)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"All Star Mr & Mrs" (2008) {Christmas Special (#7.9)}', 'The London Studios, Upper Ground, South Bank, Lambeth, London, England, UK']	51.5073219	-0.1276474
+['"All the Comforts" (2008)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"All\'s Faire" (2008)', '', '', '', '', 'South Orange, New Jersey, USA']	40.7474966	-74.2635376
+['"Alles was recht ist" (2008) {Alles was recht ist (#1.1)}', 'Frankfurt am Main, Hessen, Germany']	50.1106444	8.6820917
+['"Alles was recht ist" (2008) {Alles was recht ist (#1.1)}', 'Fulda, Hessen, Germany']	50.5521486	9.676511
+['"Alles was recht ist" (2008) {Die italienische Variante (#1.2)}', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alles was recht ist" (2008) {Die italienische Variante (#1.2)}', 'Fulda, Hessen, Germany']	50.5521486	9.676511
+['"Alles was recht ist" (2008) {Sein oder Nichtsein (#1.4)}', 'Fulda, Hessen, Germany']	50.5521486	9.676511
+['"Alles was recht ist" (2008) {V�ter, T�chter, S�hne (#1.3)}', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alles was recht ist" (2008) {V�ter, T�chter, S�hne (#1.3)}', 'Fulda, Hessen, Germany']	50.5521486	9.676511
+['"Allez � L.A.!" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alma legal" (2008)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Altinger mittendrin" (2008) {(2011-03-04)}', '', 'Kesselhaus, Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Amanda O" (2008)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.40)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.41)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.42)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.43)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.44)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.45)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.46)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.47)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.48)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.49)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.50)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.51)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.52)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.53)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.54)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.55)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.56)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.57)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.58)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.59)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amanda O" (2008) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amantes del caf�" (2008)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amazing Mask" (2008)', '', '', '', '', 'Catalunya, Spain']	41.8523094	1.5745043
+['"Amazon" (2008) {(#1.1)}', '', '', '', 'Apur�mac, Peru']	-6.8699697	-75.0458515
+['"Amazon" (2008) {(#1.1)}', '', '', '', 'Nevado Mismi, Peru']	-15.5169654	-71.6783848
+['"Amazon" (2008) {(#1.2)}', '', '', '', 'Andoas, Peru']	-3.37546155	-76.63961612438942
+['"Amazon" (2008) {(#1.2)}', '', '', '', 'Benjamin Constant, Brazil']	-10.3333333	-53.2
+['"Amazon" (2008) {(#1.2)}', '', '', '', 'Iquitos, Peru']	-3.749365	-73.2444145
+['"Amazon" (2008) {(#1.2)}', '', '', '', 'Wijint, Peru']	-3.1995472	-77.065255
+['"Amazon" (2008) {(#1.3)}', '', '', '', 'Vale do Javari, Amazonas, Brazil']	-10.3333333	-53.2
+['"Amazon" (2008) {(#1.5)}', '', '', '', 'Grota Rica, Amazonas, Brazil']	-22.195243	-46.0918951
+['"Amazon" (2008) {(#1.5)}', '', '', '', 'Manaus, Amazonas, Brazil']	-3.1316333	-59.9825041
+['"Amazon" (2008) {(#1.6)}', '', '', '', 'Altamira, Par�, Brazil']	-10.3333333	-53.2
+['"Amazon" (2008) {Cocaine & Tapioca (#1.4)}', '', 'Mamiraua Reserve, Brazil']	-3.1174633	-64.792745
+['"Amazon" (2008) {Cocaine & Tapioca (#1.4)}', '', 'Tabatinga, Amazonas, Brazil']	-4.2327349	-69.9263372
+['"America" (2008)', '', '', '', '', 'San Angelo, Texas, USA']	31.4648357	-100.4398442
+['"America\'s Best Dance Crew" (2008) {(#1.10)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#1.11)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#1.12)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#1.2)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#1.3)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#1.4)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#1.5)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#1.8)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#1.9)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.11)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.13)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.2)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.3)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.4)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.6)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.7)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.8)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {(#2.9)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {ABDC Regional Finals: The East (#5.2)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {ABDC Regional Finals: The South (#5.1)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {ABDC Regional Finals: The West (#5.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Battle of the Sexes (#3.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Beyonce Challenge (#4.2)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Bollywood Challenge (#4.4)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Britney Spears Challenge (#3.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Champions for Charity (#5.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Crew\'s Choice Challenge (#4.1)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Dance Craze Challenge (#4.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Decades of Dance Challenge (#4.7)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Disco Challenge (#5.7)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Fit Test Challenge (#3.2)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Hip Hop Decathlon and Last Chance Challenge (#3.7)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Hip Hop History Challenge (#1.7)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Hip Hop Nation & Last Chance Challenge (#5.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Illusion Challenge (#3.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Illusion Challenge (#5.9)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Janet Jackson Challenge (#2.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Lady Gaga Challenge (#5.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Martial Arts Challenge (#4.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Music Video Challenge (#5.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Season 2 Finale (#2.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Broadway Challenge (#1.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Finale (#3.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Finale (#5.11)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Live Auditions (#1.1)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Live Auditions (#2.1)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Live Finale (#2.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Live Finale (#4.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Nationals (#5.4)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {The Sudden Death Challenge (#3.1)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Usher Challenge (#5.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {VMA Challenge (#4.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s Best Dance Crew" (2008) {Whack Track Challenge (#3.4)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"America\'s History in the Making" (2008)', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"America\'s Wild Spaces" (2008)', '', '', '', 'Baxter Peak, Mount Katahdin, Baxter State Park, Maine, USA']	46.015724399999996	-68.95469978573749
+['"America\'s Wild Spaces" (2008)', '', '', '', 'Bear Mountain Bridge, New York, USA']	41.31991135	-73.98183540540523
+['"America\'s Wild Spaces" (2008)', '', '', '', 'Blood Mountain, Georgia, USA']	34.7397072	-83.9370174
+['"America\'s Wild Spaces" (2008)', '', '', '', "Clingman's Dome, Great Smoky Mountains National Park - 107 Park Headquarters Road, Gatlinburg, Tennessee, USA"]	35.714259	-83.5101638
+['"America\'s Wild Spaces" (2008)', '', '', '', 'Damascus, Virginia, USA']	36.6337272	-81.7837303
+['"America\'s Wild Spaces" (2008)', '', '', '', "Harper's Ferry, West Virginia, USA"]	39.323418	-77.7319766
+['"America\'s Wild Spaces" (2008)', '', '', '', 'Katahdin Stream Campground, Baxter State Park, Maine, USA']	39.7837304	-100.4458825
+['"America\'s Wild Spaces" (2008)', '', '', '', 'Mount Rogers National Recreation Area, Virginia, USA']	36.7495629	-81.3753846
+['"America\'s Wild Spaces" (2008)', '', '', '', 'Springer Mountain, Georgia, USA']	34.6273115	-84.1935269
+['"America\'s Wild Spaces" (2008)', '', '', '', 'Walisi-Yi Center, Neels Gap, Georgia, USA']	39.7837304	-100.4458825
+['"America\'s Wild Spaces" (2008) {Canyonland}', '', 'Canyonlands National Park, Utah, USA']	38.1666522	-109.984017
+['"American Focus" (2008)', '', '', '', '', 'Englewood, New Jersey, USA']	40.8928771	-73.9726381
+['"American Heart" (2008)', '', '', '', '', 'Winston-Salem, North Carolina, USA']	36.0998131	-80.2440518
+['"American Heart" (2008)', '', '', '', '', 'Yadkinville, North Carolina, USA']	36.1345807	-80.6595079
+['"Amor Comprado" (2008)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"An Aussie Goes Bolly" (2008)', '', '', '', 'India']	22.3511148	78.6677428
+['"An Inconvenient Spoof" (2008)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anarchy for Breakfast" (2008)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Andrew Young Presents" (2008) {Leaving Selma (#4.1)}', 'Selma, Alabama, USA']	32.4078632	-87.0207473
+['"Andrew Young Presents" (2008) {Leaving Selma (#4.1)}', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Animal Academy" (2008)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Animal Academy" (2008)', '', '', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"Animal Cops: Philadelphia" (2008)', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Animal Crackers" (2008)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Animal Witness" (2008)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Animenia" (2008)', '', '', '', '', 'Christchurch, Canterbury, New Zealand']	-43.530955	172.6366455
+['"Animenia" (2008) {Top 11 Anime Openings (#1.1)}', 'Christchurch, Canterbury, New Zealand']	-43.530955	172.6366455
+['"Anjo da Guarda" (2008)', '', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"Anna & Kristina\'s Grocery Bag" (2008)', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {100 Recipes Every Woman Should Know (#4.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {A Good Catch (#2.25)}', 'C Restaurant - 1600 Howe St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {A Good Catch (#2.25)}', 'Campbell River, British Columbia, Canada']	50.023071	-125.2441538
+['"Anna & Kristina\'s Grocery Bag" (2008) {A Good Catch (#2.25)}', 'Fanny Bay Oyster Farm, Union Bay, British Columbia, Canada']	49.5808974	-124.884492
+['"Anna & Kristina\'s Grocery Bag" (2008) {A Good Catch (#2.25)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Absolutely Chocolate (#4.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Alinea (#2.22)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Anna & Kristina\'s Grocery Bag" (2008) {Alinea (#2.22)}', 'Island Bison Ranch, Black Creek, British Columbia, Canada']	51.1252157	-117.4483406
+['"Anna & Kristina\'s Grocery Bag" (2008) {Alinea (#2.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Alinea (#2.22)}', 'West Restaurant, 2881 Granville St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Anthony Bourdain\'s Les Halles Cookbook (#3.22)}', 'Luc - 2800 E Madison, Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Anna & Kristina\'s Grocery Bag" (2008) {Anthony Bourdain\'s Les Halles Cookbook (#3.22)}', "Rover's - 2808 E Madison, Seattle, Washington, USA"]	47.6038321	-122.3300624
+['"Anna & Kristina\'s Grocery Bag" (2008) {Anthony Bourdain\'s Les Halles Cookbook (#3.22)}', 'The International Culinary School at The Art Institute of Vancouver - 609 Granville St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Anthony Bourdain\'s Les Halles Cookbook (#3.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Artisanal Gluten-Free (#4.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Artisanal Gluten-Free (#4.9)}', 'Cloud 9 Specialty Bakery - 1025 Royal Ave., New Westminster, British Columbia, Canada']	49.205728	-122.9108651
+['"Anna & Kristina\'s Grocery Bag" (2008) {Barefoot Contessa (#2.17)}', '99.3 The Fox Radio Station - 700 W Georgia St, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Barefoot Contessa (#2.17)}', 'George Lounge - 1137 Hamilton St, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Barefoot Contessa (#2.17)}', 'Nu Restaurant & Lounge - 1661 Granville St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Barefoot Contessa (#2.17)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Betty Crocker\'s Cookbook (#1.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bite Me (#3.9)}', 'Las Margaritas Restaurant - 1999 W 4th Ave, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bite Me (#3.9)}', 'Mahal Farms - 16551 Westminster Hwy, Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bite Me (#3.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bobby Flay\'s Mesa Grill Cookbook (#3.16)}', 'Cobre Restaurant - 52 Powell St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bobby Flay\'s Mesa Grill Cookbook (#3.16)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bon App�tit, Y\'all (#3.5)}', 'Mansion on Forsyth Park Hotel - 700 Drayton St, Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bon App�tit, Y\'all (#3.5)}', 'Pearson Farm - 5575 Zenith Mills Rd, Fort Valley, Georgia, USA']	32.5537585	-83.8874084
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bon App�tit, Y\'all (#3.5)}', 'Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"Anna & Kristina\'s Grocery Bag" (2008) {Bon App�tit, Y\'all (#3.5)}', 'Sweet Auburn Curb Market - 209 Edgewood Ave SE, Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Anna & Kristina\'s Grocery Bag" (2008) {Campground Cookery (#2.4)}', 'Alouette Lake, Golden Ears Provincial Park, British Columbia, Canada']	49.487882400000004	-122.38530104498244
+['"Anna & Kristina\'s Grocery Bag" (2008) {Campground Cookery (#2.4)}', 'Savary Island Pie Company, 1533 Marine Dr, West Vancouver, British Columbia, Canada']	49.3285551	-123.1576465
+['"Anna & Kristina\'s Grocery Bag" (2008) {Campground Cookery (#2.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Chef Daniel Boulud Cooking in NYC (#2.26)}', 'DB Bistro Moderne - 2551 W Broadway, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Chef Daniel Boulud Cooking in NYC (#2.26)}', 'Daniel Restaurant - 60 E 65th St, New York City, New York, USA']	40.7127281	-74.0060152
+['"Anna & Kristina\'s Grocery Bag" (2008) {Chef Daniel Boulud Cooking in NYC (#2.26)}', 'Lumi�re Restaurant - 2551 W Broadway, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Chef Daniel Boulud Cooking in NYC (#2.26)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Chinese Kitchen (#2.21)}', 'Chen Ling Academy of Dance, #2186 - 3779 Sexsmith Rd, Richmond, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Chinese Kitchen (#2.21)}', 'Chinatown, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Chinese Kitchen (#2.21)}', 'Vancouver International Airport, Sea Island, Richmond, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Chinese Kitchen (#2.21)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Cook with Jamie (#1.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Cowboy in the Kitchen (#2.24)}', "Fred's Texas Caf� - 915 Currie St, Fort Worth, Texas, USA"]	32.753177	-97.3327459
+['"Anna & Kristina\'s Grocery Bag" (2008) {Cowboy in the Kitchen (#2.24)}', 'Stump Lake Ranch, Upper Nicola Valley, British Columbia, Canada']	50.1616711	-120.6741487
+['"Anna & Kristina\'s Grocery Bag" (2008) {Deceptively Delicious (#2.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Diners, Drive-Ins and Dives (#3.2)}', 'Tomahawk Restaurant - 1550 Philip Ave, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Anna & Kristina\'s Grocery Bag" (2008) {Diners, Drive-Ins and Dives (#3.2)}', 'Twilight Drive-In Theatre - 3350 260 St, Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Anna & Kristina\'s Grocery Bag" (2008) {Diners, Drive-Ins and Dives (#3.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Entertaining with Booze (#2.18)}', 'Boneta Restaurant - 1 W Cordova St, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Entertaining with Booze (#2.18)}', 'Cru Restaurant - 1459 W Broadway, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Entertaining with Booze (#2.18)}', 'Mission Hill Estate Winery - 1730 Mission Hill Rd, West Kelowna, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Entertaining with Booze (#2.18)}', 'Vancouver Playhouse, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Entertaining with Booze (#2.18)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Essentials of Italian Cooking (#2.2)}', 'Pisa, Tuscany, Italy']	43.7159395	10.4018624
+['"Anna & Kristina\'s Grocery Bag" (2008) {Essentials of Italian Cooking (#2.2)}', 'Tuscany, Italy']	43.4586541	11.1389204
+['"Anna & Kristina\'s Grocery Bag" (2008) {Essentials of Italian Cooking (#2.2)}', 'Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Everyday Italian (#1.11)}', 'Italy']	42.6384261	12.674297
+['"Anna & Kristina\'s Grocery Bag" (2008) {Everyday Italian (#1.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Fat (#2.14)}', 'Aldor Acres Dairy Centre - 24990 84th Ave, Langley, British Columbia, Canada']	49.106471850000005	-122.5501311568147
+['"Anna & Kristina\'s Grocery Bag" (2008) {Fat (#2.14)}', 'Belgian Fries - 1803 Commercial Dr, Vancouver, British Columbia, Canada']	49.2679231	-123.069879
+['"Anna & Kristina\'s Grocery Bag" (2008) {Fat (#2.14)}', 'Granville Island Public Market, Granville Island, Vancouver, British Columbia, Canada']	49.272487749999996	-123.1351226629414
+['"Anna & Kristina\'s Grocery Bag" (2008) {Fat (#2.14)}', "L'Altro Buca - 1906 Haro St, Vancouver, British Columbia, Canada"]	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Fat (#2.14)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Flexitarian Cooking (#2.19)}', 'Chambar Belgian Restaurant - 562 Beatty St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Flexitarian Cooking (#2.19)}', 'Medina Caf� - 556 Beatty St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Flexitarian Cooking (#2.19)}', 'Pacific Institute of Culinary Arts - 1505 W 2nd Ave, Vancouver, British Columbia, Canada']	49.2698201	-123.1377596
+['"Anna & Kristina\'s Grocery Bag" (2008) {Flexitarian Cooking (#2.19)}', 'Semperviva Yoga Studio, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Flexitarian Cooking (#2.19)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Food & Wine (#3.19)}', 'Eataly Caffe - 200 5th Avenue, Manhattan, New York City, New York, USA']	40.742213	-73.9895802
+['"Anna & Kristina\'s Grocery Bag" (2008) {Food & Wine (#3.19)}', 'Frankies Spuntino - 457 Court St, Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"Anna & Kristina\'s Grocery Bag" (2008) {Food & Wine (#3.19)}', 'Vancouver International Airport, Sea Island, Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Anna & Kristina\'s Grocery Bag" (2008) {Food & Wine (#3.19)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Food Trucks (#4.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Garlic, Garlic, Garlic (#2.11)}', 'Granville Island Public Market, Granville Island, Vancouver, British Columbia, Canada']	49.272487749999996	-123.1351226629414
+['"Anna & Kristina\'s Grocery Bag" (2008) {Garlic, Garlic, Garlic (#2.11)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Anna & Kristina\'s Grocery Bag" (2008) {Garlic, Garlic, Garlic (#2.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Gordon Ramsay\'s Family Fare (#3.11)}', "Higginson's Farm, Sardis, British Columbia, Canada"]	49.1397584	-121.9572611
+['"Anna & Kristina\'s Grocery Bag" (2008) {Gordon Ramsay\'s Family Fare (#3.11)}', "Jackson's Meat and Deli - 2214 W 4th Ave, Vancouver, British Columbia, Canada"]	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Gordon Ramsay\'s Family Fare (#3.11)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Anna & Kristina\'s Grocery Bag" (2008) {Gordon Ramsay\'s Family Fare (#3.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Gourmet Magazine (#2.23)}', "Cioppino's Mediterranean Grill & Enoteca - 1133 Hamilton St, Vancouver, British Columbia, Canada"]	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Gourmet Magazine (#2.23)}', "Fratelli's Authentic Italian Bakery - 1795 Commercial Dr, Vancouver, British Columbia, Canada"]	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Gourmet Magazine (#2.23)}', 'Mission Hill Estate Winery - 1730 Mission Hill Rd, West Kelowna, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Gourmet Magazine (#2.23)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Grand livre de cuisine (#3.7)}', 'Cin Cin Restaurant & Bar - 1154 Robson St, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Grand livre de cuisine (#3.7)}', 'Pastry Training Centre of Vancouver - 818 Renfrew St, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Grand livre de cuisine (#3.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Home Cooking with Trisha Yearwood (#4.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {How to Cook Everything (#3.3)}', 'Blue Water Caf�, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {How to Cook Everything (#3.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {How to Cook Everything (#3.3)}', 'Washington, USA']	38.8948932	-77.0365529
+['"Anna & Kristina\'s Grocery Bag" (2008) {How to Grill (#1.9)}', 'Nat Bailey Stadium, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {How to Grill (#1.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Izakaya: The Japanese Pub Cookbook (#3.21)}', 'Hapa Izakaya - 1193 Hamilton St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Izakaya: The Japanese Pub Cookbook (#3.21)}', 'Kingyo Izakaya - 871 Denman St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Izakaya: The Japanese Pub Cookbook (#3.21)}', "Tojo's Restaurant - 1133 W Broadway, Vancouver, British Columbia, Canada"]	49.2636245	-123.1298503
+['"Anna & Kristina\'s Grocery Bag" (2008) {Izakaya: The Japanese Pub Cookbook (#3.21)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {JamieOliver.com 20 minute meals (#3.25)}', 'Pear Tree Restaurant - 4120 E Hastings St, Burnaby, British Columbia, Canada']	49.2433804	-122.9725459
+['"Anna & Kristina\'s Grocery Bag" (2008) {JamieOliver.com 20 minute meals (#3.25)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Jewish Home Cooking (#2.12)}', "Abigael's on Broadway, 1407 Broadway, New York City, New York, USA"]	40.7127281	-74.0060152
+['"Anna & Kristina\'s Grocery Bag" (2008) {Jewish Home Cooking (#2.12)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Anna & Kristina\'s Grocery Bag" (2008) {Jewish Home Cooking (#2.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Lucinda\'s Authentic Jamaican Kitchen (#3.1)}', 'Kingston 11 Reggae Caf� - 232 Lonsdale Ave, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Anna & Kristina\'s Grocery Bag" (2008) {Lucinda\'s Authentic Jamaican Kitchen (#3.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Mangoes and Curry Leaves (#1.4)}', 'Little India, Vancouver, British Columbia, Canada']	49.0210977	-122.8045694
+['"Anna & Kristina\'s Grocery Bag" (2008) {Mangoes and Curry Leaves (#1.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Marguerite Patten\'s Best British Dishes (#3.14)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Anna & Kristina\'s Grocery Bag" (2008) {Marguerite Patten\'s Best British Dishes (#3.14)}', 'Nutters Restaurant, Edenfield Road, Norden, Rochdale, Greater Manchester, England, UK']	54.7023545	-3.2765753
+['"Anna & Kristina\'s Grocery Bag" (2008) {Marguerite Patten\'s Best British Dishes (#3.14)}', 'Swinton Park Castle, Swinton Park, Masham, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"Anna & Kristina\'s Grocery Bag" (2008) {Martha Stewart Living Christmas Cookbook (#1.12)}', 'Vancouver International Airport, Sea Island, Richmond, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Martha Stewart Living Christmas Cookbook (#1.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Mastering the Art of French Cooking (#1.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Mastering the Art of French Cooking (#1.1)}', 'Windsor Meats - 4110 Main St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Mexican Kitchen (#2.5)}', 'Katatheon Farms, Langley, British Columbia, Canada']	49.106471850000005	-122.5501311568147
+['"Anna & Kristina\'s Grocery Bag" (2008) {Mexican Kitchen (#2.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Mourad, New Moroccan (#4.7)}', 'Marrakech, Morocco']	31.1728205	-7.3362482
+['"Anna & Kristina\'s Grocery Bag" (2008) {My Father\'s Daughter (#3.26)}', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Anna & Kristina\'s Grocery Bag" (2008) {My Father\'s Daughter (#3.26)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {My Pizza (#4.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Food Fast (#1.13)}', 'Burrard Street Bridge, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Food Fast (#1.13)}', 'Diva at the Met, Metropolitan Hotel, 645 Howe St, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Food Fast (#1.13)}', 'Granville Island Public Market, Granville Island, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Food Fast (#1.13)}', "Griffin's Boxing & Fitness, 125 W 1st St, North Vancouver, British Columbia, Canada"]	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Food Fast (#1.13)}', 'Metropolitan Hotel, 645 Howe St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Food Fast (#1.13)}', 'Price Waterhouse Coopers, 250 Howe St, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Food Fast (#1.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Lighthearted (#1.8)}', 'Heart and Stroke Foundation of B.C. & Yukon - 1212 W Broadway, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Lighthearted (#1.8)}', 'North Shore Studios, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Lighthearted (#1.8)}', 'Valley Bakery - 4058 Hastings St, Burnaby, British Columbia, Canada']	49.2809212	-123.0149783
+['"Anna & Kristina\'s Grocery Bag" (2008) {New Lighthearted (#1.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Nigella Express (#2.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Nobu West (#1.6)}', 'Go Fish Seafood Restaurant, 1505 W 1st Ave, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Nobu West (#1.6)}', 'T&T Supermarket, 179 Keefer Pl, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Nobu West (#1.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {O Magazine Cookbook (#2.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Pure Dessert (#1.2)}', 'Jericho Beach, Vancouver, British Columbia, Canada']	49.27298475	-123.19583321324816
+['"Anna & Kristina\'s Grocery Bag" (2008) {Pure Dessert (#1.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Ratio: The Simple Codes Behind the Craft of Everyday Cooking (#3.18)}', 'The Dirty Apron Cooking School - 540 Beatty St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Ratio: The Simple Codes Behind the Craft of Everyday Cooking (#3.18)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Silver Palate (#1.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Small Bites (#2.20)}', 'Jericho Beach, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Small Bites (#2.20)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Sp�cialit�s de la Maison (#3.23)}', 'Gotham Steakhouse - 615 Seymour St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Sp�cialit�s de la Maison (#3.23)}', 'Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna & Kristina\'s Grocery Bag" (2008) {Sp�cialit�s de la Maison (#3.23)}', 'Musso & Frank Grill - 6667 Hollywood Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Anna & Kristina\'s Grocery Bag" (2008) {Sp�cialit�s de la Maison (#3.23)}', 'Vancouver International Airport, Sea Island, Richmond, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Sp�cialit�s de la Maison (#3.23)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Thai Food (#2.10)}', 'Chada Thai Fine Cuisine, 2991 Lougheed Hwy, Coquitlam, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Thai Food (#2.10)}', 'Jugo Juice, Langley, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Thai Food (#2.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Babbo Cookbook (#4.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Best of Croatian Cooking (#3.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Best of Croatian Cooking (#3.13)}', 'Zagreb, Croatia']	45.813177	15.977048
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Best of the Best and More (#2.15)}', 'La Regalade - 2232 Marine Dr, West Vancouver, British Columbia, Canada']	49.3311208	-123.1594791
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Best of the Best and More (#2.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Cake Bible (#2.16)}', 'Bonita Arts - 3632 W 4th Ave, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Cake Bible (#2.16)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Cake Bible (#2.16)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Engine 2 Diet (#4.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Essential P�pin (#4.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Family Meal (#4.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Family Meal (#4.10)}', 'Hawksworth, Rosewood Hotel Georgia - 801 W. Georgia St., Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The French Laundry (#2.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The French Laundry (#2.3)}', 'West Kelowna, British Columbia, Canada']	49.857464	-119.580688
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Joy of Cooking (#2.9)}', "Heppell's Potato Corporation, Surrey, British Columbia, Canada"]	49.1913033	-122.8491439
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Joy of Cooking (#2.9)}', 'Meinhardt Fine Foods, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Joy of Cooking (#2.9)}', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Joy of Cooking (#2.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The New Intercourses (#1.10)}', 'Caf� Pacifica, The Pan Pacific Hotel, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The New Intercourses (#1.10)}', 'Market Meats, 2326 W 4th Ave, Vancouver, British Columbia, Canada']	49.2680982	-123.1581353
+['"Anna & Kristina\'s Grocery Bag" (2008) {The New Intercourses (#1.10)}', 'Vancouver Community College, 250 W Pender St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The New Intercourses (#1.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The New Moosewood Cookbook (#3.6)}', 'Gorilla Food #101 - 436 Richards St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The New Moosewood Cookbook (#3.6)}', 'Granville Island, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The New Moosewood Cookbook (#3.6)}', 'Sobo - 311 Neill St, Tofino, British Columbia, Canada']	49.1518001	-125.9075446
+['"Anna & Kristina\'s Grocery Bag" (2008) {The New Moosewood Cookbook (#3.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Pleasures of Cooking for One (#3.15)}', 'Diva at the Met, Metropolitan Hotel, 645 Howe St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Pleasures of Cooking for One (#3.15)}', 'Granville Island, Vancouver, British Columbia, Canada']	49.270713	-123.1342858
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Pleasures of Cooking for One (#3.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The River Cottage Meat Book (#3.17)}', 'Campagnolo Restaurant - 1020 Main St, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The River Cottage Meat Book (#3.17)}', 'Refuel Neighbourhood Restaurant & Bar - 1944 W 5th Ave, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {The River Cottage Meat Book (#3.17)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Ski House Cookbook (#3.20)}', 'Araxi Restaurant & Bar - 4222 Village Gate Square, Whistler, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Ski House Cookbook (#3.20)}', 'Fairmont Chateau Whistler - 4599 Chateau Blvd, Whistler, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Ski House Cookbook (#3.20)}', 'Whistler, British Columbia, Canada']	50.1171903	-122.9543022
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Skinnygirl Dish (#3.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {The Treasury of Newfoundland Dishes (#4.13)}', 'Trinity, Newfoundland, Newfoundland and Labrador, Canada']	49.12120935	-56.69629621274099
+['"Anna & Kristina\'s Grocery Bag" (2008) {Three Sisters Around the Greek Table (#3.8)}', "Athene's Restaurant - 3618 W Broadway, Vancouver, British Columbia, Canada"]	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Three Sisters Around the Greek Table (#3.8)}', 'Bosa Foods - 1456 Kootenay St, Vancouver, British Columbia, Canada']	49.271357	-123.02755
+['"Anna & Kristina\'s Grocery Bag" (2008) {Three Sisters Around the Greek Table (#3.8)}', 'Granville Island, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna & Kristina\'s Grocery Bag" (2008) {Three Sisters Around the Greek Table (#3.8)}', 'Nu Restaurant & Lounge - 1661 Granville St, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Three Sisters Around the Greek Table (#3.8)}', 'Parthenon Supermarket - 3080 W Broadway, Vancouver, British Columbia, Canada']	49.264314	-123.1735261
+['"Anna & Kristina\'s Grocery Bag" (2008) {Three Sisters Around the Greek Table (#3.8)}', 'Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Where People Feast: An Indigenous People\'s Cookbook (#3.12)}', "'Ksan First Nation Village, Old Hazelton, British Columbia, Canada"]	55.2557941	-127.6758615
+['"Anna & Kristina\'s Grocery Bag" (2008) {Where People Feast: An Indigenous People\'s Cookbook (#3.12)}', 'Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Whitewater Cooks with Friends (#4.12)}', 'Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Anna & Kristina\'s Grocery Bag" (2008) {Whitewater Cooks with Friends (#4.12)}', 'Krause Berry Farm - 6179 248 St., Langley, British Columbia, Canada']	49.106471850000005	-122.5501311568147
+['"Anna & Kristina\'s Grocery Bag" (2008) {Williams-Sonoma Entertaining: Christmas Entertaining (#3.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anna und die Liebe" (2008)', '', '', '', 'Park Studios, Babelsberg, Potsdam, Brandenburg, Germany']	51.0834196	10.4234469
+['"Anna und die Liebe" (2008)', '', '', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"Anna und die Liebe" (2008) {Kein Unfall (#1.227)}', 'Babelsberg, Potsdam, Brandenburg, Germany']	52.3922047	13.108012731196634
+['"Another Sky" (2008)', '', '', '', '', 'Tokyo, Japan']	36.5748441	139.2394179
+['"Another Sky" (2008) {Cha Kat� (#1.242)}', '', 'Singapore, Singapore']	1.357107	103.8194992
+['"Another Sky" (2008) {Kazue Fukiishi (#1.257)}', '', 'Paris, France']	46.603354	1.8883335
+['"Another Sky" (2008) {Tadao Ando (#1.239)}', '', 'Italy']	42.6384261	12.674297
+['"Antarktis - �berwintern im ewigen Eis" (2008)', '', 'Antarctica']	-79.4063075	0.3149312
+['"Anticamera" (2008)', '', '', '', '', 'Buftea Studios, Bucharest, Romania']	45.9852129	24.6859225
+['"Anyone But Me" (2008)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Anytime with Bob Kushell" (2008)', '', '', 'Van Nuys, Los Angeles, California, USA']	34.1866581	-118.448729
+['"Apparitions" (2008)', '', '', '', '', 'Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"Aqu� no hay quien viva" (2008)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.20)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.21)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.22)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.23)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.24)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.25)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.26)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.27)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.28)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.29)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.30)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.31)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.32)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.33)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.34)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.35)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.36)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.37)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.38)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.39)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.4)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.5)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.6)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.7)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.8)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {(#1.9)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� no hay quien viva" (2008) {Aqu� no hay quien viva (#1.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� y all�" (2008)', '', '', '', '', 'China']	35.000074	104.999927
+['"Aqu� y all�" (2008)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aqu� y all�" (2008)', '', '', '', '', 'Thailand']	14.8971921	100.83273
+['"Arag�n. El Viaje Fascinante" (2008)', '', '', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Andorra - Sierra de Arcos - Somontano de Barbastro (#1.4)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Aranda - Hoya de Huesca (#1.15)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Bajo Aragon Caspe - Sobrarbe (#1.6)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Bajo Arag�n - Comunidad de Calatayud (#1.9)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Bajo Cinca - El Maestrazgo (#1.14)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Campo de Belchite - Tarazona y El Moncayo (#1.7)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Cinca Medio - Campo de Borja (#1.12)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Delimitaci�n Comarcal de Zaragoza (#1.17)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {G�dar Javalambre - Alto G�llego (#1.13)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {La Jacetania - Campo de Cari�ena (#1.1)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {La Litera - Jiloca (#1.11)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {La Ribagorza - Comunidad de Teruel (#1.16)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Matarra�a - Los Monegros (#1.5)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Ribera Alta del Ebro - Sierra de Albarrac�n (#1.10)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Riera Baja del Ebro - Campo de Daroca (#1.2)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Arag�n. El Viaje Fascinante" (2008) {Valdejal�n - Cuencas Mineras (#1.3)}', 'Arag�n, Spain']	39.3262345	-4.8380649
+['"Archivo judicial" (2008)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Around 40: Ch�mon no �i onna tachi" (2008)', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Around the World in 80 Gardens" (2008)', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Around the World in 80 Gardens" (2008)', '', '', 'Australia']	-24.7761086	134.755
+['"Around the World in 80 Gardens" (2008)', '', '', 'Brazil']	-10.3333333	-53.2
+['"Around the World in 80 Gardens" (2008)', '', '', 'Chile']	-31.7613365	-71.3187697
+['"Around the World in 80 Gardens" (2008)', '', '', 'China']	35.000074	104.999927
+['"Around the World in 80 Gardens" (2008)', '', '', 'Cuba']	23.0131338	-80.8328748
+['"Around the World in 80 Gardens" (2008)', '', '', 'India']	22.3511148	78.6677428
+['"Around the World in 80 Gardens" (2008)', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Around the World in 80 Gardens" (2008)', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"Around the World in 80 Gardens" (2008)', '', '', 'USA']	39.7837304	-100.4458825
+['"Around the World in 80 Gardens" (2008) {Northern Europe (#1.9)}', 'Rousham House and Gardens, Rousham, Bicester, Oxfordshire, England, UK']	54.7023545	-3.2765753
+['"Around the World in 80 Gardens" (2008) {Northern Europe (#1.9)}', 'Sissinghurst, Kent, England, UK']	51.110055	0.5611322
+['"Arte & Medio" (2008)', '', '', '', '', 'Telesistema, Santo Domingo, Dominican Republic']	18.474807849999998	-69.91564261326931
+['"As for Me & My House" (2008)', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"Asgaard" (2008)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Ashes to Ashes" (2008)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#1.1)}', '', '', 'Silvertown, London, England, UK']	51.5013626	0.0385185
+['"Ashes to Ashes" (2008) {(#1.1)}', '', '', 'Tate Modern, Bankside, Southwark, London, England, UK']	51.507456649999995	-0.09934365539515741
+['"Ashes to Ashes" (2008) {(#1.1)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Ashes to Ashes" (2008) {(#1.2)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Ashes to Ashes" (2008) {(#1.3)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Ashes to Ashes" (2008) {(#1.4)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Ashes to Ashes" (2008) {(#1.5)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Ashes to Ashes" (2008) {(#1.6)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Ashes to Ashes" (2008) {(#1.7)}', '', '', 'Christopher Street, London, England, UK']	51.5213919	-0.0856343
+['"Ashes to Ashes" (2008) {(#1.7)}', '', '', 'Cold Blow Lane, Lewisham, London, England, UK']	51.4804255	-0.0460266
+['"Ashes to Ashes" (2008) {(#1.7)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Ashes to Ashes" (2008) {(#1.8)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Ashes to Ashes" (2008) {(#2.1)}', '', '', 'Hersham, Surrey, England, UK']	51.3655959	-0.3996815
+['"Ashes to Ashes" (2008) {(#2.1)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#2.2)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#2.3)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#2.4)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#2.5)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#2.6)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#2.7)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#2.8)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.1)}', '', '', 'Cold Blow Lane, Lewisham, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.1)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.2)}', '', '', "St John Gate, St John's Lane, Clerkenwell, London, England, UK"]	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.2)}', '', '', 'London Embankment, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.2)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.3)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.4)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.5)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.6)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.7)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ashes to Ashes" (2008) {(#3.8)}', '', '', 'Stockers Farm, Rickmansworth, Hertfordshire, England, UK']	51.62844855	-0.48128485669623955
+['"Ashes to Ashes" (2008) {(#3.8)}', '', '', 'Tower Bridge Business Complex, Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Ask That Guy with the Glasses" (2008)', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Ask Yakar" (2008)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ask-i Memnu" (2008)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ask-i Memnu" (2008) {(#1.1)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ask-i Memnu" (2008) {(#1.2)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ask-i Memnu" (2008) {(#1.3)}', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"At the Concert Hall" (2008)', '', '', '', 'Masonic Temple, Toronto, Ontario, Canada']	43.6730826	-79.38828915261209
+['"At the Concert Hall" (2008) {Johnny Reid (#2.8)}', 'Masonic Temple, Toronto, Ontario, Canada']	43.6730826	-79.38828915261209
+['"Atlanta Homicide" (2008)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Atlanta Homicide" (2008)', '', '', '', 'Shreveport, Louisiana, USA']	32.5221828	-93.7651944
+['"Atlanta Homicide" (2008) {(#1.10)}', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Atom TV" (2008)', '', '', '', '', 'Alhambra, California, USA']	34.093042	-118.12706
+['"Atop the Fourth Wall" (2008) {Diary of AT4W Live!}', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Atop the Fourth Wall" (2008) {Midnight of AT4W Live!}', 'Oxon Hill, Maryland, USA']	38.8035961	-76.9896573
+['"Atop the Fourth Wall" (2008) {Resurrection of AT4W Live!}', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Atop the Fourth Wall" (2008) {Revenge of AT4W Live!}', 'Oxon Hill, Maryland, USA']	38.8035961	-76.9896573
+['"Atop the Fourth Wall" (2008) {Southland Tales}', '', 'Oxon Hill, Maryland, USA']	38.8035961	-76.9896573
+['"Atop the Fourth Wall" (2008) {Southland Tales}', '', 'Glassboro, New Jersey, USA']	39.7027677	-75.1119434
+['"Atracci�n x4" (2008)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atracci�n x4" (2008) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Australia Wide" (2008)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Autograf" (2008)', '', '', '', '', 'DR Byen, Amager, Copenhagen, Denmark']	55.670249	10.3333283
+['"Azis\'s Late Night Show [BG]" (2008)', '', '', 'Bulgaria']	42.6073975	25.4856617
+['"A�cha" (2008) {Job � tout prix (#1.2)}', '', '', 'France']	46.603354	1.8883335
+['"A�cha" (2008) {La grande d�brouille (#1.3)}', '', 'France']	46.603354	1.8883335
+['"A�cha" (2008) {Vacances infernales (#1.4)}', '', "Bassin d'Arcachon, Gironde, France"]	44.8486907	-1.1091873
+['"B&B - Bella y bestia" (2008)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.100)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.101)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.102)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.103)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.104)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.105)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.106)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.107)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.108)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.109)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.110)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.20)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.30)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.31)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.32)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.33)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.34)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.35)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.36)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.37)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.38)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.39)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.40)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.41)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.42)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.43)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.44)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.45)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.46)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.47)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.48)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.49)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.50)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.51)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.52)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.53)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.54)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.55)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.56)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.57)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.58)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.59)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.60)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.61)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.62)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.63)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.64)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.65)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.66)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.67)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.68)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.69)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.70)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.71)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.72)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.73)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.74)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.75)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.76)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.77)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.78)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.79)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.80)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.81)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.82)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.83)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.84)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.85)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.86)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.87)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.88)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.89)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.90)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.91)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.92)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.93)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.94)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.95)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.96)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.97)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.98)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B&B - Bella y bestia" (2008) {(#1.99)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"B-Studio" (2008)', '', '', '', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"B. Boppin\'" (2008)', '', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"B.J. Fletcher: Private Eye" (2008)', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"BBC Scotland Investigates" (2008) {The Dog Factory}', 'Fivemiletown, County Tyrone, Northern Ireland, UK']	54.3784847	-7.3153578
+['"BMX P.I.G." (2008)', '', '', '', '', 'Singapore']	1.357107	103.8194992
+['"Baba ocagi" (2008)', '', '', '', '', 'Yatagan, Mugla, Turkey']	37.352965049999995	28.163844931660055
+['"Baba ocagi" (2008) {(#1.1)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.10)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.11)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.12)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.13)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.14)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.15)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.16)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.17)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.18)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.19)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.2)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.20)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.21)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.22)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.23)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.24)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.25)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.26)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.27)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.28)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.29)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.3)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.30)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.31)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.32)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.33)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.34)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.35)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.36)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.37)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.38)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.39)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.4)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.40)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.41)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.42)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.43)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.44)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.45)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.46)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.47)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.48)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.49)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.5)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.50)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.51)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.52)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.6)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.7)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.8)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Baba ocagi" (2008) {(#1.9)}', '', '', '', 'Mugla, Turkey']	37.1642053	28.2624288
+['"Back on Topps" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Backyard Boomers" (2008)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Bahubali" (2008)', '', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Bandhan" (2008)', '', '', '', '', 'Kolkata, West Bengal, India']	22.54541245	88.3567751581234
+['"Banged Up" (2008)', '', '', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"Barcelona any zero" (2008)', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Basic Up" (2008)', '', '', '', '', 'Saint-Jean-sur-Richelieu, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Batalla de las Americas (Canada Competition)" (2008)', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Battle of the Choirs" (2008)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008)', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008)', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008)', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Green Death (#1.2)}', 'Fernwood Cemetery, Mill Valley, California, USA']	39.7837304	-100.4458825
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Green Death (#1.2)}', 'Golden Gate Bridge, San Francisco, California, USA']	37.8303213	-122.4797496
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Green Death (#1.2)}', 'Golden Gate Park, San Francisco, California, USA']	37.769368099999994	-122.48218371117709
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Green Death (#1.2)}', 'Green Apple Festival, San Francisco, California, USA']	37.7790262	-122.4199061
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Green Death (#1.2)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'Beverly Hills Hotel & Bungalows - 9641 Sunset Blvd., Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'Cafe Du Monde, New Orleans, Louisiana, USA']	29.957561	-90.0618544
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'French Quarter, New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'Hotel Monteleone, New Orleans, Louisiana, USA']	29.954242049999998	-90.06772345000002
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'New Orleans Jazz & Heritage Festival, New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'Old Absinthe House - 240 Bourbon Street, French Quarter, New Orleans, Louisiana, USA']	29.9553574	-90.0684677
+['"Battleground Earth: Ludacris vs. Tommy Lee" (2008) {Raise the Roof (#1.1)}', 'Utopia Night Club, New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Battlestar Galactica: The Face of the Enemy" (2008) {(#1.1)}', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#1.1)}', 'Teupitz, Germany']	52.135986	13.6098424
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#1.1)}', 'Zollbr�cke, Z�ckericker Loose, Oderaue, Brandenburg, Germany']	52.781309	14.174648940060429
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#1.2)}', 'Brandenburg an der Havel, Brandenburg, Germany']	52.4108261	12.5497933
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#1.2)}', 'Hirschfelde, Werneuchen, Brandenburg, Germany']	52.6391187	13.7954692
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#1.2)}', 'Marwitz, Brandenburg, Germany']	52.66353435	13.17709058303804
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#1.2)}', 'Oderbruch, Brandenburg, Germany']	52.7220875	14.275182047787219
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#1.2)}', 'Potsdam, Brandenburg, Germany']	52.4009309	13.0591397
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#1.2)}', 'Zehdenick, Brandenburg, Germany']	52.9794838	13.3348959
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.1)}', 'Klein Leppin, Plattenburg, Brandenburg, Germany']	52.9428567	12.1010919
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.1)}', 'Reichenwalde, Brandenburg, Germany']	52.2659905	13.9981699
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.1)}', 'Ruinenberg, Potsdam, Brandenburg, Germany']	52.4099256	13.0386269
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.1)}', 'Wulkow, Lebus, Brandenburg, Germany']	52.4029043	14.4673222
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.2)}', 'Garten Steinh�fel, Steinh�fel, Brandenburg, Germany']	51.0834196	10.4234469
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.2)}', 'Helenesee, Brandenburg, Germany']	52.270072	14.497920526473688
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.2)}', 'Neue B�hne, Senftenberg, Brandenburg, Germany']	51.500934	14.019658819873113
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.2)}', 'Zoo, Eberswalde, Brandenburg, Germany']	52.82303765	13.782775152067144
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.3)}', 'Flecken Zechlin, Rheinsberg, Brandenburg, Germany']	53.1617615	12.7641498
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.3)}', 'Golm, Potsdam, Brandenburg, Germany']	52.4068318	12.9682671
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.3)}', 'Malz, Oranienburg, Brandenburg, Germany']	52.817305700000006	13.28618118249229
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.3)}', 'M�tzow, Beetzseeheide, Brandenburg, Germany']	52.4917	12.6125
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.3)}', 'Schloss Meyenburg, Meyenburg, Brandenburg, Germany']	53.3162028	12.242548491430398
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.4)}', 'Fleischerei Kowalski, Wachow, Nauen, Brandenburg, Germany']	51.0834196	10.4234469
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.4)}', 'Geltow, Schwielowsee, Brandenburg, Germany']	52.370564900000005	12.962492379091994
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.4)}', 'Ribbeck, Nauen, Brandenburg, Germany']	52.6248186	12.7534965
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.4)}', 'Rosenwinkel, Heiligengrabe, Brandenburg, Germany']	53.0387831	12.361251502103809
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#2.4)}', 'Wublitz, Brandenburg, Germany']	52.43856875	12.948814439488492
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.1)}', 'Gro�er Plessower See, Werder, Brandenburg, Germany']	52.5334548	12.7177745
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.1)}', 'Gut Stolzenhagen, Stolzenhagen, Lunow-Stolzenhagen, Brandenburg, Germany']	52.9282851	14.111356881878391
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.1)}', 'Havelland, Brandenburg, Germany']	52.62431615	12.683960475716061
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.1)}', 'Schorfheide, Brandenburg, Germany']	52.8983156	13.6246791
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.1)}', 'Uckermark, Brandenburg, Germany']	53.2452696	13.915126654729633
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.2)}', 'Beetzsee, Brandenburg, Germany']	52.479531	12.5533692
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.2)}', 'K�nigs Wusterhausen, Brandenburg, Germany']	51.0834196	10.4234469
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.2)}', 'Lychen, Brandenburg, Germany']	53.2083284	13.3164795
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.2)}', 'Schwielowsee, Brandenburg, Germany']	52.3389	12.9722001
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.2)}', 'Staatstheater, Cottbus, Brandenburg, Germany']	51.7567447	14.3357307
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.3)}', 'Bahnitz, Milower Land, Brandenburg, Germany']	52.4940895	12.4036794
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.3)}', 'Ferch am Schwielowsee, Brandenburg, Germany']	52.3079048	12.9129943456804
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.3)}', 'Gudelacksee, Lindow/Mark, Brandenburg, Germany']	52.981037	12.94947815018188
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.3)}', 'Uckermark, Brandenburg, Germany']	53.2452696	13.915126654729633
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.4)}', 'Bohsdorf, Felixsee, Brandenburg, Germany']	51.6239171	14.5403029
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.4)}', 'Felixsee, Brandenburg, Germany']	51.61353645	14.54674804852091
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.4)}', 'Fergitz, Gerswalde, Brandenburg, Germany']	53.1832257	13.8445388
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.4)}', 'Neuruppin, Brandenburg, Germany']	52.9243859	12.8092919
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.4)}', 'Schleuse, Woltersdorf, Brandenburg, Germany']	52.4427413	13.7646229
+['"Bauer sucht Kultur - Unterwegs mit Dieter Moor" (2008) {(#3.4)}', 'Strausberg, Brandenburg, Germany']	52.5814009	13.8833952
+['"Bayreq Shear" (2008)', '', '', '', '', 'Abu Dhabi, United Arab Emirates']	24.0002488	53.9994829
+['"Beat the Star" (2008)', '', '', '', '', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Beautiful People" (2008/I)', '', '', '', 'Crabtree Close, Bushey, Hertfordshire, England, UK']	51.6507432	-0.3582048
+['"Beautiful People" (2008/I)', '', '', '', 'Pinewood Studios, Iver Heath, Buckinghamshire, England, UK']	51.54831515	-0.5346765566753087
+['"Beautiful People" (2008/I) {How I Got My Beads (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beautiful People" (2008/I) {How I Got My Globe (#1.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beautiful People" (2008/I) {How I Got My Groom (#2.1)}', 'South Oxhey, Hertfordshire, England, UK']	51.6248579	-0.3907957
+['"Beautiful People" (2008/I) {How I Got My Nose (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beautiful People" (2008/I) {How I Got My Posh (#1.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beautiful People" (2008/I) {How I Got My Tongs (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beautiful People" (2008/I) {How I Got My Vase (#1.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beautiful People" (2008/I) {How I Got My Water Feature (#2.3)}', 'South Oxhey, Hertfordshire, England, UK']	51.6248579	-0.3907957
+['"Bed of Roses" (2008)', '', '', '', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008)', '', '', '', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008)', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Bed of Roses" (2008) {A Friend in Need (#1.4)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {A Friend in Need (#1.4)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Cat Fight (#3.5)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Cat Fight (#3.5)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Fryberg\'s Folly (#3.6)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Fryberg\'s Folly (#3.6)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Gaaa... aarth (#2.4)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Gaaa... aarth (#2.4)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Goddess of the Rainbow (#2.5)}', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Goddess of the Rainbow (#2.5)}', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Green vs Gold (#2.6)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Green vs Gold (#2.6)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Heartache (#3.10)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Heartache (#3.10)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Insurgent Activity (#3.7)}', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Insurgent Activity (#3.7)}', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Laid Bare (#3.4)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Laid Bare (#3.4)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Mind the Gap (#3.2)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Mind the Gap (#3.2)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Not Worth a Cent (#1.1)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Not Worth a Cent (#1.1)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Over the Rainbow (#1.6)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Rainbow Warriors (#2.2)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Rainbow Warriors (#2.2)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Raucous Angel (#2.8)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Raucous Angel (#2.8)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Reality Check (#1.2)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Reality Check (#1.2)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {The Cockatoo Has Landed (#2.1)}', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {The Cockatoo Has Landed (#2.1)}', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {The Front Page (#2.3)}', '', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {The Front Page (#2.3)}', '', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {The Truth Will Set You Free (#1.5)}', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {The Truth Will Set You Free (#1.5)}', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Things Can Only Get Better (#1.3)}', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Things Can Only Get Better (#1.3)}', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Bed of Roses" (2008) {Two Bulls in the Paddock (#2.7)}', 'Foster, Victoria, Australia']	-38.675444999999996	146.20793282531824
+['"Bed of Roses" (2008) {Two Bulls in the Paddock (#2.7)}', 'Meeniyan, Victoria, Australia']	-38.5789265	146.0140244
+['"Behind the Mask Show: The Story of the US Mercs Paintball Team" (2008)', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Behind the Mask Show: The Story of the US Mercs Paintball Team" (2008)', 'Bridgewater, Massachusetts, USA']	41.9903787	-70.9750426
+['"Behind the Mask Show: The Story of the US Mercs Paintball Team" (2008)', 'Kingston, Massachusetts, USA']	41.9945473	-70.7244822
+['"Behind the Mask Show: The Story of the US Mercs Paintball Team" (2008)', 'Randolph, Massachusetts, USA']	42.1618005	-71.0424838
+['"Behind the Mask Show: The Story of the US Mercs Paintball Team" (2008)', 'Stoughton, Massachusetts, USA']	42.1250995	-71.1022712
+['"Behind the Mask Show: The Story of the US Mercs Paintball Team" (2008)', 'Tampa Bay, Florida, USA']	27.6886419	-82.5723193
+['"Behind the Mask Show: The Story of the US Mercs Paintball Team" (2008)', 'Upton, Massachusetts, USA']	42.1741362	-71.6027788
+['"Behind the Mask Show: The Story of the US Mercs Paintball Team" (2008)', 'Woburn, Massachusetts, USA']	42.4792618	-71.1522766
+['"Beijing 2008: Games of the XXIX Olympiad" (2008)', 'China']	35.000074	104.999927
+['"Beijing 2008: Games of the XXIX Olympiad" (2008) {Closing Ceremony}', 'Beijing National Stadium, Olympic Green, Chaoyang District, Beijing, China']	39.9204498	116.4369109
+['"Being Human" (2008)', '', '', '', '', 'Bristol General Hospital, Bristol, England, UK']	51.4538022	-2.5972985
+['"Being Human" (2008)', '', '', '', '', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"Being Human" (2008)', '', '', '', '', 'Clifton, Bristol, England, UK']	51.4541002	-2.617962473900814
+['"Being Human" (2008)', '', '', '', '', 'Paintworks Studios, Bristol, England, UK']	51.4538022	-2.5972985
+['"Being Human" (2008)', '', '', '', '', 'Redcliffe Caves, Redcliffe Parade, Bristol, England, UK']	51.4538022	-2.5972985
+['"Being Human" (2008)', '', '', '', '', 'Tredegar House, Newport, Wales, UK']	51.561359	-3.0275888
+['"Being Human" (2008)', '', '', '', '', 'Windsor Terrace, Totterdown, Bristol, England, UK']	51.4538022	-2.5972985
+['"Being Human" (2008) {Adam\'s Family (#3.2)}', '', 'Cardiff, South Glamorgan, Wales, UK']	51.39782775	-3.3445699356039755
+['"Being Human" (2008) {Daddy Ghoul (#3.6)}', '', 'Cardiff, South Glamorgan, Wales, UK']	51.39782775	-3.3445699356039755
+['"Being Human" (2008) {Flotsam and Jetsam (#1.1)}', 'Bristol General Hospital, Bristol, England, UK']	51.4538022	-2.5972985
+['"Being Human" (2008) {Flotsam and Jetsam (#1.1)}', 'Totterdown, Bristol, England, UK']	51.4409425	-2.5756487
+['"Being Human" (2008) {Lia (#3.1)}', '', '', 'Cardiff, South Glamorgan, Wales, UK']	51.6076829	-3.4430216
+['"Being Human" (2008) {Pilot (#1.0)}', '', '', 'Bristol General Hospital, Bristol, England, UK']	51.4538022	-2.5972985
+['"Being Human" (2008) {Pilot (#1.0)}', '', '', 'Cheddar Gorge, Cheddar, Somerset, England, UK']	51.2825942	-2.7656541
+['"Being Human" (2008) {Pilot (#1.0)}', '', '', 'Totterdown, Bristol, England, UK']	51.4409425	-2.5756487
+['"Being Human" (2008) {The Longest Day (#3.5)}', '', 'Cardiff, South Glamorgan, Wales, UK']	51.6076829	-3.4430216
+['"Being Human" (2008) {The Pack (#3.4)}', '', '', 'Cardiff, South Glamorgan, Wales, UK']	51.6076829	-3.4430216
+['"Being Human" (2008) {The Wolf-Shaped Bullet (#3.8)}', 'Cardiff, South Glamorgan, Wales, UK']	51.6076829	-3.4430216
+['"Being Human" (2008) {Though the Heavens Fall (#3.7)}', 'Cardiff, South Glamorgan, Wales, UK']	51.6076829	-3.4430216
+['"Being Human" (2008) {Type 4 (#3.3)}', '', '', 'Cardiff, South Glamorgan, Wales, UK']	51.6076829	-3.4430216
+['"Beit Zvi" (2008)', '', '', '', '', 'Beit Zvi, Ramat Gan, Israel']	32.07849605	34.821673149999995
+['"Beit Zvi" (2008)', '', '', '', '', 'Ramat Gan, Israel']	32.0686867	34.8246812
+['"Belle-Baie" (2008)', '', '', '', '', 'Bouctouche, New Brunswick, Canada']	46.4735119	-64.7236147
+['"Belle-Baie" (2008)', '', '', '', '', 'Caraquet, New Brunswick, Canada']	47.8219954	-64.9025987472292
+['"Belle-Baie" (2008)', '', '', '', '', 'Shediac, New Brunswick, Canada']	46.219454	-64.5492146
+['"Ben et Thomas" (2008)', '', '', '', '', 'Clichy, Hauts-de-Seine, France']	48.9026	2.30551
+['"Ben falado!" (2008) {(#1.15)}', '', '', '', 'Burela, Lugo, Galicia, Spain']	43.6587115	-7.3664936
+['"Best Ed" (2008)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beta Records TV" (2008)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Better" (2008)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Betty Bowers: America\'s Best Christian" (2008)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Beijing" (2008)', '', '', '', '', 'Hong Kong, China']	22.2793278	114.1628131
+['"Beyond Beijing" (2008)', '', '', '', '', 'Qing Dao, China']	36.0638034	120.3781372
+['"Beyond Beijing" (2008)', '', '', '', '', 'Qinhuangdao, China']	39.9395724	119.5894129
+['"Beyond Beijing" (2008)', '', '', '', '', 'Shanghai, China']	31.2322758	121.4692071
+['"Beyond Beijing" (2008)', '', '', '', '', 'Shenyang, Liaoning, China']	41.8041094	123.4276363
+['"Beyond Beijing" (2008)', '', '', '', '', 'Tianjin, China']	39.1235635	117.1980785
+['"Bien familiar" (2008)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Big Barn Farm" (2008)', '', '', '', '', 'Maidstone, Kent, England, UK']	51.2474823	0.7105077
+['"Big Brother Israel" (2008)', '', '', '', 'Globus Group Studios, Neve Ilan, Israel']	31.5313113	34.8667654
+['"Big Shot Live" (2008)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big, Bigger, Biggest" (2008) {Train (#3.6)}', '', 'Grosmont Station, Grosmont, North Yorkshire, England, UK']	54.43770875	-0.7189578178428621
+['"Big, Bigger, Biggest" (2008) {Train (#3.6)}', '', 'Pickering Station, Pickering, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"Bigfoot TV" (2008)', '', '', '', '', 'Cebu, Philippines']	12.7503486	122.7312101

@@ -1,0 +1,76 @@
+['"1, 2 oder 3" (1977) {1, 2 oder 3 - Die gro�e Jubil�umsshow}', 'Adlershof, Berlin, Germany']	52.4378932	13.5475496
+['"1977 National League Championship Series" (1977) {Game 1}', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Bunch of Fives" (1977)', '', '', '', 'Ravenscroft Street, Bethnal Green, London, England, UK']	51.5073219	-0.1276474
+['"A Feira" (1977)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Visita da Corn�lia" (1977)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"ABC Weekend Specials" (1977) {Crash the Curiousaurus (#15.4)}', 'Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Weekend Specials" (1977) {Soup for President (#2.6)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"ABC Weekend Specials" (1977) {Tales of the Nunundaga (#1.9)}', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	39.7837304	-100.4458825
+['"ABC Weekend Specials" (1977) {Tales of the Nunundaga (#1.9)}', 'Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"ABC Weekend Specials" (1977) {The Ransom of Red Chief (#1.6)}', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Acomp��ame" (1977)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"America\'s Black Forum" (1977)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'Bolivia']	-17.0568696	-64.9912286
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'Dominica']	19.0974031	-70.3028026
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'Grand Bahama Island, Bahamas']	26.661676200000002	-78.26821392214438
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'Maui, Hawaii, USA']	20.802956799999997	-156.31068331602177
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Amerika oudan urutora kuizu" (1977)', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Animated Conversations" (1977) {Albion (#1.4)}', '', "Old People's Home, England, UK"]	54.7023545	-3.2765753
+['"Animated Conversations" (1977) {Archi-type (#1.5)}', "Architect's Office, England, UK"]	50.9955435	-0.10100875320796802
+['"Animated Conversations" (1977) {Confession of a Foyer Girl (#1.6)}', 'Foyer, Cinema, England, UK']	52.3817943	-1.5634216
+['"Animated Conversations" (1977) {Down and Out (#1.3)}', 'Salvation Army Hostel, England, UK']	54.7023545	-3.2765753
+['"Animated Conversations" (1977) {Hangovers (#1.2)}', 'Bristol, Gloucestershire, England, UK']	51.8527674	-2.2553694
+['"Annemi hatirliyorum" (1977)', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Aspen" (1977)', '', '', '', '', '', 'Aspen, Colorado, USA']	39.1911128	-106.8235606
+['"Au plaisir de Dieu" (1977)', '', '', '', 'Ch�teau de Saint-Fargeau, Saint-Fargeau, Yonne, France']	46.603354	1.8883335
+['"Auf los geht\'s los" (1977) {(1982-03-27)}', '', 'Friedrich-Ebert-Halle, Ludwigshafen, Rhineland-Palatinate, Germany']	49.491414750000004	8.412922089378462
+['"Auf los geht\'s los" (1977) {(1983-10-22)}', '', 'Friedrich-Ebert-Halle, Ludwigshafen, Rhineland-Palatinate, Germany']	49.491414750000004	8.412922089378462
+['"Auf los geht\'s los" (1977) {(1985-01-19)}', '', 'Sporthalle, B�blingen, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Auf los geht\'s los" (1977) {(1985-06-01)}', '', 'Stadthalle, Vienna, Austria']	48.2032371	16.331847
+['"Auf los geht\'s los" (1977) {Aus M�nster (#1.47)}', 'M�nster, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Auf los geht\'s los" (1977) {Sporthalle Linz}', '', 'Sporthalle, Linz, Upper Austria, Austria']	48.2667592	14.25562688713079
+['"Auf los geht\'s los" (1977) {Sporthalle Linz}', '', 'Linz, Upper Austria, Austria']	48.3059078	14.286198
+['"Aventura \'77" (1977)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977)', '', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aventura \'77" (1977) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"BBC2 Play of the Week" (1977) {Langrishe Go Down (#2.1)}', 'Ferrybank, Waterford, Ireland']	52.264444	-7.107778
+['"Baby... I\'m Back!" (1977) {A Day at the Races (#1.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {Beat by a Drum (#1.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {Farewell to Boyish Charm (#1.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {Like Father, Unlike Son (#1.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {Living Proof (#1.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {Olivia\'s Job Offer (#1.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {Pay or Die (#1.2)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {Pilot (#1.0)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {Survival of the Fittest (#1.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {The Confessions of Col. Wallace Dickey (#1.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {The Gospel According to Angie (#1.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {The Loneliest Night of the Week (#1.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baby... I\'m Back!" (1977) {You Bet Your Wife (#1.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bailey\'s Bird" (1977)', '', '', '', '', 'Malaysia']	4.5693754	102.2656823
+['"Beyond Reasonable Doubt" (1977)', '', '', 'Australia']	-24.7761086	134.755
+['"Bigfoot and Wildboy" (1977)', '', '', '', 'The Lot - 1041 N. Formosa Avenue, West Hollywood, California, USA']	34.0923014	-118.3692894

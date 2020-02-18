@@ -1,0 +1,1290 @@
+['"$5 Cover" (2009)', '', '', '', '', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"$5 Cover" (2009) {A New Drummer (#1.1)}', '', 'Tennessee, USA']	35.7730076	-86.2820081
+['"$5 Cover" (2009) {Head Change (#1.2)}', '', '', 'Tennessee, USA']	35.7730076	-86.2820081
+['"$5 Cover" (2009) {Jacked Up and Crying (#1.6)}', '', 'Tennessee, USA']	35.7730076	-86.2820081
+['"$5 Cover" (2009) {Kate and Company (#1.4)}', '', 'Tennessee, USA']	35.7730076	-86.2820081
+['"$5 Cover" (2009) {Memphis Drama (#1.3)}', '', 'Tennessee, USA']	35.7730076	-86.2820081
+['"$5 Cover" (2009) {Skills of the Father (#1.5)}', '', 'Tennessee, USA']	35.7730076	-86.2820081
+['"$5 Cover: Seattle" (2009)', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"\'80s Videos: A to Z" (2009)', '', '', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"\'n Shrink" (2009)', '', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"\'n Shrink" (2009) {Haul from Hell (#1.3)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"1 Girl 5 Gays" (2009)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Burgas, Bulgaria']	42.446600000000004	27.20620689265119
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Ljubljana, Slovenia']	46.0499803	14.5068602
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Medugorje, Bosnia-Herzegovina']	43.1908018	17.6778263
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Mostar, Bosnia-Herzegovina']	43.3416104	17.8030427
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Sarajevo, Bosnia-Herzegovina']	43.8519774	18.3866868
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Shkoder, Albania']	42.2507677	19.595972310041383
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Skopje, Macedonia']	41.9960924	21.4316495
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Tirana, Albania']	41.31588575	19.900912164461147
+['"1-2-3 Istanbul!" (2009)', '', '', '', 'Zagreb, Croatia']	45.813177	15.977048
+['"10 Minute Tales" (2009) {Deep & Crisp & Even (#1.1)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"10 Minute Tales" (2009) {Perfect Day (#1.10)}', '', 'Hackney, London, England, UK']	51.5432402	-0.0493621
+['"10 Minute Tales" (2009) {Statuesque (#1.5)}', '', 'Watford, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"10 Things I Hate About You" (2009)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"10" (2009)', '', '', '', '', '', 'Kuala Lumpur, Malaysia']	3.1516964	101.6942371
+['"100 mexicanos dijieron" (2009)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"1066" (2009)', '', '', '', '', '', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"1066" (2009) {(#1.1)}', '', '', '', '', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"1066" (2009) {The Last Battle (#1.2)}', '', '', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"12th IAAF World Championships in Athletics Berlin 2009" (2009)', 'Olympiastadion, Charlottenburg, Berlin, Germany']	52.5147077	13.239776301622072
+['"13 News This Morning" (2009)', '', '', '', 'Topeka, Kansas, USA']	39.049011	-95.677556
+['"13: Fear Is Real" (2009) {Meet the Mastermind (#1.1)}', 'Louisiana, USA']	39.7837304	-100.4458825
+['"1810" (2009)', '', '', '', '', '', 'Pirque, Chile']	-33.6348808	-70.5729961
+['"2+Leif" (2009)', '', '', '', '', '', 'Kulturbrauerei, Prenzlauer Berg, Berlin, Germany']	52.539321349999994	13.413965534751178
+['"2+Leif" (2009)', '', '', '', '', '', 'Landesvertretung Baden-W�rttemberg, Berlin, Germany']	51.0834196	10.4234469
+['"2+Leif" (2009)', '', '', '', '', '', 'Landesvertretungen Rheinland-Pfalz, Berlin, Germany']	51.0834196	10.4234469
+['"20 a�os de emociones" (2009)', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"20, Geboren op de dag dat de muur viel" (2009)', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"20, Geboren op de dag dat de muur viel" (2009)', '', 'Leipzig, Saxony, Germany']	51.3406321	12.3747329
+['"2009 World Series of Poker" (2009)', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"20Q" (2009)', '', '', '', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"21 Cards" (2009)', '', '', '', '', 'Mystic Lake Casino Hotel, Prior Lake, Minnesota, USA']	44.7308229	-93.473359
+['"219 West" (2009)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"23-F: El d�a m�s dif�cil del Rey" (2009)', '', 'Sabadell, Barcelona, Catalonia, Spain']	41.5421013	2.1138977
+['"3 Fat Guys" (2009)', '', '', '', '', 'Anderson, South Carolina, USA']	34.5258335	-82.652962
+['"30 for 30" (2009) {Brian and the Boz (#2.23)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"30 for 30" (2009) {Hawaiian: The Legend of Eddie Aikau (#2.9)}', "Waimea Bay, North Shore, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"30 for 30" (2009) {Hawaiian: The Legend of Eddie Aikau (#2.9)}', "North Shore, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"30 for 30" (2009) {Hawaiian: The Legend of Eddie Aikau (#2.9)}', "O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"30 for 30" (2009) {Into the Wind (#1.23)}', '', 'Ontario, Canada']	61.0666922	-107.9917071
+['"30 for 30" (2009) {Into the Wind (#1.23)}', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"30 for 30" (2009) {Into the Wind (#1.23)}', '', 'Scarborough, Ontario, Canada']	43.773077	-79.257774
+['"30 for 30" (2009) {Into the Wind (#1.23)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"30 for 30" (2009) {Once Brothers (#1.25)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"30 for 30" (2009) {Once Brothers (#1.25)}', '', 'Serbia']	44.024322850000004	21.07657433209902
+['"30 for 30" (2009) {Once Brothers (#1.25)}', '', 'Zagreb, Croatia']	45.813177	15.977048
+['"30 for 30" (2009) {The \'85 Bears (#3.6)}', '', 'Soldier Field - 425 E. McFetridge Drive, Near South Side, Chicago, Illinois, USA']	41.86245145	-87.61671514704074
+['"30 for 30" (2009) {The U (#1.7)}', '', '', 'Hialeah, Florida, USA']	25.8575963	-80.2781057
+['"30 for 30" (2009) {The U (#1.7)}', '', '', 'Islamorada, Florida, USA']	24.9242995	-80.6278404
+['"30 for 30" (2009) {The U (#1.7)}', '', '', 'Miami Beach, Florida, USA']	25.7929198	-80.1353006
+['"30 for 30" (2009) {The U (#1.7)}', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"30 for 30" (2009) {The U (#1.7)}', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"30 for 30" (2009) {The U (#1.7)}', '', '', 'Tempe, Arizona, USA']	33.4255056	-111.9400125
+['"30 for 30" (2009) {The U (#1.7)}', '', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"30 for 30" (2009) {What Carter Lost (#3.20)}', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"4 Singles" (2009)', '', '', '', '', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"4th and Long" (2009)', '', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"50ToDeath" (2009)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['":30 Seconds" (2009)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Demon\'s Destiny: The Lone Warrior" (2009)', '', 'San Fernando Valley, Los Angeles, California, USA']	34.2148853	-118.4998204
+['"A Few Good Men & Women" (2009)', '', '', '', 'Regina, Saskatchewan, Canada']	50.44876	-104.61731
+['"A Few Good Men & Women" (2009)', '', '', '', 'Saskatoon, Saskatchewan, Canada']	52.131802	-106.660767
+['"A Few Good Men & Women" (2009)', '', '', '', 'Moose Jaw, Saskatchewan, Canada']	50.401515	-105.542908
+['"A Fool\'s Idea" (2009)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fool\'s Idea" (2009) {A Few Moments in the Park (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fool\'s Idea" (2009) {Do Clowns Have to Be Funny? (#1.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fool\'s Idea" (2009) {Jango Edwards on the Shape of Change (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fool\'s Idea" (2009) {What Is Clown? (#1.1)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fool\'s Idea" (2009) {What Is Play? (#1.4)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fool\'s Idea" (2009) {What Is Your Origin Story? (#1.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fool\'s Idea" (2009) {What\'s Your Origin Story? (Part 01) (#2.2)}', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A Fool\'s Idea" (2009) {Who am I? (#2.1)}', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A Fool\'s Idea" (2009) {Why Are People Afraid of Clowns? (#1.8)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Fool\'s Idea" (2009) {Why Do Clowns Wear Big Red Noses? (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Lei e o Crime" (2009)', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Minha Fam�lia" (2009)', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"A Nation in Reserve" (2009)', '', '', '', 'Israel']	31.5313113	34.8667654
+['"A Passion 4Fashion TV" (2009)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"A Passion 4Fashion TV" (2009)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Passion 4Fashion TV" (2009)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Passion 4Fashion TV" (2009)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"A Priest, a Monk and a Rabbi" (2009)', '', '', 'Calgary, Alberta, Canada']	51.0534234	-114.0625892
+['"A Priest, a Monk and a Rabbi" (2009)', '', '', 'Edmonton, Alberta, Canada']	53.535411	-113.507996
+['"A Seat Apart: Reel Reviews" (2009)', '', '', 'Massachusetts, USA']	42.3788774	-72.032366
+['"A Seat Apart: Reel Reviews" (2009)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Vida Privada de Salazar" (2009)', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Woman\'s Story" (2009)', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"A comer con Coca Cola" (2009)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"A escena" (2009) {(#1.12)}', '', '', '', 'Teatre Romea, Barcelona, Catalonia, Spain']	41.3805074	2.1712448
+['"A escena" (2009) {(#1.15)}', '', '', '', "MACBA Museu d'Art Contemporani de Barcelona, Barcelona, Catalonia, Spain"]	41.38309815	2.1667598125184617
+['"A escena" (2009) {(#1.2)}', '', '', '', 'Teatre Lliure, Barcelona, Catalonia, Spain']	41.3704906	2.1574908
+['"A escena" (2009) {(#1.2)}', '', '', '', 'Teatre Romea, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A escena" (2009) {(#1.20)}', '', '', '', 'Nau Ivanow, Barcelona, Catalonia, Spain']	41.420117399999995	2.1899163020338577
+['"A escena" (2009) {(#1.24)}', '', '', '', 'Teatre Romea, Barcelona, Catalonia, Spain']	41.3805074	2.1712448
+['"A escena" (2009) {(#1.24)}', '', '', '', 'Teatre Versus, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A escena" (2009) {(#1.25)}', '', '', '', 'Teatre Nacional de Catalunya, Barcelona, Catalonia, Spain']	41.3999764	2.185709260410055
+['"A escena" (2009) {(#1.27)}', '', '', '', 'Espai Lliure, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A escena" (2009) {(#1.27)}', '', '', '', "L'Auditori, Barcelona, Catalonia, Spain"]	41.3828939	2.1774322
+['"A escena" (2009) {(#1.27)}', '', '', '', 'Sala Beckett, Barcelona, Catalonia, Spain']	41.4093009	2.1608684
+['"A escena" (2009) {(#1.33)}', '', '', '', 'Teatre Coliseum, Barcelona, Catalonia, Spain']	41.3883171	2.1659902027189393
+['"A escena" (2009) {(#1.33)}', '', '', '', 'Teatre del Raval, Barcelona, Catalonia, Spain']	41.3793223	2.1650025
+['"A escena" (2009) {(#1.34)}', '', '', '', 'Casa Fuster, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A escena" (2009) {(#1.40)}', '', '', '', 'Teatre Grec, Barcelona, Catalonia, Spain']	41.3695248	2.1596540427263307
+['"A escena" (2009) {(#1.40)}', '', '', '', 'Teatre Romea, Barcelona, Catalonia, Spain']	41.3805074	2.1712448
+['"A escena" (2009) {(#1.45)}', '', '', '', 'Parque G�ell, Barcelona, Catalonia, Spain']	39.3262345	-4.8380649
+['"A escena" (2009) {(#1.45)}', '', '', '', 'Teatre Romea, Barcelona, Catalonia, Spain']	41.3805074	2.1712448
+['"A escena" (2009) {(#2.23)}', '', '', '', 'La Villarroel, Barcelona, Catalonia, Spain']	41.3845152	2.1573507
+['"A escena" (2009) {(#2.23)}', '', '', '', 'Teatre Romea, Barcelona, Catalonia, Spain']	41.3805074	2.1712448
+['"A escena" (2009) {(#2.28)}', '', '', '', 'Can Felipa, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A escena" (2009) {(#2.4)}', '', '', '', 'Teatre Nacional de Catalunya, Barcelona, Catalonia, Spain']	41.3999764	2.185709260410055
+['"A escena" (2009) {(#2.43)}', '', '', '', 'Teatre Romea, Barcelona, Catalonia, Spain']	41.3805074	2.1712448
+['"A escena" (2009) {(#2.5)}', '', '', '', 'Teatre Lliure, Barcelona, Catalonia, Spain']	41.3704906	2.1574908
+['"A escena" (2009) {(#2.5)}', '', '', '', 'Teatre Poliorama, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A escena" (2009) {(#2.7)}', '', '', '', 'Teatre Lliure, Barcelona, Catalonia, Spain']	41.3704906	2.1574908
+['"A escena" (2009) {(#2.9)}', '', '', '', 'Palau de la M�sica Catalana, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A escena" (2009) {(#2.9)}', '', '', '', 'Teatre Nacional de Catalunya, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"A mi�a famosa familia" (2009)', '', '', '', 'Santiago de Compostela, A Coru�a, Galicia, Spain']	39.3262345	-4.8380649
+['"A tort ou � raison" (2009)', '', '', '', 'Palais de Justice de Bruxelles, place Poelaert, Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"A tort ou � raison" (2009)', '', '', '', 'Parc de Bruxelles, Brussels, Brussels-Capital, Belgium']	50.84459495	4.363653424972298
+['"A tort ou � raison" (2009) {L\'affaire Leila - 1�re partie (#1.1)}', 'RTBF, Boulevard Reyers, Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"A tort ou � raison" (2009) {L\'affaire Leila - 2�me partie (#1.2)}', 'RTBF, Boulevard Reyers, Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"A-List Las Vegas" (2009)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"ACME Saturday Night" (2009)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"ADbc" (2009)', '', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Aaron Stone" (2009)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Above Suspicion" (2009)', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"Above Suspicion" (2009)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {Deadly Intent Part 1 (#3.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {Deadly Intent Part 2 (#3.2)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {Deadly Intent Part 3 (#3.3)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {Deadly Intent Part 3 (#3.3)}', 'St. Pancras Station, St. Pancras, London, England, UK']	51.5327386	-0.1264236
+['"Above Suspicion" (2009) {Deadly Intent Part 3 (#3.3)}', 'Chertsey, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Above Suspicion" (2009) {Part 1 (#1.1)}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {Part 1 (#1.1)}', '', 'Portugal']	40.0332629	-7.8896263
+['"Above Suspicion" (2009) {Part 2 (#1.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Above Suspicion" (2009) {Silent Scream Part 1 (#4.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {Silent Scream Part 2 (#4.2)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {Silent Scream Part 3 (#4.3)}', 'White Waltham Airfield, Westacott Way, White Waltham, Maidenhead, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Above Suspicion" (2009) {Silent Scream Part 3 (#4.3)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {The Red Dahlia: Part 1 (#2.1)}', 'Margate, Kent, England, UK']	51.3894329	1.3821515
+['"Above Suspicion" (2009) {The Red Dahlia: Part 1 (#2.1)}', 'Daily Telegraph, 111 Buckingham Palace Road, London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {The Red Dahlia: Part 1 (#2.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {The Red Dahlia: Part 2 (#2.2)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {The Red Dahlia: Part 2 (#2.2)}', 'Margate, Kent, England, UK']	51.3894329	1.3821515
+['"Above Suspicion" (2009) {The Red Dahlia: Part 2 (#2.2)}', 'Daily Telegraph, 111 Buckingham Palace Road, London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {The Red Dahlia: Part 2 (#2.2)}', 'Dorney Court, Dorney, Buckinghamshire, England, UK']	51.75	-0.75
+['"Above Suspicion" (2009) {The Red Dahlia: Part 3 (#2.3)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Above Suspicion" (2009) {The Red Dahlia: Part 3 (#2.3)}', 'Dorney Court, Dorney, Buckinghamshire, England, UK']	51.502580449999996	-0.6684001569528171
+['"Acompa�antes" (2009)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Acompa�antes" (2009) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Acompa�antes" (2009) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Acompa�antes" (2009) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Acompa�antes" (2009) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Acting School Academy" (2009)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Action sp�ciale douanes" (2009)', '', '', 'Marseille, Bouches-du-Rh�ne, France']	46.603354	1.8883335
+['"Actor\'s Day in LA" (2009) {Actors Day in LA - Beyond Sight (#7.6)}', 'Stella Adler Theatre, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actor\'s Day in LA" (2009) {Actors Day in LA - Bound by Ad (#7.7)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actor\'s Day in LA" (2009) {Actors Day in LA - Cross Training Fitness with Actor David Bianchi (#5.6)}', 'Van Nuys-Sherman Oaks War Memorial Park, Van Nuys, California, USA']	34.1866581	-118.448729
+['"Actor\'s Day in LA" (2009) {Actors Day in LA - George Bettinger Inducted Into Friars Club (#8.1)}', 'Friars Club, New York City, New York, USA']	40.7607932	-73.9725635
+['"Actor\'s Day in LA" (2009) {Actors Day in LA - Magnificent Dunbar Hotel (#7.9)}', 'Los Angeles Theatre - 615 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actor\'s Day in LA" (2009) {Actors Day in LA - Robey Theatre Festival (#7.8)}', 'Los Angeles Theatre - 615 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actor\'s Day in LA" (2009) {Actors Day in LA - The Flag (#7.12)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actor\'s Day in LA" (2009) {Actors Day in LA - The Nutcracker at City of LA Ballet Rehearsal (#7.11)}', 'Red Shield Youth and Community Center, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actor\'s Day in LA" (2009) {Actors Day in LA Visits Food, Sex & Consequence (#5.4)}', 'Two Roads Theatre, Studio City, California, USA']	39.7837304	-100.4458825
+['"Actor\'s Day in LA" (2009) {Actors Day in LA Visits Food, Sex & Consequence (#7.4)}', 'Two Roads Theatre, Studio City, California, USA']	39.7837304	-100.4458825
+['"Actor\'s Day in LA" (2009) {Actors Day in LA at Expressions Unlimited with Bobbie Chance (#7.14)}', 'Expressions Unlimited, Sherman Oaks, California, USA']	34.1508718	-118.4489865
+['"Actor\'s Day in LA" (2009) {Actors Day in LA on Set of Changes in the Mating Strategies of White People (#6.1)}', 'The Lounge Theatre, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actor\'s Day in LA" (2009) {Actors Day in LA with Bob Gebert and Demystifying Magic (#5.8)}', 'Complex Theatre, Hollywood, California, USA']	34.09849365	-118.3242931822943
+['"Actor\'s Day in LA" (2009) {Actors Day in LA with Teen Actor Nicholas Podany at the Actors Co-op in Ah Wilderness! (#5.9)}', 'Crossley Theatre, Hollywood, California, USA']	34.093214	-118.3196124
+['"Actor\'s Day in LA" (2009) {Elements of a TV Pilot Pitch (#4.4)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actor\'s Day in LA" (2009) {James Hong and Peter Hastings in Kung Fu Panda VO Session (#3.3)}', 'Nickelodeon Animation Studio - 231 W Olive Ave, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actor\'s Day in LA" (2009) {Power Morphicon - 2016 - With Ann Marie Crouch as Princess Shayla (#8.2)}', 'Pasadena Convention Center, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Actor\'s Day in LA" (2009) {Set of Six Gun Savior (#4.7)}', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Actor\'s Day in LA" (2009) {Set of Six Gun Savior (#4.7)}', 'Westwood Village, Westwood, Los Angeles, California, USA']	34.0594537	-118.4442462
+['"Actor\'s Day in LA" (2009) {The Last Star (#4.6)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {100th Motivational Chat with John Michael Ferrari and Jaime Kalman (#6.118)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Acting in Style: Third Annual Hollywood BeautyMaker Awards (#6.38)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE - AFIfest a 2013 Flashback with Kurt Kelly (#6.12)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE - AFM a 2013 Flashback, Part 5 (#5.272)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat AFI AFM 2013 Flashback (#6.34)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat AFM a 2013 Flashback, Part 3 (#5.258)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat AFM a 2013 Flashback, Part 4 (#5.261)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat Cheryl Dent and Kurt Kelly (#6.236)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat Halloween Special with Sandro Monetti (#6.206)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat With Lilimar and Laci Kay (#7.49)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with 8mm Band and Julie-Kathleen Langan (#6.23)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Abbie Cobb and Sandro Monetti (#6.66)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Actors and Dancers from Hulu\'s East Los High (#7.85)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Adam Drasin and Ric Drasin (#5.246)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Adilah Barnes and Kurt Kelly (#6.104)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Adrienne Janic and Ric Drasin (#5.222)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Albie Selznick and Ron Brewington (#6.208)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Alina Y. Qiu and Yi Tian (#5.269)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Allison Burnett and Cerris Morgan-Moyer (#5.225)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Amir M. Korangy and Sandro Monetti (#6.186)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Andrea Edwards and Nay Nay Kirby (#7.88)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Andrea Lin and Maurice Dwyane Smith (#7.50)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ann Marie Crouch and Hollywood Bound (#9.4)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Ann P. Meredith and Kurt Kelly (#6.132)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Anna Easteden and Kurt Kelly (#6.115)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Anna Renee and Ric Drasin (#6.51)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Anoush NeVart and Sandro Monetti (#6.130)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Antonio Gellini and Maurice Dwayne Smith (#7.53)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with April Sutton and Kurt Kelly (#6.20)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ariana Sloan and Laci Kay (#5.253)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ariel Fournier and Cerris Morgan-Moyer (#7.20)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Armando Leduc and Christine Harte (#6.145)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Art Vuolo and Kurt Kelly (#6.6)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ashley Cordelia and Kurt Kelly (#5.255)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Autumn Federici and Ron Brewington (#6.47)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Autumn Wendel and Taylor Hay (#6.248)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Aziz Acar, Cemile Suheyla Yaltir and Kurt Kelly (#6.182)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Aziz Acar, Cemile Suheyla Yaltir and Kurt Kelly (#6.182)}', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Actors Entertainment" (2009) {ActorsE Chat with BAFTA Newbies and Sandro Monetti (#6.156)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Barry Brisco and Rich Binning (#7.103)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Becca Flinn, Kate Anthony and Yi Tian (#5.245)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Belinda Gosbee and Sandro Monetti (#6.147)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Bennet Guillory and Ron Brewington (#6.57)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Bernard Hiller and Kurt Kelly (#6.207)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Betsy Hammer and Kurt Kelly (#7.86)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Bill Lee Brown and Ron Brewington (#6.188)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Billy Slaughter and Julie-Kathleen Langan (#6.102)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Bob Petrella and Ron Brewington (#7.7)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Brande Roderick and Steve Nave (#6.122)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Brett Glazer and Katelyn Haynes (#7.42)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Brian Herskowitz and Alexis Nichols (#6.108)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Brian St. August and Roxy Shih (#7.11)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Brian Vermeire and Ric Drasin (#6.170)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Brit Actors in Hollywood with celebrity host Sandro Monetti (#7.78)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with Brooke Newton and Steve Nave (#5.243)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Bruce W. Talamon and Kurt Kelly (#6.9)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with CJ Valleroy and Taylor Hay (#7.82)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with CRSB and Julie-Kathleen Langan (#5.257)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Carl Gilliard and Ron Brewington (#6.235)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Caroline Redekopp and Carl Windom (#8.15)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Cathryn De Prume and Kristina Nikols (#6.226)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ceiri Torjussen and Cerris Morgan-Moyer (#6.181)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Cerdan A. Smith, Carole Gray, and Sonia Harley (#7.51)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Chad Roberts and Laci Kay. (#7.77)}', 'iActing Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Chanel Ryan and Candace Kita (#6.101)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Charles Dennis and Kim Delgado (#5.252)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Charles Fleischer and Ric Drasin (#7.55)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Charles Floyd Johnson and Ron Brewington (#6.199)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Chasia and Cerris Morgan-Moyer (#6.19)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Chelsea Rendon and Kurt Kelly (#6.163)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Cheryl Allison, Carina Rush and Kurt Kelly (#5.221)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Cheryl Texiera and Ric Drasin (#6.201)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Chester Whitmore and Ron Brewington (#6.183)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Chris Devlin and Sydney Silver (#6.41)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Christian Meoli and Sandro Monetti (#6.229)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Christie Philips and Felix Avitia (#7.6)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Christie Philips and John Michael Ferrari (#6.209)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Chrystal Chyna and Katelyn Haynes (#7.41)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Cisco Reyes and Alexis Nichols (#6.62)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Claudette Robinson and Ron Brewington (#6.49)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Coco Blignaut and Judy Echavez (#5.247)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Conrad Goode with Sandro Monetti (#6.195)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Cynthia Quiles and Carlito Windom (#9.3)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Dakota Black and Ron Brewington (#7.8)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Daniel R. Chavez and Julie-Kathleen Langan (#6.76)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Danielle Vasinova and Cerris Morgan-Moyer (#6.107)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Danilo Di Julio and Corianna Di Julio (#6.44)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Danny Hansen and Christine Harte (#6.243)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Danya LaBelle and Laura-Beth Hill (#6.205)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Darren Darnborough and Ron Brewington (#7.83)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with Darren Jacobs and Host Tracey Birdsall (#7.24)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Darris Love and Nay Nay Kirby (#7.10)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with David "Nino" Rodriguez and Kristina Nikols (#7.81)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with David Banks and Alexis Nichols (#6.184)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with David DeSantos and Julie-Kathleen Langan (#6.131)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with David Del Rio and Josh Thrower (#6.204)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with David Rountree and Judith Jones (#7.13)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Dawna Lee Heising and Hall of Fame Broadcaster Ron Brewington (#6.73)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Dayna Lynne North and Kurt Kelly (#6.46)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Debbi Dachinger and Amber Barbell (#7.69)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Denny Randell, Biddy Schippers and Steve Nave (#6.151)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Deon Sams and Gus Langley (#8.19)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Dominic Pace and Ric Drasin (#5.254)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Dominic Polcino and Kurt Kelly (#6.158)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Donielle Artese and Nay Nay Kirby (#6.233)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Donna Dannenfelser and Brenda Epperson (#7.87)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Doug Jeffery and Candace Kita (#6.140)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Doug Klug and Alexis Nichols (#6.105)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Dr. Mable John and Ron Brewington (#6.10)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Dree Paterson and Ron Brewington (#6.103)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Drew Fonteiro and Luella Chavez (#8.12)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Dwan Smith and Laura-Beth Hill (#7.75)}', 'iActing Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with EP McKnight and Kurt Kelly (#6.174)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Edgar Nentwig and Gus Langley (#8.13)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Eme Ikwuakor and Julie-Kathleen Langan (#6.146)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Emrhys Cooper and Sonia Harley (#7.2)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Eric "EZ" Zuley and Brenda Epperson (#7.37)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Eric Karson and Kurt Kelly (#6.99)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Eric Shapiro and Julie-Kathleen Langan (#6.88)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Erika Eleniak and Brenda Epperson (#5.238)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ernest Harden Jr and Ron Brewington (#5.279)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ernest L. Thomas and Ron Brewington (#6.87)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Eugenia Kuzmina and Ric Drasin (#5.228)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with European Actors in Hollywood with Celebrity Host Sandro Monetti (#7.79)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with Ewan Chung and Sandro Monetti (#5.259)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Felton Perry and Kurt Kelly}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Francisco Ordonez, Rene Rosado and Judy Echavez (#5.256)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Frank Gerrish and Cerris Morgan-Moyer (#5.119)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Fred Stoller and Alexis Nichols (#6.11)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Fred Williamson and Steve Nave (#5.277)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Fritz Coleman and Ric Drasin (#6.172)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Fylicia Renee King and Kurt Kelly (#6.138)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Gabriel Lemus and Gus Langley (#8.20)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Gary Catona and Sandro Monetti (#6.3)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Gary Marsh and Kristina Nikols (#7.74)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with Gayl Murphy and Ron Brewington (#6.90)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with George Pennacchio and Ron Brewington (#6.155)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Giovanni Ortegam, David Leathers, and Kristina Nikols (#6.223)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Gloria Hendry and Steve Nave (#6.14)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Golda Berkman and Pepper Jay (#6.54)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Gus Langley and Luella Chavez (#8.21)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with H.B. Barnum and Ron Brewington (#6.159)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Hal Masonberg and Host Cerris Morgan-Moyer (#6.160)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Hattie Winston and Ron Brewington (#6.100)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Henry G. Sanders and Ron Brewington (#7.4)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Hollywood Bound (#6.106)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Horror Equity Fund and Pepper Jay (#6.241)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ian Foxx and Kurt Kelly (#6.196)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Iona Morris and Ron Brewington (#6.32)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jack Topalian and Kim Delgado (#6.177)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jaclyn Betham and Pritesh Shah (#5.270)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jamee Natella and Kurt Kelly (#6.169)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with James Wilder and Judith Jones (#7.68)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jaswant Dev Shrestha and Yi Tian (#5.241)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jay Giannone and Yi Tian (#5.251)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jeff Manabat and Kurt Kelly (#6.117)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jeff Olm and Kurt Kelly (#5.365)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jeffrey Jones and Kurt Kelly (#6.225)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jerome Courshon and Joe Sabatino (#7.63)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jill Jaress and Ric Drasin (#5.242)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jim Lujan and Kurt Kelly (#6.129)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jim Newport and Judith Jones (#6.96)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Joe Delano and Carlito Windom (#9.2)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Joe Holt and Cerris Morgan-Moyer (#6.165)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Joe Sabatino and Peter Onorati}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Joel Denver and Kurt Kelly (#7.14)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Joel Eisenberg and Kristina Nikols (#7.64)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Joey Luthman and Laci Kay (#7.60)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John "Sly" Wilson and Ron Brewington (#7.89)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John Jack Rodgers, Milton Justice, Tim McNeil and Host Kurt Kelly (#6.60)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John Lacy, Paul Bond, and Cerris Morgan-Moyer (#7.32)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John Mawson and Brenda Epperson (#7.90)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John Michael Ferrari and Julie-Kathleen Langan (#7.19)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John Michael Ferrari and Ric Drasin (#6.227)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John Michal Ferrari and Christie Philips (#6.180)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John Pirkis and Sandro Monetti (#6.83)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with John Wesley and Ron Brewington (#7.17)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jon Lindstrom and Brenda Epperson (#6.116)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Jonathan Trent and Josh Thrower (#6.239)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Justin Dzuban and Christine Harte (#6.125)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Karen Dezelle and Kim Estes (#5.234)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Karen Kolkey and Pepper Jay (#6.135)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kari R. Taylor and Nay Nay Kirby (#7.70)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kat Kramer, Karen Sharpe Kramer, and Sandro Monetti (#6.56)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kathleen Bradley and Ron Brewington (#6.123)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kathleen Gati and Kurt Kelly (#6.203)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Katia Nicole and Laci Kay (#5.231)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Katy Haber and Sandro Monetti (#6.61)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kayla Tabish and Kurt Kelly (#6.237)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kayley Stallings and Alexis Nichols (#6.161)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ken Mora and Julie-Kathleen Langan (#6.127)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kerri Kasem and Kurt Kelly (#7.35)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kim Delgado and Pepper Jay (#6.55)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kimberley Kates and Sandro Monetti (#7.40)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kosmond Russell and Julie-Kathleen Langan (#7.34)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kristina Hughes and Kurt Kelly (#6.154)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kristine Mirelle and Ron Brewington (#6.2)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kurt Kelly AFM a 2012 Flashback (#5.233)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Kurt Kelly AFM a 2012 Flashback, Part 2 (#5.248)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with LaFaye Baker and Ron Brewington (#7.31)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with LaMonica Garrett and Reggie Watkins (#6.247)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with LaQuita Cleare, Emily Dell, and Ratana (#7.12)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with LaRita Shelby and Kim Estes (#6.27)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Laura Diaz and Kurt Kelly (#7.84)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with Laurel Harris and Kurt Kelly (#5.244)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lauren Shaw and Laura-Beth Hill (#7.57)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lea Marie and Sandro Monetti (#5.240)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lee Bailey and Ron Brewington}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lee Boek and Ron Brewington}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lela Brown and Laci Kay (#7.71)}', 'iActing Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Leon Isaac Kennedy and Ron Brewington (#7.3)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Leron Gubler and Brenda Epperson (#6.112)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lillie Claire and Kurt Kelly (#5.267)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Linda Kruse and Kurt Kelly (#5.249)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lisa Caprelli and Kurt Kelly (#7.39)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lisa Gold and Cerris Morgan-Moyer (#5.282)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lisa Harris, Blake Adams, and Cerris Morgan-Moyer (#7.28)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lisa Mouhibian and Kim Estes}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lisa Richards, Sylva Kelegian and Cerris Morgan-Moyer (#6.218)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Logan Kibens, Dawn Davis, and Cerris Morgan-Moyer (#6.86)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lorraine Ziff and Ric Drasin (#6.193)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lynn Manning and Ron Brewington (#6.133)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Lynne Moody and Steve Nave (#5.237)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Macklen Makhloghi and Kurt Kelly (#6.202)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Maggie Egan and Kim Delgado (#6.120)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Maggie and Ric Drasin (#6.50)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Malachi Cohen and Laci Kay (#7.26)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Malana Lea and John Michael Ferrari (#5.224)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Mandalynn Carlson and Judith Jones (#6.43)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Marc Cashman and Kurt Kelly (#6.215)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Marc Graue and Kurt Kelly (#6.173)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Mariah I. Wilson and Nay Nay Kirby (#6.234)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Marie Pizano and Kurt Kelly (#6.124)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Mark Riccardi and Kim Delgado (#7.25)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Mark Valinsky and Yi Tian (#5.278)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Marla Gibbs and Pepper Jay (#6.16)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Marneen Lynne Fields and Maurice Dwayne Smith (#5.264)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Marneen Lynne Fields and Stacia Trehus (#9.1)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Martin Kove, Jesse Kove, Ryan Koehn and Kurt Kelly (#6.8)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Mary Stein and Kim Delgado (#6.30)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Mary Willard and Sandro Monetti (#6.190)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Matt Godecker, and Christopher John Fetherolf (#6.178)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Matt Riedy and Julie-Kathleen Langan (#6.164)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Matthew Jacob Wayne and Sydney Silver (#6.136)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Matthew Jaeger (#8.1)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Matthew Knowles and Judith Jones (#7.54)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Matthew Solomon and Laci Kay (#7.67)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Matthew Ziff and Kurt Kelly (#6.187)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Max Decker and Joe Sabatino (#6.37)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Melissa English and Kurt Kelly (#6.148)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Meredith Majors, Allie Jorgen, and Christie Philips (#6.162)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Michael Ajakwe Jr and Roxy Shih (#6.1)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Michael Colyar and Sonia Harley (#6.221)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Michael Dorn and Kurt Kelly (#6.75)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Michael Grant and Kurt Kelly (#6.7)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Michael Phillip Edwards and Brenda Epperson (#7.33)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Michael Villani and Reggie Watkins (#6.194)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Miguel Pinzon and Pepper Jay (#6.141)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Minnie Foxx (#8.2)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Miss Peggi Blu and Ric Drasin (#5.271)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Mitch Hara and Julie-Kathleen Langan (#7.9)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Moe Irvin and Cerris Morgan-Moyer (#6.171)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Monica Horan and Cerris Morgan-Moyer (#6.40)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Moniqua Plante and Ric Drasin (#6.232)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Monique Carmona and Kim Estes (#5.235)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Monty Geer and Taylor Hay (#6.167)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Nadia Sahari and Carl Bray (#7.66)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Nancy Renee, Nancy Cheryll Davis, and Ron Brewington (#7.38)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Narcissist and Ric Drasin (#6.93)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Nay Nay Kirby and John Michael Ferrari (#7.5)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Nay Nay Kirby and Laci Kay (#6.214)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Neil Dickson and Cerris Morgan-Moyer (#7.65)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Neil Johnson and Tracey Birdsall (#7.15)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Nick Stabile and Julie-Kathleen Langan (#6.113)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Nikhil Pai, Erika Soto and Kristina Nikols (#6.31)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Nina Rausch and Kurt Kelly (#6.217)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Norby Walters and Julie-Kathleen Langan (#5.262)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Norvell Ji\'Floyd (#8.3)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Obba Babatund� and Nay Nay Kirby (#6.240)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Omowale Akintunde and Ron Brewington (#7.18)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with P.J. Ochlan, Amy Rubinate and Cerris Morgan-Moyer (#6.67)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Pamela Jaye Smith and Ron Brewington (#7.73)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with Pat Patterson and Kurt Kelly (#7.45)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Patrick Faucette and Cerris Morgan-Moyer (#6.48)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Patrick Kilpatrick and Alexis Nichols (#6.82)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Paul Sampson and Kurt Kelly (#6.119)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Paul Tirado and Christine Harte (#6.110)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Paul Vinson and Ric Drasin (#6.238)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Peggy A. Blow and Cerris Morgan-Moyer (#6.35)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Pepper Jay and John Michael Ferrari (#6.222)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Peter Hodge and Steve Nave (#6.95)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Peter O\'Meara and Judith Jones (#6.69)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rachel Fulginiti and Cerris Morgan-Moyer (#6.97)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Raffi Mauro and Ron Brewington (#6.176)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rajeev Dassani and Julie-Kathleen Langan (#2.12)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rajeev Dassani and Julie-Kathleen Langan (#6.212)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ramon De Ocampo, Terrell Tilford and Brenda Epperson (#6.144)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Randy Thomas and Kurt Kelly (#6.200)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Randy Thomas and Kurt Kelly (#6.200)}', 'Florida, USA']	27.7567667	-81.4639835
+['"Actors Entertainment" (2009) {ActorsE Chat with Ray Parker Jr and Ron Brewington (#6.21)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ray Parker Jr and Ron Brewington (#6.22)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rebecca Davis and Ratana (#7.46)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rene Heger and Laura-Beth Hill (#6.179)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Reuven Bar Yotam and Judith Jones (#6.98)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Richard Epcar and Kurt Kelly (#7.30)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Richard Ryan and Ron Brewington (#7.48)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rick Najera and Kurt Kelly (#6.85)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rigan Machado and Chiristie Philips (#6.28)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rob Steinberg and Pepper Jay (#5.260)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Robby Robinson and Julie-Kathleen Langan (#6.81)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Robin Riker and Kristina Nikols (#6.142)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rodney Saulsberry and Kurt Kelly (#7.72)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {ActorsE Chat with Rodney Saulsberry and Ron Brewington (#6.65)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ron Becks (#7.105)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Ron Pritchard and Christie Philips (#7.59)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Rosey Grier and Ron Brewington (#6.150)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Roxy Shih and Josh Thrower (#7.23)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ruth Connell and Ron Brewington (#6.230)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Ruth McCartney, Angie McCartney and Christine Harte (#6.18)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Said Faraj and Brenda Epperson (#7.61)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sally Kirkland and Sandro Monetti (#6.42)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Salvador Carrasco and Ron Brewington (#7.44)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sam Scarber and Steve Nave (#6.189)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Samuel Gonzalez Jr and Julie-Kathleen Langan (#6.52)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sandro Monetti and Julie-Kathleen Langan (#6.68)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sandro Monetti and Summer Watson (#5.273)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sandy Simmons and Kurt Kelly (#5.281)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sanny van Heteren and Kurt Kelly (#5.250)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sarah Lynn Dawson and Sandro Monetti (#6.249)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Savannah Lathem and Kurt Kelly (#6.197)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Saye Yabandeh and Christie Philips (#6.77)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Scott Takeda and Brenda Epperson (#6.64)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sean Kanan and Brenda Epperson (#6.5)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Semi Anthony and Kristina Nikols (#6.245)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Shadoe Stevens and Kurt Kelly (#6.33)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Shane Drasin and Ric Drasin (#5.232)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sharna Burgess and Yi Tian (#5.268)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Shaun Royer and Ric Drasin (#7.76)}', 'iActing Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Shelley Fisher and Ric Drasin (#6.137)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Skyler Caleb, Meg Cionni, Steve Moulton, Ben Shelton and Cerris Morgan-Moyer (#6.45)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sloan Robinson and Ratana (#7.36)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Snehal Desai, Marilyn Tokuda and Kurt Kelly (#6.109)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Solara Key with John Michael Ferrari (#6.128)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Solomon King and Christine Harte (#6.17)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sophia Doumani and Brenda Epperson (#6.149)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Sophia Santi and Kim Delgado (#7.21)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Stephen Aaron Grey and Corianna Di Julio (#6.191)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Stephen Aaron Grey and Corianna Di Julio (#6.191)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Actors Entertainment" (2009) {ActorsE Chat with Stevie Wright and John Michael Ferrari (#5.230)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Stogie Kenyatta and Kurt Kelly (#6.198)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Super Model/Rapper/Actor Sam Sarpong and Teen Host/Artist/Actress Laci Kay (#6.231)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Susan Santiago and Brenda Epperson (#7.22)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Sy Richardson and Ron Brewington (#6.211)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tammi Mac with Ron Brewington (#7.43)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tanya Hart and Kurt Kelly (#6.13)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tara-Nicole Azarian and Host Laci Kay (#6.242)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Taylor Hay and Kurt Kelly (#6.228)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Ted Lange and Ron Brewington (#6.70)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Terry Berland and Kurt Kelly (#6.134)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Thesy Surface and Sandro Monetti (#6.152)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tim Cummings and Cerris Morgan-Moyer (#5.227)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tito Rogers and Cerris Morgan-Moyer (#7.52)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tom Lawless and Kurt Kelly (#6.143)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tom Tangen and Sonia Harley (#7.62)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Toni Malone and Kurt Kelly (#6.210)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tony Cornelius and Ron Brewington (#6.246)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tony Forsmark and Morgen James Weaver. (#8.16)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Tony Todd and Pepper Jay (#7.27)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tonya Watts and Steve Nave (#6.4)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tracey Birdsall and Ric Drasin (#6.219)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tracy Melchior and Brenda Epperson (#6.111)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Trae Ireland and Kristina Nikols (#6.244)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Tributes to Steve Nave (#7.58)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Ty Parker, Cody Sullivan and Katelyn Haynes (#5.226)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Vic Cohen and Sydney Peca Cohen (#8.14)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Vinicius Machado and Kurt Kelly (#7.47)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Vivian Kerr and Kurt Kelly (#6.216)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Walker Haynes and Julie-Kathleen Langan (#6.220)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Wayne Cotter and Cerris Morgan-Moyer (#6.126)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Wendy Alane Wright and Cerris Morgan-Moyer (#6.91)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Will Roberts and Breanne Silvi (#6.213)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with William L. Johnson and Ron Brewington (#6.139)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Willie Tyler and Lester with Ron Brewington (#7.56)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Wren T Brown and Kurt Kelly (#6.26)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Yannus Sufandi and Ric Drasin (#7.80)}', 'iActing Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {ActorsE Chat with Yutaka Takeuchi, Hiro Matsunaga, Daisuke Suzuki, and Kristina Nikols (#5.223)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Yves Bright and Steve Nave (#6.78)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with Yvette Araujo (#8.5)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {ActorsE Chat with Zina Fernandez and Kim Delgado (#7.1)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with cast of An Evening with Gary Lineker and Sandro Monetti (#6.89)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat with the Toscars Knobraska Team Members (#6.29)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE Chat: Joe Sabatino/Rico Simonini}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Actors Entertainment" (2009) {ActorsE Chat: John Michael Ferrari/Danika Quinn/Mary Jo Gruber}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Actors Entertainment" (2009) {ActorsE Chat: John Michael Ferrari/Judith Jones/Stuart Brazell}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Actors Entertainment" (2009) {ActorsE Chat: John Michael Ferrari/Mary Jo Gruber/Veronica Barriaga}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Actors Entertainment" (2009) {ActorsE Chat: Marta McGonagle/Simona Fusco}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Actors Entertainment" (2009) {ActorsE Chat: Rebecca Holden/Kevin Sasaki}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Actors Entertainment" (2009) {ActorsE chat with Kiko Ellsworth and Steve Nave (#3.368)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {ActorsE: AFM 2013 Flashback #6 with Host Kurt Kelly (#5.280)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Actorse Chat: Kim Estes/Lindsay Seim/Yi Tian}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Brian Vermeire (#1.202)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Johnny Short - Street Performer (#6.72)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Johnny Short - The Problem Is (#6.71)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Johnny Shorts - I Have to Ask My Mom (#7.91)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Johnny Shorts - I Have to Ask My Mom}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Johnny Shorts - Teen Angel (#7.92)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {Models Best Friend with Erin Carufel and John Michael Ferrari (#6.15)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {Models Best Friend with Photographer Rachel Kelemen and Teen Actors (#7.16)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {Models Best Friend: Kerri Kasem and Sam Sarpong (#5.206)}', 'FilmCity Studios, Canoga Park, California, USA']	34.2010776	-118.5978259
+['"Actors Entertainment" (2009) {Motivational Chat with Alison Burmeister and Jaime Kalman}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Cathy Alessandra and Jaime Kalman (#6.25)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Christie Myers Pierce, Anthony Ballard and Jaime Kalman (#6.53)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Daniel Puder and Julie-Kathleen Langan (#5.263)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Danny Pardo and John Michael Ferrari (#6.84)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Daryl Mooney, Dwayne Mooney, and Brenda Epperson (#6.36)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Debbie Zipp and Molly Cheek and Brenda Epperson (#6.74)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Dr. Michael Adamse and Pepper Jay (#8.11)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {Motivational Chat with Jaime Kalman, John Michael Ferrari, and Natalia Nunn (#6.153)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Juanita Beth Morgan and John Michael Ferrari (#5.236)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Lissa Coffee (#7.107)}', 'iActing Studios, Burbank, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {Motivational Chat with Lynda Malerstein and Jaime Kalman (#6.94)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Lynne Velling and John Michael Ferrari (#7.29)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Marjean Holden and Host John Michael Ferrari (#7.108)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {Motivational Chat with Marjean Holden and Host John Michael Ferrari (#7.108)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {Motivational Chat with Maureen Tepedino and Jaime Kalman (#6.224)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Melanie Mar and Ric Drasin (#6.114)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Michele Benzamin-Miki (#7.106)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Munni Irone and Pepper Jay (#8.9)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {Motivational Chat with Natalie Lander and Jaime Kalman (#6.175)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Rebecca Crownover and Brenda Epperson (#6.24)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Rosalyn Kahn and Pepper Jay (#8.10)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {Motivational Chat with Shahram Shiva and Kim Estes (#6.157)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Motivational Chat with Vish Iyer and Brenda Epperson (#6.58)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music - Chrystal Chyna (#7.93)}', 'Barbara Morrison Performing Arts Center, 4305 Degnan Blvd #101, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music - Craig Wayne Boyd (#7.100)}', 'Sunset Station Hotel & Casino, Henderson, Nevada, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {Sidebeat Music - Dave Gibson (#7.102)}', 'Pepper Jay Productions, Pahrump, Nevada, USA']	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {Sidebeat Music - Give the Band a Hand (#6.80)}', '443 South Los Angeles Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music - Give the Band a Hand 2 (#8.6)}', 'Downtown, Los Angeles, California, USA']	34.4987133	-118.5843067
+['"Actors Entertainment" (2009) {Sidebeat Music - Jesaiah Baer (#7.95)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {Sidebeat Music - Jimmie Bush Jr. (#7.97)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Actors Entertainment" (2009) {Sidebeat Music - Laci Kay the Italian Dutchess (#8.7)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Actors Entertainment" (2009) {Sidebeat Music - Larissa Lam (#7.96)}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {Sidebeat Music - Lucky Harmon}', 'iActing Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"Actors Entertainment" (2009) {Sidebeat Music - Randy Dorman (#7.99)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music - Rapper Jaronie (#7.94)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music - Sonia Harley (#7.98)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music - Vince Neil\'s Tatuado Wild Life Tavern Opening (#7.101)}', "Vince Neil's Tatuado Wild Life Tavern, Pahrump, Nevada, USA"]	36.2083012	-115.9839128
+['"Actors Entertainment" (2009) {Sidebeat Music with Barbara Morrison and Kristina Nikols (#6.121)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music with Jacnique and Laura-Beth Hill (#6.59)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music with Jacques de Groot and Laura-Beth Hill (#6.63)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music with Maria Elena Infantino (#5.239)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music with Michael Danchi (#6.79)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Entertainment" (2009) {Sidebeat Music: Rock Metal Music Photographer Jeremy Saffer (#5.229)}', 'Photo Flm Stage, Glendale, California, USA']	34.1469416	-118.2478471
+['"Actors Entertainment" (2009) {Thespian Thoughts: Erica Mer on Free, a Floating Theatre Attraction (#3.27)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Bill Duke (#7.3)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Donny Boaz (#5.7)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Ed Begley Jr. (#6.5)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Jeremiah Grossman, Professional HACKER (#6.7)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Ken Davitian (#6.3)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Martin Kove (#6.1)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Obba Babatund� (#6.9)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Rosey Grier (#6.6)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Sonny Marinelli (#6.4)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors Reporter Interviews" (2009) {Exclusive Interview with Timothy V. Murphy (#6.2)}', 'Pepper Jay Productions, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actors" (2009)', '', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Act�vate con las Evelyns" (2009)', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Acusados" (2009)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Adictos" (2009)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Adult Learners" (2009)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Adventure Chefs" (2009)', '', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"Adventure Chefs" (2009)', '', '', '', 'North Carolina, USA']	35.6729639	-79.0392919
+['"Agrotis monos psahnei..." (2009)', '', '', 'Greece']	38.9953683	21.9877132
+['"Ah, c\'�tait �a la vie!" (2009)', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Ah, c\'�tait �a la vie!" (2009)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"AhornTV" (2009)', '', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Ai qing gong yu" (2009)', '', '', '', 'Shanghai, China']	35.000074	104.999927
+['"Aidan 5" (2009)', '', '', '', '', 'Columbus, Ohio, USA']	39.9622601	-83.0007065
+['"Aile Reisi" (2009)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ailiseu" (2009) {(#1.1)}', '', '', '', 'Seoul, South Korea']	36.5581914	127.9408564
+['"Ailiseu" (2009) {(#1.1)}', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Ailiseu" (2009) {(#1.1)}', '', '', '', 'Lake Balaton, Hungary']	46.8836527	17.846663499449168
+['"Ailiseu" (2009) {(#1.2)}', '', '', '', 'Seoul, South Korea']	36.5581914	127.9408564
+['"Ailiseu" (2009) {(#1.3)}', '', '', '', 'Seoul, South Korea']	36.5581914	127.9408564
+['"Ailiseu" (2009) {(#1.3)}', '', '', '', 'Akita, Japan']	39.6898802	140.342608
+['"Ailiseu" (2009) {(#1.4)}', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Ailiseu" (2009) {(#1.4)}', '', '', '', 'Lake Balaton, Hungary']	46.8836527	17.846663499449168
+['"Ailiseu" (2009) {(#1.5)}', '', '', '', 'Budapest, Hungary']	47.1817585	19.5060937
+['"Ailiseu" (2009) {(#1.6)}', '', '', '', 'Akita, Japan']	39.6898802	140.342608
+['"Ailiseu" (2009) {(#1.7)}', '', '', '', 'Akita, Japan']	39.6898802	140.342608
+['"Ailiseu" (2009) {(#1.8)}', '', '', '', 'Shanghai, China']	31.2322758	121.4692071
+['"Ailiseu" (2009) {(#1.8)}', '', '', '', 'Akita, Japan']	39.6898802	140.342608
+['"Ailiseu" (2009) {(#1.9)}', '', '', '', 'Shanghai, China']	35.000074	104.999927
+['"Ailiseu" (2009) {(#2.1)}', '', '', '', 'Angkor Wat, Siem Reap, Cambodia']	13.41249965	103.86656937305514
+['"Ailiseu" (2009) {(#2.10)}', '', '', '', 'Akita, Japan']	39.6898802	140.342608
+['"Ailiseu" (2009) {(#2.11)}', '', '', '', 'Akita, Japan']	39.6898802	140.342608
+['"Ailiseu" (2009) {(#2.2)}', '', '', '', 'Angkor Wat, Siem Reap, Cambodia']	13.41249965	103.86656937305514
+['"Ailiseu" (2009) {(#2.2)}', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Ailiseu" (2009) {(#2.3)}', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Ailiseu" (2009) {(#2.4)}', '', '', '', 'Angkor Wat, Siem Reap, Cambodia']	13.41249965	103.86656937305514
+['"Ailiseu" (2009) {(#2.4)}', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Ailiseu" (2009) {(#2.6)}', '', '', '', 'Akita, Japan']	36.5748441	139.2394179
+['"Ailiseu" (2009) {(#2.7)}', '', '', '', 'Akita, Japan']	36.5748441	139.2394179
+['"Ailiseu" (2009) {(#2.8)}', '', '', '', 'Akita, Japan']	36.5748441	139.2394179
+['"Ailiseu" (2009) {(#2.9)}', '', '', '', 'Akita, Japan']	36.5748441	139.2394179
+['"Air Mata Cinta" (2009)', '', '', '', '', 'Jakarta, Indonesia']	-6.1753942	106.827183
+['"Al di l� del lago" (2009)', '', '', '', 'Lago del Turano, Lazio, Italy']	42.2066189	12.968786423621276
+['"Al di l� del lago" (2009)', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Al di l� del lago" (2009)', '', '', '', 'S. Oreste, Lazio, Italy']	42.6384261	12.674297
+['"Alan Carr: Chatty Man" (2009)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Alan Carr: Chatty Man" (2009) {(#7.1)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Alaska State Troopers" (2009) {Trail of Blood (#5.1)}', 'Fairbanks, Alaska, USA']	64.837845	-147.716675
+['"Alfredo Tomato" (2009)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alguien a qui�n querer" (2009)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Ali Reza and the Rezas" (2009)', '', '', '', 'Oslo, Norway']	59.9133301	10.7389701
+['"Alice" (2009)', '', '', '', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Alice" (2009)', '', '', '', '', '', 'Kamloops, British Columbia, Canada']	50.6758269	-120.3394159
+['"Alice" (2009)', '', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Alisa - Folge deinem Herzen" (2009)', '', '', 'Fernsehzentrum Babelsberg, August-Bebel-Stra�e 26-53, Babelsberg, Potsdam, Brandenburg, Germany']	51.0834196	10.4234469
+['"Alisa - Folge deinem Herzen" (2009)', '', '', 'Werder, Brandenburg, Germany']	52.5334548	12.7177745
+['"All 4 Adventure" (2009) {(#3.1)}', '', '', 'Lorella Springs Wilderness Park, Northern Territory, Australia']	-15.72083	135.64056
+['"All 4 Adventure" (2009) {(#8.1)}', '', '', 'Maralinga, South Australia, Australia']	-30.1592656	131.5787244
+['"All 4 Adventure" (2009) {(#8.10)}', '', '', 'Montebello Islands, Western Australia, Australia']	-20.3994137	115.57367311428573
+['"All 4 Adventure" (2009) {(#8.9)}', '', '', 'Ningaloo Marine Park, Western Australia, Australia']	-22.61481715	113.53760000925683
+['"All 4our One" (2009)', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"All About Eve" (2009)', '', '', '', '', 'Metro Manila, Philippines']	14.5736108	121.0329706
+['"All About Eve" (2009)', '', '', '', '', 'Singapore']	1.357107	103.8194992
+['"All About Jack" (2009) {Suddenly Single (#1.1)}', 'Ballarat, Victoria, Australia']	-37.5622632	143.8607215
+['"All Worked Up" (2009) {Dog Day Afternoon (#4.1)}', '44 Berry Street, Brooklyn, New York City, New York, USA']	40.7210578	-73.9565712
+['"All the Small Things" (2009) {(#1.6)}', '', '', 'Royal Exchange Theatre, Manchester, Greater Manchester, England, UK']	53.4825249	-2.2448237
+['"AllaKattan!" (2009)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alma Indomable" (2009)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Almohadazo" (2009)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Aloha!" (2009)', '', '', '', '', '', 'Bremen, Copenhagen, Denmark']	55.6765464	12.5610248
+['"Alone in the Wild" (2009)', '', '', '', 'Yukon, Canada']	63.000147	-136.002502
+['"Alta Defini��o" (2009)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Always Good News" (2009)', '', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Amanpour." (2009)', '', '', '', '', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"American Contestant with Bob Odenkirk" (2009)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Diner" (2009)', '', '', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"American Loggers" (2009)', '', '', '', 'Maine, USA']	45.709097	-68.8590201
+['"American Ninja Warrior" (2009) {(#3.9)}', '', 'Japan']	36.5748441	139.2394179
+['"Amigos del volante" (2009)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos del volante" (2009) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos del volante" (2009) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos del volante" (2009) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Among the Apes" (2009)', '', '', '', '', 'Borneo']	1.42965855	114.74059919809318
+['"Among the Apes" (2009)', '', '', '', '', 'Tanzania']	-6.5247123	35.7878438
+['"Among the Apes" (2009)', '', '', '', '', 'Uganda']	1.5333554	32.2166578
+['"Amores de luna 2: Nuevos caminos" (2009)', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Anacostia" (2009)', '', '', '', '', 'Alexandria, Virginia, USA']	38.8147596	-77.09024765272724
+['"Anacostia" (2009)', '', '', '', '', 'Columbia, Maryland, USA']	39.2156213	-76.8582049
+['"Anacostia" (2009)', '', '', '', '', 'Oxon Hill, Maryland, USA']	38.8035961	-76.9896573
+['"Anacostia" (2009)', '', '', '', '', 'Upper Marlboro, Maryland, USA']	38.8165274	-76.7519753
+['"Anacostia" (2009)', '', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Anacostia" (2009) {Why Me? (Part I) (#5.2)}', '', 'Washington, DC, USA']	38.8948932	-77.0365529
+['"Anacostia" (2009) {Why Me? (Part I) (#5.2)}', '', 'Bowie, Maryland, USA']	38.9429659	-76.731234
+['"Anacostia" (2009) {Why Me? (Part I) (#5.2)}', '', 'Gaithersburg, Maryland, USA']	39.1434406	-77.2013705
+['"Anacostia" (2009) {Why Me? (Part I) (#5.2)}', '', 'New Haven, Connecticut, USA']	41.3082138	-72.9250518
+['"Anatomy of a Takedown" (2009) {The Washington Sniper (#1.1)}', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Ancients Behaving Badly" (2009)', '', '', 'Italy']	42.6384261	12.674297
+['"Andrew Marr\'s The Making of Modern Britain" (2009) {The Great War (#1.3)}', 'Kilmainham Jail, Dublin, County Dublin, Ireland']	53.34174585	-6.309578660652412
+['"Angular: Una experiencia universitaria" (2009)', '', 'Guadalajara, Jalisco, Mexico']	20.6720375	-103.3383962
+['"Aniela" (2009)', '', '', '', '', '', 'Romania']	45.9852129	24.6859225
+['"Aniela" (2009)', '', '', '', '', '', 'MediaPro Studios, Bucharest, Romania']	45.9852129	24.6859225
+['"Animal Planet\'s Most Outrageous" (2009)', '', 'Del Mar, California, USA']	32.9594891	-117.2653146
+['"Animal Planet\'s Most Outrageous" (2009) {Animal Competitions}', 'Del Mar Thoroughbred Club - 2260 Jimmy Durante Boulevard, Del Mar, California, USA']	32.9594891	-117.2653146
+['"Animales sueltos" (2009)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2009-05-19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2009-09-15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2009-09-22)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2010-03-29)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2010-05-17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2010-06-03)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2011-03-01)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2012-03-05)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2012-04-05)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2012-07-13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2012-10-22)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2012-11-06)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2012-12-07)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-04-24)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-05-08)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-05-28)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-06-04)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-06-12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-08-15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-08-30)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-09-13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-09-17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-09-24)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-10-31)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2013-12-19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2014-04-22)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2014-04-30)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2015-02-25)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2015-02-27)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2015-03-04)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2015-03-31)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2015-08-20)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2016-08-21)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animales sueltos" (2009) {(2016-12-10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animation Lookback" (2009) {Pixar Animation Studios Part 1 (#5.1)}', 'Walt Disney World, Lake Buena Vista, Florida, USA']	28.38034955	-81.5297578369267
+['"Animation Lookback" (2009) {Pixar Animation Studios Part 2 (#5.3)}', 'Walt Disney World, Lake Buena Vista, Florida, USA']	28.38034955	-81.5297578369267
+['"Animation Lookback" (2009) {Pixar Animation Studios Part 6 (#5.7)}', 'Walt Disney World, Lake Buena Vista, Florida, USA']	28.38034955	-81.5297578369267
+['"Anime towazu katari" (2009)', '', '', '', 'Tokyo, Japan']	36.5748441	139.2394179
+['"AnimeCons TV" (2009) {100th Episode (#6.5)}', '', 'Adequate Studios West, Petaluma, California, USA']	38.270022	-122.60612241304348
+['"AnimeCons TV" (2009) {50th Episode (#5.3)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {AOD 2014 (#6.6)}', '', '', 'Burlingame, California, USA']	37.5841026	-122.3660825
+['"AnimeCons TV" (2009) {Anime Expo 2014 (#6.27)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"AnimeCons TV" (2009) {April 2010 (#2.4)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {April 2011: Zenkaikon and Putting on Wigs (#3.4)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {April 2012: Programming for Mature Attendees and Our First Conventions (#4.4)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {April 2013 Feedback (#5.16)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {April/May 2009 (#1.4)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {August 2009 (#1.7)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {August 2010 (#2.8)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {August 2011: ConnectiCon 2011 and Getting There by Plane (#3.8)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {August 2012: ConnectiCon, Don\'t Be That Guy, and Our Biggest Fan (#4.8)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Balancing Real Life and Conventions (#5.7)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Big Wow ComicFest 2014 (#6.21)}', 'San Jose, California, USA']	37.3361905	-121.8905833
+['"AnimeCons TV" (2009) {December 2009 (#1.11)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {December 2009 (#1.11)}', '', 'Nashua, New Hampshire, USA']	42.7653662	-71.467566
+['"AnimeCons TV" (2009) {December 2009 (#1.11)}', '', 'Colchester, Vermont, USA']	44.5360015	-73.2058402
+['"AnimeCons TV" (2009) {December 2010 (#2.12)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {December 2011: Roland Kelts and the Year in Review (#3.12)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {December 2012: Nekocon, Bakuretsu Con, and 2012 Year in Review (#4.12)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Fall Kraken Con 2014 (#6.39)}', 'Oakland, California, USA']	37.8044557	-122.2713563
+['"AnimeCons TV" (2009) {February 2009 (#1.2)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {February 2010 (#2.2)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {February 2011: The Future of Anime Conventions (#3.2)}', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {February 2012: FanCons.com and an AWO Interview (#4.2)}', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {February 2013 Feedback (#5.8)}', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {February 2014 Feedback (#6.8)}', 'Adequate Studios West, Petaluma, California, USA']	38.270022	-122.60612241304348
+['"AnimeCons TV" (2009) {Finding Conventions Near You (#6.15)}', 'Adequate Studios West, Petaluma, California, USA']	38.270022	-122.60612241304348
+['"AnimeCons TV" (2009) {Frederik L. Schodt Interview (#6.7)}', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"AnimeCons TV" (2009) {Funimation Goes After a Con with Bootlegs (#5.15)}', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {Gallifrey One 2013 (#5.10)}', 'Adequate Studios, Newton, Massachusetts, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {Gallifrey One 2014 (#6.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"AnimeCons TV" (2009) {January 2009 (#1.1)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {January 2010 (#2.1)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {January 2011: Ten Largest Anime Cons of 2010 and Amy Howard Wilson (#3.1)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {January 2012: Ten Largest Anime Cons of 2011 and Geoff Tebbetts (#4.1)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {January 2013 Feedback (#5.4)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {July 2009 (#1.6)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {July 2010 (#2.7)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {July 2011: PortConMaine 2011 and Brian Brushwood (#3.7)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {July 2011: PortConMaine 2011 and Brian Brushwood (#3.7)}', 'South Portland, Maine, USA']	43.6414716	-70.2408811
+['"AnimeCons TV" (2009) {July 2012: AnimeNEXT, PortConMaine, and Con Plague (#4.7)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {June 2009 (#1.5)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {June 2010 (#2.6)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {June 2011: Hatsune Miku, Tom Wayland, and Cosplay (#3.6)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {June 2012: Programming for Grown-Ups, Boston\'s Matsuri, and Cosplay Groups (#4.6)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Katsucon 2013 (#5.9)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {March 2009 (#1.3)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {March 2010 (#2.3)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {March 2011: Cosplay Drama and Panel Scheduling (#3.3)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {March 2012: Katsucon 2012, Handling Press, and Versus! (#4.3)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {March 2013 Feedback (#5.12)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {May 2010 (#2.5)}', '', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {May 2011: Anime Boston 2011 and FUNimation (#3.5)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {May 2012: Anime Boston\'s Tenth Year and Coloring Eyebrows for Cosplay (#4.5)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Mystery Science Podcast 4000 (#5.13)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Nerdtacular 2014 (#6.29)}', 'Snowbird, Utah, USA']	40.5810571	-111.6567989
+['"AnimeCons TV" (2009) {November 2009 (#1.10)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {November 2010 (#2.11)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {November 2011: Blizzcon 2011 and Charles Dunbar (#3.11)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {November 2012: Mike Toole, Meeting Guests, and the Off Season (#4.11)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {October 2009 (#1.9)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {October 2010 (#2.10)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {October 2011: J. Michael Tatum and Tips for Buying a Wig (#3.10)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {October 2012: Ed Chavez, Cosplay Procrastination, and Apps at Cons (#4.10)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Otakon 2014 (#6.33)}', '', 'Baltimore, Maryland, USA']	39.7837304	-100.4458825
+['"AnimeCons TV" (2009) {Otakon Vegas 2014 (#6.3)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"AnimeCons TV" (2009) {PortConMaine 2014 (#6.25)}', 'South Portland, Maine, USA']	43.6414716	-70.2408811
+['"AnimeCons TV" (2009) {Prop Talk with Sculpey (#5.6)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Prop Talk with Worbla (#5.11)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {SNAFU Con 2014 (#6.41)}', '', 'Grand Sierra Resort - 2500 East 2nd Street, Reno, Nevada, USA']	39.523489850000004	-119.77890752989296
+['"AnimeCons TV" (2009) {SacAnime Winter 2014 (#6.2)}', 'TWiT Brickhouse, 140 Keller Street, Petaluma, California, USA']	38.270022	-122.60612241304348
+['"AnimeCons TV" (2009) {SacAnime Winter 2014 (#6.2)}', 'Sacramento, California, USA']	38.5815719	-121.4943996
+['"AnimeCons TV" (2009) {September 2010 (#2.9)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {September 2011: Otakon 2011 and Jim Kaposztas (#3.9)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {September 2012: AnimeIowa, Otakon, and Gathering Feedback (#4.9)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Spring Kraken Con 2014 (#6.14)}', 'Oakland, California, USA']	37.8044557	-122.2713563
+['"AnimeCons TV" (2009) {Submitting Conventions to AnimeCons.Com and FanCons.Com (#5.5)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Ten Largest Anime Conventions of 2012 (#5.1)}', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"AnimeCons TV" (2009) {Tony Oliver Interview (#6.35)}', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"AnimeCons TV" (2009) {Zenkaikon 2013 (#5.14)}', '', 'Adequate Studios, Newton, Massachusetts, USA']	42.3370414	-71.2092214
+['"Anna & Kristina\'s Beauty Call" (2009)', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Antiarte" (2009)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antiarte" (2009) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antiarte" (2009) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antiarte" (2009) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Apartment for Eight" (2009)', '', '', '', 'Huntington Beach, California, USA']	33.6783336	-118.0000166
+['"Apnea" (2009)', '', '', '', '', '', 'Acquario di Genova, Genova, Liguria, Italy']	44.410144450000004	8.926290593034352
+['"Aqu� no hay quien viva" (2009)', '', '', '', 'Santiago, Chile']	-33.4377968	-70.6504451
+['"Arbor Live!" (2009)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arbor Live!" (2009)', '', '', '', '', 'Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"Arbor Live!" (2009)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Arbor Live!" (2009)', '', '', '', '', 'Winnipeg, Manitoba, Canada']	49.8955367	-97.1384584
+['"Archer" (2009)', '', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Archer" (2009)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Arga snickaren" (2009) {Adde har sv�rt att sl�nga saker (#6.10)}', 'Olofstorp, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anders fixar ett fungerande hem (#7.8)}', 'Boxholm, �sterg�tlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anders f�r Uppsala-par att ta nya tag (#7.3)}', 'Uppsala, Uppsala l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anders ger Per-Arne hantverkstips (#6.3)}', 'G�vle, G�vleborgs l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anders hj�lper familj i Sandviken (#7.6)}', 'Sandviken, G�vleborgs l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anders hj�lper familj med flera problem (#6.7)}', 'Sandviken, G�vleborgs l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anders hj�lper fruset par i Uppsala (#7.1)}', 'Uppsala, Uppsala l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anders tampas med svamp och farlig el (#2.1)}', 'J�rf�lla, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anders tar sig an ett stormigt par (#3.11)}', 'V�ster�s, V�stmanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Anna och Miklas f�rh�llande �r i fara (#6.12)}', 'Ingmars�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Benny och Anna �r tr�tta p� sitt kaos (#1.4)}', 'Rimbo, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Bj�rn och familjen lever i st�ndigt kaos (#3.1)}', 'Vaxholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Bygget har helt avstannat (#10.10)}', 'Farsta, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Byggfirman skapade kaos (#9.7)}', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Byggkaos i lyxvilla p� Bj�rk� (#7.2)}', 'Bj�rk�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {B�da sjuka och pengarna slut (#9.10)}', 'Kinna, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Carina i Vallentuna (#11.4)}', 'Vallentuna, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Carina och Katarina b�rjar bli desperata (#6.6)}', 'Tungelsta, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Christell och Stefan fick fly fr�n m�gel (#6.11)}', 'Vagnh�rad, S�dermanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Dr�mhuset ger Sofia & Nicklas �ngest (#1.5)}', 'Sundbyberg, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {En gammal lada i �lberga (#10.4)}', '�kersberga, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Ett inferno av of�rdiga projekt (#12.2)}', '�sterhaninge, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Ett solklart fall f�r Anders (#12.6)}', 'Huddinge, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Familj hotas av personlig konkurs (#7.5)}', 'Mariefred, S�dermanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Familjen bor i ett skal (#12.8)}', 'Olofstorp, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Familjen bor i m�gliga baracker (#8.2)}', 'Arholma, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {F�rs�ker bygga klart efter pappans d�d (#10.5)}', 'Svarts�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Glenn och Marias byggkonflikt (#7.9)}', 'Huddinge, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Gona �r fast i sitt eget hus (#5.2)}', 'V�ster�s, V�stmanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Henrik och Linda har tappat orken (#3.9)}', 'Skultuna, V�stmanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Hj�lp i n�den (#12.3)}', '', 'Norrt�lje, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Huset brann ner (#8.3)}', 'Fj�rdhundra, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Huset brann ner (#8.3)}', 'Fj�rdhundra, Uppsala l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Huset g�r snart inte att r�dda (#9.8)}', 'Saltsj�-Boo, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Huset m�ste saneras (#10.6)}', 'Eker�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Huset �r fallf�rdigt (#9.4)}', 'Bergshamra, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {H�starna har det b�ttre �n familjen (#12.7)}', 'V�sterhaninge, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Ingela och Ove (#9.2)}', '', '�kersberga, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Jan & Lorina (#1.2)}', '', '�kersberga, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Janina & Fredrik k�pte grisen i s�cken (#4.4)}', '�kersberga, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Jenny & Peters situation blir outh�rdlig (#4.6)}', 'Skultuna, V�stmanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Jenny och J�rgen (#11.8)}', 'Hallstavik, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Johan och �sa med barn bor p� 12 kvm (#6.8)}', 'Almunge, Uppsala l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Jon och Helena lever utan varmvatten (#6.5)}', 'Sk�ne l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Kan Johan verkligen lita p� Anders? (#6.4)}', 'Tallkrogen, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Kaos i handelstr�dg�rden (#9.1)}', '�sbro, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Kaos i handelstr�dg�rden (#9.1)}', '�sbro, �rebro l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Karin och Conny k�pte en riktig nitlott (#3.7)}', 'Stigtomta, S�dermanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Klas och Carolina har renoverat i 6 �r (#6.9)}', '�lvsj�, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Linda bor i en enda renoveringsr�ra (#2.3)}', 'V�ster�s, V�stmanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Linda och Jonas hus sjunker (#8.4)}', '�rby, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Linda och Jonas hus sjunker (#8.4)}', '�rby, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Maj och Robert bor i en enda stor r�ra (#3.2)}', 'S�dert�lje, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Mamma och d�ttrar f�r hj�lp (#10.7)}', 'Huddinge, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Maria har tr�ttnat rej�lt p� sin situation (#2.6)}', 'S�dermalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Morgan �r n�ra ett nervsammanbrott (#7.7)}', 'Ingmars�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Mycket st�r p� spel f�r Max (#8.6)}', 'Haninge, Sweden']	58.90266925	18.454672677008574
+['"Arga snickaren" (2009) {Nadja sk�ms �ver sin l�genhet (#3.10)}', 'Lilla Essingen, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Orken tog slut (#10.8)}', 'Tyres�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Par har tagit sig vatten �ver huvudet (#5.3)}', 'Sandviken, G�vleborgs l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Paret gr�lar och bygget st�r still (#10.2)}', '�re, J�mtlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Paret prioriterar fel saker (#5.9)}', 'Ingar�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Patrik lever p� kall mat och utan k�k (#4.9)}', '�sthammar, Uppsala l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Renovering med l�cka (#11.3)}', 'R�nninge, Salem, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Renoveringen orsakade skilsm�ssa (#5.6)}', 'V�ster�s, V�stmanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Renoveringen orsakade skilsm�ssa (#5.7)}', 'V�ster�s, V�stmanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Ryggproblem stoppade renovering (#9.9)}', 'Huddinge, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {R�dd att sonen far illa (#9.5)}', 'Fotsk�l, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Stora renoveringsbehov (#11.2)}', 'Almunge, Uppsala l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Tappat all lust, ork och energi (#10.3)}', '�lvsj�, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Tina och Robert (#11.7)}', 'G�l�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Tio �r utan att bli klar (#10.1)}', 'Sigtuna, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Toaletten i vardagsrummet (#9.6)}', 'Ingar�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {Utan tv�ttstuga i Eskilstuna (#11.1)}', 'Eskilstuna, S�dermanlands l�n, Sweden']	59.6749712	14.5208584
+['"Arga snickaren" (2009) {�ngest av sitt of�rdiga hus (#8.5)}', 'Almunge, Sweden']	59.8773068	18.0461233
+['"Arga snickaren" (2009) {�verm�ktigt projekt (#11.5)}', 'Sorunda, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Argenmex" (2009)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Around the World for Free" (2009)', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Around the World for Free" (2009)', '', '', 'Cambodia']	13.5066394	104.869423
+['"Around the World for Free" (2009)', '', '', 'India']	22.3511148	78.6677428
+['"Around the World for Free" (2009)', '', '', 'Italy']	42.6384261	12.674297
+['"Around the World for Free" (2009)', '', '', 'Japan']	36.5748441	139.2394179
+['"Around the World for Free" (2009)', '', '', 'Kenya']	1.4419683	38.4313975
+['"Around the World for Free" (2009)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Around the World for Free" (2009)', '', '', 'Peru']	-6.8699697	-75.0458515
+['"Around the World for Free" (2009)', '', '', 'South Africa']	-28.8166236	24.991639
+['"Around the World for Free" (2009)', '', '', 'Thailand']	14.8971921	100.83273
+['"Around the World in 80 Trades" (2009)', '', '', 'China']	35.000074	104.999927
+['"Around the World in 80 Trades" (2009)', '', '', 'Japan']	36.5748441	139.2394179
+['"Around the World in 80 Trades" (2009)', '', '', 'Sudan']	14.5844444	29.4917691
+['"Around the World in 80 Trades" (2009) {(#1.1)}', '', 'South Africa']	-28.8166236	24.991639
+['"Around the World in 80 Trades" (2009) {(#1.1)}', '', 'Zambia']	-14.5186239	27.5599164
+['"Around the World in 80 Trades" (2009) {(#1.2)}', '', 'India']	22.3511148	78.6677428
+['"Around the World in 80 Trades" (2009) {(#1.3)}', '', 'Taiwan']	23.9739374	120.9820179
+['"Around the World in 80 Trades" (2009) {(#1.4)}', '', 'Brazil']	-10.3333333	-53.2
+['"Arrow" (2009)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arte Lounge" (2009)', '', '', '', '', 'Maria am Ostbahnhof, Friedrichshain, Berlin, Germany']	52.5122154	13.4502904
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'Corvo, Azores, Portugal']	39.69770635	-31.105243289910312
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'Faial, Azores, Portugal']	38.57965385	-28.709645587628927
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'Flores, Azores, Portugal']	39.44785455	-31.196891163617842
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'Graciosa, Azores, Portugal']	39.05289005	-28.012979224740974
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'Madeira, Portugal']	32.751748750000004	-16.981752048847362
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'Pico, Azores, Portugal']	38.471757999999994	-28.364264237941875
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'S. Jorge, Azores, Portugal']	37.7751374	-25.622177762194116
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'S. Miguel, Azores, Portugal']	37.7751374	-25.622177762194116
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'Santa Maria, Azores, Portugal']	36.9725989	-25.10263361635285
+['"As Ilhas Desconhecidas" (2009)', '', '', '', 'Terceira Island, Azores, Portugal']	38.72116905	-27.217595256578946
+['"Ask Tia!" (2009)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Assassin\'s Creed: Lineage" (2009) {(#1.1)}', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Assassin\'s Creed: Lineage" (2009) {(#1.2)}', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Assassin\'s Creed: Lineage" (2009) {(#1.3)}', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Assignment 47" (2009)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Assignment 47" (2009)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Assignment 47" (2009)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"As�l f�r Alle" (2009) {(2017-03-16)}', '', '', 'Dehnberger Hof Theater, Lauf, Bavaria, Germany']	49.5373723	11.2859914
+['"Atrapados en la ciudad" (2009)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Au si�cle de Maupassant: Contes et nouvelles du XIX�me si�cle" (2009) {Aim� de son concierge (#4.1)}', "Ch�teau du Pr�-David, Route de Maffliers, Nerville-la-For�t, Val d'Oise, France"]	46.603354	1.8883335
+['"Au si�cle de Maupassant: Contes et nouvelles du XIX�me si�cle" (2009) {Boubouroche (#2.3)}', "Auberge Ravoux, 52 rue du G�n�ral de Gaulle, Auvers-sur-Oise, Val d'Oise, France"]	49.0701875	2.1718687
+['"Au si�cle de Maupassant: Contes et nouvelles du XIX�me si�cle" (2009) {La cagnotte (#1.1)}', 'Rue de la Verrerie, Le Mans, Sarthe, France']	48.0074344	0.1945754
+['"Au si�cle de Maupassant: Contes et nouvelles du XIX�me si�cle" (2009) {La cagnotte (#1.1)}', 'Square du Bicentenaire, rue de la Verrerie, Le Mans, Sarthe, France']	48.0073498	0.1967379
+['"Au si�cle de Maupassant: Contes et nouvelles du XIX�me si�cle" (2009) {Le fauteuil hant� (#3.1)}', 'Ch�teau de Brou, Brou-sur-Chantereine, Seine-et-Marne, France']	48.8856842	2.6289001
+['"Au si�cle de Maupassant: Contes et nouvelles du XIX�me si�cle" (2009) {Le fauteuil hant� (#3.1)}', 'Ch�teau de Chambly, Chambly, Oise, France']	46.603354	1.8883335
+['"Au si�cle de Maupassant: Contes et nouvelles du XIX�me si�cle" (2009) {Un gentilhomme (#3.4)}', "Ch�teau de Neuilly-en-Vexin, Neuilly-en-Vexin, Val-d'Oise, France"]	49.1690965	1.9779284
+['"Auf und Davon" (2009)', '', '', '', '', 'Venezuela']	8.0018709	-66.1109318
+['"Authentic Sicily" (2009)', '', '', '', 'Sicily, Italy']	37.587794	14.155048
+['"Auto Addiction" (2009)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Autotuercas y Hijos" (2009)', '', '', '', 'Quito, Ecuador']	-0.2201641	-78.5123274
+['"Ave 43" (2009)', '', '', '', '', '', 'Highland Park, Los Angeles, California, USA']	34.1099469	-118.1969828
+['"Avec Eric" (2009)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Aventura por M�xico, rumbo al bicentenario" (2009)', 'Mexico']	19.4326296	-99.1331785
+['"Awan Dania" (2009)', '', '', '', '', 'Kuala Lumpur, Malaysia']	3.1516964	101.6942371
+['"Awan Dania" (2009)', '', '', '', '', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"Ayal" (2009)', '', '', '', '', '', 'Colombo, Western Province, Sri Lanka']	6.9349969	79.8538463
+['"Ayal" (2009)', '', '', '', '', '', 'Central Province, Sri Lanka']	7.3819490000000005	80.72342798602898
+['"Ayal" (2009)', '', '', '', '', '', 'Anuradhapura, Sri lanka']	8.334985	80.4106096
+['"B Cult" (2009)', '', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"BTC Starmaker: Bahamas" (2009)', '', '', '', 'Bahamas']	24.7736546	-78.0000547
+['"Backstage" (2009)', '', '', '', '', 'Koncerthuset, DR Byen, Amager, Copenhagen, Denmark']	55.62437565	12.603853037932112
+['"Bad Love" (2009)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Badman Trash Hit-Parade" (2009)', '', '', 'Saint-Petersburg, Russia']	59.9606739	30.1586551
+['"Bai Shi Qun Yin, Pepsi\'s Voice of the New Generation" (2009)', 'Shanghai, China']	31.2322758	121.4692071
+['"Banda ampla" (2009)', '', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Bang Goes the Theory" (2009) {(#1.10)}', '', '', 'Quainton Railway Station, Quainton, Buckinghamshire, England, UK']	51.8788921	-0.9369229233916021
+['"Baptist Spanish Language Course" (2009) {Class 1 (#1.1)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 10 (#1.9)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 11 (#1.10)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 12 (#1.11)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 13 (#1.12)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 14 (#1.13)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 15 (#1.14)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 16 (#1.15)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 2 (#1.2)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 3 (#1.3)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 4 (#1.4)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 5 (#1.5)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 6 (#1.6)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 7 (#1.7)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Baptist Spanish Language Course" (2009) {Class 8 & 9 (#1.8)}', 'Faithful Word Baptist Church, West Southern Avenue, Tempe, Arizona, USA']	39.7837304	-100.4458825
+['"Barclaycard Mercury Prize Sessions" (2009) {Florence and the Machine (#1.1)}', 'The Hospital Club, London, England, UK']	51.5073219	-0.1276474
+['"Bare Tales" (2009)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baroque! From St Peter\'s to St Paul\'s" (2009)', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Baroque! From St Peter\'s to St Paul\'s" (2009)', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Baroque! From St Peter\'s to St Paul\'s" (2009)', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Baroque! From St Peter\'s to St Paul\'s" (2009)', '', 'The Hague, Netherlands']	52.0799838	4.3113461
+['"Bartender Wars" (2009)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Battle of the Blades" (2009)', '', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009)', '', '', '', 'MasterCard Centre for Hockey Excellence - 400 Kipling Ave., Toronto, Ontario, Canada']	43.60326005	-79.5199477022187
+['"Battle of the Blades" (2009)', '', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Battle of the Blades" (2009) {(#1.1)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.10)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.11)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.12)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.13)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.14)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.2)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.3)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.4)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.5)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.6)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.7)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.8)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#1.9)}', '', '', 'Maple Leaf Gardens, Toronto, Ontario, Canada']	43.66220065	-79.38030165941599
+['"Battle of the Blades" (2009) {(#2.1)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.10)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.11)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.12)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.13)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.14)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.15)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.16)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.2)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.3)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.4)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.5)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.6)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.7)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {(#2.8)}', '', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {After the Ice Melts (#2.17)}', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {Game On (#2.0)}', '', 'MasterCard Centre for Hockey Excellence - 400 Kipling Ave., Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Battle of the Blades" (2009) {Game On (#2.0)}', '', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battle of the Blades" (2009) {Second Chance Sunday (#2.9)}', 'Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada']	43.6465663	-79.35106457413957
+['"Battles BC" (2009)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Beached Az" (2009)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Beat the Boss USA" (2009) {Cheesecake (#4.2)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beat the Boss USA" (2009) {Dog Outfit (#4.1)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beat the Boss USA" (2009) {Outdoor Craze (#4.3)}', 'Emeryville, California, USA']	37.8314089	-122.2865266
+['"Beat the Boss USA" (2009) {Outdoor Craze (#4.3)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Beat the Boss USA" (2009) {Outdoor Craze (#4.3)}', 'Santa Cruz Beach Boardwalk, Santa Cruz, California, USA']	36.96458035	-122.01512714906835
+['"Beauty and the Geek Australia" (2009)', '', '', 'Castle Hill, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Beauty and the Geek Australia" (2009)', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Beauty and the Geek Australia" (2009) {(#5.1)}', '', 'Fiji']	-18.1239696	179.0122737
+['"Beauty and the Geek Australia" (2009) {Beauty and the Geek Australia Hits Las Vegas (#6.1)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Beauty and the Geek Australia" (2009) {Beauty and the Geek Australia Hits Las Vegas (#6.1)}', 'Rio All-Suite Hotel & Casino - 3700 W Flamingo Road, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Beauty and the Geek Australia" (2009) {Beauty and the Geek Australia Hits Las Vegas (#6.1)}', 'The Little White Wedding Chapel - 1301 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	39.7837304	-100.4458825
+['"Beauty and the Geek Australia" (2009) {Beauty and the Geek Australia Hits Las Vegas (#6.1)}', 'PBR Rock Bar & Grill - 3663 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Beauty and the Geek Australia" (2009) {Beauty and the Geek Australia Hits Las Vegas (#6.1)}', 'Golden Nugget Hotel & Casino - 129 Fremont Street, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Beauty and the Geek Australia" (2009) {Beauty and the Geek Australia Hits Las Vegas (#6.1)}', 'Hard Rock Cafe - 4475 Paradise Road, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Beauty and the Geek Australia" (2009) {Beauty and the Geek Australia Hits Las Vegas (#6.1)}', 'Flamingo Hotel - 3555 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Behind the Scenes of Disney XD\'s Skyrunners" (2009)', 'Auckland, New Zealand']	-36.852095	174.7631803
+['"Behind the Scenes of Disney XD\'s Skyrunners" (2009)', 'Studio West Stages, Auckland, New Zealand']	-41.5000831	172.8344077
+['"Being Erica" (2009)', '', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Being Erica" (2009)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {A River Runs Through It... It Being Egypt (#2.9)}', "Canada's Wonderland, Toronto, Ontario, Canada"]	43.653963	-79.387207
+['"Being Erica" (2009) {A River Runs Through It... It Being Egypt (#2.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Adultescence (#1.5)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Being Dr. Tom (#2.1)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Dr. Tom (#1.1)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Erica the Vampire Slayer (#1.12)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Everything She Wants (#1.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Jenny from the Block (#3.7)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Leo (#1.13)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Mama Mia (#2.3)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Mi Casa, Su Casa Loma (#1.10)}', 'Bloor Cinema, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Mi Casa, Su Casa Loma (#1.10)}', 'Casa Loma, Toronto, Ontario, Canada']	43.6781015	-79.409415775
+['"Being Erica" (2009) {Mi Casa, Su Casa Loma (#1.10)}', 'St. Lawrence Market, Toronto, Ontario, Canada']	43.649422	-79.3714278
+['"Being Erica" (2009) {Mi Casa, Su Casa Loma (#1.10)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Plenty of Fish (#1.3)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {She\'s Lost Control (#1.11)}', 'Nicholas Hoare - 45 Front Street East, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {She\'s Lost Control (#1.11)}', 'St. George Campus, University of Toronto, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {She\'s Lost Control (#1.11)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Such a Perfect Day (#1.7)}', 'Toronto Islands, Toronto, Ontario, Canada']	43.6230544	-79.39431563721035
+['"Being Erica" (2009) {Such a Perfect Day (#1.7)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {The Secret of Now (#1.4)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {This Be the Verse (#1.8)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {Til Death (#1.6)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Being Erica" (2009) {What I Am Is What I Am (#1.2)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 1 (#1.1)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 10 (#1.8)}', 'Citizens Business Bank Arena - 4000 E. Ontario Center Parkway, Ontario, California, USA']	34.0730416	-117.5663487
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 11 (#1.9)}', 'Mohegan Sun Casino - 1 Mohegan Sun Blvd., Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 12 (#1.10)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 13 (#2.1)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 14 (#2.2)}', 'Chicago Theatre - 175 North State Street, Chicago, Illinois, USA']	41.8854984	-87.62726118993479
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 15 (#2.3)}', 'Mohegan Sun Casino - 1 Mohegan Sun Blvd., Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 16 (#2.4)}', 'Kansas City Power and Light District, Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 17 (#2.5)}', 'CITI Performing Arts Center Wang Theatre, Boston, Massachussetts, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 18 (#2.6)}', 'Monroe Civic Center - Monroe, Louisiana, USA']	32.5020472	-92.10729732386794
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 19 (#2.7)}', 'Verizon Theatre, Grand Prairie, Texas, USA']	32.76680575	-96.9824316160599
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 2 (#1.2)}', 'Mohegan Sun Casino - 1 Mohegan Sun Blvd., Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 20 (#2.8)}', 'Majestic Theatre, San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 21 (#2.9)}', 'Kansas City Power and Light District, Kansas City, Missouri, USA']	39.0987467	-94.5811109
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 21 (#2.9)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 22 (#2.10)}', 'Kansas City Power and Light District, Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 23 (#2.11)}', 'Fourth Street Live, Louisville, Kentucky, USA']	38.252264249999996	-85.75725205809422
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 24 (#3.1)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 25 (#3.2)}', 'Chicago Theatre - 175 North State Street, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 26 (#3.3)}', 'Kansas City Power and Light District, Kansas City, Missouri, USA']	39.0987467	-94.5811109
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 27 (#3.4)}', 'Majestic Theatre, San Antonio, Texas, USA']	29.4263538	-98.4906197
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 28 (#3.5)}', 'Mahalia Jackson Theater for the Performing Arts, New Orleans, Louisiana, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 29 (#3.6)}', 'Rave-Eagles Ballroom, Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 3-4 (#1.3)}', 'Lloyd Noble Center - Norman, Oklahoma, USA']	35.18702435	-97.44429170441894
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 30 (#3.7)}', 'Fourth Street Live, Louisville, Kentucky, USA']	38.2542376	-85.759407
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 31 (#3.8)}', "L'Auberge du Lac Casino and Resort, Lake Charles, Louisiana, USA"]	30.2265949	-93.2173759
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 32 (#3.9)}', 'Kansas City Power and Light District, Kansas City, Missouri, USA']	39.0987467	-94.5811109
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 33 (#3.10)}', 'Liacouras Center, Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 34 (#3.11)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 35 (#4.1)}', 'Tachi Palace Hotel and Casino, Lemoore, California, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 36 (#4.2)}', 'Shreveport Municipal Memorial Auditorium, Shreveport, Louisiana, USA']	32.5221828	-93.7651944
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 37 (#4.3)}', 'Lucky Star Casino, Concho, Oklahoma, USA']	35.6156047	-97.9944958
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 38 (#4.4)}', "Harrah's Tunica Hotel and Casino, Tunica, Mississippi, USA"]	34.6845455	-90.382877
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 39 (#4.5)}', 'Mohegan Sun Casino - 1 Mohegan Sun Blvd., Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 40 (#4.6)}', 'First Council Casino, Newkirk, Oklahoma, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 41 (#4.7)}', 'Cocopah Resort and Casino, Yuma, Arizona, USA']	32.6926588	-114.6276157
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 42 (#4.8)}', 'Lucky Star Casino, Concho, Oklahoma, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 43 (#4.9)}', 'First Council Casino, Newkirk, Oklahoma, USA']	36.8823649	-97.0536785
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 44 (#4.10)}', 'Caesars Atlantic City Hotel and Casino, Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 45 (#4.11)}', "L'Auberge Du Lac Casino and Resort, Lake Charles, Louisiana, USA"]	30.2265949	-93.2173759
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 46 (#4.12)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 47 (#4.13)}', 'Casino Rama, Rama, Ontario, Canada']	44.64825225	-79.34460703870548
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 48 (#4.14)}', 'Mohegan Sun Casino - 1 Mohegan Sun Blvd., Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 49 (#5.1)}', 'Caesars Hotel and Casino, Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 50 (#5.2)}', 'Caesars Hotel and Casino, Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 50 (#5.2)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 51 (#5.3)}', 'Canton Civic Center, Canton, Ohio, USA']	40.7989522	-81.3784445
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 51 (#5.3)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 52 (#5.4)}', "L'Auberge du Lac Casino and Resort, Lake Charles, Louisiana, USA"]	30.2265949	-93.2173759
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 53 (#5.5)}', 'Buffalo Run Casino, Miami, Oklahoma, USA']	36.8746177	-94.877374
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 54 (#5.6)}', 'Boardwalk Hall, Atlantic City, New Jersey, USA']	39.3545947	-74.43903339720993
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 55 (#5.7)}', 'Cocopah Resort Casino, Yuma, Arizona, USA']	32.6926588	-114.6276157
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 56 (#5.8)}', 'The Historic Memorial Hall - 600 N. 7th Street, Kansas City, Kansas, USA']	39.1134562	-94.626497
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 57 (#5.9)}', 'Casino Rama, Rama, Ontario, Canada']	44.64825225	-79.34460703870548
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 58 (#5.10)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 59 (#5.11)}', 'Caesars Hotel and Casino, Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 6 (#1.5)}', 'Central Pavilion Arena - Robstown, Texas, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 60 (#6.1)}', 'The Venue at Horseshoe Casino, Hammond, Indiana, USA']	41.5833658	-87.500043
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 61 (#6.2)}', 'The Riverdome at Horseshoe Casino and Hotel, Bossier City, Louisiana, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 62 (#6.3)}', 'Laredo Energy Arena, Laredo, Texas, USA']	27.55830615	-99.45257860378643
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 63 (#6.4)}', 'Mohegan Sun Arena, Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 64 (#6.5)}', 'Caesars, Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 65 (#6.6)}', 'Boardwalk Hall, Atlantic City, New Jersey, USA']	39.3545947	-74.43903339720993
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 66 (#6.7)}', 'I-X Center, Cleveland, Ohio, USA']	41.398619249999996	-81.85308844051575
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 67 (#6.8)}', 'Casino Rama, Rama, Ontario, Canada']	44.64825225	-79.34460703870548
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 68 (#6.9)}', 'Caesars Hotel and Casino, Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 69 (#6.10)}', "L'Auberge du Lac Casino and Resort, Lake Charles, Louisiana, USA"]	30.2265949	-93.2173759
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 7-8 (#1.6)}', 'Aragon Ballroom - 1106 W. Lawrence Avenue, Uptown, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 70 (#6.11)}', 'New Orleans Convention Center, New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 71 (#6.12)}', 'Mountaineer Casino and Resort, Chester, West Virginia, USA']	40.6131203	-80.5628478
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 74 (#7.1)}', 'Mountaineer Casino and Resort, Chester, West Virginia, USA']	40.6131203	-80.5628478
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 75 (#7.2)}', 'The Venue at Horseshoe Casino, Hammond, Indiana, USA']	41.5833658	-87.500043
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 76 (#7.3)}', 'Caesars Windsor Hotel and Casino, Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 77 (#7.4)}', 'Reading Theatre at the Sovereign Center, Reading, Pennsylvania, USA']	39.7837304	-100.4458825
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 78 (#7.5)}', 'Nutter Center, Dayton, Ohio, USA']	39.7589478	-84.1916069
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 79 (#7.6)}', 'Casino Rama, Rama, Ontario, Canada']	44.6489331	-79.3508094
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 80 (#7.7)}', 'Seminole Hard Rock Casino - 1 Seminole Way, Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 81 (#7.8)}', 'Ryan Center, Kingston, Rhode Island, USA']	41.48776885	-71.53584286586744
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 82 (#7.9)}', 'Soaring Eagle Casino & Resort, Mount Pleasant, Michigan, USA']	43.597646	-84.7668495
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 83 (#7.10)}', 'Caesars Hotel and Casino, Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 84 (#7.11)}', 'The Venue at Horseshoe Casino, Hammond, Indiana, USA']	41.5833658	-87.500043
+['"Bellator Fighting Championships" (2009) {Bellator Fighting Championships 9 (#1.7)}', 'Monroe Civic Center - Monroe, Louisiana, USA']	32.5020472	-92.10729732386794
+['"Below the Line with George Peroulas" (2009) {(#1.3)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#1.5)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#1.6)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#1.9)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#2.1)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#2.2)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#2.3)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#2.4)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#2.5)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#2.6)}', 'Davidson, North Carolina, USA']	35.7902384	-80.2115053
+['"Below the Line with George Peroulas" (2009) {(#2.6)}', 'Winston-Salem, North Carolina, USA']	36.0998131	-80.2440518
+['"Below the Line with George Peroulas" (2009) {(#2.7)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#3.1)}', 'Greenville, South Carolina, USA']	34.851354	-82.3984882
+['"Below the Line with George Peroulas" (2009) {(#3.3)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#3.5)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#3.6)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#4.4)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#4.5)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#4.6)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#4.7)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#4.8)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#5.4)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#5.5)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#5.6)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#5.7)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#6.1)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Below the Line with George Peroulas" (2009) {(#7.1)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Berm�dez" (2009)', '', '', '', '', 'Estudios Caracol Televisi�n, Bogot�, Colombia']	2.8894434	-73.783892
+['"Best of BC" (2009)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Best of Bull Run" (2009)', '', '', '', 'Nova Scotia, Canada']	45.1960403	-63.1653789
+['"Best of Bull Run" (2009)', '', '', '', 'New Brunswick, Canada']	61.0666922	-107.9917071
+['"Best of Bull Run" (2009)', '', '', '', 'Newfoundland, Canada']	61.0666922	-107.9917071
+['"Best of Bull Run" (2009)', '', '', '', 'Prince Edward Island, Canada']	46.3355508	-63.1466676
+['"Bethel Church Live Webcast" (2009) {Biblical Repentance}', 'Bethel Free Will Baptist Church, American Legion Drive, Festus, Missouri, USA']	38.2207112	-90.3959504
+['"Bethel Church Live Webcast" (2009) {Don\'t Sell Your Vineyard}', 'Bethel Free Will Baptist Church, American Legion Drive, Festus, Missouri, USA']	38.2207112	-90.3959504
+['"Bethel Church Live Webcast" (2009) {Sunday Night 5-4-14}', 'Bethel Free Will Baptist Church, American Legion Drive, Festus, Missouri, USA']	38.2207112	-90.3959504
+['"Better Living Television" (2009)', '', '', 'Delray Beach, Florida, USA']	26.4614625	-80.0728201
+['"Better Living Television" (2009)', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Better Off Ted" (2009)', '', '', '', '', 'Americas Tower, 1177 Avenue of the Americas, New York City, New York, USA']	40.757312299999995	-73.98275822451703
+['"Better Off Ted" (2009)', '', '', '', '', 'Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Better Off Ted" (2009)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills Salon" (2009)', '', '', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Beverlywood" (2009)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverlywood" (2009)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverlywood" (2009)', '', '', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Beyond Twisted" (2009)', '', '', '', '', '8000 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0981514	-118.2912164
+['"Beyond the Peloton" (2009)', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"Beyond the Peloton" (2009)', '', '', '', 'California, USA']	39.7837304	-100.4458825
+['"Beyond the Peloton" (2009)', '', '', '', 'Italy']	42.6384261	12.674297
+['"Beyond the Peloton" (2009)', '', '', '', 'Belgium']	50.6402809	4.6667145
+['"Beyond the Peloton" (2009)', '', '', '', 'France']	46.603354	1.8883335
+['"Beyond the Peloton" (2009)', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Beyond the Peloton" (2009) {Beginnings (#1.1)}', '', 'Italy']	42.6384261	12.674297
+['"Beyond the Peloton" (2009) {Tour De France (#1.8)}', 'France']	46.603354	1.8883335
+['"Bhaskar Bharti" (2009)', '', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Big Chef Takes on Little Chef" (2009) {(#1.1)}', '', 'Bray, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Big Chef Takes on Little Chef" (2009) {(#1.1)}', '', 'Little Chef Restaurant, Popham, Hampshire, England, UK']	51.1931382	-1.2315116
+['"Big Chef Takes on Little Chef" (2009) {(#1.1)}', '', 'Sheffield, South Yorkshire, England, UK']	53.3806626	-1.4702278
+['"Big Chef Takes on Little Chef" (2009) {(#1.2)}', '', 'Bray, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Big Chef Takes on Little Chef" (2009) {(#1.2)}', '', 'Holiday Inn Oxford, Oxford, Oxfordshire, England, UK']	51.795571300000006	-1.283602371830896
+['"Big Chef Takes on Little Chef" (2009) {(#1.2)}', '', 'Little Chef Restaurant, Popham, Hampshire, England, UK']	51.083333	-1.166667
+['"Big Chef Takes on Little Chef" (2009) {(#1.3)}', '', 'Bray, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Big Chef Takes on Little Chef" (2009) {(#1.3)}', '', 'Little Chef Restaurant, Popham, Hampshire, England, UK']	51.1931382	-1.2315116
+['"Big Chef Takes on Little Chef" (2009) {(#1.3)}', '', 'Sheffield, South Yorkshire, England, UK']	53.3806626	-1.4702278
+['"Big Chef Takes on Little Chef" (2009) {Did Heston Change Little Chef? (#1.4)}', 'Little Chef Restaurant, Kettering, Northamptonshire, England, UK']	52.25	-0.833333
+['"Big Chef Takes on Little Chef" (2009) {Did Heston Change Little Chef? (#1.4)}', 'Little Chef Restaurant, Popham, Hampshire, England, UK']	51.083333	-1.166667
+['"Big Chef Takes on Little Chef" (2009) {Did Heston Change Little Chef? (#1.4)}', 'Little Chef Restaurant, York, North Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Big Time Rush" (2009) {Live from Times Square (#1.19)}', 'Times Square, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Top" (2009)', '', '', '', '', 'Teddington Studios, Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Big in Japan" (2009)', '', '', '', '', 'Toho Studios, Tokyo, Japan']	35.634334800000005	139.6047840467249
+['"Big in Japan" (2009) {Highlights (#1.5)}', '', 'Toho Studios, Tokyo, Japan']	35.634334800000005	139.6047840467249
+['"Big in Japan" (2009) {Highlights (#1.5)}', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Bilderbuch Deutschland" (1996) {Aachen (2009)}', '', 'Aachen, North Rhine-Westphalia, Germany']	50.776351	6.083862

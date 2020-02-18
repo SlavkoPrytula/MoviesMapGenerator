@@ -1,0 +1,24 @@
+['"Accent on an American Summer" (1962)', '', '', 'Reno, Nevada, USA']	39.5261206	-119.8126581
+['"Accent on an American Summer" (1962)', '', '', 'Yellowstone National Park, Wyoming, USA']	44.4648021	-110.8247619
+['"Actualidades" (1962)', '', '', '', '', 'Rahintel, Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"Adi�s, amor m�o" (1962)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Altanera Evangelina Garret" (1962)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Altanera Evangelina Garret" (1962) {(#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Altanera Evangelina Garret" (1962) {(#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Altanera Evangelina Garret" (1962) {(#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amelia no vendr�" (1962)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animal Magic" (1962)', '', '', '', '', 'Bristol Zoo, Bristol, England, UK']	51.46342645	-2.6223370217401194
+['"Animal Magic" (1962) {(#14.10)}', '', '', 'Arusha, Tanzania']	-6.5247123	35.7878438
+['"Animal Magic" (1962) {(#14.7)}', '', '', '', 'Basel Zoo, Basel, Kanton Basel Stadt, Switzerland']	47.5581077	7.5878261
+['"Animal Magic" (1962) {(#18.3)}', '', '', '', 'Bristol Zoo, Bristol, England, UK']	51.46342645	-2.6223370217401194
+['"Animal Magic" (1962) {(#6.11)}', '', '', '', 'Morecambe, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"Animal Magic" (1962) {(#6.12)}', '', '', '', 'Minsmere, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"Animal Magic" (1962) {Journey to Lapland (#15.2)}', 'Lapland, Sweden']	67.2119594	23.364914370397386
+['"Animal Magic" (1962) {Sri Lanka - the Resplendent Land (#16.2)}', 'Sri Lanka']	7.5554942	80.7137847
+['"Animal Magic" (1962) {Summer on the Stour (#14.12)}', 'Suffolk England, UK']	54.7023545	-3.2765753
+['"Aqu� a las seis" (1962)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� a las seis" (1962) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� a las seis" (1962) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� a las seis" (1962) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Before My Time" (1962)', '', '', '', '', 'Manchester, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"Before My Time" (1962)', '', '', '', '', 'Wigan, Lancashire, England, UK']	53.6324923	-2.6147461

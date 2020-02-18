@@ -1,0 +1,78 @@
+['"10 Seconds" (1993)', '', '', '', '', 'Opryland - 2800 Opryland Drive, Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"19:zehn" (1993)', '', '', '', '', 'ZDF-Sendezentrum, Mainz, Rhineland-Palatinate, Germany']	49.9620711	8.213400659997397
+['"19:zehn" (1993)', '', '', '', '', 'ZDF-Studio, Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"52 Regent East" (1993)', '', '', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"60 Minutes" (1993) {Act of God (#11.24)}', '', 'Turangi, New Zealand']	-38.988791	175.808974
+['"60 Minutes" (1993) {Lord of the Rings/Sex, the City, & My Mum (#12.19)}', 'Queenstown, Otago, New Zealand']	-45.0317203	168.6608096
+['"60 Minutes" (1993) {The Day the Earth Shook (#14.5)}', 'Christchurch, Canterbury, New Zealand']	-43.530955	172.6366455
+['"A Woman\'s Guide to Adultery" (1993)', '', '', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"A Woman\'s Guide to Adultery" (1993)', '', '', 'Paris, France']	48.8566969	2.3514616
+['"A Year in Provence" (1993)', '', '', '', 'Bouches-du-Rh�ne, France']	46.603354	1.8883335
+['"ARD-Exclusiv" (1993) {Damenwahl bei Dieter - F�r immer jung in M�llers Tanzetage}', 'Barmbek, Hamburg, Germany']	53.5873864	10.0449416
+['"ARD-Exclusiv" (1993) {Der Dorfdoktor - Hausbesuch beim Landarzt}', 'Heimbach-Weis, Neuwied, Rhineland-Palatinate, Germany']	50.4501346	7.5437528
+['"ARD-Exclusiv" (1993) {Die Kaviar-Mafia - Millionengesch�fte mit Fischeiern}', 'Astrakhan, Russia']	46.3652486	48.05521686177834
+['"ARD-Exclusiv" (1993) {Frau L�ckes dritter Donnerstag}', 'Bochum, North Rhine-Westphalia, Germany']	51.4818111	7.2196635
+['"ARD-Exclusiv" (1993) {Frau L�ckes dritter Donnerstag}', 'Essen, North Rhine-Westphalia, Germany']	51.4582235	7.0158171
+['"ARD-Exclusiv" (1993) {Saufen, bis der Arzt kommt - Kinder im Vollrausch}', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"ARD-Exclusiv" (1993) {Schlange stehen f�r altes Brot - Armut in Deutschland}', 'Stralsund, Mecklenburg-Western Pomerania, Germany']	51.0834196	10.4234469
+['"ARD-Exclusiv" (1993) {Spiel mit dem Tod - H�ftlingsrodeo im Staatsgef�ngnis}', 'Louisiana State Penitentiary, Angola, Louisiana, USA']	30.95983535	-91.60011667668343
+['"ARD-Exclusiv" (1993) {U-Bahn-Sheriffs - Auf Streife in der Unterwelt}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"ARD-Exclusiv" (1993) {Verr�ckte Hochzeiten - Zur Trauung nach Las Vegas}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"ARD-Exclusiv" (1993) {Zwangsr�umung - Eine Frau hilft Mietern in Not}', 'Dortmund, North Rhine-Westphalia, Germany']	51.5142273	7.4652789
+['"Abraham" (1993)', '', '', '', '', 'Ouarzazate, Morocco']	30.920193	-6.910923
+['"Acapulco H.E.A.T." (1993)', '', '', '', 'Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: Assassin (#1.22)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Body Double (#1.10)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Checkmate - Part 1 (#1.1)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Deep Six (#1.21)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Desert Dragon (#1.7)}', 'Hotel Costa Flamingos - Lazaro Cardenas 150, Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: Desert Dragon (#1.7)}', 'Hotel Fiesta Americana - Boulevard Francisco Medina, Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: Easy Riders (#1.12)}', 'Hotel Fiesta Americana - Boulevard Francisco Medina, Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: Easy Riders (#1.12)}', 'Marina Vallarta, Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: Easy Riders (#1.12)}', 'Plaza La Taberna, Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: Easy Riders (#1.12)}', 'Plaza Marina, Puerto Vallarta, Jalisco, Mexico']	19.4326296	-99.1331785
+['"Acapulco H.E.A.T." (1993) {Code Name: Easy Riders (#1.12)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Frame-Up (#1.15)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Ghosts (#1.16)}', 'La Jolla De Mismaloya Resort, Puerto Vallarta, Jalisco, Mexico']	19.4326296	-99.1331785
+['"Acapulco H.E.A.T." (1993) {Code Name: Honeymoon Lost (#1.3)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Million Dollar Ladies (a.k.a. Vanished) (#1.5)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Perfect Specimen (#1.11)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Rip van Winkle (#1.13)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Stalemate: Part 2 (#1.20)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: Stranded (#1.17)}', 'Hotel Fiesta Americana - Boulevard Francisco Medina, Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: Stranded (#1.17)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	20.6003173	-105.2376824
+['"Acapulco H.E.A.T." (1993) {Code Name: The Stalking Horse (#1.14)}', 'Hotel Fiesta Americana - Boulevard Francisco Medina, Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: The Stalking Horse (#1.14)}', 'Hotel Krystal Vallarta, Puerto Vallarta, Jalisco, Mexico']	19.4326296	-99.1331785
+['"Acapulco H.E.A.T." (1993) {Code Name: The Stalking Horse (#1.14)}', 'Hotel Melia Vallarta, Puerto Vallarta, Jalisco, Mexico']	20.6407176	-105.2203066
+['"Acapulco H.E.A.T." (1993) {Code Name: The Stalking Horse (#1.14)}', 'Westin Regina Resort, Puerta Vallarta, Jalisco, Mexico']	19.4326296	-99.1331785
+['"Acapulco H.E.A.T." (1993) {Feminine Intuition (#1.6)}', "'Discotheque Elaine's, Puerto Vallarta, Jalisco, Mexico"]	20.6407176	-105.2203066
+['"Adam" (1993)', '', '', '', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Ainak Wala Jin" (1993)', '', '', '', '', 'Lahore, Pakistan']	31.5656079	74.3141775
+['"Alessio" (1993)', '', '', '', '', 'Malta']	35.8885993	14.4476911
+['"All in the Game" (1993)', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"All in the Game" (1993)', '', '', '', 'Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"All or Nothing at All" (1993)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"American Angler" (1993)', '', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"American Angler" (1993)', '', '', '', 'Costa Rica']	10.2735633	-84.0739102
+['"American Angler" (1993)', '', '', '', 'New Mexico, USA']	34.5708167	-105.993007
+['"American Angler" (1993)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"American Angler" (1993)', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"American Journal" (1993) {Cults (#1.1)}', '', 'Pilar, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"American Journal" (1993) {Cults (#1.1)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Journal" (1993) {The Kate Moss Waif Look (#2.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Justice: Target - Mafia" (1993)', '', 'Flamingo Hotel - 3555 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"American Justice: Target - Mafia" (1993)', '', 'Half Moon Hotel, New York City, New York, USA']	40.7127281	-74.0060152
+['"Apasionada" (1993)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arende III: Dorsland" (1993)', '', '', '', 'Matjiesfontein, South Africa']	-33.231944	20.580278
+['"Arende III: Dorsland" (1993)', '', '', '', 'Upington, Northern Cape, South Africa']	-28.456325	21.241867
+['"Arende III: Dorsland" (1993)', '', '', '', 'Cape Town, Western Cape, South Africa']	-33.928992	18.417396
+['"Au nom du p�re et du fils" (1993)', '', '', 'Rawdon, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Auf eigene Gefahr" (1993)', '', '', '', 'Bonn, North Rhine-Westphalia, Germany']	50.735851	7.10066
+['"Bando dos Quatro" (1993)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Bao qing tian" (1993)', '', '', '', '', 'Taipei City, Taiwan']	25.0375198	121.5636796
+['"Bay Cove" (1993)', '', '', '', '', 'Perth, Western Australia, Australia']	-31.9527121	115.8604796
+['"Beijing ren zai Niu Yue" (1993)', '', '', 'Beijing, China']	39.906217	116.3912757
+['"Beijing ren zai Niu Yue" (1993)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Belezas de Ver�o" (1993)', '', '', '', 'Italy']	42.6384261	12.674297
+['"Bex & Blanche" (1993)', '', '', '', '', 'Belgium']	50.6402809	4.6667145
+['"Bex & Blanche" (1993)', '', '', '', '', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565

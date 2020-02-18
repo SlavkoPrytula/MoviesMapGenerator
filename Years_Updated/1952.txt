@@ -1,0 +1,593 @@
+['"Adventures of Superman" (1952)', '', '', '', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952)', '', '', '', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952)', '', '', '', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952)', '', '', '', 'Big Bear Valley, San Bernardino National Forest, California, USA']	34.18055525	-116.96850289553923
+['"Adventures of Superman" (1952)', '', '', '', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952)', '', '', '', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Adventures of Superman" (1952)', '', '', '', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952)', '', '', '', 'Corriganville, Ray Corrigan Ranch, Simi Valley, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952)', '', '', '', 'Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952)', '', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952)', '', '', '', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952)', '', '', '', 'Griffith Observatory, 2800 E Observatory Rd, Los Angeles, California, USA']	34.11821875	-118.30029332196601
+['"Adventures of Superman" (1952)', '', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Adventures of Superman" (1952)', '', '', '', 'Iverson Ranch - 1 Iverson Lane, Chatsworth, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Superman" (1952)', '', '', '', 'San Fernando Valley, Los Angeles, California, USA']	34.2148853	-118.4998204
+['"Adventures of Superman" (1952)', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952)', '', '', '', 'Wilshire Boulevard, Los Angeles, California, USA']	34.0344828	-118.4793626
+['"Adventures of Superman" (1952)', '', '', '', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {A Ghost for Scotland Yard (#2.8)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {All That Glitters (#6.13)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {All That Glitters (#6.13)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {All That Glitters (#6.13)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {All That Glitters (#6.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {All That Glitters (#6.13)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {Around the World with Superman (#2.26)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Around the World with Superman (#2.26)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Around the World with Superman (#2.26)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Beware the Wrecker (#2.20)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Beware the Wrecker (#2.20)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Beware the Wrecker (#2.20)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Beware the Wrecker (#2.20)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Beware the Wrecker (#2.20)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Blackmail (#4.10)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Blackmail (#4.10)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Blackmail (#4.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Clark Kent, Outlaw (#3.8)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Clark Kent, Outlaw (#3.8)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Clark Kent, Outlaw (#3.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Close Shave (#5.8)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Close Shave (#5.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Close Shave (#5.8)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {Crime Wave (#1.24)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Crime Wave (#1.24)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Crime Wave (#1.24)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Crime Wave (#1.24)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Crime Wave (#1.24)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Crime Wave (#1.24)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Czar of the Underworld (#1.22)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Czar of the Underworld (#1.22)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Czar of the Underworld (#1.22)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Czar of the Underworld (#1.22)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Czar of the Underworld (#1.22)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Dagger Island (#4.9)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Dagger Island (#4.9)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Dagger Island (#4.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Disappearing Lois (#5.6)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Disappearing Lois (#5.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Disappearing Lois (#5.6)}', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Divide and Conquer (#6.3)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Divide and Conquer (#6.3)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Divide and Conquer (#6.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Divide and Conquer (#6.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Divide and Conquer (#6.3)}', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Double Trouble (#1.15)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Double Trouble (#1.15)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Double Trouble (#1.15)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Double Trouble (#1.15)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Double Trouble (#1.15)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Double Trouble (#1.15)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Double Trouble (#1.15)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Superman" (1952) {Double Trouble (#1.15)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Drums of Death (#1.18)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Drums of Death (#1.18)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Drums of Death (#1.18)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Drums of Death (#1.18)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Drums of Death (#1.18)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Five Minutes to Doom (#2.1)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Five Minutes to Doom (#2.1)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Five Minutes to Doom (#2.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Flight to the North (#3.11)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Flight to the North (#3.11)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Flight to the North (#3.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Ghost Wolf (#1.23)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Ghost Wolf (#1.23)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Ghost Wolf (#1.23)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Ghost Wolf (#1.23)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Great Caesar\'s Ghost (#3.5)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Great Caesar\'s Ghost (#3.5)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Great Caesar\'s Ghost (#3.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jet Ace (#2.4)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Jet Ace (#2.4)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Jet Ace (#2.4)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jet Ace (#2.4)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jet Ace (#2.4)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Jet Ace (#2.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jimmy Olsen, Boy Editor (#2.22)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Jimmy Olsen, Boy Editor (#2.22)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Jimmy Olsen, Boy Editor (#2.22)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jimmy Olsen, Boy Editor (#2.22)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jimmy the Kid (#4.6)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jimmy the Kid (#4.6)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Jimmy the Kid (#4.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Joey (#4.1)}', '', 'Caliente Race Track, Tijuana, Mexico']	19.4326296	-99.1331785
+['"Adventures of Superman" (1952) {Joey (#4.1)}', '', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Joey (#4.1)}', '', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Joey (#4.1)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jungle Devil (#2.14)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Jungle Devil (#2.14)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {King for a Day (#3.13)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {King for a Day (#3.13)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Lady in Black (#2.23)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Lady in Black (#2.23)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Lady in Black (#2.23)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Lady in Black (#2.23)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Lady in Black (#2.23)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Money to Burn (#5.7)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Money to Burn (#5.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Money to Burn (#5.7)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {Mr. Zero (#5.12)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Mr. Zero (#5.12)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Mr. Zero (#5.12)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {My Friend Superman (#2.15)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {My Friend Superman (#2.15)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {My Friend Superman (#2.15)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {My Friend Superman (#2.15)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Mystery in Wax (#1.16)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Mystery in Wax (#1.16)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Mystery in Wax (#1.16)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Mystery in Wax (#1.16)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Mystery in Wax (#1.16)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Mystery in Wax (#1.16)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Mystery of the Broken Statues (#1.4)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Mystery of the Broken Statues (#1.4)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Mystery of the Broken Statues (#1.4)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Mystery of the Broken Statues (#1.4)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Mystery of the Broken Statues (#1.4)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Mystery of the Broken Statues (#1.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Mystery of the Broken Statues (#1.4)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Night of Terror (#1.6)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Night of Terror (#1.6)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Night of Terror (#1.6)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Adventures of Superman" (1952) {Night of Terror (#1.6)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Night of Terror (#1.6)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Night of Terror (#1.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {No Holds Barred (#1.11)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {No Holds Barred (#1.11)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {No Holds Barred (#1.11)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {No Holds Barred (#1.11)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {No Holds Barred (#1.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Olsen\'s Millions (#3.7)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Olsen\'s Millions (#3.7)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Olsen\'s Millions (#3.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Panic in the Sky (#2.12)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Panic in the Sky (#2.12)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Panic in the Sky (#2.12)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Panic in the Sky (#2.12)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Panic in the Sky (#2.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Panic in the Sky (#2.12)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Peril by Sea (#4.4)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Peril by Sea (#4.4)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Peril by Sea (#4.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Peril in Paris (#5.1)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {Perry White\'s Scoop (#2.19)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Perry White\'s Scoop (#2.19)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Perry White\'s Scoop (#2.19)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Perry White\'s Scoop (#2.19)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Rescue (#1.9)}', '', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Rescue (#1.9)}', '', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Rescue (#1.9)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Rescue (#1.9)}', '', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Semi-Private Eye (#2.18)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Semi-Private Eye (#2.18)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Semi-Private Eye (#2.18)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Semi-Private Eye (#2.18)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Shot in the Dark (#2.5)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Shot in the Dark (#2.5)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Shot in the Dark (#2.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Shot in the Dark (#2.5)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Star of Fate (#2.24)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Star of Fate (#2.24)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Star of Fate (#2.24)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Star of Fate (#2.24)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Star of Fate (#2.24)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Superman Week (#3.4)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Superman Week (#3.4)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman Week (#3.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman in Exile (#2.7)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Superman in Exile (#2.7)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman in Exile (#2.7)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman in Exile (#2.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'Griffith Observatory, 2800 E Observatory Rd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Superman" (1952) {Superman on Earth (#1.1)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {Superman\'s Wife (#6.9)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Superman\'s Wife (#6.9)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman\'s Wife (#6.9)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Superman\'s Wife (#6.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Superman\'s Wife (#6.9)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {Test of a Warrior (#3.6)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Test of a Warrior (#3.6)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Atomic Captive (#6.5)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Atomic Captive (#6.5)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Atomic Captive (#6.5)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Atomic Captive (#6.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Atomic Captive (#6.5)}', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Big Forget (#6.7)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Big Forget (#6.7)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Big Forget (#6.7)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Big Forget (#6.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Big Forget (#6.7)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Big Freeze (#4.3)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Big Freeze (#4.3)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Big Freeze (#4.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Big Squeeze (#2.2)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Big Squeeze (#2.2)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Big Squeeze (#2.2)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Big Squeeze (#2.2)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Big Squeeze (#2.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Big Squeeze (#2.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Big Squeeze (#2.2)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Birthday Letter (#1.7)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Birthday Letter (#1.7)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Birthday Letter (#1.7)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Birthday Letter (#1.7)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Boy Who Hated Superman (#2.17)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Boy Who Hated Superman (#2.17)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Boy Who Hated Superman (#2.17)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Boy Who Hated Superman (#2.17)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Boy Who Hated Superman (#2.17)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Brainy Burro (#6.11)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Brainy Burro (#6.11)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Brainy Burro (#6.11)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Brainy Burro (#6.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Brainy Burro (#6.11)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Bully of Dry Gulch (#3.10)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Bully of Dry Gulch (#3.10)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Bully of Dry Gulch (#3.10)}', 'Corriganville, Ray Corrigan Ranch, Simi Valley, California, USA']	34.2694474	-118.781482
+['"Adventures of Superman" (1952) {The Case of the Talkative Dummy (#1.3)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Case of the Talkative Dummy (#1.3)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Case of the Talkative Dummy (#1.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Case of the Talkative Dummy (#1.3)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Case of the Talkative Dummy (#1.3)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Case of the Talkative Dummy (#1.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Case of the Talkative Dummy (#1.3)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Clown Who Cried (#2.16)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Clown Who Cried (#2.16)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Clown Who Cried (#2.16)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Deadly Rock (#4.11)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Deadly Rock (#4.11)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Deadly Rock (#4.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Defeat of Superman (#2.6)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Defeat of Superman (#2.6)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Defeat of Superman (#2.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Deserted Village (#1.12)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Deserted Village (#1.12)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Deserted Village (#1.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Deserted Village (#1.12)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Dog Who Knew Superman (#2.9)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Dog Who Knew Superman (#2.9)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Dog Who Knew Superman (#2.9)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Dog Who Knew Superman (#2.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Evil Three (#1.19)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Evil Three (#1.19)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Evil Three (#1.19)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Evil Three (#1.19)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Face and the Voice (#2.10)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Face and the Voice (#2.10)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Face and the Voice (#2.10)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Face and the Voice (#2.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Face and the Voice (#2.10)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Gentle Monster (#6.8)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Gentle Monster (#6.8)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Gentle Monster (#6.8)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Gentle Monster (#6.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Gentle Monster (#6.8)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Girl Who Hired Superman (#4.7)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Girl Who Hired Superman (#4.7)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Girl Who Hired Superman (#4.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Golden Vulture (#2.21)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Golden Vulture (#2.21)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Golden Vulture (#2.21)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Golden Vulture (#2.21)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Golden Vulture (#2.21)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Haunted Lighthouse (#1.2)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Haunted Lighthouse (#1.2)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Haunted Lighthouse (#1.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Haunted Lighthouse (#1.2)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Human Bomb (#1.21)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Human Bomb (#1.21)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Human Bomb (#1.21)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Human Bomb (#1.21)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Human Bomb (#1.21)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Jolly Roger (#4.13)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Jolly Roger (#4.13)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Jolly Roger (#4.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Last Knight (#6.1)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Last Knight (#6.1)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Last Knight (#6.1)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Last Knight (#6.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Last Knight (#6.1)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Lucky Cat (#3.3)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Lucky Cat (#3.3)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Lucky Cat (#3.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Machine That Could Plot Crimes (#2.13)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Machine That Could Plot Crimes (#2.13)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Machine That Could Plot Crimes (#2.13)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Machine That Could Plot Crimes (#2.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Magic Necklace (#3.9)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Magic Necklace (#3.9)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Magic Necklace (#3.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Magic Secret (#6.2)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Magic Secret (#6.2)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Magic Secret (#6.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Magic Secret (#6.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Magic Secret (#6.2)}', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Man Who Could Read Minds (#2.3)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Man Who Could Read Minds (#2.3)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Man Who Could Read Minds (#2.3)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Man Who Could Read Minds (#2.3)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Man Who Could Read Minds (#2.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Man Who Could Read Minds (#2.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Man Who Could Read Minds (#2.3)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Man Who Made Dreams Come True (#5.5)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Man Who Made Dreams Come True (#5.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Man Who Made Dreams Come True (#5.5)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Man in the Lead Mask (#2.11)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Man in the Lead Mask (#2.11)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Man in the Lead Mask (#2.11)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Man in the Lead Mask (#2.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Mind Machine (#1.8)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Mind Machine (#1.8)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Mind Machine (#1.8)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Mind Machine (#1.8)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Mind Machine (#1.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures of Superman" (1952) {The Monkey Mystery (#1.5)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Mysterious Cube (#6.4)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Mysterious Cube (#6.4)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Mysterious Cube (#6.4)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Mysterious Cube (#6.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Mysterious Cube (#6.4)}', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Perils of Superman (#6.12)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Perils of Superman (#6.12)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Perils of Superman (#6.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Perils of Superman (#6.12)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Perils of Superman (#6.12)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Phantom Ring (#4.12)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Phantom Ring (#4.12)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Phantom Ring (#4.12)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Phony Alibi (#5.9)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Phony Alibi (#5.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Phony Alibi (#5.9)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Prince Albert Coat (#5.10)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Prince Albert Coat (#5.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Prince Albert Coat (#5.10)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Riddle of the Chinese Jade (#1.20)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Riddle of the Chinese Jade (#1.20)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Riddle of the Chinese Jade (#1.20)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Riddle of the Chinese Jade (#1.20)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Riddle of the Chinese Jade (#1.20)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Riddle of the Chinese Jade (#1.20)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Runaway Robot (#1.17)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Runaway Robot (#1.17)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Runaway Robot (#1.17)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Runaway Robot (#1.17)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Runaway Robot (#1.17)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Runaway Robot (#1.17)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Runaway Robot (#1.17)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adventures of Superman" (1952) {The Secret of Superman (#1.10)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Secret of Superman (#1.10)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Secret of Superman (#1.10)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Secret of Superman (#1.10)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Secret of Superman (#1.10)}', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Secret of Superman (#1.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Seven Souvenirs (#3.12)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Seven Souvenirs (#3.12)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Seven Souvenirs (#3.12)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Stolen Costume (#1.13)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Stolen Costume (#1.13)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Stolen Costume (#1.13)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Stolen Costume (#1.13)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {The Stolen Costume (#1.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Stolen Elephant (#5.11)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Stolen Elephant (#5.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Stolen Elephant (#5.11)}', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Superman Silver Mine (#6.6)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Superman Silver Mine (#6.6)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Superman Silver Mine (#6.6)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Superman Silver Mine (#6.6)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Talking Clue (#3.2)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Talking Clue (#3.2)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Talking Clue (#3.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Town That Wasn\'t (#5.3)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Town That Wasn\'t (#5.3)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {The Unknown People: Part I (#1.25)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Unknown People: Part I (#1.25)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Unknown People: Part I (#1.25)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Unknown People: Part II (#1.26)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Unknown People: Part II (#1.26)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Unknown People: Part II (#1.26)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {The Unlucky Number (#4.2)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Unlucky Number (#4.2)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Unlucky Number (#4.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Wedding of Superman (#4.8)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Wedding of Superman (#4.8)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Wedding of Superman (#4.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Whistling Bird (#2.25)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {The Whistling Bird (#2.25)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {The Whistling Bird (#2.25)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Three in One (#6.10)}', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Three in One (#6.10)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Three in One (#6.10)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Three in One (#6.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Three in One (#6.10)}', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Through the Time Barrier (#3.1)}', 'California Studios - 5530 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Through the Time Barrier (#3.1)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Through the Time Barrier (#3.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Tin Hero (#5.2)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Tin Hero (#5.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Tin Hero (#5.2)}', 'ZIV Studios, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Tomb of Zaharan (#5.4)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Tomb of Zaharan (#5.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Tomb of Zaharan (#5.4)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Adventures of Superman" (1952) {Topsy Turvy (#4.5)}', 'Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Topsy Turvy (#4.5)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Topsy Turvy (#4.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Treasure of the Incas (#1.14)}', 'Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Treasure of the Incas (#1.14)}', 'Backlot, Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Adventures of Superman" (1952) {Treasure of the Incas (#1.14)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adventures of Superman" (1952) {Treasure of the Incas (#1.14)}', 'E. Clem Wilson Building, Wilshire Boulevard, Los Angeles, California, USA']	34.06259275	-118.34366752015936
+['"Adventures of Superman" (1952) {Whatever Goes Up (#5.13)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Whatever Goes Up (#5.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures of Superman" (1952) {Whatever Goes Up (#5.13)}', 'ZIV Studios, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"All in One" (1952)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Amor en mesa de saldos" (1952)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bandstand" (1952)', '', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952)', '', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {"THE NEW AMERICAN BANDSTAND 1965 New Year\'s Day Show" (#8.17)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {"THE NEW AMERICAN BANDSTAND 1965 Salute to the BEATLES" (#8.6)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#1.17)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#1.170)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#1.186)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#1.252)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#1.278)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#10.10)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.11)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.12)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.13)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.14)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.16)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.17)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.18)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.19)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.2)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.23)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.3)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.34)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.4)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.5)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.6)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.7)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#10.9)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#11.1)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#11.14)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#11.19)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#11.30)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#11.35)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#11.37)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#11.48)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#11.6)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#12.19)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#12.2)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#12.24)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#12.27)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#12.34)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#12.40)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#12.6)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#13.17)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#13.21)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#13.38)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#13.39)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#13.40)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#13.50)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#14.10)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#14.21)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#14.23)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#14.27)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#14.39)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#14.4)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#14.47)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#14.50)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#16.10)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#16.8)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#17.1)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#18.1)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#19.28)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#2.171)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#20.13)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#20.15)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#20.17)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#20.2)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#20.27)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#20.3)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#20.33)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#20.45)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#21.31)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#21.33)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#22.11)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#22.17)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#22.27)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#22.4)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#27.2)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#3.21)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#4.160)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#4.178)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#4.218)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#4.57)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#4.86)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#4.94)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#6.198)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#6.242)}', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(#7.20)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#7.27)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#7.39)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#7.43)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#8.18)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#8.19)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#8.24)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#9.13)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#9.30)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#9.35)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#9.44)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(#9.50)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {(1961-04-20)}', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(1961-10-09)}', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {(1963-02-26)}', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bandstand" (1952) {1965 Halloween Show (#9.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bandstand" (1952) {1966 Halloween Show (#10.8)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bandstand" (1952) {A Salute to Mama Cass Elliot (#13.10)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bandstand" (1952) {Action \'74 (3 of 9) (#17.29)}', 'Big Bear, California, USA']	34.2440587	-116.9101808
+['"Bandstand" (1952) {American Bandstand\'s 9th Anniversary on ABC-TV Featuring Johnny Rivers (#9.51)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {Johnny Rivers & Jerry Wallace (#8.1)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {Miss Ketty Lester & Mr. Gene Chandler "The Debut of The New AMERICAN BANDSTAND 1966" (#9.1)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {Smokey Robinson & The Miracles & Gale Garnett (#9.11)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {THE HOLLIES & Tommy Roe: The Debut of THE NEW AMERICAN BANDSTAND 1967 (#10.1)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {The Hard Times & Freddy "Boom Boom" Cannon (THE NEW AB67 Christmas Show) (#10.15)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {The New American Bandstand 1966 Christmas Show (#9.16)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {The New American Bandstand 1966 New Year\'s Show (#9.17)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandstand" (1952) {Tommy Boyce & Bobby Hart & Kathy Garver (#13.16)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Biff Baker, U.S.A." (1952)', '', '', '', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {11 Black (#1.14)}', '', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Alpine Assignment (#1.5)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Black Lead (#1.24)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Blue Mosque (#1.11)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Counterfeit Plates (#1.7)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Crash Landing (#1.4)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Death Ship (#1.10)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Demolition Bomb (#1.13)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Detour to Cairo (#1.18)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Flight to Geneva (#1.15)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Flight to Istanbul (#1.25)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Golden Slippers (#1.21)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Gottingen (#1.3)}', '', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Grey Market (#1.2)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Koblen (#1.1)}', '', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Lisbon (#1.16)}', '', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {London Incident (#1.8)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Mona Lisa (#1.6)}', '', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Paris Perfume (#1.9)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Pattern in Algiers (#1.22)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Saigon Incident (#1.12)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {The Hawaii Story (#1.20)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {The Jewel (#1.26)}', '', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {The Sisters Three (#1.19)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {The Witness (#1.17)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Biff Baker, U.S.A." (1952) {Trouble in Pakistan (#1.23)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825

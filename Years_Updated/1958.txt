@@ -1,0 +1,654 @@
+['"77 Sunset Strip" (1958)', '', '', '', 'Tiffany Theatre, 8532 Sunset Blvd., West Hollywood, California , USA']	34.0923014	-118.3692894
+['"77 Sunset Strip" (1958)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"77 Sunset Strip" (1958)', '', '', '', "Dino's Lodge, 8524 Sunset Boulavard, West Hollywood, California, USA"]	34.0923014	-118.3692894
+['"77 Sunset Strip" (1958)', '', '', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958)', '', '', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958)', '', '', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 1 (#6.1)}', '', 'Bradbury Building - 304 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"77 Sunset Strip" (1958) {5: Part 1 (#6.1)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 1 (#6.1)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 2 (#6.2)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 2 (#6.2)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 2 (#6.2)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 3 (#6.3)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 3 (#6.3)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {5: Part 3 (#6.3)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 4 (#6.4)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {5: Part 4 (#6.4)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: Part 4 (#6.4)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {5: The Conclusion (#6.5)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {5: The Conclusion (#6.5)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {5: The Conclusion (#6.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {88 Bars (#6.7)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {88 Bars (#6.7)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {88 Bars (#6.7)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {A Bargain in Tombs (#1.29)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {A Bargain in Tombs (#1.29)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {A Bargain in Tombs (#1.29)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {A Bargain in Tombs (#1.29)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {A Check Will Do Nicely (#1.25)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {A Check Will Do Nicely (#1.25)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {A Check Will Do Nicely (#1.25)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {A Check Will Do Nicely (#1.25)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {A Nice Social Evening (#1.3)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {A Nice Social Evening (#1.3)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {A Nice Social Evening (#1.3)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {A Nice Social Evening (#1.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Abra-Cadaver (#1.28)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Abra-Cadaver (#1.28)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Abra-Cadaver (#1.28)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Abra-Cadaver (#1.28)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Adventure in San Dede (#5.10)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Adventure in San Dede (#5.10)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Adventure in San Dede (#5.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Alimony League (#6.16)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Alimony League (#6.16)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Alimony League (#6.16)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {All Our Yesterdays (#1.7)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {All Our Yesterdays (#1.7)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {All Our Yesterdays (#1.7)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Attic (#3.1)}', '', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Attic (#3.1)}', '', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Attic (#3.1)}', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Baker Street Caper (#4.26)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Baker Street Caper (#4.26)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Baker Street Caper (#4.26)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Big Boy Blue (#4.7)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Big Boy Blue (#4.7)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Big Boy Blue (#4.7)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Blackout (#2.23)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Blackout (#2.23)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Blackout (#2.23)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Blackout (#2.23)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Bonus Baby (#6.13)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Bonus Baby (#6.13)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Bonus Baby (#6.13)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Brass Ring Caper (#4.21)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Brass Ring Caper (#4.21)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Brass Ring Caper (#4.21)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Bullets for Santa (#4.14)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Bullets for Santa (#4.14)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Bullets for Santa (#4.14)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {By His Own Verdict (#6.9)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {By His Own Verdict (#6.9)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {By His Own Verdict (#6.9)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Canine Caper (#1.32)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Canine Caper (#1.32)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Canine Caper (#1.32)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Canine Caper (#1.32)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Caper in E Flat (#3.36)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Caper in E Flat (#3.36)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Caper in E Flat (#3.36)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Casualty (#1.4)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Casualty (#1.4)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Casualty (#1.4)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Casualty (#1.4)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Clay Pigeon (#2.4)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Clay Pigeon (#2.4)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Clay Pigeon (#2.4)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Clay Pigeon (#2.4)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Collector\'s Item (#2.15)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Collector\'s Item (#2.15)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Collector\'s Item (#2.15)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Collector\'s Item (#2.15)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Condor\'s Lair (#2.20)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Condor\'s Lair (#2.20)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Condor\'s Lair (#2.20)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Condor\'s Lair (#2.20)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Conspiracy of Silence (#1.18)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Conspiracy of Silence (#1.18)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Conspiracy of Silence (#1.18)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Conspiracy of Silence (#1.18)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Crash Out! (#5.17)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Crash Out! (#5.17)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Crash Out! (#5.17)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Created He Them (#2.14)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Created He Them (#2.14)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Created He Them (#2.14)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Created He Them (#2.14)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Dark Vengeance (#1.17)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Dark Vengeance (#1.17)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Dark Vengeance (#1.17)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Dark Vengeance (#1.17)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Dead as in \'Dude\' (#6.19)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Dead as in \'Dude\' (#6.19)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Deposit with Caution (#6.10)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Deposit with Caution (#6.10)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Deposit with Caution (#6.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Designing Eye (#3.35)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Designing Eye (#3.35)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Designing Eye (#3.35)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Dial \'S\' for Spencer (#5.21)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Dial \'S\' for Spencer (#5.21)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Dial \'S\' for Spencer (#5.21)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Don\'t Wait for Me (#6.8)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Don\'t Wait for Me (#6.8)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Don\'t Wait for Me (#6.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Double Trouble (#3.8)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Double Trouble (#3.8)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Double Trouble (#3.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Downbeat (#1.31)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Downbeat (#1.31)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Downbeat (#1.31)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Downbeat (#1.31)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Dress Rehearsal (#4.36)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Dress Rehearsal (#4.36)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Dress Rehearsal (#4.36)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Escape to Freedom (#5.20)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Escape to Freedom (#5.20)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Escape to Freedom (#5.20)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Eyewitness (#1.19)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Eyewitness (#1.19)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Eyewitness (#1.19)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Eyewitness (#1.19)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Face in the Window (#3.24)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Face in the Window (#3.24)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Face in the Window (#3.24)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Falling Stars (#5.13)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Falling Stars (#5.13)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Falling Stars (#5.13)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Family Skeleton (#2.36)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Family Skeleton (#2.36)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Family Skeleton (#2.36)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Flight 307 (#5.25)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Flight 307 (#5.25)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Flight 307 (#5.25)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Flight from Escondido (#4.35)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Flight from Escondido (#4.35)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Flight from Escondido (#4.35)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Framework for a Badge (#4.37)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Framework for a Badge (#4.37)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Framework for a Badge (#4.37)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Fraternity of Fear (#2.31)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Fraternity of Fear (#2.31)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Fraternity of Fear (#2.31)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Fraternity of Fear (#2.31)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Genesis of Treason (#2.30)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Genesis of Treason (#2.30)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Genesis of Treason (#2.30)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Genesis of Treason (#2.30)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Ghost of a Memory (#4.31)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Ghost of a Memory (#4.31)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Ghost of a Memory (#4.31)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Girl on the Run (#1.1)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Girl on the Run (#1.1)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Girl on the Run (#1.1)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Girl on the Run (#1.1)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hit and Run (#1.13)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hit and Run (#1.13)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Hit and Run (#1.13)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hit and Run (#1.13)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Honey from the Bee (#1.27)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Honey from the Bee (#1.27)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Honey from the Bee (#1.27)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Honey from the Bee (#1.27)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hong Kong Caper (#1.24)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hong Kong Caper (#1.24)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hong Kong Caper (#1.24)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hong Kong Caper (#1.24)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hot Tamale Caper: Part I (#3.37)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Hot Tamale Caper: Part I (#3.37)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hot Tamale Caper: Part I (#3.37)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hot Tamale Caper: Part II (#3.38)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hot Tamale Caper: Part II (#3.38)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Hot Tamale Caper: Part II (#3.38)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {In Memoriam (#1.21)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {In Memoriam (#1.21)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {In Memoriam (#1.21)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {In Memoriam (#1.21)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Iron Curtain Caper (#1.9)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Iron Curtain Caper (#1.9)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Iron Curtain Caper (#1.9)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Iron Curtain Caper (#1.9)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Jennifer (#4.25)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Jennifer (#4.25)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Jennifer (#4.25)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Lady in the Sun (#5.32)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lady in the Sun (#5.32)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Lady in the Sun (#5.32)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Leap, My Lovely (#5.2)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Leap, My Lovely (#5.2)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Leap, My Lovely (#5.2)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Legend of Crystal Dart (#2.28)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Legend of Crystal Dart (#2.28)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Legend of Crystal Dart (#2.28)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Legend of Crystal Dart (#2.28)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovely Alibi (#1.20)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovely Alibi (#1.20)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovely Alibi (#1.20)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovely Alibi (#1.20)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovely Lady, Pity Me (#1.2)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovely Lady, Pity Me (#1.2)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovely Lady, Pity Me (#1.2)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovely Lady, Pity Me (#1.2)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovers\' Lane (#6.15)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovers\' Lane (#6.15)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Lovers\' Lane (#6.15)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Mr. Bailey\'s Honeymoon (#4.17)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Mr. Bailey\'s Honeymoon (#4.17)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Mr. Bailey\'s Honeymoon (#4.17)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Mr. Goldilocks (#3.20)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Mr. Goldilocks (#3.20)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Mr. Goldilocks (#3.20)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Mr. Paradise (#1.33)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Mr. Paradise (#1.33)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Mr. Paradise (#1.33)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Mr. Paradise (#1.33)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Never to Have Loved (#5.36)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Never to Have Loved (#5.36)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Never to Have Loved (#5.36)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Nightmare (#4.40)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Nightmare (#4.40)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Nightmare (#4.40)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Nine to Five (#5.22)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Nine to Five (#5.22)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Nine to Five (#5.22)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Not Such a Simple Knot (#6.17)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Not Such a Simple Knot (#6.17)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Not Such a Simple Knot (#6.17)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Not an Enemy in the World (#1.14)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Not an Enemy in the World (#1.14)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Not an Enemy in the World (#1.14)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Old Card Sharps Never Die (#3.29)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Old Card Sharps Never Die (#3.29)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Old Card Sharps Never Die (#3.29)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Once Upon a Caper (#3.22)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Once Upon a Caper (#3.22)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Once Upon a Caper (#3.22)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {One False Step (#1.11)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {One False Step (#1.11)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {One False Step (#1.11)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {One False Step (#1.11)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Only Zeros Count (#2.1)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Only Zeros Count (#2.1)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Only Zeros Count (#2.1)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Only Zeros Count (#2.1)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Open and Close in One (#3.27)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Open and Close in One (#3.27)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Open and Close in One (#3.27)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Our Man in Switzerland (#5.33)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Our Man in Switzerland (#5.33)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Our Man in Switzerland (#5.33)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Out of the Past (#2.8)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Out of the Past (#2.8)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Out of the Past (#2.8)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Out of the Past (#2.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Paper Chase (#6.14)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Paper Chase (#6.14)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Paper Chase (#6.14)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Pattern for a Bomb (#4.38)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Pattern for a Bomb (#4.38)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Pattern for a Bomb (#4.38)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Penthouse on Skid Row (#4.18)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Penthouse on Skid Row (#4.18)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Penthouse on Skid Row (#4.18)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Perfect Setup (#2.33)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Perfect Setup (#2.33)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Perfect Setup (#2.33)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Perfect Setup (#2.33)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Publicity Brat (#2.26)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Publicity Brat (#2.26)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Publicity Brat (#2.26)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Publicity Brat (#2.26)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Queen of the Cats (#6.20)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Queen of the Cats (#6.20)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Queen of the Cats (#6.20)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Reserved for Mr. Bailey (#4.12)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Reserved for Mr. Bailey (#4.12)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Reserved for Mr. Bailey (#4.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Return to San Dede (Capital City) (#2.25)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Return to San Dede (Capital City) (#2.25)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Return to San Dede (Capital City) (#2.25)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Return to San Dede (Capital City) (#2.25)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Return to San Dede (The Desert Story) (#2.24)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Return to San Dede (The Desert Story) (#2.24)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Return to San Dede (The Desert Story) (#2.24)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Return to San Dede (The Desert Story) (#2.24)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Reunion at Balboa (#5.27)}', 'Balboa Island, Newport Beach, California, USA']	33.6064778	-117.8920819
+['"77 Sunset Strip" (1958) {Reunion at Balboa (#5.27)}', 'Newport Beach, California, USA']	33.6170092	-117.9294401
+['"77 Sunset Strip" (1958) {Reunion at Balboa (#5.27)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Reunion at Balboa (#5.27)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Reunion at Balboa (#5.27)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Safari (#2.22)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Safari (#2.22)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Safari (#2.22)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Safari (#2.22)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Scream Softly, Dear (#5.15)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Scream Softly, Dear (#5.15)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Scream Softly, Dear (#5.15)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Secret Island (#2.10)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Secret Island (#2.10)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Secret Island (#2.10)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Secret Island (#2.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Shadow on Your Shoulder (#5.9)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Shadow on Your Shoulder (#5.9)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Shadow on Your Shoulder (#5.9)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Sierra (#2.34)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Sierra (#2.34)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Sierra (#2.34)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Sierra (#2.34)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Sing Something Simple (#2.6)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Sing Something Simple (#2.6)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Sing Something Simple (#2.6)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Sing Something Simple (#2.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Six Feet Under (#5.19)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Six Feet Under (#5.19)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Six Feet Under (#5.19)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Six Superior Skirts (#2.3)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Six Superior Skirts (#2.3)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Six Superior Skirts (#2.3)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Six Superior Skirts (#2.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Spark of Freedom (#2.32)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Spark of Freedom (#2.32)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Spark of Freedom (#2.32)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Strange Bedfellows (#3.23)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Strange Bedfellows (#3.23)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Strange Bedfellows (#3.23)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Strange Girl in Town (#1.34)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Strange Girl in Town (#1.34)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Strange Girl in Town (#1.34)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Strange Girl in Town (#1.34)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Stranger Than Fiction (#2.29)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Stranger Than Fiction (#2.29)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Stranger Than Fiction (#2.29)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Stranger Than Fiction (#2.29)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Stranger from the Sea (#5.23)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Stranger from the Sea (#5.23)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Stranger from the Sea (#5.23)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Switchburg (#2.16)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Switchburg (#2.16)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Switchburg (#2.16)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Switchburg (#2.16)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Target Island (#5.26)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Target Island (#5.26)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Target Island (#5.26)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Ten Cents a Death (#2.18)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Ten Cents a Death (#2.18)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Ten Cents a Death (#2.18)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Ten Cents a Death (#2.18)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Terror in Silence (#5.16)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Terror in Silence (#5.16)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Terror in Silence (#5.16)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Terror in a Small Town (#5.3)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Terror in a Small Town (#5.3)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Terror in a Small Town (#5.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Thanks for Tomorrow (#2.5)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Thanks for Tomorrow (#2.5)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Thanks for Tomorrow (#2.5)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Thanks for Tomorrow (#2.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The 6 Out of 8 Caper (#3.32)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The 6 Out of 8 Caper (#3.32)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The 6 Out of 8 Caper (#3.32)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Affairs of Adam Gallante (#3.13)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Affairs of Adam Gallante (#3.13)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Affairs of Adam Gallante (#3.13)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Antwerp Caper (#3.12)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Antwerp Caper (#3.12)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Antwerp Caper (#3.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bel Air Hermit (#4.22)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bel Air Hermit (#4.22)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bel Air Hermit (#4.22)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bouncing Chip (#1.5)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bouncing Chip (#1.5)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bouncing Chip (#1.5)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bouncing Chip (#1.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bridal Trail Caper (#4.20)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Bridal Trail Caper (#4.20)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Bridal Trail Caper (#4.20)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Catspaw Caper (#5.6)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Catspaw Caper (#5.6)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Catspaw Caper (#5.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Celluloid Cowboy (#3.33)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Celluloid Cowboy (#3.33)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Celluloid Cowboy (#3.33)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Checkmate Caper (#5.35)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Checkmate Caper (#5.35)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Checkmate Caper (#5.35)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Chrome Coffin (#4.15)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Chrome Coffin (#4.15)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Chrome Coffin (#4.15)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Cold Cash Caper (#4.8)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Cold Cash Caper (#4.8)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Cold Cash Caper (#4.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The College Caper (#3.19)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The College Caper (#3.19)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The College Caper (#3.19)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Common Denominator (#3.31)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Common Denominator (#3.31)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Common Denominator (#3.31)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Corsican Caper (#3.21)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Corsican Caper (#3.21)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Corsican Caper (#3.21)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Court Martial of Johnny Murdo (#1.12)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Court Martial of Johnny Murdo (#1.12)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Court Martial of Johnny Murdo (#1.12)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Court Martial of Johnny Murdo (#1.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Dark Wood (#5.8)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Dark Wood (#5.8)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Dark Wood (#5.8)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Deadly Solo (#4.11)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Deadly Solo (#4.11)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Deadly Solo (#4.11)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Desert Spa Caper (#4.2)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Desert Spa Caper (#4.2)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Desert Spa Caper (#4.2)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Diplomatic Caper (#4.19)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Diplomatic Caper (#4.19)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Diplomatic Caper (#4.19)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Disappearance (#4.32)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Disappearance (#4.32)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Disappearance (#4.32)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Double Death of Benny Markham (#3.11)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Double Death of Benny Markham (#3.11)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Double Death of Benny Markham (#3.11)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Down Under Caper (#4.16)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Down Under Caper (#4.16)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Down Under Caper (#4.16)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Dresden Doll (#3.15)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Dresden Doll (#3.15)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Dresden Doll (#3.15)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Duncan Shrine (#3.10)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Duncan Shrine (#3.10)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Duncan Shrine (#3.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Eyes of Love (#3.34)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Eyes of Love (#3.34)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Eyes of Love (#3.34)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fanatics (#3.2)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fanatics (#3.2)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fanatics (#3.2)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fifth Stair (#1.22)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fifth Stair (#1.22)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fifth Stair (#1.22)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Fifth Stair (#1.22)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fix (#2.27)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Fix (#2.27)}', '', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fix (#2.27)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Fix (#2.27)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Floating Man (#5.5)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Floating Man (#5.5)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Floating Man (#5.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Fumble (#6.12)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Fumble (#6.12)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Fumble (#6.12)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Gang\'s All Here (#4.41)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Gang\'s All Here (#4.41)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Gang\'s All Here (#4.41)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Gemmologist Caper (#4.34)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Gemmologist Caper (#4.34)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Gemmologist Caper (#4.34)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Girl Who Couldn\'t Remember (#1.16)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Girl Who Couldn\'t Remember (#1.16)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Girl Who Couldn\'t Remember (#1.16)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Girl Who Couldn\'t Remember (#1.16)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Grandma Caper (#1.26)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Grandma Caper (#1.26)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Grandma Caper (#1.26)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Grandma Caper (#1.26)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Hamlet Caper (#3.17)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Hamlet Caper (#3.17)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Hamlet Caper (#3.17)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Heartbeat Caper (#5.30)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Heartbeat Caper (#5.30)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Heartbeat Caper (#5.30)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Inverness Cape Caper (#4.4)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Inverness Cape Caper (#4.4)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Inverness Cape Caper (#4.4)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Jukebox Caper (#2.13)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Jukebox Caper (#2.13)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Jukebox Caper (#2.13)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Jukebox Caper (#2.13)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Kookie Caper (#2.2)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Kookie Caper (#2.2)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Kookie Caper (#2.2)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Kookie Caper (#2.2)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Lady Has the Answers (#4.5)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Lady Has the Answers (#4.5)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Lady Has the Answers (#4.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Laurel Canyon Caper (#3.7)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Laurel Canyon Caper (#3.7)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Laurel Canyon Caper (#3.7)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Left Field Caper (#5.29)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Left Field Caper (#5.29)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Left Field Caper (#5.29)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Legend of Leckonby (#3.28)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Legend of Leckonby (#3.28)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Legend of Leckonby (#3.28)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Long Shot Caper (#4.27)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Long Shot Caper (#4.27)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Long Shot Caper (#4.27)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Lovely American (#4.33)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Lovely American (#4.33)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Lovely American (#4.33)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Man Who Wasn\'t There (#5.24)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Man Who Wasn\'t There (#5.24)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Man Who Wasn\'t There (#5.24)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Man in the Crowd (#4.3)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Man in the Crowd (#4.3)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Man in the Crowd (#4.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Man in the Mirror (#3.18)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Man in the Mirror (#3.18)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Man in the Mirror (#3.18)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Missing Daddy Caper (#4.9)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Missing Daddy Caper (#4.9)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Missing Daddy Caper (#4.9)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Navy Caper (#4.13)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Navy Caper (#4.13)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Navy Caper (#4.13)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Negotiable Blonde (#3.6)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Negotiable Blonde (#3.6)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Negotiable Blonde (#3.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Night Was Six Years Long (#5.18)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Night Was Six Years Long (#5.18)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Night Was Six Years Long (#5.18)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Odds on Odette (#5.11)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Odds on Odette (#5.11)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Odds on Odette (#5.11)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {The Office Caper (#3.4)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Well-Selected Frame (#1.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widescreen Caper (#3.5)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widescreen Caper (#3.5)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widescreen Caper (#3.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widow Wouldn\'t Weep (#1.30)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widow Wouldn\'t Weep (#1.30)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widow Wouldn\'t Weep (#1.30)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widow Wouldn\'t Weep (#1.30)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widow and the Web (#2.9)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widow and the Web (#2.9)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widow and the Web (#2.9)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {The Widow and the Web (#2.9)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Tiger by the Tail (#3.25)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Tiger by the Tail (#3.25)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Tiger by the Tail (#3.25)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {To Catch a Mink (#5.31)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {To Catch a Mink (#5.31)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {To Catch a Mink (#5.31)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Trouble in the Middle East (#3.9)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Trouble in the Middle East (#3.9)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Trouble in the Middle East (#3.9)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Twice Dead (#4.24)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Twice Dead (#4.24)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Twice Dead (#4.24)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Two and Two Make Six (#1.6)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Two and Two Make Six (#1.6)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Two and Two Make Six (#1.6)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Two and Two Make Six (#1.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Upbeat (#4.39)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Upbeat (#4.39)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Upbeat (#4.39)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Vacation with Pay (#2.12)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Vacation with Pay (#2.12)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Vacation with Pay (#2.12)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Vacation with Pay (#2.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Vamp \'til Ready (#3.30)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Vamp \'til Ready (#3.30)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Vamp \'til Ready (#3.30)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Vicious Circle (#1.10)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Vicious Circle (#1.10)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Vicious Circle (#1.10)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Vicious Circle (#1.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Violence for Your Furs (#4.28)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Violence for Your Furs (#4.28)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Violence for Your Furs (#4.28)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Walk Among Tigers (#5.28)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Walk Among Tigers (#5.28)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Walk Among Tigers (#5.28)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {White Lie (#6.6)}', '', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {White Lie (#6.6)}', '', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {White Lie (#6.6)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Who Killed Cock Robin (#2.19)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Who Killed Cock Robin (#2.19)}', 'Stage 17, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Who Killed Cock Robin (#2.19)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Who Killed Cock Robin (#2.19)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Wolf! Cried the Blonde (#5.7)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Wolf! Cried the Blonde (#5.7)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"77 Sunset Strip" (1958) {Wolf! Cried the Blonde (#5.7)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Your Fortune for a Penny (#5.34)}', 'Stage 14, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Your Fortune for a Penny (#5.34)}', 'Stage 21, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"77 Sunset Strip" (1958) {Your Fortune for a Penny (#5.34)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"About Religion" (1958) {Love Is My Calling}', '', 'Harrow, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"About Religion" (1958) {The Site}', '', '', 'Coventry Cathedral, Coventry, West Midlands, England, UK']	52.40862225	-1.507081914195552
+['"About Religion" (1958) {This Is the End}', '', 'Coventry Cathedral, Coventry, West Midlands, England, UK']	52.40862225	-1.507081914195552
+['"Adventures of the Sea Hawk" (1958)', '', '', 'Bermuda']	32.3018217	-64.7603583
+['"Annette" (1958)', '', '', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {Almost a Fight (#1.9)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {An Invitation (#1.3)}', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {Annette Makes a Decision (#1.13)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {Annette Meets Jet (#1.2)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {Mike to the Rescue (#1.18)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {Paying the Piper (#1.6)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {Steady Gets an Idea (#1.10)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Barbecue (#1.15)}', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Escort (#1.4)}', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Explosion (#1.11)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Farewell Letter (#1.17)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Fight (#1.16)}', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Hayride (#1.14)}', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Missing Necklace (#1.7)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Mystery Is Solved (#1.19)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Newcomer (#1.1)}', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Party (#1.5)}', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {The Turned Down Invitation (#1.12)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Annette" (1958) {What Happened at School (#1.8)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Anybody Can Play" (1958)', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Australian Walkabout" (1958)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Autumn Affair" (1958)', '', '', '', '', 'ATN-7 Studios - 61 Mobbs Lane, Epping, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Bat Masterson" (1958)', '', '', '', '', 'Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bat Masterson" (1958)', '', '', '', '', 'Castle Ranch - 44901 Fairmont Road, Lancaster, California, USA']	34.6981064	-118.1366153
+['"Bat Masterson" (1958)', '', '', '', '', 'Corriganville, Ray Corrigan Ranch, Simi Valley, California, USA']	34.2694474	-118.781482
+['"Bat Masterson" (1958)', '', '', '', '', 'Iverson Ranch - 1 Iverson Lane, Chatsworth, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bat Masterson" (1958)', '', '', '', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Bat Masterson" (1958)', '', '', '', '', 'ZIV Studios - 7950 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Bat Masterson" (1958) {Blood on the Money (#2.36)}', 'Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bat Masterson" (1958) {Blood on the Money (#2.36)}', 'Bronson Caves, Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bat Masterson" (1958) {Dagger Dance (#3.28)}', '', 'Vasquez Rocks Natural Area Park - 10700 W. Escondido Canyon Rd., Agua Dulce, California, USA']	36.773557	-121.737165
+['"Bat Masterson" (1958) {Dynamite Blows Two Ways (#1.3)}', 'Iverson Ranch - 1 Iverson Lane, Chatsworth, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bat Masterson" (1958) {High Card Loses (#3.7)}', '', 'Bronson Caves, Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bat Masterson" (1958) {Lottery of Death (#1.28)}', 'Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Bat Masterson" (1958) {Meeting at Mimbers (#3.27)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Bat Masterson" (1958) {One Bullet from Broken Bow (#1.15)}', 'Corriganville, Ray Corrigan Ranch, Simi Valley, California, USA']	34.2694474	-118.781482
+['"Bat Masterson" (1958) {Stampede at Tent City (#1.4)}', 'Iverson Ranch - 1 Iverson Lane, Chatsworth, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bat Masterson" (1958) {The Marble Slab (#3.31)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Bat Masterson" (1958) {The Prescott Campaign (#3.18)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Bat Masterson" (1958) {The Rage of Princess Ann (#3.4)}', 'Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bat Masterson" (1958) {The Rage of Princess Ann (#3.4)}', 'Bronson Caves, Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bat Masterson" (1958) {The Treasure of Worry Hill (#1.9)}', "Scotty's Castle, Death Valley National Park, California, USA"]	39.7837304	-100.4458825

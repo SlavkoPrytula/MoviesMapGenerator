@@ -1,0 +1,7 @@
+['"20 Questions" (1949)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC 7 San Francisco" (1949)', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"ABC Barn Dance" (1949)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"ABC Television Players" (1949)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Al Morgan" (1949)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Apartment 3-C" (1949)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Arthur Godfrey and His Friends" (1949) {(1956-12-05)}', 'Miami Beach, Florida, USA']	25.7929198	-80.1353006

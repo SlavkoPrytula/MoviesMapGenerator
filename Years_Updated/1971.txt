@@ -1,0 +1,479 @@
+['"...e le stelle stanno a guardare" (1971)', '', 'Massa Marittima, Grosseto, Tuscany, Italy']	43.0501033	10.888059
+['"...e le stelle stanno a guardare" (1971)', '', 'Punta Ala, Castiglione della Pescaia, Grosseto, Tuscany, Italy']	42.8016536	10.7307001
+['"1971 World Series" (1971)', '', '', '', 'Memorial Stadium - 1000 E. 33rd Street, Baltimore, Maryland, USA']	39.7837304	-100.4458825
+['"1971 World Series" (1971)', '', '', '', 'Three Rivers Stadium - 600 Stadium Circle, Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"A Current Affair" (1971) {Heath Ledger Special}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Current Affair" (1971) {Heath Ledger Special}', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"A Current Affair" (1971) {Heath Ledger Special}', 'Perth, Western Australia, Australia']	-31.9527121	115.8604796
+['"A Current Affair" (1971) {Heath Ledger Special}', 'Soho District, Lower Manhattan, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A View of the Islands" (1971) {A Strong Constitution? (#1.2)}', 'Guernsey, Channel Islands, The Isles, UK']	54.7023545	-3.2765753
+['"A View of the Islands" (1971) {A Strong Constitution? (#1.2)}', 'Alderney, Channel Islands, The Isles, UK']	54.7023545	-3.2765753
+['"A View of the Islands" (1971) {Escape to Nature (#1.1)}', 'Channel Islands, The Isles, UK']	54.7023545	-3.2765753
+['"A View of the Islands" (1971) {Tourists. Please Note. This Is Private Property (#1.3)}', 'Jersey, Channel Islands, The Isles, UK']	54.7023545	-3.2765753
+['"A la buena de Dios" (1971)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la buena de Dios" (1971) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la buena de Dios" (1971) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la buena de Dios" (1971) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la buena de Dios" (1971) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la buena de Dios" (1971) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la buena de Dios" (1971) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la buena de Dios" (1971) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la buena de Dios" (1971) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alias Smith and Jones" (1971)', '', '', '', 'Apacheland Studios - 4369 S. Kings Ranch Road, Gold Canyon, Arizona, USA']	33.3710715	-111.42618498017515
+['"Alias Smith and Jones" (1971)', '', '', '', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Alias Smith and Jones" (1971)', '', '', '', '20th Century Fox Ranch, Malibu Creek State Park - 1925 Las Virgenes Road, Calabasas, California, USA']	34.1446643	-118.6440973
+['"Alias Smith and Jones" (1971)', '', '', '', 'Alabama Hills, Lone Pine, California, USA']	36.6042366	-118.06305838975558
+['"Alias Smith and Jones" (1971)', '', '', '', 'Arches National Park, Utah, USA']	38.7315573	-109.56302781715105
+['"Alias Smith and Jones" (1971)', '', '', '', 'Denver Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971)', '', '', '', 'Manti-La Sal National Forest, Utah, USA']	39.45903585	-111.22590881417281
+['"Alias Smith and Jones" (1971)', '', '', '', 'Mexican Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971)', '', '', '', 'Six Points Texas, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971)', '', '', '', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971)', '', '', '', 'Train Station, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971)', '', '', '', 'Vasquez Rocks Natural Area Park - 10700 W. Escondido Canyon Rd., Agua Dulce, California, USA']	36.773557	-121.737165
+['"Alias Smith and Jones" (1971) {21 Days to Tenstrike (#2.15)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {A Fistful of Diamonds (#1.8)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {Alias Smith and Jones (#1.1)}', 'Castle Valley, Moab, Utah, USA']	38.6792807	-109.4455
+['"Alias Smith and Jones" (1971) {Alias Smith and Jones (#1.1)}', 'Professor Valley, Moab, Utah, USA']	38.5738096	-109.5462146
+['"Alias Smith and Jones" (1971) {Alias Smith and Jones (#1.1)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Bad Night in Big Butte (#2.23)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Bushwack! (#3.5)}', 'California, USA']	36.7014631	-118.7559974
+['"Alias Smith and Jones" (1971) {Bushwack! (#3.5)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Don\'t Get Mad, Get Even (#2.21)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Dreadful Sorry Clementine (#2.10)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Everything Else You Can Steal (#2.13)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Exit from Wickenburg (#1.3)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {High Lonesome Country (#3.2)}', 'Arches National Park, Utah, USA']	38.7315573	-109.56302781715105
+['"Alias Smith and Jones" (1971) {High Lonesome Country (#3.2)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {How to Rob a Bank in One Hard Lesson (#2.2)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Jailbreak at Junction City (#2.3)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Journey from San Juan (#1.13)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {McGuffin (#3.10)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Miracle at Santa Marta (#2.14)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Never Trust an Honest Man (#1.14)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Night of the Red Dog (#2.8)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Only Three to a Bed (#3.12)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Only Three to a Bed (#3.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {Only Three to a Bed (#3.12)}', 'Utah, USA']	39.4225192	-111.7143584
+['"Alias Smith and Jones" (1971) {Return to Devil\'s Hole (#1.7)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Shootout at Diablo Station (#2.11)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Six Strangers at Apache Springs (#2.7)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Smiler with a Gun (#2.4)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Something to Get Hung About (#2.6)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {Stagecoach Seven (#1.9)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The 5th Victim (#1.12)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Biggest Game in the West (#2.19)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Bounty Hunter (#2.12)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Clementine Ingredient (#3.4)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Day They Hanged Kid Curry (#2.1)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Day the Amnesty Came Through (#3.8)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Girl in Boxcar #3 (#1.5)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Great Shell Game (#1.6)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Legacy of Charlie O\'Rourke (#1.15)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Long Chase (#3.1)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Man Who Broke the Bank at Red Gap (#2.17)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Man Who Murdered Himself (#1.10)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The McCreedy Bust (#1.2)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The McCreedy Bust: Going, Going, Gone (#2.16)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The McCreedy Feud (#3.3)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The McCreedy Feud (#3.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alias Smith and Jones" (1971) {The Men That Corrupted Hadleyburg (#2.18)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {The Posse That Wouldn\'t Quit (#2.5)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {The Reformation of Harry Briscoe (#2.9)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {The Root of It All (#1.11)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {The Strange Fate of Conrad Meyer Zulick (#3.9)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {The Ten Days That Shook Kid Curry (#3.7)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {What Happened at the XST? (#3.6)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {What\'s in It for Mia? (#2.22)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {Which Way to the O.K. Corral? (#2.20)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {Witness to a Lynching (#3.11)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Alias Smith and Jones" (1971) {Wrong Train to Brimstone (#1.4)}', 'Stage 36, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"All About Faces" (1971/I)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"All in the Family" (1971)', '', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971)', '', '', '', 'Studio 41, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {A Girl Like Edith (#9.15)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {A Night at the PTA (#9.14)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {All\'s Fair (#5.18)}', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Alone at Last (#6.2)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Amelia\'s Divorce (#5.19)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Eats and Runs (#4.21)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Feels Left Out (#4.17)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Finds a Friend (#6.18)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Gets the Business (#8.1)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Gets the Business (#8.2)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Gives Blood (#1.4)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Goes Too Far (#3.17)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Is Branded (#3.20)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Is Cursed (#4.14)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Is Jealous (#2.23)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Is Missing (#5.9)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Is Worried About His Job (#1.10)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Learns His Lesson (#3.22)}', 'Studio 41, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Sees a Mugging (#2.18)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie Sees a Mugging (#2.18)}', 'Television City, Hollywood, Los Angeles, California, USA']	34.075322799999995	-118.35925867857391
+['"All in the Family" (1971) {Archie and Edith Alone (#2.19)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the Bowling Team (#3.13)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the Computer (#4.7)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the Editorial (#3.1)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the F.B.I. (#2.16)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the KKK: Part 1 (#8.10)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the KKK: Part 2 (#8.11)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the Kiss (#4.4)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the Miracle (#5.11)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie and the Quiz (#5.21)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie in the Cellar (#4.10)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie in the Hospital (#3.15)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie in the Lock-Up (#2.3)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie the Babysitter (#6.17)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie the Donor (#6.3)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie the Gambler (#4.5)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie the Hero (#6.4)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie the Liberal (#7.24)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Aching Back (#1.3)}', 'Studio 31, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Archie\'s Bitter Pill (#8.8)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Brief Encounter: Part 3 (#7.3)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Brief Encounter: Parts 1 & 2 (#7.1)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Brief Encounter: Parts 1 & 2 (#7.2)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Chair (#7.17)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Civil Rights (#6.12)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Contract (#5.13)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Dog Day Afternoon (#7.25)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Archie\'s Fraud (#3.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Grand Opening (#8.7)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Helping Hand (#5.6)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Archie\'s Operation: Part 1 (#7.6)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Operation: Part 2 (#7.7)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Other Wife (#9.7)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Road Back (#8.9)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Secret Passion (#7.12)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Archie\'s Weighty Problem (#6.20)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Aunt Iola\'s Visit (#8.17)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Barney the Gold Digger (#9.18)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Beverly Rides Again (#7.8)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Birth of the Baby: Part 1 (#6.14)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Birth of the Baby: Part 2 (#6.15)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Black Is the Color of My True Love\'s Wig (#4.11)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Bogus Bills (#9.10)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {California, Here We Are (#9.12)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Chain Letter (#6.6)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Christmas Day at the Bunkers\' (#2.13)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Class Reunion (#3.18)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Cousin Liz (#8.3)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Cousin Maude\'s Visit (#2.12)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith Breaks Out (#6.8)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith Finds an Old Man (#4.3)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith Flips Her Wig (#3.6)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith Gets Fired (#9.21)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith Gets a Mink (#2.20)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Edith Has Jury Duty (#1.9)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Edith Versus the Bank (#9.8)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Edith Writes a Song (#2.4)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith the Judge (#2.22)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith\'s 50th Birthday (#8.4)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith\'s 50th Birthday (#8.5)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith\'s Accident (#2.7)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Edith\'s Christmas Story (#4.15)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Edith\'s Conversion (#4.9)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Edith\'s Crisis of Faith: Part 1 (#8.13)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith\'s Crisis of Faith: Part 2 (#8.14)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith\'s Final Respects (#9.5)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith\'s Friend (#5.22)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith\'s Night Out (#6.24)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Edith\'s Problem (#2.15)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Edith\'s Winning Ticket (#3.12)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {End in Sight (#9.2)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Et Tu, Archie? (#4.18)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Everybody Does It (#5.20)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Everybody Tells the Truth (#3.21)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Fire (#7.22)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Flashback - Mike and Gloria\'s Wedding: Part 1 (#3.9)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Flashback - Mike and Gloria\'s Wedding: Part 2 (#3.10)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Flashback: Mike Meets Archie (#2.5)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {George and Archie Make a Deal (#5.12)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria Discovers Women\'s Lib (#1.11)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria Has a Belly Full (#1.6)}', 'Studio 31, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria Is Nervous (#6.13)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria Poses in the Nude (#2.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria Sings the Blues (#4.22)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria Suspects Mike (#6.10)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria and Mike\'s House Guests (#6.23)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria and the Riddle (#3.4)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Gloria the Victim (#3.23)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Gloria\'s Boyfriend (#4.19)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Gloria\'s False Alarm (#7.14)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Gloria\'s Shock (#5.7)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Grandpa Blues (#6.9)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Henry\'s Farewell (#4.6)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Joey\'s Baptism (#6.22)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Judging Books by Covers (#1.5)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Justice for All}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"All in the Family" (1971) {Lionel Moves Into the Neighborhood (#1.8)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Lionel Steps Out (#3.5)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Lionel the Live-In (#5.5)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Lionel\'s Engagement (#4.20)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Little Miss Bunker (#9.1)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Love Comes to the Butcher (#8.18)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Love by Appointment (#6.21)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Maude (#2.24)}', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Meet the Bunkers (#1.1)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike Comes Into Money (#3.8)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike Faces Life (#6.7)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike Goes Skiing (#7.18)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike Makes His Move (#5.24)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike and Gloria Meet (#8.12)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike and Gloria Mix It Up (#4.16)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike and Gloria\'s Will (#7.10)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Mike the Pacifist (#7.21)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Mike\'s Appendix (#3.11)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike\'s Friend (#5.14)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike\'s Graduation (#4.24)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike\'s Hippie Friends Come to Visit (#1.7)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike\'s Move (#6.19)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike\'s Mysterious Son (#2.17)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Mike\'s New Job (#8.22)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike\'s Pains (#6.5)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mike\'s Problem (#2.9)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Mr. Edith Bunker (#7.11)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {New Year\'s Wedding (#6.16)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {No Smoking (#5.23)}', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Oh Say Can You See (#3.16)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Pay the Twenty Dollars (#4.23)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Prisoner in the House (#5.16)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Return of the Waitress (#9.9)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Reunion on Hauser Street (#9.3)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Sammy\'s Visit (#2.21)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Second Honeymoon (#4.12)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Stalemates (#8.20)}', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Stephanie and the Crime Wave (#9.17)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Stephanie\'s Conversion (#9.20)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Stretch Cunningham, Goodbye (#7.19)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Success Story (#1.12)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Super Bowl Sunday (#8.16)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Teresa Moves In (#7.9)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Appendectomy (#9.16)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Baby Contest (#7.13)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Battle of the Month (#3.24)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Best of All in the Family (#5.15)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Blockbuster (#2.8)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Boarder Patrol (#7.16)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Brother (#8.21)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Bunkers Go West (#9.11)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Bunkers and Inflation: Part 1 (#5.1)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Bunkers and Inflation: Part 2 (#5.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Bunkers and Inflation: Part 3 (#5.3)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Bunkers and Inflation: Part 4 (#5.4)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Bunkers and the Swingers (#3.7)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Commercial (#8.15)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Dinner Guest (#8.23)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Draft Dodger (#7.15)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Election Story (#2.6)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Elevator Story (#2.14)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Elevator Story (#2.14)}', 'Television City, Hollywood, Los Angeles, California, USA']	34.075322799999995	-118.35925867857391
+['"All in the Family" (1971) {The Family Next Door (#9.23)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The First and Last Supper (#1.13)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Games Bunkers Play (#4.8)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Hot Watch (#3.19)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Insurance Is Canceled (#2.10)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Jeffersons Move on Up (#5.17)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Joys of Sex (#7.20)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Little Atheist (#6.11)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {The Locket (#3.14)}', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Longest Kiss (#5.10)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Man in the Street (#2.11)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Return of Archie\'s Brother (#9.19)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Return of Stephanie\'s Father (#9.24)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Saga of Cousin Oscar (#2.1)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Stivics Go West (#8.24)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Taxi Caper (#4.13)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Threat (#3.3)}', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Unemployment Story: Part 1 (#7.4)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Unemployment Story: Part 2 (#7.5)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {The Very Moving Day (#6.1)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Too Good Edith (#9.25)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Two\'s a Crowd (#8.19)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Unequal Partners (#8.6)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {We\'re Having a Heat Wave (#4.1)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {We\'re Still Having a Heat Wave (#4.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"All in the Family" (1971) {Weekend in the Country (#9.6)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {What\'ll We Do with Stephanie? (#9.4)}', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Where\'s Archie? (#5.8)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All in the Family" (1971) {Writing the President (#1.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America" (1971)', '', '', '', '', 'Bahamas']	24.7736546	-78.0000547
+['"America" (1971)', '', '', '', '', 'Cheyenne, Wyoming, USA']	41.139981	-104.820246
+['"America" (1971)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1971)', '', '', '', '', 'Daytona Beach, Florida, USA']	29.2108147	-81.0228331
+['"America" (1971)', '', '', '', '', 'Death Valley National Park, California, USA']	36.4914385	-117.10229360771876
+['"America" (1971)', '', '', '', '', 'Dillon, South Carolina, USA']	34.4014089	-79.3864339
+['"America" (1971)', '', '', '', '', 'Eufaula, Alabama, USA']	31.905459999999998	-85.15893958513422
+['"America" (1971)', '', '', '', '', 'Guam']	13.450125700000001	144.75755102972062
+['"America" (1971)', '', '', '', '', 'Indianapolis, Indiana, USA']	39.7683331	-86.1583502
+['"America" (1971)', '', '', '', '', 'Kissimmee, Florida, USA']	28.2918995	-81.4075838
+['"America" (1971)', '', '', '', '', 'Kotzebue, Alaska, USA']	66.8982057	-162.5977621
+['"America" (1971)', '', '', '', '', 'Lighthouse Point, Florida, USA']	26.278862349999997	-80.08882165203879
+['"America" (1971)', '', '', '', '', 'Marco Island, Florida, USA']	25.9363356	-81.7156832
+['"America" (1971)', '', '', '', '', 'Maui, Hawaii, USA']	20.802956799999997	-156.31068331602177
+['"America" (1971)', '', '', '', '', 'Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"America" (1971)', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"America" (1971)', '', '', '', '', 'Nome, Alaska, USA']	64.5011111	-165.4063889
+['"America" (1971)', '', '', '', '', 'Pueblo West, Colorado, USA']	38.3558615	-104.7112109849374
+['"America" (1971)', '', '', '', '', 'Rocky Mountain National Park, Colorado, USA']	40.35594255	-105.71768545599623
+['"America" (1971)', '', '', '', '', 'South Carolina, USA']	33.6874388	-80.4363743
+['"America" (1971)', '', '', '', '', 'Tongass National Forest, Alaska, USA']	59.5559048	-138.9806750266495
+['"America" (1971)', '', '', '', '', 'Waycross, Georgia, USA']	31.2135511	-82.3540178
+['"And Mother Makes Three" (1971) {All Work and No Play (#2.6)}', 'Trowlock Avenue,Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"And Mother Makes Three" (1971) {But How Can I Tell Them? (#2.4)}', 'Trowlock Avenue,Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"And Mother Makes Three" (1971) {Growing Pains (#2.3)}', 'Trowlock Avenue,Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"And Mother Makes Three" (1971) {Once a Year Day (#2.5)}', 'Trowlock Avenue,Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"And Mother Makes Three" (1971) {The Matchmakers (#2.2)}', 'Trowlock Avenue,Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Aplauso" (1971)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Appointment with Destiny" (1971)', '', '', 'Tombstone, Arizona, USA']	31.7128683	-110.0675764
+['"Appointment with Destiny" (1971)', '', '', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Appointment with Destiny" (1971)', '', '', 'Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Appointment with Destiny" (1971)', '', '', 'Sonoran Desert, Arizona, USA']	32.2598642	-112.9262583
+['"Appointment with Destiny" (1971)', '', '', 'Tucson Mountains, Arizona, USA']	39.7837304	-100.4458825
+['"Appointment with Destiny" (1971)', '', '', 'Sonoita, Arizona, USA']	31.6723455	-110.66195553057366
+['"Appointment with Destiny" (1971)', '', '', 'Boothill Graveyard, Tombstone, Arizona, USA']	31.7128683	-110.0675764
+['"Appointment with Destiny" (1971)', '', '', 'O.K. Corral - 326 E Allen St, Tombstone, Arizona, USA']	31.7132643	-110.0675076
+['"Appointment with Destiny" (1971)', '', '', 'Tombstone, Arizona, USA']	31.7128683	-110.0675764
+['"Appointment with Destiny" (1971)', '', '', 'Mescal, Arizona, USA']	31.9900824	-110.4353531
+['"Appointment with Destiny" (1971)', '', '', 'Dragoon Mountains, Arizona, USA']	32.111745	-110.0942366
+['"Appointment with Destiny" (1971)', '', '', 'Old Tombstone, Tombstone, Arizona, USA']	31.712233349999998	-110.06891966069072
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	39.7837304	-100.4458825
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'O.K. Corral - 326 E Allen St, Tombstone, Arizona, USA']	31.7132643	-110.0675076
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Sonoran Desert, Arizona, USA']	32.2598642	-112.9262583
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Tucson Mountains, Arizona, USA']	39.7837304	-100.4458825
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Sonoita, Arizona, USA']	31.6723455	-110.66195553057366
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Boothill Graveyard, Tombstone, Arizona, USA']	39.7837304	-100.4458825
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Tombstone, Arizona, USA']	31.7128683	-110.0675764
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Mescal, Arizona, USA']	31.9900824	-110.4353531
+['"Appointment with Destiny" (1971) {Showdown at O.K. Corral}', 'Dragoon Mountains, Arizona, USA']	32.111745	-110.0942366
+['"Ars�ne Lupin" (1971) {Ars�ne Lupin contre Herlock Sholmes (#1.3)}', 'Boulogne-Billancourt, Hauts-de-Seine, France']	48.8356649	2.240206
+['"Ars�ne Lupin" (1971) {L\'agence Barnett (#1.5)}', '', 'Boulogne-Billancourt, Hauts-de-Seine, France']	48.8356649	2.240206
+['"Ars�ne Lupin" (1971) {Le secret de l\'aiguille (#2.4)}', "Les Falaises d'�tretat, �tretat, Seine-Maritime, France"]	46.603354	1.8883335
+['"Ars�ne Lupin" (1971) {Une femme contre Ars�ne Lupin (#1.10)}', 'St. Moritz, Kanton Graub�nden, Switzerland']	46.7985624	8.2319736
+['"Ars�ne Lupin" (1971) {Victor de la brigade mondaine (#1.2)}', 'Tour Eiffel, Champ de Mars, Paris 7, Paris, France']	48.8566969	2.3514616
+['"Asado con cuentos" (1971)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Asado con cuentos" (1971) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� amaban los h�roes" (1971) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971)', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.16)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.18)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.4)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.7)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� en la villa como en el cielo" (1971) {(#1.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aux fronti�res du possible" (1971) {Protection sp�ciale ultra-sons U (#1.6)}', "Pontoise, Val-d'Oise, France"]	49.0508845	2.1008067
+['"Banyon" (1971)', '', '', '', '', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971)', '', '', '', '', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971)', '', '', '', '', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {A Date with Death (#1.10)}', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {A Date with Death (#1.10)}', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {A Date with Death (#1.10)}', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Completely Out of Print (#1.4)}', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Completely Out of Print (#1.4)}', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Completely Out of Print (#1.4)}', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Dead End (#1.7)}', '', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Dead End (#1.7)}', '', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Dead End (#1.7)}', '', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Just Once (#1.14)}', '', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Just Once (#1.14)}', '', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Just Once (#1.14)}', '', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Meal Ticket (#1.5)}', '', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {Meal Ticket (#1.5)}', '', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Meal Ticket (#1.5)}', '', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Pilot (#1.0)}', '', '', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Pilot (#1.0)}', '', '', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {Pilot (#1.0)}', '', '', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Sally Overman Is Missing (#1.11)}', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {Sally Overman Is Missing (#1.11)}', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Sally Overman Is Missing (#1.11)}', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {The Clay Clarinet (#1.6)}', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Clay Clarinet (#1.6)}', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {The Clay Clarinet (#1.6)}', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Decent Thing to Do (#1.1)}', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {The Decent Thing to Do (#1.1)}', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Decent Thing to Do (#1.1)}', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {The Graveyard Vote (#1.3)}', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Graveyard Vote (#1.3)}', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Graveyard Vote (#1.3)}', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Lady Killer (#1.12)}', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {The Lady Killer (#1.12)}', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Lady Killer (#1.12)}', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {The Murder Game (#1.13)}', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Murder Game (#1.13)}', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Murder Game (#1.13)}', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Old College Try (#1.2)}', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Old College Try (#1.2)}', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {The Old College Try (#1.2)}', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Think of Me Kindly (#1.9)}', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {Think of Me Kindly (#1.9)}', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Think of Me Kindly (#1.9)}', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {Time Lapse (#1.15)}', '', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Time Lapse (#1.15)}', '', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {Time Lapse (#1.15)}', '', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Time to Kill (#1.8)}', '', '', 'Stage 11, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Banyon" (1971) {Time to Kill (#1.8)}', '', '', 'Stage 4, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Banyon" (1971) {Time to Kill (#1.8)}', '', '', 'Stage 5, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Barrier Reef" (1971) {Rendezvous (#1.1)}', '', 'Canberra, Australian Capital Territory, Australia']	-35.2975906	149.1012676
+['"Barrier Reef" (1971) {Scotch on the Rocks (#1.19)}', 'Great Barrier Reef, Queensland, Australia']	-17.59030415	146.63741162358355
+['"Barrier Reef" (1971) {Shark Bait (#1.23)}', '', 'Great Barrier Reef, Queensland, Australia']	-17.59030415	146.63741162358355
+['"Bearcats!" (1971)', '', '', '', '', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Bearcats!" (1971) {Conqueror\'s Gold (#1.6)}', '', 'Puye Cliffs, Santa Clara Pueblo, Santa Clara, New Mexico, USA']	32.7795235	-108.1503176
+['"Bearcats!" (1971) {Powderkeg (#1.0)}', '', '', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Bearcats!" (1971) {The Devil Wears Armor (#1.1)}', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Behind the Scenes" (1971) {BBC Television Centre (#1.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Bikinis y plumas" (1971)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bikinis y plumas" (1971) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bikinis y plumas" (1971) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bikinis y plumas" (1971) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817

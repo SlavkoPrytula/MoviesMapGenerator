@@ -1,0 +1,278 @@
+['"24 no hitomi" (1974)', '', '', '', '', 'Kagawa, Japan']	34.2480104	134.0586579
+['"A su aire" (1974) {(1974-03-28)}', '', '', "Teatre de l'Alian�a de Poble Nou, Barcelona, Catalonia, Spain"]	41.3828939	2.1774322
+['"A.M. Chicago" (1974)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Ahududu" (1974)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Alberto Vilar, el indomable" (1974)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.20)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.4)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.5)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.6)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.7)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.8)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alberto Vilar, el indomable" (1974) {(#1.9)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.30)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.31)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.32)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.33)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.34)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.35)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.36)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.37)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.38)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.39)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar al ladr�n" (1974) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amy Prentiss" (1974)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Amy Prentiss" (1974)', '', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amy Prentiss" (1974) {Baptism of Fire (#1.1)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amy Prentiss" (1974) {Profile in Evil (#1.3)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amy Prentiss" (1974) {The Desperate World of Jane Doe (#1.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Ana del aire" (1974)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Andr� Malraux: Les m�tamorphoses du regard" (1974)', 'Verri�res-le-Buisson, Essonne, France']	46.603354	1.8883335
+['"Ang makulay na daigdig ni Nora" (1974)', '', '', 'Philippines']	12.7503486	122.7312101
+['"Applause, Applause" (1974)', '', '', '', 'Winnipeg, Manitoba, Canada']	49.8955367	-97.1384584
+['"Ard�chois Coeur Fid�le" (1974)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Ard�chois Coeur Fid�le" (1974)', '', '', '', "Abbaye de Royaumont, Asni�res-sur-Oise, Val d'Oise, France"]	46.603354	1.8883335
+['"Ard�chois Coeur Fid�le" (1974)', '', '', '', "Grisy-les-Pl�tres, Val-d'Oise, France"]	46.603354	1.8883335
+['"Ard�chois Coeur Fid�le" (1974)', '', '', '', 'C�vennes, Loz�re, France']	46.603354	1.8883335
+['"Ask-i memnu" (1974)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Bagpuss" (1974)', '', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974)', '', '', '', '', 'Blean, Kent, England, UK']	51.2474823	0.7105077
+['"Bagpuss" (1974) {Flying (#1.12)}', '', '', 'Blean, Kent, England, UK']	51.2474823	0.7105077
+['"Bagpuss" (1974) {Flying (#1.12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974) {Old Man\'s Beard (#1.10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974) {Old Man\'s Beard (#1.10)}', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {Ship in a Bottle (#1.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974) {Ship in a Bottle (#1.1)}', '', 'Blean, Kent, England, UK']	51.2474823	0.7105077
+['"Bagpuss" (1974) {The Ballet Shoe (#1.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974) {The Ballet Shoe (#1.4)}', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {The Elephant (#1.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Bagpuss" (1974) {The Elephant (#1.7)}', '', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {The Fiddle (#1.11)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974) {The Fiddle (#1.11)}', '', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {The Frog Princess (#1.3)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Bagpuss" (1974) {The Frog Princess (#1.3)}', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {The Giant (#1.9)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974) {The Giant (#1.9)}', '', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {The Hamish (#1.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Bagpuss" (1974) {The Hamish (#1.5)}', '', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {The Mouse Mill (#1.8)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974) {The Mouse Mill (#1.8)}', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {The Owls of Athens (#1.2)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Bagpuss" (1974) {The Owls of Athens (#1.2)}', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {The Wise Man (#1.6)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bagpuss" (1974) {The Wise Man (#1.6)}', '', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Bagpuss" (1974) {Uncle Feedle (#1.13)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Bagpuss" (1974) {Uncle Feedle (#1.13)}', '', '', 'Blean, Kent, England, UK']	51.3092258	1.0414003
+['"Barney Miller" (1974)', '', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Abduction (#3.16)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Advancement (#8.2)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Agent Orange (#7.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Altercation (#8.18)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Ambush (#2.4)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Appendicitis (#4.14)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Asylum (#3.19)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Atomic Bomb (#4.11)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Blizzard (#4.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Block Party (#2.18)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Bones (#8.19)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Bugs (#4.3)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Bureaucrat (#1.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Burial (#4.5)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Bus Stop (#3.4)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Call Girl (#7.6)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Chase (#4.8)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Chinatown: Part 1 (#8.11)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Chinatown: Part 2 (#8.12)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Christmas Story (#3.10)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Community Relations (#3.13)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Computer Crime (#5.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Contempt: Part 1 (#7.15)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Contempt: Part 2 (#7.16)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Copy Cat (#4.6)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Corporation (#4.4)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Dietrich\'s Arrest: Part 1 (#6.18)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Dietrich\'s Arrest: Part 2 (#6.19)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Discovery (#2.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Dog Days (#5.4)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Doomsday (#2.1)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Dorsey (#7.4)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Escape Artist (#1.11)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Evacuation (#3.1)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Evaluation (#4.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Eviction: Part 1 (#4.16)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Eviction: Part 2 (#4.17)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Examination Day (#8.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Experience (#1.2)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Fear of Flying (#2.17)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Field Associate (#7.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Fire \'77 (#3.15)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Fish (#2.12)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Fog (#6.22)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Games (#8.6)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Good-Bye, Mr. Fish: Part 1 (#4.1)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Good-Bye, Mr. Fish: Part 2 (#4.2)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Graft (#1.4)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Grand Hotel (#2.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Graveyard Shift (#5.23)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Group Home (#3.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Guns (#6.16)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Hair (#1.12)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Happy New Year (#2.15)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Hash (#3.11)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Heat Wave (#2.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Homeless (#8.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Homicide: Part 1 (#7.1)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Homicide: Part 2 (#7.2)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Horse Thief (#2.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Hostage (#4.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Hot Dogs (#2.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Hunger Strike (#8.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Identity (#5.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Inauguration (#4.23)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Inquiry (#8.16)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Inquisition (#6.1)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Jack Soo, a Retrospective (#5.24)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Kidnapping: Part 1 (#5.1)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Kidnapping: Part 2 (#5.2)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Lady and the Bomb (#7.18)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Landmark: Part 1 (#8.20)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Landmark: Part 2 (#8.21)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Landmark: Part 3 (#8.22)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Liquidation (#7.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Loan Shark (#5.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Massage Parlor (#2.19)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Middle Age (#5.18)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Moonlighting (#3.18)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Movie: Part 1 (#7.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Movie: Part 2 (#7.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Ms. Cop (#1.8)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Noninvolvement (#3.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Obituary (#8.15)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Old Love (#8.17)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Open House (#5.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Paternity (#8.1)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {People\'s Court (#6.12)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Possession (#8.4)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Power Failure (#3.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Protection (#2.14)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Quarantine: Part 1 (#3.2)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Quarantine: Part 2 (#3.3)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Quo Vadis? (#4.19)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Rachel (#7.14)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Rain (#2.11)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Ramon (#1.1)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Rape (#4.15)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Resignation (#7.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Riot (#7.19)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Sex Surrogate (#3.17)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Smog Alert (#3.12)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Snow Job (#1.3)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Stakeout (#1.6)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Stormy Weather (#7.12)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Stress Analyzer (#8.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Strike: Part 1 (#3.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Strike: Part 2 (#3.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Strip Joint (#6.6)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Thanksgiving Story (#4.9)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Accusation (#5.6)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Architect (#6.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Arrival (#8.14)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Arsonist (#2.6)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Baby Broker (#5.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Bank (#4.12)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Bird (#6.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Brother (#6.4)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Car (#8.3)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Child Stealers (#6.15)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Clown (#8.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Counterfeiter (#5.19)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Courtesans (#1.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The DNA Story (#6.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Delegate (#7.3)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Dentist (#6.11)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Desk (#6.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Doll (#7.17)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Election (#3.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Ghost (#4.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Guest (#1.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Harris Incident (#5.10)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Hero (#1.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Indian (#5.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Inventor (#6.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Judge (#6.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Kid (#2.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Layoff (#2.3)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Librarian (#7.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Life and Times of Barney Miller (#1.0)}', 'CBS Studio Center. 4024 Radford Avenue. Studio City, CA USA']	36.7014631	-118.7559974
+['"Barney Miller" (1974) {The Mole (#2.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Photographer (#6.2)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Prisoner (#5.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Psychiatrist (#2.20)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Psychic (#7.11)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Radical (#5.11)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Rainmaker (#7.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Rand Report (#3.14)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Recluse (#3.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Search (#5.3)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Sighting (#4.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Slave (#6.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Sniper (#2.16)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Social Worker (#2.2)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Spy (#5.15)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Tontine (#8.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Vandal (#5.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {The Vests (#7.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Toys (#5.12)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Tunnel (#4.10)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Uniform Day (#6.17)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Vacation (#6.3)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Vanished: Part 1 (#6.13)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Vanished: Part 2 (#6.14)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Vigilante (#1.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Voice Analyzer (#5.14)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Werewolf (#3.6)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Wojo\'s Girl: Part 1 (#5.16)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Wojo\'s Girl: Part 2 (#5.17)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {Wojo\'s Problem (#4.18)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barney Miller" (1974) {You Dirty Rat (#2.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666

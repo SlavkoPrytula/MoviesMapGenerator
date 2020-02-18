@@ -1,0 +1,412 @@
+['"1972 American League Championship Series" (1972) {Game 1}', 'Oakland-Alameda County Arena - 7000 Coliseum Way, Oakland, California, USA']	37.8044557	-122.2713563
+['"ABC Afterschool Specials" (1972) {Backwards: The Riddle of Dyslexia (#12.6)}', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"ABC Afterschool Specials" (1972) {Daddy\'s Girl (#24.5)}', 'Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Afterschool Specials" (1972) {Daddy\'s Girl (#24.5)}', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"ABC Afterschool Specials" (1972) {Gaucho (#7.3)}', 'Spanish Harlem, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Afterschool Specials" (1972) {High School Narc (#14.4)}', 'Cross County Shopping Center, Yonkers, New York, USA']	40.9312099	-73.8987469
+['"ABC Afterschool Specials" (1972) {It Must Be Love Cause I Feel So Dumb (#4.1)}', 'Upper West Side, Manhattan, New York City, New York, USA']	40.7870455	-73.9754163
+['"ABC Afterschool Specials" (1972) {It\'s No Crush, I\'m in Love (#12.1)}', 'Lyndhurst, New Jersey, USA']	40.8120247	-74.1242816
+['"ABC Afterschool Specials" (1972) {It\'s Only Rock & Roll (#19.5)}', 'Orange County, New York, USA']	41.3873306	-74.2507287
+['"ABC Afterschool Specials" (1972) {It\'s Only Rock & Roll (#19.5)}', 'Westchester County, New York, USA']	41.1763139	-73.7907554
+['"ABC Afterschool Specials" (1972) {Just Chill (#24.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Afterschool Specials" (1972) {Over the Limit (#18.5)}', 'Dumont, New Jersey, USA']	40.9406541	-73.9968051
+['"ABC Afterschool Specials" (1972) {Over the Limit (#18.5)}', 'Essex Fells, New Jersey, USA']	40.8245442	-74.2845925
+['"ABC Afterschool Specials" (1972) {Rookie of the Year (#2.1)}', 'Stony Point, New York, USA']	41.2295386	-73.9870847
+['"ABC Afterschool Specials" (1972) {Run, Don\'t Walk (#9.6)}', 'Whittier High School - 12417 E. Philadelphia Street, Whittier, California, USA']	33.9708782	-118.0308396
+['"ABC Afterschool Specials" (1972) {Santiago\'s Ark (#1.3)}', 'Central Park, Manhattan, New York City, New York, USA']	40.7827725	-73.9653627406542
+['"ABC Afterschool Specials" (1972) {Santiago\'s Ark (#1.3)}', 'Spanish Harlem, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Afterschool Specials" (1972) {Summer Stories: The Mall - Part 1 (#20.2)}', 'Nanuet Mall, Nanuet, New York, USA']	41.09601535	-74.01596526584578
+['"ABC Afterschool Specials" (1972) {Taking a Stand (#17.4)}', 'Jersey City, New Jersey, USA']	40.7281575	-74.0776417
+['"ABC Afterschool Specials" (1972) {Taking a Stand (#17.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Afterschool Specials" (1972) {The Cheats (#17.6)}', 'Haverhill, Massachusetts, USA']	42.7777829	-71.0767724
+['"ABC Afterschool Specials" (1972) {The Great Love Experiment (#12.5)}', 'Mount Saint Michael Academy, Bronx, New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Afterschool Specials" (1972) {The Great Love Experiment (#12.5)}', 'Yonkers, New York, USA']	40.9312099	-73.8987469
+['"ABC Afterschool Specials" (1972) {The Secret Life of T.K. Dearing (#3.7)}', 'Topanga Canyon, Woodland Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"ABC Afterschool Specials" (1972) {The Secret Life of T.K. Dearing (#3.7)}', 'West Los Angeles, Los Angeles, California, USA']	34.0463986	-118.448135
+['"ABC Afterschool Specials" (1972) {The Unforgivable Secret (#10.5)}', 'Long Island, New York, USA']	40.85172235	-73.09921882199973
+['"ABC Afterschool Specials" (1972) {The Unforgivable Secret (#10.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Afterschool Specials" (1972) {The Woman Who Willed a Miracle (#11.5)}', 'Sherman Oaks, Los Angeles, California, USA']	34.1508718	-118.4489865
+['"Acht Stunden sind kein Tag" (1972)', '', '', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Acht Stunden sind kein Tag" (1972)', '', '', 'M�nchengladbach, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alexander Zwo" (1972)', '', '', '', '', 'M�rren, Kanton Bern, Switzerland']	46.7985624	8.2319736
+['"Almost Home" (1972)', '', '', '', '', 'Kakabeka Falls, Ontario, Canada']	48.4028378	-89.6254131
+['"Almost Home" (1972)', '', '', '', '', 'Manitoulin Island, Ontario, Canada']	45.756311499999995	-82.21460502374313
+['"Almost Home" (1972)', '', '', '', '', 'Niagara Falls, Ontario, Canada']	43.100983	-79.115295
+['"Almost Home" (1972)', '', '', '', '', 'Uxbridge, Ontario, Canada']	44.107556	-79.127655
+['"Almost Home" (1972)', '', '', '', '', 'Schomberg, Ontario, Canada']	44.001387	-79.682541
+['"Almost Home" (1972)', '', '', '', '', 'King City, Ontario, Canada']	43.9201118	-79.5270426
+['"Alta Tensi�n" (1972)', '', '', '', '', 'Color Visi�n, Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"Alta Tensi�n" (1972)', '', '', '', '', 'Rahintel, Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"America" (1972)', '', '', '', '', 'Acoma Indian Reservation, New Mexico, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Adam Thoroughgood House - 1636 Parish Road, Norfolk, Virginia, USA']	36.8889933	-76.2481624
+['"America" (1972)', '', '', '', '', 'American Express Corporation, Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"America" (1972)', '', '', '', '', 'Arlington National Cemetery, Arlington, Virginia, USA']	38.8785384	-77.06911170120969
+['"America" (1972)', '', '', '', '', 'Augusta National Golf Club - 2604 Washington Road, Augusta, Georgia, USA']	33.5020108	-82.02327078726108
+['"America" (1972)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"America" (1972)', '', '', '', '', 'Beale Air Force Base, Marysville, California, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Bellota Ranch - 14301 E. Speedway, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"America" (1972)', '', '', '', '', 'Bodie State Historic Park, California, USA']	38.2154734	-119.0109762
+['"America" (1972)', '', '', '', '', 'Boone Hall Plantation - 1235 Long Point Road, Mount Pleasant, South Carolina, USA']	32.85415555	-79.81710750471724
+['"America" (1972)', '', '', '', '', 'Brick Meeting House, Calvert, Maryland, USA']	39.7009439	-75.9824455
+['"America" (1972)', '', '', '', '', 'Bryce Canyon National Park, Utah, USA']	37.5707948	-112.18559391121381
+['"America" (1972)', '', '', '', '', 'California, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Calvin Coolidge Homestead - Route 100A, Plymouth Notch, Vermont, USA']	43.5311809	-72.723154
+['"America" (1972)', '', '', '', '', 'Canaan, New Hampshire, USA']	43.647007	-72.013321
+['"America" (1972)', '', '', '', '', 'Canyon de Chelly National Monument, Arizona, USA']	36.1552818	-109.5089952
+['"America" (1972)', '', '', '', '', 'Cape Cod National Seashore, Cape Cod, Massachusetts, USA']	41.7988074	-69.9960134711573
+['"America" (1972)', '', '', '', '', 'Charles Towne Landing State Historic Site - 1500 Old Towne Road, Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"America" (1972)', '', '', '', '', 'Charleston Naval Base, Charleston, South Carolina, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Chicago Mercantile Exchange - 30 S. Wacker Drive, Downtown, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1972)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1972)', '', '', '', '', 'Colonial Williamsburg, Williamsburg, Virginia, USA']	37.27892105	-76.69448606443117
+['"America" (1972)', '', '', '', '', 'Custis-Lee Mansion, Arlington National Cemetery, Arlington, Virginia, USA']	38.8903961	-77.0841585
+['"America" (1972)', '', '', '', '', 'Daniel Boone National Forest, Kentucky, USA']	36.890393849999995	-84.45899619063228
+['"America" (1972)', '', '', '', '', 'Di Bella Brothers Food Market - 217 First Avenue, East Village, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'Dog Canyon, Alamogordo, New Mexico, USA']	32.8997853	-105.960459
+['"America" (1972)', '', '', '', '', 'Drake Well Museum - 205 Museum Lane, Titusville, Pennsylvania, USA']	41.61123705	-79.65824345106061
+['"America" (1972)', '', '', '', '', 'Drayton Hall - 3380 Ashley River Road, Charleston, South Carolina, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'East Midwood Jewish Center - 1625 Ocean Avenue, Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'Edison Institute, Greenfield Village - 20900 Oakwood Boulevard, Dearborn, Michigan, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Eisenhower Home, Dwight D. Eisenhower Library & Museum - 200 SE Fourth Street, Abilene, Kansas, USA']	38.917252	-97.21377
+['"America" (1972)', '', '', '', '', 'El Morro National Monument, near, Ramah, New Mexico, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Ellis Island, New York Harbor, New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'Elysium Institute - 814 Robinson Road, Topanga, California, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Enoch Pratt Free Library - 400 Cathedral Street, Baltimore, Maryland, USA']	39.29452365	-76.61735585360029
+['"America" (1972)', '', '', '', '', 'Episcopal Church Center - 65 E. Huron Street, Near North Side, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1972)', '', '', '', '', 'Fairview - 49th & Sumner Streets, Lincoln, Nebraska, USA']	40.8088861	-96.7077751
+['"America" (1972)', '', '', '', '', 'Falcon Valley Ranch - Highway 79, Oracle Junction, Arizona, USA']	32.5542513	-110.9336917
+['"America" (1972)', '', '', '', '', 'Fort Eustis, Newport News, Virginia, USA']	37.12589365	-76.599766457552
+['"America" (1972)', '', '', '', '', 'Fort Myer Stables, Fort Myer, Arlington, Virginia, USA']	38.8903961	-77.0841585
+['"America" (1972)', '', '', '', '', 'Fort Ticonderoga - Route 74, Ticonderoga, New York, USA']	43.841449	-73.3876188
+['"America" (1972)', '', '', '', '', 'Gaslight Club - 13 E. Huron Street, Near North Side, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1972)', '', '', '', '', 'George Washington Bridge, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'Golden Gate Bridge, San Francisco, California, USA']	37.8303213	-122.4797496
+['"America" (1972)', '', '', '', '', 'Great Smoky Mountains National Park - 107 Park Headquarters Road, Gatlinburg, Tennessee, USA']	35.714259	-83.5101638
+['"America" (1972)', '', '', '', '', 'Groton, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"America" (1972)', '', '', '', '', 'Harvard University, Cambridge, Massachusetts, USA']	42.36790855	-71.12678237443698
+['"America" (1972)', '', '', '', '', 'Hingham Churchyard, Hingham, Massachusetts, USA']	42.2417669	-70.8897676
+['"America" (1972)', '', '', '', '', 'Historic Deerfield, Deerfield, Massachusetts, USA']	42.5453345	-72.6046809
+['"America" (1972)', '', '', '', '', 'Holsum Bakery - 2883 S. Hillock Street, Bridgeport, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1972)', '', '', '', '', 'Homestead National Monument - 8523 W. State Highway 4, Beatrice, Nebraska, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Hoover Dam, Arizona-Nevada Border, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Howard University, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America" (1972)', '', '', '', '', 'Hyde Park - 4097 Albany Post Road, Hyde Park, New York, USA']	41.7847232	-73.9332461
+['"America" (1972)', '', '', '', '', 'Independence Hall - 500 Chestnut Street, Independence National Historical Park, Philadelphia, Pennsylvania, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Inland Steel Building - 30 W. Monroe Street, The Loop, Downtown, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1972)', '', '', '', '', 'Intervale Farm - 106 South Road, Westhampton, Massachusetts, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Jamestown, Virginia, USA']	37.2104434	-76.7738928
+['"America" (1972)', '', '', '', '', 'Jewish Daily Record - 45 East 33rd Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'John Whipple House - 1 South Village Green, Ipswich, Massachusetts, USA']	42.679273	-70.8411583
+['"America" (1972)', '', '', '', '', 'Kansas, USA']	38.27312	-98.5821872
+['"America" (1972)', '', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"America" (1972)', '', '', '', '', 'Lavenham, Suffolk, England, UK']	52.1100356	0.7978942
+['"America" (1972)', '', '', '', '', 'Lincoln Boyhood National Memorial - Indiana Highway 162, Lincoln City, Indiana, USA']	38.1211634	-86.9986077
+['"America" (1972)', '', '', '', '', 'Los Alamos National Laboratory, Los Alamos, New Mexico, USA']	35.81831485	-106.26542797989916
+['"America" (1972)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America" (1972)', '', '', '', '', 'Marble House - 596 Bellevue Avenue, Newport, Rhode Island, USA']	41.4899827	-71.3137707
+['"America" (1972)', '', '', '', '', 'Maui, Hawaii, USA']	20.802956799999997	-156.31068331602177
+['"America" (1972)', '', '', '', '', 'Mayo Clinic - 200 First Street SW, Rochester, Minnesota, USA']	44.0234387	-92.4630182
+['"America" (1972)', '', '', '', '', 'Mescalero Apache Indian Reservation, Mescalero, New Mexico, USA']	33.15016	-105.78966814166806
+['"America" (1972)', '', '', '', '', 'Middle Temple, Temple, Holborn, London, England, UK']	51.5073219	-0.1276474
+['"America" (1972)', '', '', '', '', 'Middletown Place - 4300 Ashley River Road, Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"America" (1972)', '', '', '', '', 'Miles Brewton House - 27 King Street, Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"America" (1972)', '', '', '', '', 'Minuteman National Park - 174 Liberty Street, Concord, Massachusetts, USA']	42.4605189	-71.3488963
+['"America" (1972)', '', '', '', '', 'Monterey Bay, California, USA']	36.7999557	-121.9010668
+['"America" (1972)', '', '', '', '', 'Monticello - 931 Thomas Jefferson Parkway, Charlottesville, Virginia, USA']	38.029306	-78.4766781
+['"America" (1972)', '', '', '', '', 'Moonfire Mountain, California, USA']	33.4735492	-117.7011419
+['"America" (1972)', '', '', '', '', 'Mormon Tabernacle - Temple Square, Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"America" (1972)', '', '', '', '', 'Mount Vernon Estate - 3200 George Washington Memorial Parkway, Mount Vernon, Virginia, USA']	38.710179	-77.08881985277044
+['"America" (1972)', '', '', '', '', 'Museum of the City of New York - 1220 Fifth Avenue, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'Natchez, Mississippi, USA']	31.5604442	-91.403171
+['"America" (1972)', '', '', '', '', 'National Archives Building - 700 Pennsylvania Avenue NW, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America" (1972)', '', '', '', '', 'National Rifle Association, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America" (1972)', '', '', '', '', 'Nebraska, USA']	41.7370229	-99.5873816
+['"America" (1972)', '', '', '', '', 'Nevada, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'New Castle, Delaware, USA']	39.6159851	-75.662956
+['"America" (1972)', '', '', '', '', 'New Harmony, Indiana, USA']	38.129656	-87.9354109
+['"America" (1972)', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"America" (1972)', '', '', '', '', 'New Salem, Illinois, USA']	39.7075473	-90.8476304
+['"America" (1972)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'New York Stock Exchange - 11 Wall Street, Manhattan, New York City, New York, USA']	40.7070653	-74.01117438284459
+['"America" (1972)', '', '', '', '', "O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"America" (1972)', '', '', '', '', 'Okefenokee National Wildlife Refuge, Folkston, Georgia, USA']	30.8305818	-82.0097846
+['"America" (1972)', '', '', '', '', 'Old Newgate Gaol - 115 Newgate Road, East Granby, Connecticut, USA']	41.93876915	-72.73480818703239
+['"America" (1972)', '', '', '', '', 'Old Ship Church - 90 Main Street, Hingham, Massachusetts, USA']	42.2412432	-70.88700769004473
+['"America" (1972)', '', '', '', '', 'Old South Meeting House - 310 Washington Street, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"America" (1972)', '', '', '', '', 'Old State House - State & Washington Streets, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"America" (1972)', '', '', '', '', 'Old Sturbridge Village - 1 Old Sturbridge Village Road, Sturbridge, Massachusetts, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Parson Capen House - 1 Howlett Street, Topsfield, Massachusetts, USA']	42.6375935	-70.9494966
+['"America" (1972)', '', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"America" (1972)', '', '', '', '', 'Pierpont Morgan Library - 29 East 36th Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'Pine Ridge Indian Reservation, South Dakota, USA']	43.43268955	-102.11479839764382
+['"America" (1972)', '', '', '', '', 'Point Lobos State Natural Reserve, California, USA']	36.5181448	-121.9442445
+['"America" (1972)', '', '', '', '', "Provincetown Fisherman's Cooperative, Provincetown, Massachusetts, USA"]	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Public School 150 - 334 Greenwich Street, Manhattan, New York City, New York, USA']	40.7183333	-74.0108333
+['"America" (1972)', '', '', '', '', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"America" (1972)', '', '', '', '', 'Raleigh Tavern - Duke of Gloucester Street, Colonial Williamsburg, Williamsburg, Virginia, USA']	37.27892105	-76.69448606443117
+['"America" (1972)', '', '', '', '', 'Rebecca Nurse House - 149 Pine Street, Danvers, Massachusetts, USA']	42.5750946	-70.9300507
+['"America" (1972)', '', '', '', '', 'Sagamore Hill - 20 Sagamore Hill Road, Oyster Bay, Long Island, New York, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"America" (1972)', '', '', '', '', 'San Juan Bautista, California, USA']	36.8455173	-121.5379894
+['"America" (1972)', '', '', '', '', 'San Xavier del Bac Mission - 1950 W. San Xavier Rd, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"America" (1972)', '', '', '', '', 'Sandia National Atomic Museum - 1905 Mountain Road NW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"America" (1972)', '', '', '', '', 'Santa Fe Stockyards, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1972)', '', '', '', '', 'Santa Fe, New Mexico, USA']	35.6869996	-105.9377997
+['"America" (1972)', '', '', '', '', 'Shiloh National Military Park - 1055 Pittsburg Landing Road, Shiloh, Tennessee, USA']	36.4820358	-83.0993366
+['"America" (1972)', '', '', '', '', 'Shirley Plantation - 501 Shirley Plantation Road, Charles City, Virginia, USA']	37.3419175	-77.26103790143748
+['"America" (1972)', '', '', '', '', 'Skibo Castle, Clashmore, Highland, Scotland, UK']	57.873742	-4.1333463
+['"America" (1972)', '', '', '', '', 'Smithsonian Institution, Washington, District of Columbia, USA']	38.8913369	-77.02597980275456
+['"America" (1972)', '', '', '', '', 'Southern Pacific Railroad, Sacramento, California, USA']	38.5815719	-121.4943996
+['"America" (1972)', '', '', '', '', 'St. Genevieve, Missouri, USA']	38.2194983	-90.5956821
+['"America" (1972)', '', '', '', '', 'St. Joseph, Missouri, USA']	39.7686055	-94.8466322
+['"America" (1972)', '', '', '', '', 'Statue of Liberty, Liberty Island, New York Harbor, New York City, New York, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Stevens Institute of Technology - One Castle Point on the Hudson, Hoboken, New Jersey, USA']	40.7433066	-74.0323752
+['"America" (1972)', '', '', '', '', 'Strategic Air Command Headquarters, Offutt Air Force Base, Omaha, Nebraska, USA']	39.7837304	-100.4458825
+['"America" (1972)', '', '', '', '', 'Swanson Farm, Disputanta, Virginia, USA']	37.1243164	-77.2258062
+['"America" (1972)', '', '', '', '', 'The Cabildo - 701 Chartres Street, French Quarter, New Orleans, Louisiana, USA']	29.957670999999998	-90.06381206073951
+['"America" (1972)', '', '', '', '', 'Tower of London, Whitechapel, London, England, UK']	51.5073219	-0.1276474
+['"America" (1972)', '', '', '', '', 'Trinity Site Base Camp, White Sands, New Mexico, USA']	32.381369	-106.4789925
+['"America" (1972)', '', '', '', '', 'U.S. Department of State - 2401 E Street NW, Washington, District of Columbia, USA']	38.8964258	-77.04578430834991
+['"America" (1972)', '', '', '', '', 'Union Stockyards, Back of the Yards, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America" (1972)', '', '', '', '', 'United Nations - First Avenue at 46th Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"America" (1972)', '', '', '', '', 'United States Capitol - 545 Seventh Street SE, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America" (1972)', '', '', '', '', 'Utah, USA']	39.4225192	-111.7143584
+['"America" (1972)', '', '', '', '', 'Valley Forge National Historical Park - N. Gulph Road, Valley Forge, Pennsylvania, USA']	40.0970507	-75.4696358
+['"America" (1972)', '', '', '', '', 'Vandenberg Air Force Base, California, USA']	34.742593299999996	-120.51559863476373
+['"America" (1972)', '', '', '', '', 'Vermont, USA']	44.5990718	-72.5002608
+['"America" (1972)', '', '', '', '', 'Warren Harding Home - 380 Mt. Vernon Avenue, Marion, Ohio, USA']	40.5885271	-83.1895249
+['"America" (1972)', '', '', '', '', 'Westlake Village, California, USA']	34.1460234	-118.8061794
+['"America" (1972)', '', '', '', '', 'White House - 1600 Pennsylvania Avenue NW, Washington, District of Columbia, USA']	38.8976998	-77.03655348862276
+['"America" (1972)', '', '', '', '', 'Whitney Gallery of Western Art, Buffalo Bill Historic Center - 720 Sheridan Avenue, Cody, Wyoming, USA']	44.5263107	-109.0563923
+['"America" (1972)', '', '', '', '', 'Winthrop University - 701 W. Oakland Avenue, Rock Hill, South Carolina, USA']	34.9248667	-81.0250784
+['"America" (1972)', '', '', '', '', 'Wyoming, USA']	43.1700264	-107.5685348
+['"America" (1972)', '', '', '', '', 'Zion National Park, Utah, USA']	37.320774	-113.00484758652519
+['"American Lifestyle" (1972) {Sam Houston and Texas: A Giant Man for a Giant Land (#1.21)}', 'Huntsville, Texas, USA']	30.7235263	-95.5507771
+['"Anna and the King" (1972)', '', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {Anna\'s Romance (#1.5)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {Chulalongkorn\'s Grades (#1.4)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {Louis\' Love (#1.12)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {Louis, the Pawn (#1.8)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {Pilot (#1.1)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {Serana (#1.13)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {The Baby (#1.2)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {The Bicycle (#1.6)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {The Chimes (#1.7)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {The Haunted Temple (#1.9)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {The King and the Egg (#1.11)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {The King or the Tiger? (#1.3)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anna and the King" (1972) {The Marriage of Prince Chula (#1.10)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aqui est� Felipe Reyes" (1972)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Are You Being Served?" (1972)', '', '', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {A Bliss Girl (#6.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {A Bliss Girl (#6.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {A Change Is as Good as a Rest (#5.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {A Change Is as Good as a Rest (#5.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {A Personal Problem (#8.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {A Personal Problem (#8.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Anything You Can Do (#7.6)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Anything You Can Do (#7.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Big Brother (#2.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Big Brother (#2.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {By Appointment (#6.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {By Appointment (#6.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Calling All Customers (#9.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Calling All Customers (#9.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Camping In (#1.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Camping In (#1.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Christmas Crackers (#3.9)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Christmas Crackers (#3.9)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Closed Circuit (#8.6)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Closed Circuit (#8.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Coffee Morning (#3.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Coffee Morning (#3.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Cold Comfort (#2.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Cold Comfort (#2.2)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Cold Store (#3.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Cold Store (#3.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Conduct Unbecoming (#9.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Conduct Unbecoming (#9.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Dear Sexy Knickers... (#1.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Dear Sexy Knickers... (#1.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Diamonds Are a Man\'s Best Friend (#1.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Diamonds Are a Man\'s Best Friend (#1.5)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Do You Take This Man? (#6.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Do You Take This Man? (#6.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Fifty Years On (#4.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Fifty Years On (#4.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Fire Practice (#4.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Fire Practice (#4.4)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Forward Mr. Grainger (#4.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Forward Mr. Grainger (#4.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Founder\'s Day (#5.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Founder\'s Day (#5.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Friends and Neighbours (#10.6)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Friends and Neighbours (#10.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Front Page Story (#8.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Front Page Story (#8.3)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Gambling Fever (#10.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Gambling Fever (#10.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {German Week (#3.6)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {German Week (#3.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Goodbye Mr. Grainger (#5.6)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Goodbye Mr. Grainger (#5.6)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Goodbye Mrs. Slocombe (#10.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Goodbye Mrs. Slocombe (#10.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Grounds for Divorce (#10.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Grounds for Divorce (#10.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Happy Returns (#6.6)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Happy Returns (#6.6)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Heir Apparent (#8.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Heir Apparent (#8.5)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {His and Her\'s (#1.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {His and Her\'s (#1.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Hoorah for the Holidays (#2.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Hoorah for the Holidays (#2.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Is It Catching? (#8.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Is It Catching? (#8.1)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {It Pays to Advertise (#5.7)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {It Pays to Advertise (#5.7)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Lost and Found (#9.6)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Lost and Found (#9.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Memories Are Made of This (#9.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Memories Are Made of This (#9.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Monkey Business (#9.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Monkey Business (#9.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Mrs. Slocombe Expects (#5.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Mrs. Slocombe Expects (#5.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Mrs. Slocombe, Senior Person (#7.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Mrs. Slocombe, Senior Person (#7.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {New Look (#3.8)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {New Look (#3.8)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {No Sale (#4.1)}', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {No Sale (#4.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Oh What a Tangled Web (#4.6)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Oh What a Tangled Web (#4.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Our Figures Are Slipping (#1.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Our Figures Are Slipping (#1.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Pilot (#1.0)}', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Pilot (#1.0)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Roots? (#8.8)}', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Roots? (#8.8)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Shedding the Load (#6.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Shedding the Load (#6.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Shoulder to Shoulder (#3.7)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Shoulder to Shoulder (#3.7)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Sit Out (#8.4)}', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Sit Out (#8.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Strong Stuff This Insurance (#7.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Strong Stuff This Insurance (#7.2)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Take-Over (#5.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Take-Over (#5.5)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {The Agent (#7.7)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Agent (#7.7)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Apartment (#7.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Apartment (#7.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Clock (#2.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Clock (#2.1)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {The Club (#6.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Club (#6.2)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {The Erotic Dreams of Mrs Slocombe (#8.7)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {The Father Christmas Affair (#4.7)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Father Christmas Affair (#4.7)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Hand of Fate (#3.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Hand of Fate (#3.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Hero (#7.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Hero (#7.5)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {The Hold Up (#10.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Hold Up (#10.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Junior (#7.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Junior (#7.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Night Club (#10.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {The Night Club (#10.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Old Order Changes (#5.4)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Old Order Changes (#5.4)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {The Pop Star (#10.7)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Pop Star (#10.7)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Punch and Judy Affair (#7.8)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Punch and Judy Affair (#7.8)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {The Sweet Smell of Success (#9.1)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Sweet Smell of Success (#9.1)}', 'England, UK']	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {The Think Tank (#2.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {The Think Tank (#2.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Top Hat and Tails (#4.2)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Top Hat and Tails (#4.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Up Captain Peacock (#3.3)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	54.7023545	-3.2765753
+['"Are You Being Served?" (1972) {Up Captain Peacock (#3.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Are You Being Served?" (1972) {Wedding Bells (#3.5)}', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Are You Being Served?" (1972) {Wedding Bells (#3.5)}', 'England, UK']	54.7023545	-3.2765753
+['"Arthur of the Britons" (1972)', '', '', '', 'Stroud, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Assignment: Vienna" (1972)', '', '', '', 'Vienna, Austria']	47.2000338	13.199959
+['"Assignment: Vienna" (1972) {A Deadly Shade of Green (#1.6)}', 'Vienna, Austria']	47.2000338	13.199959
+['"Assignment: Vienna" (1972) {Annalisa (#1.4)}', '', 'Vienna, Austria']	47.2000338	13.199959
+['"Assignment: Vienna" (1972) {Hot Potato (#1.2)}', '', 'Vienna, Austria']	47.2000338	13.199959
+['"Assignment: Vienna" (1972) {Queen\'s Gambit (#1.3)}', 'Vienna, Austria']	47.2000338	13.199959
+['"Assignment: Vienna" (1972) {So Long, Charley (#1.7)}', 'Vienna, Austria']	47.2000338	13.199959
+['"Assignment: Vienna" (1972) {Soldier of Fortune (#1.8)}', 'Vienna, Austria']	47.2000338	13.199959
+['"Assignment: Vienna" (1972) {The Last Target (#1.1)}', 'Vienna, Austria']	47.2000338	13.199959
+['"Assignment: Vienna" (1972) {There Was an Old Woman (#1.5)}', 'Vienna, Austria']	47.2000338	13.199959
+['"As� en la tierra como en el cielo" (1972)', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aun hay mas" (1972)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Banacek" (1972)', '', '', '', '', '50 Beacon Street, Boston, Massachusetts, USA']	42.25419775	-71.11553683609301
+['"Banacek" (1972)', '', '', '', '', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Banacek" (1972)', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Banacek" (1972)', '', '', '', '', 'Apartments, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972)', '', '', '', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {A Million the Hard Way (#1.4)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {Detour to Nowhere (#1.0)}', '', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {Detour to Nowhere (#1.0)}', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Banacek" (1972) {Detour to Nowhere (#1.0)}', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Banacek" (1972) {Fly Me- If You Can Find Me (#2.7)}', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {Fly Me- If You Can Find Me (#2.7)}', '50 Beacon Street, Boston, Massachusetts, USA']	42.25419775	-71.11553683609301
+['"Banacek" (1972) {Fly Me- If You Can Find Me (#2.7)}', 'Mojave Airport - 1434 Flightline Street, Mojave, California, USA']	35.01096025	-118.19028326663798
+['"Banacek" (1972) {Fly Me- If You Can Find Me (#2.7)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {Horse of a Slightly Different Color (#2.5)}', 'Hollywood Park Racetrack - 1050 S. Prairie Avenue, Inglewood, California, USA']	33.9562003	-118.353132
+['"Banacek" (1972) {Horse of a Slightly Different Color (#2.5)}', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {Horse of a Slightly Different Color (#2.5)}', '50 Beacon Street, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Banacek" (1972) {Horse of a Slightly Different Color (#2.5)}', '139 Tremont St, Boston, Massachusetts, USA']	42.3554005	-71.0637636
+['"Banacek" (1972) {Horse of a Slightly Different Color (#2.5)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {If Max Is So Smart, Why Doesn\'t He Tell Us Where He Is? (#2.2)}', '50 Becon Street, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Banacek" (1972) {If Max Is So Smart, Why Doesn\'t He Tell Us Where He Is? (#2.2)}', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {If Max Is So Smart, Why Doesn\'t He Tell Us Where He Is? (#2.2)}', 'Boston Common, Boston, Massachusetts, USA']	42.3550406	-71.06605149125444
+['"Banacek" (1972) {If Max Is So Smart, Why Doesn\'t He Tell Us Where He Is? (#2.2)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {Let\'s Hear It for a Living Legend (#1.1)}', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {Let\'s Hear It for a Living Legend (#1.1)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Banacek" (1972) {Let\'s Hear It for a Living Legend (#1.1)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {No Sign of the Cross (#1.3)}', '', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {No Sign of the Cross (#1.3)}', '', '50 Beacon Street, Boston, Massachusetts, USA']	42.25419775	-71.11553683609301
+['"Banacek" (1972) {No Sign of the Cross (#1.3)}', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {No Stone Unturned (#2.1)}', '', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {No Stone Unturned (#2.1)}', '', '50 Beacon Street, Boston, Massachusetts, USA']	42.25419775	-71.11553683609301
+['"Banacek" (1972) {No Stone Unturned (#2.1)}', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {Now You See Me, Now You Don\'t (#2.8)}', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {Now You See Me, Now You Don\'t (#2.8)}', '50 Beacon Street, Boston, Massachusetts, USA']	42.25419775	-71.11553683609301
+['"Banacek" (1972) {Now You See Me, Now You Don\'t (#2.8)}', 'Los Angeles International Airport - 1 World Way, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Banacek" (1972) {Now You See Me, Now You Don\'t (#2.8)}', '77 W Walnut St, Pasadena, California, USA']	34.149736663093115	-118.15169386630009
+['"Banacek" (1972) {Now You See Me, Now You Don\'t (#2.8)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Banacek" (1972) {Now You See Me, Now You Don\'t (#2.8)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {Project Phoenix (#1.2)}', '', 'Massachusetts 27, Wayland, Massachusetts, USA']	42.3183884	-71.3465231
+['"Banacek" (1972) {Project Phoenix (#1.2)}', '', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {Project Phoenix (#1.2)}', '', '50 Beacon Street, Boston, Massachusetts, USA']	42.25419775	-71.11553683609301
+['"Banacek" (1972) {Project Phoenix (#1.2)}', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {Project Phoenix (#1.2)}', '', 'Wayland, Massachusetts, USA']	42.3632063	-71.3606721
+['"Banacek" (1972) {Rocket to Oblivion (#2.6)}', '', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {Rocket to Oblivion (#2.6)}', '', '50 Beacon Street, Boston, Massachusetts, USA']	42.25419775	-71.11553683609301
+['"Banacek" (1972) {Rocket to Oblivion (#2.6)}', '', 'Boylston Street and Hereford Street, Boston, Massachusetts, USA']	39.7837304	-100.4458825
+['"Banacek" (1972) {Rocket to Oblivion (#2.6)}', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {Ten Thousand Dollars a Page (#1.6)}', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {Ten Thousand Dollars a Page (#1.6)}', '50 Beacon Street, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Banacek" (1972) {Ten Thousand Dollars a Page (#1.6)}', 'Norton Simon Museum - 411 West Colorado Boulevard, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Banacek" (1972) {Ten Thousand Dollars a Page (#1.6)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Banacek" (1972) {The Greatest Collection of Them All (#1.7)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Banacek" (1972) {The Three Million Dollar Piracy (#2.3)}', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {The Three Million Dollar Piracy (#2.3)}', '50 Beacon Street, Boston, Massachusetts, USA']	42.25419775	-71.11553683609301
+['"Banacek" (1972) {The Three Million Dollar Piracy (#2.3)}', '15 Arlington St, Boston, Massachusetts, USA']	42.25980225179803	-71.11609472475278
+['"Banacek" (1972) {The Three Million Dollar Piracy (#2.3)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {The Three Million Dollar Piracy (#2.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {The Two Million Clams of Cap\'n Jack (#1.8)}', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {The Vanishing Chalice (#2.4)}', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Banacek" (1972) {To Steal a King (#1.5)}', '', '85 Mt Vernon St, Boston, Massachusetts, USA']	42.374751128691216	-71.05808828549297
+['"Banacek" (1972) {To Steal a King (#1.5)}', '', '50 Beacon Street, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Banacek" (1972) {To Steal a King (#1.5)}', '', '15 Arlington St, Boston, Massachusetts, USA']	42.25980225179803	-71.11609472475278
+['"Banacek" (1972) {To Steal a King (#1.5)}', '', 'Stage 29, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Berlin Original" (1972)', '', '', '', 'Berlin, Germany']	51.0834196	10.4234469

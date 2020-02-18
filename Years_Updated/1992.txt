@@ -1,0 +1,351 @@
+['"1992 American League Championship Series" (1992) {Game 1}', 'SkyDome, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"1992 Presidential Debates" (1992) {(#1.1)}', '', 'Robins Center, University of Richmond, Richmond, Virginia, USA']	37.5385087	-77.43428
+['"1992 Presidential Debates" (1992) {(#1.1)}', '', 'Field House, Washington University - 330 North Big Bend Boulevard, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"1992 Presidential Debates" (1992) {(#1.2)}', '', 'Robins Center, University of Richmond, Richmond, Virginia, USA']	37.5385087	-77.43428
+['"1992 Presidential Debates" (1992) {(#1.3)}', '', 'Wharton Center, Michigan State University, East Lansing, Michigan, USA']	39.7837304	-100.4458825
+['"2000 Malibu Road" (1992)', '', '', '', 'Malibu, California, USA']	34.035591	-118.689423
+['"5+1" (1992)', '', '', '', '', '', 'Kyiv, Ukraine']	50.4500336	30.5241361
+['"999" (1992) {(#1.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#1.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#1.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#1.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#1.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#1.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.10)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.8)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#10.9)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.10)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.8)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#11.9)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#12.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#12.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#12.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#12.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#12.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#12.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.10)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.11)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.12)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.13)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.14)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.8)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#13.9)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#14.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#2.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#2.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#2.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#2.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#2.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#2.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#2.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#2.8)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#3.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#3.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#3.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#3.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#3.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#3.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#3.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#3.8)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#4.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#4.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#4.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#4.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.10)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.8)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#5.9)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.10)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.8)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#6.9)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.10)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.7)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.8)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#7.9)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#8.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#8.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#8.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#9.1)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#9.2)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#9.3)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#9.4)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#9.5)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {(#9.6)}', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"999" (1992) {Tidal Rock}', '', '', '', 'Firth of Lorne, Argyll and Bute, Scotland, UK']	56.4603494	-5.8618419478791015
+['"999" (1992) {Tidal Rock}', '', '', '', 'Oban, Argyll and Bute, Scotland, UK']	56.415695	-5.4734688
+['"A Cruz y a espada" (1992)', '', '', '', 'Zacatecas, Mexico']	23.0000001	-103.0000001
+['"A Life" (1992) {Sidney Nolan (#1.10)}', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"A Life" (1992) {Sidney Nolan (#1.10)}', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"A Life" (1992) {Sidney Nolan (#1.10)}', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Life" (1992) {Sidney Nolan (#1.10)}', '', '', 'Canberra, Australian Capital Territory, Australia']	-35.2975906	149.1012676
+['"A Life" (1992) {Sidney Nolan (#1.10)}', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A Life" (1992) {Sidney Nolan (#1.10)}', '', '', 'The Rodd, Kington, Herefordshire, England, UK']	52.083333	-2.75
+['"A Nivel" (1992)', '', '', '', '', 'Canal 6, Santo Domingo, Dominican Republic']	18.46532245	-69.96826886261275
+['"A Time to Dance" (1992)', '', '', '', 'Cockermouth, Cumbria, England, UK']	54.6614392	-3.3590111
+['"A Time to Dance" (1992)', '', '', '', 'North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Touch of Frost" (1992)', '', '', '', 'Carlton Lanes Shopping Centre, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"A Touch of Frost" (1992)', '', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"A Touch of Frost" (1992)', '', '', '', 'Leeds, West Yorkshire, England, UK']	53.7974185	-1.5437941
+['"A Touch of Frost" (1992)', '', '', '', 'Rishworth Street, Wakefield, West Yorkshire, England, UK']	53.6847659	-1.5019502
+['"A Touch of Frost" (1992)', '', '', '', 'Westgate Station, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"A Touch of Frost" (1992) {Benefit of the Doubt: Part 1 (#8.1)}', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Benefit of the Doubt: Part 2 (#8.2)}', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Care and Protection (#1.1)}', 'Raynel Mount, Lawnswood, Leeds, Yorkshire, England, UK']	53.8511925	-1.6041047
+['"A Touch of Frost" (1992) {Care and Protection (#1.1)}', 'Castleford, West Yorkshire, England, UK']	53.722353	-1.3512543
+['"A Touch of Frost" (1992) {Close Encounters (#10.2)}', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Conclusions (#1.3)}', '', 'Castleford, West Yorkshire, England, UK']	53.722353	-1.3512543
+['"A Touch of Frost" (1992) {Dead Male One (#3.3)}', 'Castleford, West Yorkshire, England, UK']	53.722353	-1.3512543
+['"A Touch of Frost" (1992) {Deep Waters (#4.5)}', '', 'Seton House, Bodington Hall, Otley Road, Leeds, West Yorkshire, England']	53.7974185	-1.5437941
+['"A Touch of Frost" (1992) {Deep Waters (#4.5)}', '', 'Mortain House, Bodington Hall, Otley Road, Leeds, West Yorkshire, England']	53.7974185	-1.5437941
+['"A Touch of Frost" (1992) {Deep Waters (#4.5)}', '', 'Bretton Hall, Bretton, West Yorkshire, England, UK']	53.61106305	-1.5729415926300585
+['"A Touch of Frost" (1992) {Deep Waters (#4.5)}', '', 'Castleford, West Yorkshire, England, UK']	53.722353	-1.3512543
+['"A Touch of Frost" (1992) {Deep Waters (#4.5)}', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"A Touch of Frost" (1992) {Endangered Species (#13.1)}', 'Heythrop Zoological Gardens, Heythrop, Chipping Norton, Oxfordshire, England, UK']	51.833333	-1.25
+['"A Touch of Frost" (1992) {Held in Trust (#10.3)}', 'Hawksworth Primary School, Hawksworth, Leeds, West Yorkshire, England, UK']	53.8716163	-1.7505470864897528
+['"A Touch of Frost" (1992) {House Calls (#5.2)}', '', 'Ingrow Tunnel, Ingrow, Keighley, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"A Touch of Frost" (1992) {If Dogs Run Free: Part 1 (#15.1)}', 'Lawnswood School, Weetwood, Leeds, England, UK']	53.7974185	-1.5437941
+['"A Touch of Frost" (1992) {If Dogs Run Free: Part 2 (#15.2)}', 'New Scotland Yard, Broadway, Westminster, London, England, UK']	51.5073219	-0.1276474
+['"A Touch of Frost" (1992) {In the Public Interest (#14.3)}', 'Canal Towpath, Kirkstall, Leeds, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"A Touch of Frost" (1992) {In the Public Interest (#14.3)}', 'Heckmondwike, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"A Touch of Frost" (1992) {Keys to the Car (#6.4)}', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Line of Fire: Part 1 (#7.1)}', 'Ferrybridge, Yorkshire, England, UK']	53.7106701	-1.2751652
+['"A Touch of Frost" (1992) {Line of Fire: Part 1 (#7.1)}', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Line of Fire: Part 2 (#7.2)}', 'Ferrybridge, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Mind Games (#14.1)}', '', 'Ulleskelf, North Yorkshire, England, UK']	53.853331	-1.2143782
+['"A Touch of Frost" (1992) {Not with Kindness (#1.2)}', 'Castleford, West Yorkshire, England, UK']	53.722353	-1.3512543
+['"A Touch of Frost" (1992) {Nothing to Hide (#2.3)}', 'Carlton Lanes Shopping Centre, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"A Touch of Frost" (1992) {One Man\'s Meat (#6.2)}', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Penny for the Guy (#5.1)}', 'Cannon Cinema - now closed, Kirkgate, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"A Touch of Frost" (1992) {Penny for the Guy (#5.1)}', 'Golden Acre Park, Leeds, West Yorkshire, England, UK']	53.87155385	-1.589179259024224
+['"A Touch of Frost" (1992) {Penny for the Guy (#5.1)}', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Private Lives (#6.3)}', 'Yorkshire, England, UK']	54.5801786	-1.1761942
+['"A Touch of Frost" (1992) {Quarry (#3.2)}', '', 'Castleford, West Yorkshire, England, UK']	53.722353	-1.3512543
+['"A Touch of Frost" (1992) {Quarry (#3.2)}', '', 'Stockeld Park, Wetherby, West Yorkshire, England, UK']	53.934675049999996	-1.4321816008224681
+['"A Touch of Frost" (1992) {True Confessions (#5.3)}', 'Wharfe Bridge, Thorp Arch, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"A Touch of Frost" (1992) {True Confessions (#5.3)}', 'Wharfe Bridge, Thorp Arch, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"A Touch of Frost" (1992) {Unknown Soldiers (#4.2)}', 'Ripon, North Yorkshire, England, UK']	54.1368788	-1.5213194
+['"A la cachi cachi porra" (1992)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Absolutely Fabulous" (1992)', '', '', '', '30 Clarendon Road, Holland Park, London, England, UK']	51.5073219	-0.1276474
+['"Absolutely Fabulous" (1992)', '', '', '', 'Holland Park, London, England, UK']	51.50301195	-0.20414761379575316
+['"Absolutely Fabulous" (1992)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Absolutely Fabulous" (1992)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Absolutely Fabulous" (1992)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Absolutely Fabulous" (1992)', '', '', '', 'Rabat, Morocco']	34.022405	-6.834543
+['"Absolutely Fabulous" (1992)', '', '', '', 'Switzerland']	46.7985624	8.2319736
+['"Absolutely Fabulous" (1992)', '', '', '', 'Waterloo Station, Waterloo, London, England, UK']	51.50372505	-0.11370885797203917
+['"Absolutely Fabulous" (1992) {Exploitin\' (#5.7)}', "London Zoo, Regent's Park, Marylebone, Middlesex, London, England, UK"]	51.5073219	-0.1276474
+['"Absolutely Fabulous" (1992) {France (#1.3)}', '', 'Bonnieux, Vaucluse, France']	43.8236191	5.3077869
+['"Absolutely Fabulous" (1992) {France (#1.3)}', '', 'Chateau la Canorgue, Bonnieux, Vaucluse, France']	43.8236191	5.3077869
+['"Absolutely Fabulous" (1992) {France (#1.3)}', '', 'M�nerbes, Vaucluse, France']	46.603354	1.8883335
+['"Absolutely Fabulous" (1992) {Identity (#6.1)}', '', 'Brixton, Lambeth, London, England, UK']	51.4568044	-0.1167959
+['"Absolutely Fabulous" (1992) {Identity (#6.1)}', '', 'Berkeley Square, Mayfair, London, England, UK']	51.50964155	-0.1458122325494609
+['"Absolutely Fabulous" (1992) {Identity (#6.1)}', '', 'South Molton Street, Mayfair, London, England, UK']	51.5073219	-0.1276474
+['"Absolutely Fabulous" (1992) {Morocco (#2.3)}', '', 'Marrakech, Morocco']	31.6258257	-7.9891608
+['"Absolutely Fabulous" (1992) {Morocco (#2.3)}', '', 'Djemaa el Fna, Marrakech, Morocco']	31.62542	-7.9889053
+['"Absolutely Fabulous" (1992) {Morocco (#2.3)}', '', 'Marrakech-Menara Airport, Marrakech, Morocco']	31.605871	-8.032465716209586
+['"Absolutely Fabulous" (1992) {Paralox (#4.1)}', '', 'Holland Park, London, England, UK']	51.5073219	-0.1276474
+['"Absolutely Fabulous" (1992) {Schmoozin\' (#5.6)}', "Abbey Road Studios, Abbey Road, St. John's Wood, London, England, UK"]	51.53198795	-0.17822595150661952
+['"Absolutely Fabulous" (1992) {The End (#3.6)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Absolutely Fabulous" (1992) {White Box (#5.9)}', '', 'Michelin House, Fulham Road, London, England, UK']	51.4933513	-0.1690087
+['"Aby do switu..." (1992)', '', '', '', 'Poland']	52.215933	19.134422
+['"Achterbahn" (1992) {Titanic - Noch einmal (#1.59)}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Al despertar" (1992)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"American Justice" (1992)', '', '', '', 'Citra, Florida, USA']	29.4119166	-82.1098156
+['"American Justice" (1992) {Death in a Small Town}', 'Ringgold, Georgia, USA']	34.91591	-85.1091173
+['"American Justice" (1992) {Eliminating the Competition}', 'Tennessee, USA']	39.7837304	-100.4458825
+['"American Justice" (1992) {Murder in the Court}', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"American Justice" (1992) {Murder in the Court}', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Justice" (1992) {Murder in the Court}', '', 'Fort Worth, Texas, USA']	32.753177	-97.3327459
+['"American Justice" (1992) {Murder on the Boardwalk}', '2505 North Halifax, Daytona Beach Florida, USA']	39.7837304	-100.4458825
+['"American Justice" (1992) {Murder on the Boardwalk}', 'Daytona Beach, Florida, USA']	29.2108147	-81.0228331
+['"American Justice" (1992) {Murder on the Boardwalk}', 'Lowell Corrections Institute, Homestead, Florida, USA']	39.7837304	-100.4458825
+['"American Justice" (1992) {Murder on the Boardwalk}', 'Volusia County Courthouse, Daytona Beach, Florida, USA']	29.2108147	-81.0228331
+['"American Justice" (1992) {Payback for a Bully}', '', 'Florida, USA']	27.7567667	-81.4639835
+['"American Justice" (1992) {The Doctor\'s Wife}', '', 'Roseland Park Cemetery, Hattiesburg, Mississippi, USA']	31.3271189	-89.2903392
+['"American Justice" (1992) {The Doctor\'s Wife}', '', '135 Lake Estates Drive, Hattiesburg, Mississippi, USA']	31.3271189	-89.2903392
+['"American Justice" (1992) {The Doctor\'s Wife}', '', 'Forrest General Hospital, Hattiesburg, Mississippi, USA']	31.3189186	-89.3298195538935
+['"American Justice" (1992) {The Doctor\'s Wife}', '', 'Hattiesburg Clinic, Hattiesburg, Mississippi, USA']	31.31906225	-89.33190014933321
+['"American Justice" (1992) {The Doctor\'s Wife}', '', 'Bogalusa, Louisiana, USA']	30.7910204	-89.8486858
+['"American Justice" (1992) {The Doctor\'s Wife}', '', 'Forrest County Courthouse, Hattiesburg, Mississippi, USA']	31.3273242	-89.29140830786159
+['"American Justice" (1992) {The Doctor\'s Wife}', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"American Justice" (1992) {The Jonesboro Schoolyard Ambush (#7.4)}', 'Jonesboro, Arkansas, USA']	35.8428646	-90.7034522
+['"Andale" (1992)', '', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Andr� Topa Tudo" (1992)', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"Angel Street" (1992)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Anglo Saxon Attitudes" (1992)', '', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Anglo Saxon Attitudes" (1992)', '', '', '', 'France']	46.603354	1.8883335
+['"Animal Adventures" (1992)', '', '', '', 'Busch Gardens - McKinley Drive, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Animal Adventures" (1992) {A Day in Queen Elizabeth National Park (#3.3)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {A Day in Queen Elizabeth National Park (#3.3)}', 'Queen Elizabeth National Park, Uganda']	1.5333554	32.2166578
+['"Animal Adventures" (1992) {Alaska\'s Big Little Zoo (#6.10)}', 'Busch Gardens, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Animal Adventures" (1992) {Alaska\'s Big Little Zoo (#6.10)}', "Alaska Zoo - 4731 O'Malley Road, Anchorage, Alaska, USA"]	61.1246472	-149.7926128
+['"Animal Adventures" (1992) {Alaskan Adventure (#5.3)}', 'Busch Gardens, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Animal Adventures" (1992) {Alaskan Adventure (#5.3)}', 'Juneau, Alaska, USA']	58.3019496	-134.419734
+['"Animal Adventures" (1992) {Alaskan Whales (#5.8)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Alaskan Whales (#5.8)}', 'Glacier Bay, Glacier Bay National Park and Preserve, Alaska, USA']	58.8130745	-136.8723522255592
+['"Animal Adventures" (1992) {Dolphin Dive (#4.11)}', 'Busch Gardens, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Animal Adventures" (1992) {Dolphin Dive (#4.11)}', 'Freeport, Bahamas']	26.535681	-78.6953623
+['"Animal Adventures" (1992) {Elephants of Amboseli (#3.2)}', 'Busch Gardens, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Animal Adventures" (1992) {Elephants of Amboseli (#3.2)}', 'Amboseli National Park, Kenya']	1.4419683	38.4313975
+['"Animal Adventures" (1992) {Fair Fun (#4.3)}', '', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Fair Fun (#4.3)}', '', 'Ohio State Fair - 717 E 17th Avenue, Columbus, Ohio, USA']	39.9622601	-83.0007065
+['"Animal Adventures" (1992) {Fossil Rim (#5.19)}', '', 'Busch Gardens, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Animal Adventures" (1992) {Fossil Rim (#5.19)}', '', 'Fossil Rim Wildlife Center, Glen Rose, Texas, USA']	39.7837304	-100.4458825
+['"Animal Adventures" (1992) {Glacier Bay Adventure (#8.14)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Glacier Bay Adventure (#8.14)}', 'Glacier Bay, Glacier Bay National Park and Preserve, Alaska, USA']	58.8130745	-136.8723522255592
+['"Animal Adventures" (1992) {Glacier National Park (#2.7)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Glacier National Park (#2.7)}', 'Glacier National Park, Montana, USA']	48.6174862	-113.76088505945765
+['"Animal Adventures" (1992) {Going Buggy (#2.11)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Going Buggy (#2.11)}', 'Cincinnati Zoo - 3400 Vine Street, Cincinnati, Ohio, USA']	39.1014537	-84.5124602
+['"Animal Adventures" (1992) {Going Buggy (#2.11)}', 'Columbus Zoo and Aquarium - 4850 W Powell Road, Powell, Ohio, USA']	39.7837304	-100.4458825
+['"Animal Adventures" (1992) {Going to the Dogs and Cats (#11.3)}', 'SeaWorld Orlando - 7007 SeaWorld Drive, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Animal Adventures" (1992) {Hippos of King\'s Pool (#5.7)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Hoof\'n It (#6.3)}', '', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Hoof\'n It (#6.3)}', '', 'Anchorage, Alaska, USA']	61.2163129	-149.8948523
+['"Animal Adventures" (1992) {Hoof\'n It (#6.3)}', '', 'Alaska Peninsula, Alaska, USA']	56.974283400000004	-157.7339317395059
+['"Animal Adventures" (1992) {Hoof\'n It (#6.3)}', '', 'Musk Ox Farm - 12850 E Archie Road, Palmer, Alaska, USA']	61.5995703	-149.1110902
+['"Animal Adventures" (1992) {Katmai Bears (#6.7)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Katmai Bears (#6.7)}', 'Katmai National Park and Preserve, King Salmon, Alaska, USA']	58.6929377	-156.667593
+['"Animal Adventures" (1992) {Keeper Connections (#2.10)}', 'Busch Gardens - McKinley Drive, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Animal Adventures" (1992) {Kenai Connection (#6.11)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Kenai Connection (#6.11)}', 'Kenai Fjords National Park, Alaska, USA']	59.86869725	-150.02532361219178
+['"Animal Adventures" (1992) {Miami Serpentarium (#3.19)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Miami Serpentarium (#3.19)}', 'Miami Serpentarium Laboratories - 34879 Washington Loop Road, Punta Gorda, Florida, USA']	26.9297836	-82.0453664
+['"Animal Adventures" (1992) {My Montana (#4.6)}', '', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {My Montana (#4.6)}', '', 'Sun River Ranch - Augusta, Montana, USA']	39.7837304	-100.4458825
+['"Animal Adventures" (1992) {My Montana (#4.6)}', '', 'Bigfork, Montana, USA']	48.0679255	-114.09666640516207
+['"Animal Adventures" (1992) {Okavango Delta (#4.25)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Okavango Delta (#4.25)}', 'Okavango Delta, North-West District, Botswana']	-19.3071766	23.186868947839166
+['"Animal Adventures" (1992) {Outside City Limits (#2.16)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Outside City Limits (#2.16)}', 'Columbus Zoo and Aquarium - 4850 W Powell Road, Powell, Ohio, USA']	40.1578403	-83.0751869
+['"Animal Adventures" (1992) {Outside City Limits (#2.16)}', 'Connecticut, USA']	39.7837304	-100.4458825
+['"Animal Adventures" (1992) {Parrot Jungle (#5.4)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Parrot Jungle (#5.4)}', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Animal Adventures" (1992) {Phinda: Born Again Africa (#4.10)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Phinda: Land of Adventure (#4.14)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Phinda: Land of Adventure (#4.14)}', 'Phinda Private Game Reserve, KwaZulu-Natal, South Africa']	-28.8166236	24.991639
+['"Animal Adventures" (1992) {Picture Perfect (#4.4)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Picture Perfect (#4.4)}', 'Triple D Game Farm - 190 Drake Drive, Kalispell, Montana, USA']	48.2022563	-114.3167117
+['"Animal Adventures" (1992) {Swamp Things (#1.12)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Swamp Things (#1.12)}', 'Audubon Zoo - 6500 Magazine Street, New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Animal Adventures" (1992) {The Bear Facts (#2.5)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {The Bear Facts (#2.5)}', 'Bozeman, Montana, USA']	45.6794293	-111.0440474
+['"Animal Adventures" (1992) {The Bear Facts (#2.5)}', 'Yellowstone National Park, Montana, USA']	44.6200885	-110.56075745943113
+['"Animal Adventures" (1992) {The Elusive Cheetah (#3.26)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {The Wilds (#4.5)}', '', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {The Wilds (#4.5)}', '', 'The Wilds - 14000 International Road, Cumberland, Ohio, USA']	39.8520167	-81.6576272
+['"Animal Adventures" (1992) {Touchdown Alaska (#7.23)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Touchdown Alaska (#7.23)}', 'Alaska, USA']	64.4459613	-149.680909
+['"Animal Adventures" (1992) {Uncommon Canines (#1.21)}', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Animal Adventures" (1992) {Uncommon Canines (#1.21)}', 'California Wolf Center - K Q Ranch Road, Julian, California, USA']	33.078597	-116.6023154
+['"Animal Adventures" (1992) {Uncommon Canines (#1.21)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Water Babies (#1.19)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Water Babies (#1.19)}', 'SeaWorld Orlando - 7007 SeaWorld Drive, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Animal Adventures" (1992) {Westward Bound (#4.1)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Animal Adventures" (1992) {Westward Bound (#4.1)}', 'Wyoming, USA']	43.1700264	-107.5685348
+['"Animal Adventures" (1992) {Westward Bound (#4.1)}', 'Red Lodge, Montana, USA']	45.1857782	-109.2468193
+['"Animal Adventures" (1992) {Where the Bears Are (#13.1)}', 'Katmai National Park and Preserve, King Salmon, Alaska, USA']	58.6929377	-156.667593
+['"Animal Adventures" (1992) {Wings \'n\' Wolves (#6.12)}', 'St. Louis Zoo - 1 Government Drive, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Animal Adventures" (1992) {Wings \'n\' Wolves (#6.12)}', 'Endangered Wolf Center - 6750 Tyson Valley Road, Eureka, Missouri, USA']	38.5025537	-90.6279044
+['"Animal Adventures" (1992) {Wings \'n\' Wolves (#6.12)}', 'Busch Gardens, Tampa, Florida, USA']	28.0370823	-82.42126134497113
+['"Arende II: MoordenaarsKaroo" (1992)', '', '', 'Kimberley, Northern Cape, South Africa']	-28.7383012	24.7642251
+['"Arende II: MoordenaarsKaroo" (1992)', '', '', 'Matjiesfontein, South Africa']	-28.8166236	24.991639
+['"Arende II: MoordenaarsKaroo" (1992)', '', '', 'Cederberg, Western Cape, South Africa']	-32.5016978	19.2550823
+['"As Noivas de Copacabana" (1992)', '', '', 'Copacabana, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9719642	-43.1843432
+['"As Time Goes By" (1992)', '', '', '', "21 St James's Gardens, London, England, UK"]	51.507783	-0.2142436
+['"As Time Goes By" (1992)', '', '', '', '7 Addison Avenue, London, England, UK']	51.5056136	-0.2118057
+['"As Time Goes By" (1992)', '', '', '', 'St John the Baptist church, Aldenham, Hertfordshire, England, UK']	51.6733757	-0.3529597
+['"As Time Goes By" (1992)', '', '', '', 'Hambleden, Buckinghamshire, England, UK']	51.75	-0.75
+['"As Time Goes By" (1992)', '', '', '', 'Letchmore Heath, Hertfordshire, England, UK']	51.6674096	-0.3361193
+['"As Time Goes By" (1992)', '', '', '', 'Glebe House, Church Lane, Aldenham, Hertfordshire, England, UK']	51.6733777	-0.3493119
+['"At Home on the Range, the Cooking Show for the Deranged" (1992)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BBC Weekend News" (1992) {04/04/2015 12pm}', '', 'BBC Broadcasting House, Central London, England, UK']	51.51878285	-0.14383148508415589
+['"BBC Weekend News" (1992) {04/04/2015 12pm}', '', "St George's Square, Glasgow, Scotland, UK"]	55.8609825	-4.2488787
+['"BBC Weekend News" (1992) {04/04/2015 12pm}', '', 'Riyadh, Saudi Arabia']	25.6242618	42.3528328
+['"BBC Weekend News" (1992) {04/04/2015 6:40pm}', '', 'BBC Broadcasting House, Central London, England, UK']	51.51878285	-0.14383148508415589
+['"BBC Weekend News" (1992) {04/04/2015 6:40pm}', '', "St George's Square, Glasgow, Scotland, UK"]	55.8609825	-4.2488787
+['"BBC Weekend News" (1992) {04/04/2015 6:40pm}', '', 'Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Weekend News" (1992) {04/04/2015 6:40pm}', '', 'Riyadh, Saudi Arabia']	24.6319692	46.7150648
+['"BBC Weekend News" (1992) {04/04/2015 6:40pm}', '', 'Emirates Stadium, London, England, UK']	51.55504035	-0.1083996708672374
+['"BBC Weekend News" (1992) {21/03/2015 12pm}', '', 'Twickenham Stadium, Whitton Road, Twickenham, England, UK']	51.4549931	-0.3392773
+['"BBC Weekend News" (1992) {21/03/2015 7:15pm}', '', 'BBC Broadcasting House, Central London, England, UK']	51.51878285	-0.14383148508415589
+['"BBC Weekend News" (1992) {21/03/2015 7:15pm}', '', 'HM Treasury, 1 Horse Guards Road Westminster, London, England, UK']	51.5073219	-0.1276474
+['"BBC Weekend News" (1992) {21/03/2015 7:15pm}', '', 'Twickenham Stadium, Whitton Road, Twickenham, England, UK']	51.4549931	-0.3392773
+['"BBC Weekend News" (1992) {4 June 2017: Nightly Bulletin}', 'Borough Market, Borough, London, England, UK']	51.50544945	-0.09048866941273104
+['"BBC Weekend News" (1992) {4 June 2017: Nightly Bulletin}', 'Lancashire County Cricket Club, Old Trafford Cricket Ground, Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"BET\'s Comicview" (1992)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BET\'s Comicview" (1992)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"BET\'s Comicview" (1992) {ComicView: Caliente (#11.1)}', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"BET\'s Comicview" (1992) {Kevin Hart/Aries Spears/Omar (#18.15)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Arvin Mitchell/Retha Jones (#18.25)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Clayton Thomas/Rashaun Reese (#18.29)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Corey Holcomb/Ron G. (#18.11)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Deon Cole/Felipe Esparza (#18.9)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Freddie Ricks/Pierre (#18.13)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/G-Thang/Mike E. Winfield (#18.22)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Haydiyah Robinson/Doo Doo Brown (#18.28)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Howie Bell/Shaun Jones (#18.10)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Jasper Redd/Gene Pompa (#18.23)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Jay Pharoah/Mark Simmons (#18.20)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/John Laster/Marshall Brandon (#18.14)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Jonathan Martin/Kirk McHenry (#18.12)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Nikki Carr/Charles Walden (#18.16)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Queen Aishah/James Hannah (#18.24)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Rich Salter/Justin Mitchell (#18.18)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Rodney Perry/Sydney Castillo (#18.1)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Ronnie Jordan/Leon Rogers (#18.26)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Rudy Rush/Ali (#18.8)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Shang/Jamal Doman (#18.17)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"BET\'s Comicview" (1992) {Kevin Hart/Tony Tone/Tom Segura (#18.19)}', 'Avalon Hollywood - 1735 Vine Street, Los Angeles, California, USA']	34.1046483	-118.3271941
+['"Babades, gioi kai peirasmoi" (1992)', '', '', 'Athens, Greece']	37.9841493	23.7279843
+['"Bananas in Pyjamas" (1992)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Barney & Friends" (1992)', '', '', '', "Building One, Studios at Las Colinas - 6301 North O'Connor Road, Irving, Texas, USA"]	32.8295183	-96.9442177
+['"Barney & Friends" (1992)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Barney & Friends" (1992) {A World of Music (#1.25)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Barney & Friends" (1992) {The Queen of Make-Believe (#1.1)}', 'Allen, Texas, USA']	33.1031744	-96.6705503
+['"Barney & Friends" (1992) {�Ahora Mismo!: Spain (#13.3)}', 'Carrollton, Texas, USA']	32.9537349	-96.8902816
+['"Batman: The Animated Series" (1992)', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bedroom Buddies" (1992)', '', '', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benny Hinn" (1992)', '', '', '', '', 'Birmingham, Alabama, USA']	33.5206824	-86.8024326
+['"Benny Hinn" (1992)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Benny Hinn" (1992)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Between the Lines" (1992) {Manoeuvre 11 (#2.6)}', 'Maine Road Stadium, Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687

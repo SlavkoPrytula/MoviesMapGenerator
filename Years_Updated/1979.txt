@@ -1,0 +1,737 @@
+['"$weepstake$" (1979)', '', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"$weepstake$" (1979) {(#1.1)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"$weepstake$" (1979) {(#1.7)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24 no hitomi" (1979)', '', '', '', '', 'Kagawa, Japan']	34.2480104	134.0586579
+['"240-Robert" (1979)', '', '', '', '', 'Cabrillo Beach, San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"240-Robert" (1979)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"3 by Cheever" (1979) {The 5:48 (#1.3)}', '', '', 'Massachusetts, USA']	42.3788774	-72.032366
+['"3 by Cheever" (1979) {The 5:48 (#1.3)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"3 by Cheever" (1979) {The 5:48 (#1.3)}', '', '', 'New Jersey, USA']	39.7837304	-100.4458825
+['"3 by Cheever" (1979) {The 5:48 (#1.3)}', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"60 Minutes" (1979)', '', '', '', '', 'Channel 9 Studios, Willoughby, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"60 Minutes" (1979) {American Girls in Paris}', '', 'Paris, France']	48.8566969	2.3514616
+['"60 Minutes" (1979) {Back to the Future (#37.30)}', 'Parliament House, Canberra, Australian Capital Territory, Australia']	-35.2975906	149.1012676
+['"60 Minutes" (1979) {Back to the Future (#37.30)}', 'Crowley Vale, Queensland, Australia']	-27.5438881	152.3775024
+['"60 Minutes" (1979) {Back to the Future (#37.30)}', 'Ipswich, Queensland, Australia']	-27.6160135	152.7608702
+['"60 Minutes" (1979) {Deadly Seduction}', '', '', 'Akron, Ohio, USA']	41.083064	-81.518485
+['"60 Minutes" (1979) {Deadly Seduction}', '', '', 'Australia']	-24.7761086	134.755
+['"60 Minutes" (1979) {Deadly Seduction}', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"60 Minutes" (1979) {The Hanson Phenomenon}', '', 'Parliament House, Canberra, Australian Capital Territory, Australia']	-35.3075604	149.1246038
+['"60 Minutes" (1979) {The Hanson Phenomenon}', '', 'Ipswich, Queensland, Australia']	-27.6160135	152.7608702
+['"60 Minutes" (1979) {The View Out There}', '', 'QTQ-9 Studios, Brisbane, Queensland, Australia']	-24.7761086	134.755
+['"A Diary of Britain" (1979) {A New Lease of Life? (#1.5)}', 'Abbotsbury, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"A Diary of Britain" (1979) {Christmas at St David\'s (#1.15)}', "St. David's, Cardigan, Wales, UK"]	52.0839973	-4.6604224
+['"A Diary of Britain" (1979) {Cob Country (#1.6)}', 'Wales, UK']	52.2928116	-3.73893
+['"A Diary of Britain" (1979) {Dover Harbour (#1.12)}', 'Dover, Kent, England, UK']	51.2474823	0.7105077
+['"A Diary of Britain" (1979) {Five Million Pounds at Stake (#1.9)}', 'Poole, Dorset, England, UK']	50.74020055	-1.9537512539581008
+['"A Diary of Britain" (1979) {Gamblers of the Vale (#1.4)}', 'Vale of Evesham, Worcester, Worcestershire, England, UK']	52.2109495	-2.156955513242221
+['"A Diary of Britain" (1979) {Men and Iron (#1.14)}', 'Kirkintilloch, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"A Diary of Britain" (1979) {One of the Indians (#1.7)}', 'Cornwall, England, UK']	50.416667	-4.75
+['"A Diary of Britain" (1979) {Sad to Be Leaving.... Glad to Be Going (#1.11)}', 'Northern Ireland, UK']	54.6294982	-6.7654416
+['"A Diary of Britain" (1979) {Shinty Town (#1.2)}', 'Newtonmore, Highland, Scotland, UK']	57.0634084	-4.1238869
+['"A Diary of Britain" (1979) {Some of Our Best Friends (#1.8)}', 'Woodbridge, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"A Diary of Britain" (1979) {Sound an Alarm (#1.10)}', 'Bolsterstone, South Yorkshire, England, UK']	53.4671264	-1.5941549
+['"A Diary of Britain" (1979) {The Operation (#1.3)}', 'Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"A Diary of Britain" (1979) {When the Ships Come In (#1.13)}', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"A Man Called Intrepid" (1979)', '', '', '', 'Rjukan, Telemark, Norway']	59.8786889	8.5941727
+['"A Man Called Intrepid" (1979)', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"A Man Called Intrepid" (1979)', '', '', '', 'EMI Elstree Studios, Borehamwood, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"A Man Called Intrepid" (1979)', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Man Called Intrepid" (1979)', '', '', '', 'Norway']	60.5000209	9.0999715
+['"A Man Called Intrepid" (1979)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"A Man Called Sloane" (1979)', '', '', '', 'The Lot - 1041 N. Formosa Avenue, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Afternoon Plus" (1979)', '', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Afternoon Plus" (1979) {(1980-10-21)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Akershus slott og festning gjennom 700 �r" (1979)', 'Akershus festning, Oslo, Norway']	59.9065863	10.7378627
+['"All Star Secrets" (1979)', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"All Star Secrets" (1979)', '', '', '', 'Stage 1, NBC Studios - 3000 W. Alameda Avenue, Burbank, California, USA']	34.1816482	-118.3258554
+['"Amor prohibido" (1979)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Andrea Celeste" (1979)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.100)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.101)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.102)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.103)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.104)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.105)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.106)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.107)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.108)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.109)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.110)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.20)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.30)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.31)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.32)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.33)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.34)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.35)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.36)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.37)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.38)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.39)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.40)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.41)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.42)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.43)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.44)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.45)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.46)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.47)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.48)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.49)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.50)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.51)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.52)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.53)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.54)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.55)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.56)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.57)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.58)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.59)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.60)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.61)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.62)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.63)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.64)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.65)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.66)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.67)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.68)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.69)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.70)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.71)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.72)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.73)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.74)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.75)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.76)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.77)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.78)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.79)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.80)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.81)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.82)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.83)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.84)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.85)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.86)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.87)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.88)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.89)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.90)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.91)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.92)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.93)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.94)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.95)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.96)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.97)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.98)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea Celeste" (1979) {(#1.99)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Angie" (1979)', '', '', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979)', '', '', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Angie" (1979) {Angie and Brad\'s Close Encounter (#2.14)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Angie and Joyce Go to Jail (#2.23)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Angie and the Doctor (#2.24)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Angie\'s Good Deed (#1.11)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Angie\'s Old Friends (#2.1)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Beauty Parlor (#2.15)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Brad\'s Best Buddy (#2.18)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Coffee Wars (#2.13)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Family Feud (#2.9)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {February Fever (#2.19)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Friends in Need (#2.22)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Harvey\'s Mother (#2.10)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Joyce\'s Job (#1.9)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Marie Moves Out (#2.17)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Marie\'s Crush (#2.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Mary, Mary Marries (#2.11)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Moving Day (#2.3)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Adjustment (#1.5)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Check Up (#1.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Elopement (#1.3)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The First Fight (#1.10)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The First Separation (#2.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Gambler (#2.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Gift (#2.5)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The House Guests (#1.7)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Kid Down the Block (#2.21)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Morning After (#1.4)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Opportunity (#1.8)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The President\'s Coming, the President\'s Coming (#2.20)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Proposal (#1.1)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {The Thief (#2.6)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Theresa\'s Date (#1.6)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Theresa\'s Gigolo (#2.16)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Uncle Cheech (#2.8)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Vinnie\'s Return (#2.7)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angie" (1979) {Wedding Wings (#1.2)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Antiques Roadshow" (1979)', '', '', '', 'Alnwick Castle, Alnwick, Northumberland, England, UK']	55.41546099999999	-1.7065170268123597
+['"Antiques Roadshow" (1979)', '', '', '', 'Athelhampton House, Athelhampton, Dorset, England, UK']	50.747615	-2.3265319
+['"Antiques Roadshow" (1979)', '', '', '', 'Boxgrove Excavation Site, West Sussex, England, UK']	51.0	-0.416667
+['"Antiques Roadshow" (1979)', '', '', '', 'Bridgend, Wales, UK']	51.5049843	-3.5756674
+['"Antiques Roadshow" (1979)', '', '', '', 'Buxton, Derbyshire, England, UK']	53.2607853	-1.9131016
+['"Antiques Roadshow" (1979)', '', '', '', 'Carlisle, Cumbria, England, UK']	54.8948478	-2.9362311
+['"Antiques Roadshow" (1979)', '', '', '', 'Castle Howard, Coneysthorpe, North Yorkshire, England, UK']	54.1215627	-0.9066527296629547
+['"Antiques Roadshow" (1979)', '', '', '', 'Chartwell House, Westerham, Kent, England, UK']	51.2443661	0.08329895334931742
+['"Antiques Roadshow" (1979)', '', '', '', 'Chichester, West Sussex, England, UK']	50.8364862	-0.7791721
+['"Antiques Roadshow" (1979)', '', '', '', 'Haltwhistle, Northumberland, England, UK']	54.9816563	-2.4715532877975086
+['"Antiques Roadshow" (1979)', '', '', '', 'Hartlepool, County Durham, England, UK']	54.6857276	-1.2093696
+['"Antiques Roadshow" (1979)', '', '', '', 'Hastings, East Sussex, England, UK']	50.8553888	0.5824703
+['"Antiques Roadshow" (1979)', '', '', '', 'Haywards Heath, West Sussex, England, UK']	50.9999616	-0.1049747
+['"Antiques Roadshow" (1979)', '', '', '', 'Lincoln Cathedral, Lincoln, Lincolnshire, England, UK']	53.2344127	-0.536708067179123
+['"Antiques Roadshow" (1979)', '', '', '', 'Magna Centre, Rotherham, South Yorkshire, England, UK']	53.48153335	-1.3810422066149592
+['"Antiques Roadshow" (1979)', '', '', '', 'Mellerstain House, Smailholm, Scottish Borders, Scotland, UK']	55.6444444	-2.5612605419070493
+['"Antiques Roadshow" (1979)', '', '', '', 'Newmarket Racecourse, Newmarket, Suffolk, England, UK']	52.2352391	0.3664183
+['"Antiques Roadshow" (1979)', '', '', '', 'Nottingham, Nottinghamshire, England, UK']	52.9534193	-1.1496461
+['"Antiques Roadshow" (1979)', '', '', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"Antiques Roadshow" (1979)', '', '', '', 'Portmeirion, Gwynedd, Wales, UK']	52.9134555	-4.0993672
+['"Antiques Roadshow" (1979)', '', '', '', 'Ramsgate, Kent, England, UK']	51.3334726	1.4196476
+['"Antiques Roadshow" (1979)', '', '', '', 'South Downs, West Sussex, England, UK']	50.9634513	-0.8807193631635696
+['"Antiques Roadshow" (1979)', '', '', '', 'Stroud, Gloucestershire, England, UK']	51.745424	-2.2198605
+['"Antiques Roadshow" (1979)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Antiques Roadshow" (1979)', '', '', '', 'Torquay, Devon, England, UK']	50.75	-3.75
+['"Antiques Roadshow" (1979)', '', '', '', 'Warwick Castle, Warwick, Warwickshire, England, UK']	52.27952705	-1.584482701902178
+['"Antiques Roadshow" (1979)', '', '', '', 'Winchester College, Winchester, Hampshire, England, UK']	51.054324300000005	-1.3133005131552202
+['"Antiques Roadshow" (1979)', '', '', '', 'Worcester, Worcestershire, England, UK']	52.1911849	-2.2206585
+['"Antiques Roadshow" (1979) {Abbotsford (#32.12)}', 'Abbotsford House, Melrose, Scottish Borders, Scotland, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Aberdeen Music Hall (#29.10)}', 'Aberdeen Music Hall, Aberdeen City, Scotland, UK']	57.15579055	-2.146623994668106
+['"Antiques Roadshow" (1979) {Aberdeen Music Hall (#29.10)}', 'Aberdeen Music Hall, Aberdeen, Aberdeenshire, Scotland, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Aberglasney (#32.16)}', 'Aberglasney House, Llangathen, Carmarthenshire, Wales, UK']	51.8796661	-4.063497896051109
+['"Antiques Roadshow" (1979) {Alnwick Castle (#18.7)}', 'Alnwick Castle, Alnwick, Northumberland, England, UK']	55.41546099999999	-1.7065170268123597
+['"Antiques Roadshow" (1979) {Alnwick Castle (#30.3)}', 'Alnwick Castle, Alnwick, Northumberland, England, UK']	55.41546099999999	-1.7065170268123597
+['"Antiques Roadshow" (1979) {Alnwick Castle Special (#18.8)}', 'Alnwick Castle, Alnwick, Northumberland, England, UK']	55.41546099999999	-1.7065170268123597
+['"Antiques Roadshow" (1979) {Arundel (#30.2)}', '', 'Arundel Castle, Arundel, West Sussex, England, UK']	51.0	-0.416667
+['"Antiques Roadshow" (1979) {Arundel Castle (#29.13)}', 'Arundel Castle, Arundel, West Sussex, England, UK']	51.0	-0.416667
+['"Antiques Roadshow" (1979) {Athelhamptom House (#22.1)}', 'Athelhampton House, Athelhampton, Dorset, England, UK']	50.747615	-2.3265319
+['"Antiques Roadshow" (1979) {Banqueting House (#30.7)}', 'Banqueting House, Whitehall, Westminster, London, England, UK']	51.50455425	-0.12591397129997825
+['"Antiques Roadshow" (1979) {Banqueting House Pt.2 (#30.8)}', 'Banqueting House, Whitehall, Westminster, London, England, UK']	51.50455425	-0.12591397129997825
+['"Antiques Roadshow" (1979) {Bath (#32.17)}', '', 'Assembly Rooms, Bath, Somerset, England, UK']	51.3862376	-2.3628285
+['"Antiques Roadshow" (1979) {Bath Pt.2 (#32.18)}', '', 'Assembly Rooms, Bath, Somerset, England, UK']	51.3862376	-2.3628285
+['"Antiques Roadshow" (1979) {Beamish (#28.8)}', '', 'Beamish Open Air Museum, Beamish, County Durham, England, UK']	54.666667	-1.75
+['"Antiques Roadshow" (1979) {Beverley Minster (#33.1)}', 'Beverley Minster, Beverley, East Riding of Yorkshire, England, UK']	53.83917835	-0.4245385733879389
+['"Antiques Roadshow" (1979) {Bexhill-on-Sea (#30.24)}', 'De La Warr Pavilion, Marina, Bexhill on Sea, East Sussex, England, UK']	50.8375233	0.4712291009365881
+['"Antiques Roadshow" (1979) {Birmingham (#11.3)}', '', 'Birmingham Symphony Hall, Birmingham, West Midlands, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Birmingham (#29.16)}', 'Birmingham Symphony Hall, Birmingham, West Midlands, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Bishop Auckland (#29.4)}', 'Auckland Castle, Bishop Auckland, County Durham, London, England, UK']	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {Bishop Auckland (#29.4)}', 'Auckland Castle, Bishop Auckland, County Durham, England, UK']	54.6666331	-1.6702838779161056
+['"Antiques Roadshow" (1979) {Bishop Auckland 2 (#29.5)}', 'Auckland Castle, Bishop Auckland, County Durham, London, England, UK']	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {Bishop Auckland 2 (#29.5)}', 'Auckland Castle, Bishop Auckland, County Durham, England, UK']	54.6666331	-1.6702838779161056
+['"Antiques Roadshow" (1979) {Blackpool (#32.2)}', '', 'Blackpool Tower Ballroom, Blackpool, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"Antiques Roadshow" (1979) {Blackpool 2 (#32.3)}', 'Blackpool Tower Ballroom, Blackpool, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"Antiques Roadshow" (1979) {Bletchley Park (#32.9)}', 'Bletchley Park, Bletchley, Buckinghamshire, England, UK']	51.9801239	-0.7654497
+['"Antiques Roadshow" (1979) {Bletchley Park 2 (#32.10)}', 'Bletchley Park, Bletchley, Buckinghamshire, England, UK']	51.9801239	-0.7654497
+['"Antiques Roadshow" (1979) {Blickling Hall (#20.7)}', 'Blickling Hall, Blickling, Norfolk, England, UK']	52.81173495	1.2317081290178533
+['"Antiques Roadshow" (1979) {Bodnant Garden (#31.12)}', 'Bodnant Gardens, Colwyn Bay, Conwy, Wales, UK']	53.14642505	-3.7591346422172895
+['"Antiques Roadshow" (1979) {Bolton (#20.20)}', '', 'Reebok Stadium, Horwich, Greater Manchester, England, UK']	53.5805396	-2.5356647666666667
+['"Antiques Roadshow" (1979) {Bolton Abbey (#31.1)}', 'Bolton Priory, Bolton Abbey, North Yorkshire, England, UK']	53.9838382	-1.8882251631230387
+['"Antiques Roadshow" (1979) {Bowes (#32.8)}', '', 'Bowes Museum, Barnard Castle, County Durham, England, UK']	54.542059949999995	-1.9154819205162974
+['"Antiques Roadshow" (1979) {Bridlington (#31.16)}', 'The Spa Royal Hall and Theatre, Bridlington, East Riding of Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Bridlington (#31.24)}', 'The Spa Royal Hall and Theatre, Bridlington, East Riding of Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Bristol (#30.5)}', '', 'Wills Memorial Building, Bristol, England, UK']	51.4563857	-2.604557608544439
+['"Antiques Roadshow" (1979) {Brooklands (#32.14)}', 'Brooklands Motor Racing and Aviation Museum, Weybridge, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Antiques Roadshow" (1979) {Brooklands 2 (#32.15)}', 'Brooklands Motor Racing and Aviation Museum, Weybridge, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Antiques Roadshow" (1979) {Burghley House (#20.17)}', 'Burghley House, Stamford, Lincolnshire, England, UK']	53.166667	-0.25
+['"Antiques Roadshow" (1979) {Burghley House (#32.11)}', 'Burghley House, Stamford, Lincolnshire, England, UK']	53.166667	-0.25
+['"Antiques Roadshow" (1979) {Cardiff Castles Special (#27.14)}', 'Cardiff Castle, Cardiff, South Glamorgan, Wales, UK']	51.6076829	-3.4430216
+['"Antiques Roadshow" (1979) {Carter\'s Steam Fair, Priory Park (#29.2)}', 'Priory Park, Haringey, London, England, UK']	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {Castle Ashby (#22.15)}', 'Castle Ashby House, Castle Ashby, Northampton, Northamptonshire, England, UK']	52.25	-0.833333
+['"Antiques Roadshow" (1979) {Castle Ashby Compilation (#22.16)}', 'Castle Ashby House, Castle Ashby, Northampton, Northamptonshire, England, UK']	52.25	-0.833333
+['"Antiques Roadshow" (1979) {Castle Howard (#22.5)}', 'Castle Howard, Coneysthorpe, North Yorkshire, England, UK']	54.1215627	-0.9066527296629547
+['"Antiques Roadshow" (1979) {Castle Howard Compilation (#22.6)}', 'Castle Howard, Coneysthorpe, North Yorkshire, England, UK']	54.1215627	-0.9066527296629547
+['"Antiques Roadshow" (1979) {Castle of Mey (#30.18)}', 'Castle of Mey, Highland, Scotland, UK']	57.5066357	-5.0038367
+['"Antiques Roadshow" (1979) {Chatsworth (#19.18)}', 'Chatsworth House, Edensor, Derbyshire, England, UK']	53.227588850000004	-1.611362475457475
+['"Antiques Roadshow" (1979) {Chatsworth House Special (#19.19)}', 'Chatsworth House, Edensor, Derbyshire, England, UK']	53.227588850000004	-1.611362475457475
+['"Antiques Roadshow" (1979) {Chelsea (#28.11)}', '', 'Royal Hospital, Chelsea, London, England, UK']	51.48709375	-0.1586739012452613
+['"Antiques Roadshow" (1979) {Cheltenham Town Hall (#18.6)}', 'Cheltenham Town Hall, Cheltenham, Gloucestershire, England, UK']	51.897109150000006	-2.077775311224942
+['"Antiques Roadshow" (1979) {Chester (#31.3)}', '', 'Chester Cathedral, Chester, Cheshire, England, UK']	53.1919606	-2.89046216782123
+['"Antiques Roadshow" (1979) {Chester (#32.27)}', '', 'Chester Cathedral, Chester, Cheshire, England, UK']	53.1919606	-2.89046216782123
+['"Antiques Roadshow" (1979) {Chester Pt. 2 (#31.4)}', 'Chester Cathedral, Chester, Cheshire, England, UK']	53.1919606	-2.89046216782123
+['"Antiques Roadshow" (1979) {Chichester (#26.8)}', '', 'Chichester Cathedral, Chichester, West Sussex, England, UK']	51.0	-0.416667
+['"Antiques Roadshow" (1979) {Chichester Cathedral (#25.8)}', 'Chichester Cathedral, Chichester, West Sussex, England, UK']	51.0	-0.416667
+['"Antiques Roadshow" (1979) {Christ\'s Hospital School, Horsham (#19.10)}', "Christ's Hospital School, Horsham, Surrey, England, UK"]	51.2715316	-0.3414523511290909
+['"Antiques Roadshow" (1979) {Claverton (#20.6)}', '', 'American Museum, Claverton Manor, Bath, Somerset, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Compilation Program: Burghley House (#20.18)}', 'Burghley House, Stamford, Lincolnshire, England, UK']	52.6425003	-0.45230320487022024
+['"Antiques Roadshow" (1979) {Compilation Program: Harewood (#20.23)}', 'Harewood House, Harewood, West Yorkshire, England, UK']	53.89692265	-1.5273142926892964
+['"Antiques Roadshow" (1979) {Compilation Program: West Dean College (#20.12)}', 'West Dean College, Chichester, West Sussex, England, UK']	50.9062603	-0.775066
+['"Antiques Roadshow" (1979) {Coughton Court: Part 2 (#28.16)}', 'Coughton Court, Alcester, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"Antiques Roadshow" (1979) {Coventry (#30.6)}', '', 'Coventry Cathedral, Coventry, West Midlands, England, UK']	52.40862225	-1.507081914195552
+['"Antiques Roadshow" (1979) {Dartington Hall (#27.23)}', 'Dartington Hall, Totnes, Devon, England, UK']	50.4518085	-3.6932052806290656
+['"Antiques Roadshow" (1979) {Dartington Hall 2 (#27.24)}', 'Dartington Hall, Totnes, Devon, England, UK']	50.4518085	-3.6932052806290656
+['"Antiques Roadshow" (1979) {Dartmouth (#20.1)}', '', 'Royal Naval College, Dartmouth, Devon, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {De La Warr Pavilion (#30.17)}', 'De La Warr Pavilion, Marina, Bexhill on Sea, East Sussex, England, UK']	50.8375233	0.4712291009365881
+['"Antiques Roadshow" (1979) {De La Warr Pavillion (#17.5)}', 'De La Warr Pavilion, Marina, Bexhill on Sea, East Sussex, England, UK']	50.8375233	0.4712291009365881
+['"Antiques Roadshow" (1979) {Derry / Londonderry (#28.21)}', 'Millennium Forum, Derry / Londonderry, Northern Ireland, UK']	54.9958945	-7.31942646326584
+['"Antiques Roadshow" (1979) {Devon (#32.5)}', '', 'Morwellham Quay, Tavistock, Devon, England, UK']	50.5079904	-4.1831434
+['"Antiques Roadshow" (1979) {Dromoland Castle (#20.27)}', 'Dromoland Castle, Newmarket-On-Fergus, County Clare, Ireland']	52.7605895	-8.8961465
+['"Antiques Roadshow" (1979) {Dulwich (#31.22)}', '', 'Dulwich Picture Gallery, Dulwich, London, England, UK']	51.4459124	-0.08633205844812591
+['"Antiques Roadshow" (1979) {Dulwich Pt.2 (#31.23)}', 'Dulwich Picture Gallery, Dulwich, London, England, UK']	51.4459124	-0.08633205844812591
+['"Antiques Roadshow" (1979) {Dumfries (#26.6)}', '', 'Dumfries Ice Bowl, Dumfries, Dumfries & Galloway, Scotland, UK']	55.07043525	-3.623306543755275
+['"Antiques Roadshow" (1979) {Dumfries House, Ayrshire (#31.15)}', 'Dumfries House, Ayr, Ayrshire, Scotland, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Dunrobin Castle (#25.22)}', 'Dunrobin Castle, Sutherland, Scotland, UK']	58.2500999	-4.5000946
+['"Antiques Roadshow" (1979) {Dunrobin Castle Special (#25.23)}', 'Dunrobin Castle, Sutherland, Scotland, UK']	58.2500999	-4.5000946
+['"Antiques Roadshow" (1979) {Dyrham Park (#26.10)}', 'Dyrham Park, Dyrham, Gloucestershire, England, UK']	51.480068599999996	-2.3693425843631992
+['"Antiques Roadshow" (1979) {Dyrham Park 2 (#27.10)}', 'Dyrham Park, Dyrham, Gloucestershire, England, UK']	51.480068599999996	-2.3693425843631992
+['"Antiques Roadshow" (1979) {Dyrham Park Special (#26.11)}', 'Dyrham Park, Dyrham, Gloucestershire, England, UK']	51.480068599999996	-2.3693425843631992
+['"Antiques Roadshow" (1979) {East Kirby 2 (#30.12)}', 'East Kirkby Airfield, East Kirkby, Nr Splisby, Lincolnshire, England, UK']	53.166667	-0.25
+['"Antiques Roadshow" (1979) {East Kirkby (#30.11)}', 'East Kirkby Airfield, East Kirkby, Nr Splisby, Lincolnshire, England, UK']	53.166667	-0.25
+['"Antiques Roadshow" (1979) {Ely Cathedral (#18.1)}', 'Ely Cathedral, Ely, Cambridgeshire, England, UK']	52.398669049999995	0.26345712156168066
+['"Antiques Roadshow" (1979) {Gateshead (#31.11)}', '', 'The Sage Gateshead, Gateshead Quay, Gateshead, Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"Antiques Roadshow" (1979) {Gloucester (#29.1)}', '', 'Gloucester Cathedral, Gloucester, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Antiques Roadshow" (1979) {Gloucester (#29.15)}', 'Gloucester Cathedral, Gloucester, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Antiques Roadshow" (1979) {Going Live! (#14.0)}', 'Bristol Temple Meads station, Bristol, England, UK']	51.4499107	-2.5808118
+['"Antiques Roadshow" (1979) {Greenwich (#21.5)}', '', 'Old Royal Naval College, Greenwich, London, England, UK']	51.4829661	-0.006257671681354558
+['"Antiques Roadshow" (1979) {Greenwich (#32.28)}', '', 'Old Royal Naval College, Greenwich, London, England, UK']	51.4829661	-0.006257671681354558
+['"Antiques Roadshow" (1979) {Greenwich Compilation (#21.6)}', 'Royal Observatory, Greenwich, London, England, UK']	51.47736225	-0.0008453360470940449
+['"Antiques Roadshow" (1979) {Greenwich Pt.2 (#32.29)}', 'Old Royal Naval College, Greenwich, London, England, UK']	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {Grosvenor House (#19.6)}', 'Grosvenor House Hotel, Park Lane, Mayfair, London, England, UK']	51.50963995	-0.15507634455303454
+['"Antiques Roadshow" (1979) {Guernsey (#32.13)}', '', 'Saumarez Park, Guernsey, Channel Islands']	60.6167942	-145.7996671
+['"Antiques Roadshow" (1979) {HMS Victory Special (#27.20)}', 'HMS Victory, Portsmouth, Hampshire, England, UK']	51.083333	-1.166667
+['"Antiques Roadshow" (1979) {Hampton Court (#27.7)}', 'Hampton Court, Surrey, England, UK']	51.4021456	-0.3424767
+['"Antiques Roadshow" (1979) {Hampton Court 2 (#27.8)}', 'Hampton Court, Surrey, England, UK']	51.4021456	-0.3424767
+['"Antiques Roadshow" (1979) {Hereford (#30.1)}', '', 'The Courtyard Theatre, Hereford, Herefordshire, England, UK']	52.083333	-2.75
+['"Antiques Roadshow" (1979) {Highclere Castle (#21.16)}', 'Highclere Castle, Highclere, Hampshire, England, UK']	51.32660235	-1.3605163180511601
+['"Antiques Roadshow" (1979) {Highclere Compilation (#21.17)}', 'Highclere Castle, Highclere, Hampshire, England, UK']	51.32660235	-1.3605163180511601
+['"Antiques Roadshow" (1979) {Highcliffe Castle (#30.9)}', 'Highcliffe Castle, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"Antiques Roadshow" (1979) {Historic Dockyard, Portsmouth (#19.1)}', 'Portsmouth Docks, Portsmouth, Hampshire, England, UK']	51.083333	-1.166667
+['"Antiques Roadshow" (1979) {Holkham Hall 1 (#29.18)}', 'Holkham Hall and Estate, Norfolk, England, UK']	52.666667	1.0
+['"Antiques Roadshow" (1979) {Holkham Hall 2 (#29.19)}', 'Holkham Hall and Estate, Norfolk, England, UK']	52.666667	1.0
+['"Antiques Roadshow" (1979) {Hopetoun House (#32.23)}', 'Hopetoun House, South Queensferry, Edinburgh, Scotland, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Houghton Hall (#24.23)}', 'Houghton Hall, Norfolk, England, UK']	52.826829200000006	0.6578567114858349
+['"Antiques Roadshow" (1979) {Houghton Hall Special (#24.24)}', 'Houghton Hall, Norfolk, England, UK']	52.826829200000006	0.6578567114858349
+['"Antiques Roadshow" (1979) {Hughenden Manor 1 (#29.7)}', 'Hughenden Manor, Buckinghamshire, England, UK']	51.65029455	-0.7568840602809316
+['"Antiques Roadshow" (1979) {Hughenden Manor 2 (#29.8)}', 'Hughenden Manor, Buckinghamshire, England, UK']	51.65029455	-0.7568840602809316
+['"Antiques Roadshow" (1979) {Ickworth House - Suffolk (#21.11)}', 'Ickworth House, Horringer, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"Antiques Roadshow" (1979) {Ickworth House Compilation - Suffolk (#21.12)}', 'Ickworth House, Horringer, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"Antiques Roadshow" (1979) {Ironbridge (#32.19)}', 'Blists Hill Open Air Museum, Ironbridge, Shropshire, England, UK']	52.65233935	-2.64356407027027
+['"Antiques Roadshow" (1979) {Jersey (#32.1)}', '', 'Samares Manor, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Antiques Roadshow" (1979) {Kedleston Hall (#29.3)}', 'Kedleston Hall, Kedleston, Derbyshire, England, UK']	52.968111	-1.5528275
+['"Antiques Roadshow" (1979) {Kelvingrove Gallery and Museum 1 (#29.23)}', 'Kelvingrove Art Gallery & Museum, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"Antiques Roadshow" (1979) {Kelvingrove Gallery and Museum 2 (#29.24)}', 'Kelvingrove Art Gallery & Museum, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"Antiques Roadshow" (1979) {Kendal (#26.9)}', '', 'Kendal Castle, Kendal, Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"Antiques Roadshow" (1979) {Kentwell Hall (#30.21)}', 'Kentwell Hall, Long Melford, Suffolk, England, UK']	52.0983652	0.7187206630442042
+['"Antiques Roadshow" (1979) {King\'s College I (#27.15)}', "King's College, Cambridge University, Cambridge, Cambridgeshire, England, UK"]	52.2040035	0.11481981904567425
+['"Antiques Roadshow" (1979) {Kings College II (#27.16)}', "King's College, Cambridge University, Cambridge, Cambridgeshire, England, UK"]	52.2040035	0.11481981904567425
+['"Antiques Roadshow" (1979) {Knightshayes Court (#24.18)}', 'Knightshayes Court, Bolham, Tiverton, Devon, England, UK']	50.9268584	-3.4810207
+['"Antiques Roadshow" (1979) {Knightshayes Court Special (#24.19)}', 'Knightshayes Court, Bolham, Tiverton, Devon, England, UK']	50.9268584	-3.4810207
+['"Antiques Roadshow" (1979) {Lacock Abbey 1 (#29.26)}', 'Lacock Abbey, Lacock, Wiltshire, England, UK']	51.25	-1.916667
+['"Antiques Roadshow" (1979) {Lacock Abbey 2 (#29.27)}', 'Lacock Abbey, Lacock, Wiltshire, England, UK']	51.25	-1.916667
+['"Antiques Roadshow" (1979) {Lancaster (#28.14)}', '', 'Lancaster Town Hall, Lancaster, Lancashire, England, UK']	54.047115399999996	-2.7977257291383255
+['"Antiques Roadshow" (1979) {Lancing College - Sussex (#21.13)}', 'Lancing College, Lancing, West Sussex, England, UK']	50.8457711	-0.3025837307359023
+['"Antiques Roadshow" (1979) {Lanhydrock (#31.6)}', '', 'Lanhydrock House, Bodmin, Cornwall, England, UK']	50.416667	-4.75
+['"Antiques Roadshow" (1979) {Lanhydrock House (#19.26)}', 'Lanhydrock House, Bodmin, Cornwall, England, UK']	50.416667	-4.75
+['"Antiques Roadshow" (1979) {Lanhydrock and Bodnant Garden Unseen Items Compilation (#31.13)}', 'Lanhydrock House, Bodmin, Cornwall, England, UK']	50.416667	-4.75
+['"Antiques Roadshow" (1979) {Lanhydrock and Bodnant Garden Unseen Items Compilation (#31.13)}', 'Bodnant Gardens, Colwyn Bay, Conwy, Wales, UK']	53.14642505	-3.7591346422172895
+['"Antiques Roadshow" (1979) {Leeds (#25.13)}', '', 'Leeds Town Hall, The Headrow, Leeds, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"Antiques Roadshow" (1979) {Leeds (#32.20)}', '', 'Leeds Town Hall, The Headrow, Leeds, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"Antiques Roadshow" (1979) {Leeds Armouries Special (#25.14)}', 'Royal Armouries Museum, Leeds, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"Antiques Roadshow" (1979) {Leeds Castle, Kent (#31.9)}', 'Leeds Castle, Kent, England, UK']	51.24844645	0.6300227544823218
+['"Antiques Roadshow" (1979) {Leeds Castle, Kent Pt.2 (#31.10)}', 'Leeds Castle, Kent, England, UK']	51.24844645	0.6300227544823218
+['"Antiques Roadshow" (1979) {Leeds Pt.2 (#32.21)}', 'Leeds Town Hall, The Headrow, Leeds, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"Antiques Roadshow" (1979) {Leicester (#30.22)}', '', 'De Montfort Hall, Leicester, Leicestershire, England, UK']	52.666667	-1.0
+['"Antiques Roadshow" (1979) {Lincoln Cathedral (#32.6)}', 'Lincoln Cathedral, Lincoln, Lincolnshire, England, UK']	53.166667	-0.25
+['"Antiques Roadshow" (1979) {Lincoln Cathedral 2 (#32.7)}', 'Lincoln Cathedral, Lincoln, Lincolnshire, England, UK']	53.166667	-0.25
+['"Antiques Roadshow" (1979) {Liverpool (#25.1)}', '', "St George's Hall, Liverpool, Merseyside, England, UK"]	53.4953602	-2.973937960086006
+['"Antiques Roadshow" (1979) {Liverpool (#30.19)}', '', "St George's Hall, Liverpool, Merseyside, England, UK"]	53.4953602	-2.973937960086006
+['"Antiques Roadshow" (1979) {Liverpool Pt.2 (#30.20)}', "St George's Hall, Liverpool, Merseyside, England, UK"]	53.4953602	-2.973937960086006
+['"Antiques Roadshow" (1979) {London to Brighton Special (#26.23)}', 'Hyde Park, London, England, UK']	51.5074889	-0.1622053801825995
+['"Antiques Roadshow" (1979) {Luton Hoo Mansion 2 (#17.8)}', 'Luton Hoo Estate, Luton, Bedfordshire, England, UK']	52.064003400000004	-0.41111375560310925
+['"Antiques Roadshow" (1979) {Lyme Park (#21.25)}', '', 'Lyme Park, Disley, Cheshire, England, UK']	53.3393067	-2.048960843803666
+['"Antiques Roadshow" (1979) {Lyme Regis (#19.12)}', 'All Hallows School, Lyme Regis, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"Antiques Roadshow" (1979) {Manchester Town Hall 1 (#34.1)}', 'Manchester Town Hall, Albert Square, Manchester, Greater Manchester, England, UK']	53.4792494	-2.2444288376140937
+['"Antiques Roadshow" (1979) {Mansion House (#25.16)}', 'Mansion House, Cheapside, London, England, UK']	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {Marlborough (#20.5)}', 'Marlborough College, Marlborough, Wiltshire, England, UK']	51.41615	-1.7366363682168822
+['"Antiques Roadshow" (1979) {Melbourne (#28.25)}', '', 'Royal Exhibition Building, Carlton Gardens, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Antiques Roadshow" (1979) {Mellerstain House (#24.10)}', 'Mellerstain House, Smailholm, Scottish Borders, Scotland, UK']	55.6444444	-2.5612605419070493
+['"Antiques Roadshow" (1979) {Mellerstain House Special (#24.11)}', 'Mellerstain House, Smailholm, Scottish Borders, Scotland, UK']	55.6444444	-2.5612605419070493
+['"Antiques Roadshow" (1979) {Michelham Priory (#19.8)}', 'Michelham Priory, East Sussex, England, UK']	50.8624248	0.2137337432307692
+['"Antiques Roadshow" (1979) {Montacute (#28.23)}', '', 'Montacute House, Montacute, Somerset, England, UK']	50.95173145	-2.71402134073755
+['"Antiques Roadshow" (1979) {Montacute: Part 2 (#28.24)}', 'Montacute House, Montacute, Somerset, England, UK']	50.95173145	-2.71402134073755
+['"Antiques Roadshow" (1979) {Mount Stewart (#26.15)}', 'Mount Stewart House, Newtownards, County Down, Northern Ireland, UK']	54.3517857	-5.961567692639536
+['"Antiques Roadshow" (1979) {Mount Stewart 2 (#26.16)}', 'Mount Stewart House, Newtownards, County Down, Northern Ireland, UK']	54.3517857	-5.961567692639536
+['"Antiques Roadshow" (1979) {National Archives Special (#27.6)}', 'Public Records Office, Kew, Richmond, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Antiques Roadshow" (1979) {Norfolk (#31.25)}', '', 'Oxburgh Hall, Oxborough, Norfolk, England, UK']	52.581043	0.5707228542282068
+['"Antiques Roadshow" (1979) {Normanby Hall (#28.4)}', 'Normanby Hall, Scunthorpe, Lincolnshire, England, UK']	53.6143019	-0.6591484
+['"Antiques Roadshow" (1979) {Norwich (#28.19)}', '', 'Norwich Cathedral, Norwich, Norfolk, England, UK']	52.6316796	1.3004754063935426
+['"Antiques Roadshow" (1979) {Norwich: Part 2 (#28.20)}', 'Norwich Cathedral, Norwich, Norfolk, England, UK']	52.6316796	1.3004754063935426
+['"Antiques Roadshow" (1979) {Nottingham (#7.5)}', '', 'Nottingham University, University Park, Nottingham, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Antiques Roadshow" (1979) {Ottawa (#24.16)}', '', 'National Gallery of Canada, Ottawa, Ontario, Canada']	45.4295209	-75.69880918087051
+['"Antiques Roadshow" (1979) {Oxford (#31.14)}', '', 'Hertford College, Catte Street, Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"Antiques Roadshow" (1979) {Oxford (#32.4)}', '', 'Hertford College, Catte Street, Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"Antiques Roadshow" (1979) {Penshurst Place (#22.24)}', 'Penshurst Place, Penshurst, Kent, England, UK']	51.1746714	0.18368291891430094
+['"Antiques Roadshow" (1979) {Penshurst Place 2 (#22.25)}', 'Penshurst Place, Penshurst, Kent, England, UK']	51.1746714	0.18368291891430094
+['"Antiques Roadshow" (1979) {Perth (#19.20)}', '', "Lord's Cricket Ground, St John's Wood, London, England, UK"]	51.5297277	-0.172131294618604
+['"Antiques Roadshow" (1979) {Portmeirion (#27.1)}', 'Portmeirion, Gwynedd, Wales, UK']	52.9134555	-4.0993672
+['"Antiques Roadshow" (1979) {Portsmouth (#7.7)}', '', 'The Guildhall, Portsmouth, Hampshire, England, UK']	51.083333	-1.166667
+['"Antiques Roadshow" (1979) {Powis Castle (#30.14)}', 'Powis Castle, Welshpool, Powys, Wales, UK']	52.6499138	-3.1612122941294323
+['"Antiques Roadshow" (1979) {Prideaux Place 1 (#29.11)}', 'Prideaux Place, Padstow, Cornwall, England, UK']	50.54271435	-4.945989944741868
+['"Antiques Roadshow" (1979) {Prideaux Place 2 (#29.12)}', 'Prideaux Place, Padstow, Cornwall, England, UK']	50.54271435	-4.945989944741868
+['"Antiques Roadshow" (1979) {Redruth (#26.4)}', '', 'Carn Brea Leisure Centre, Redruth, Cornwall, England, UK']	50.416667	-4.75
+['"Antiques Roadshow" (1979) {Renishaw Hall (#25.24)}', 'Renishaw Hall, Derbyshire, England, UK']	53.30247225	-1.3447472758967285
+['"Antiques Roadshow" (1979) {Renishaw Hall 2 (#25.25)}', 'Renishaw Hall, Derbyshire, England, UK']	53.30247225	-1.3447472758967285
+['"Antiques Roadshow" (1979) {Rochdale (#28.10)}', '', 'Rochdale Town Hall, Rochdale, Greater Manchester, England, UK']	53.6158035	-2.1589289
+['"Antiques Roadshow" (1979) {Rochester Cathedral (#30.15)}', 'Rochester Cathedral, Rochester, Kent, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Rochester Cathedral Pt.2 (#30.16)}', 'Rochester Cathedral, Rochester, Kent, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Rotherham (#27.5)}', '', 'Magna Centre, Rotherham, South Yorkshire, England, UK']	53.48153335	-1.3810422066149592
+['"Antiques Roadshow" (1979) {Royal Hospital Haslar (#26.21)}', 'Royal Hospital Haslar, Gosport, Hampshire, England, UK']	50.78572615	-1.1225968262401136
+['"Antiques Roadshow" (1979) {Royal Yacht Britannia Special (#25.7)}', 'The Royal Yacht Britannia, Ocean Terminal, Leith, Edinburgh, Scotland, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Scone Palace Special (#19.24)}', 'Scone Palace, Perth, Perth and Kinross, Scotland, UK']	56.4228844	-3.4381880293911324
+['"Antiques Roadshow" (1979) {Sheffield (#30.25)}', '', 'Sheffield City Hall, Sheffield, South Yorkshire, England, UK']	53.380794300000005	-1.4724412757237122
+['"Antiques Roadshow" (1979) {Sherborne (#25.20)}', '', 'Sherborne School, Sherborne, Dorset, England, UK']	50.9477555	-2.5187940156252555
+['"Antiques Roadshow" (1979) {Sherborne 2 (#25.21)}', 'Sherborne School, Sherborne, Dorset, England, UK']	50.9477555	-2.5187940156252555
+['"Antiques Roadshow" (1979) {Shugborough (#25.9)}', 'Shugborough Hall, Stafford, Staffordshire, England, UK']	52.824694199999996	-2.0074546723348115
+['"Antiques Roadshow" (1979) {Shugborough 2 (#25.10)}', 'Shugborough Hall, Stafford, Staffordshire, England, UK']	52.824694199999996	-2.0074546723348115
+['"Antiques Roadshow" (1979) {Somerleyton (#32.22)}', 'Somerleyton Hall, Somerleyton, Suffolk, England, UK']	52.5101587	1.6521998
+['"Antiques Roadshow" (1979) {Southwell (#31.7)}', '', 'Southwell Minster, Southwell, Nottinghamshire, England, UK']	53.0768621	-0.9540982851756192
+['"Antiques Roadshow" (1979) {Southwell Pt.2 (#31.8)}', 'Southwell Minster, Southwell, Nottinghamshire, England, UK']	53.0768621	-0.9540982851756192
+['"Antiques Roadshow" (1979) {Sports Relief Special, Lord\'s Cricket Ground}', "Lord's Cricket Ground, St John's Wood, London, England, UK"]	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {St. Austell (#24.21)}', 'Polkyth Leisure Centre, St Austell, Cornwall, England, UK']	50.33963875	-4.782875621274076
+['"Antiques Roadshow" (1979) {Stanway (#32.24)}', '', 'Stanway House, Stow-on-the-Wold, Gloucestershire, England, UK']	51.8952624	-1.7553471
+['"Antiques Roadshow" (1979) {Stanway (#32.25)}', '', 'Stanway House, Stow-on-the-Wold, Gloucestershire, England, UK']	51.8952624	-1.7553471
+['"Antiques Roadshow" (1979) {Stirling University (#18.5)}', 'University of Stirling, Stirling, Scotland, UK']	56.145115399999995	-3.917393804088662
+['"Antiques Roadshow" (1979) {Sudeley Castle (#26.1)}', 'Sudeley Castle, Sudeley, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Antiques Roadshow" (1979) {Swansea (#29.6)}', '', 'Swansea Guildhall, Swansea, Wales, UK']	51.6141762	-3.9586871
+['"Antiques Roadshow" (1979) {Swansea (#7.1)}', '', 'Brangwyn Hall, Swansea, Wales, UK']	51.6136204	-3.9602132334638434
+['"Antiques Roadshow" (1979) {Sydney (#28.18)}', '', 'University of Sydney, Camperdown, Sydney, New South Wales, Australia']	-24.7761086	134.755
+['"Antiques Roadshow" (1979) {Syon Park Special (#21.22)}', 'Syon House, Syon Park, Brentford, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Antiques Roadshow" (1979) {Syon Park, London (#21.21)}', 'Syon House, Syon Park, Brentford, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Antiques Roadshow" (1979) {Tavistock (#28.5)}', '', 'Pannier Market Tavistock, Devon, England, UK']	50.55024265	-4.143733799999996
+['"Antiques Roadshow" (1979) {The Next Generation - Edinburgh (#19.9)}', 'National Museums of Scotland, Edinburgh, Scotland, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {The Next Generation - Science Museum (#16.0)}', 'The Science Museum, Exhibition Road, South Kensington, London, England, UK']	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {The Next Generation - York}', 'National Railway Museum, York, North Yorkshire, England, UK']	53.959310099999996	-1.0968486848778125
+['"Antiques Roadshow" (1979) {The Next Generation 92 (#15.0)}', 'The Science Museum, Exhibition Road, South Kensington, London, England, UK']	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {Titanic Drawing Offices, Belfast (#31.17)}', 'Harland and Wolff, Titanic-Quarter, Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Antiques Roadshow" (1979) {Titanic Drawing Offices, Belfast Pt.2 (#31.18)}', 'Harland and Wolff, Titanic-Quarter, Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Antiques Roadshow" (1979) {Toronto (#25.17)}', '', 'Casa Loma, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Antiques Roadshow" (1979) {Truro Cathedral (#17.1)}', 'Truro Cathedral, Truro, Cornwall, England, UK']	50.264101600000004	-5.051299894299933
+['"Antiques Roadshow" (1979) {Tyntesfield}', '', 'Tyntesfield House and Estate, Wraxall, Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"Antiques Roadshow" (1979) {Ulverston (#30.23)}', '', 'Coronation Hall, Ulverston, Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"Antiques Roadshow" (1979) {Unscreened Finds from Burghley House and Abbotsford (#32.26)}', 'Burghley House, Stamford, Lincolnshire, England, UK']	52.6425003	-0.45230320487022024
+['"Antiques Roadshow" (1979) {Unscreened Finds from Burghley House and Abbotsford (#32.26)}', 'Abbotsford House, Melrose, Scottish Borders, Scotland, UK']	55.583333	-2.833333
+['"Antiques Roadshow" (1979) {Unseen Items from Swansea Guildhall and Kedleston Hall (#29.9)}', 'Kedleston Hall, Kedleston, Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Antiques Roadshow" (1979) {Unseen Items from Swansea Guildhall and Kedleston Hall (#29.9)}', 'Swansea Guildhall, Swansea, Wales, UK']	51.6141762	-3.9586871
+['"Antiques Roadshow" (1979) {Uppingham School (#25.15)}', 'Uppingham School, Rutland, England, UK']	52.5860865	-0.7263876782877858
+['"Antiques Roadshow" (1979) {Ventnor (#28.12)}', '', 'Winter Gardens, Ventnor, Isle of Wright, England, UK']	54.7023545	-3.2765753
+['"Antiques Roadshow" (1979) {Victoria and Albert Museum (#24.8)}', 'Victoria and Albert Museum, South Kensington, London, England, UK']	51.5073219	-0.1276474
+['"Antiques Roadshow" (1979) {Wakehurst Place (#29.22)}', 'Wakehurst Place, West Sussex, England, UK']	51.0675922	-0.09312059753324631
+['"Antiques Roadshow" (1979) {Walsall (#20.4)}', '', 'Walsall Town Hall, Walsall, West Midlands, England, UK']	52.5857022	-1.979941204517094
+['"Antiques Roadshow" (1979) {Warwick (#25.4)}', '', "St. Mary's Church, Warwick, Warwickshire, England, UK"]	52.2836205	-1.5217241955971763
+['"Antiques Roadshow" (1979) {Warwick (#25.4)}', '', 'Warwick Castle, Warwick, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"Antiques Roadshow" (1979) {Warwick 2 (#25.5)}', '', 'Warwick Castle, Warwick, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"Antiques Roadshow" (1979) {Wells Somerset Pt.2 (#31.20)}', "Bishop's Palace, Wells, Somerset, England, UK"]	51.20928805	-2.6423706341269755
+['"Antiques Roadshow" (1979) {Wells, Somerset (#31.19)}', "Bishop's Palace, Wells, Somerset, England, UK"]	51.20928805	-2.6423706341269755
+['"Antiques Roadshow" (1979) {West Dean College (#20.11)}', 'West Dean College, Chichester, West Sussex, England, UK']	50.9062603	-0.775066
+['"Antiques Roadshow" (1979) {Westonbirt - Gloucestershire (#21.14)}', 'Westonbirt School, Tetbury, Gloucestershire, England, UK']	51.60489405	-2.1979149486923504
+['"Antiques Roadshow" (1979) {Wilton House (#27.12)}', 'Wilton House, Wilton, Salisbury, Wiltshire, England, UK']	51.25	-1.916667
+['"Antiques Roadshow" (1979) {Winchester 2 (#33.25)}', 'Winchester Cathedral, Winchester, Hampshire, England, UK']	51.0607248	-1.3132624608152665
+['"Antiques Roadshow" (1979) {Winchester 2 (#33.25)}', 'College Street, Winchester, Hampshire, England, UK']	51.0583501	-1.3122692
+['"Antiques Roadshow" (1979) {Winchester College (#22.9)}', 'Winchester College, Winchester, Hampshire, England, UK']	51.083333	-1.166667
+['"Antiques Roadshow" (1979) {Winchester College Compilation (#22.10)}', 'Winchester College, Winchester, Hampshire, England, UK']	51.083333	-1.166667
+['"Antiques Roadshow" (1979) {Wisley (#26.24)}', '', 'Wisley, Surrey, England, UK']	51.32338	-0.4774993
+['"Antiques Roadshow" (1979) {Wisley 2 (#26.25)}', '', 'Royal Horticultural Society, Wisley, Surrey, England, UK']	51.31503435	-0.4745206437952847
+['"Antiques Roadshow" (1979) {Woburn Abbey (#26.17)}', 'Woburn Abbey House, Woburn, Bedfordshire, England, UK']	51.9828572	-0.5954222
+['"Antiques Roadshow" (1979) {Woburn Abbey Special (#26.18)}', 'Woburn Abbey House, Woburn, Bedfordshire, England, UK']	51.9828572	-0.5954222
+['"Antiques Roadshow" (1979) {Woking (#20.3)}', '', 'Woking Leisure Centre, Woking Park, Woking, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Antiques Roadshow" (1979) {Worcester Cathedral (#22.8)}', 'Worcester Cathedral, Worcester, Worcestershire, England, UK']	52.188560800000005	-2.2207312942693407
+['"Archie Bunker\'s Place" (1979)', '', '', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979)', '', '', '', 'Metromedia Square - 5746 W. Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979)', '', '', '', 'Queensboro Bridge, Manhattan, New York City, New York, USA']	40.75573455	-73.95189258066381
+['"Archie Bunker\'s Place" (1979)', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {A Blast from the Past (#3.16)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {A Small Mafia Favor (#1.24)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Archie Alone: Part 1 (#2.1)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Archie Alone: Part 2 (#2.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Archie Fixes Up Fred (#1.20)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Archie Gets a Head (#4.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Archie and the Oldest Profession (#1.4)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Archie\'s New Partner: Part 1 (#1.1)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Archie\'s New Partner: Part 2 (#1.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Archie\'s Night Out (#4.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Barney Gets Laid Off (#4.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Barney and the Hooker (#1.12)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Barney the Gambler (#2.12)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Barney\'s Lawsuit (#1.15)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Billie (#3.1)}', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Billie Moves Out (#3.25)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Blanche and Murray (#1.16)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Blind Man\'s Bluff (#3.15)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Bosom Partners (#1.6)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Break a Leg, Stephanie (#4.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Building the Restaurant (#1.7)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Bunker Madness (#4.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Captain Video (#4.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Custody: Part 1 (#2.10)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Custody: Part 2 (#2.11)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Death of a Lodger (#3.27)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Death of a Saint (#2.19)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Double Date (#4.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Edith Gets Hired (#1.3)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Edith Versus the Energy Crisis (#1.5)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Father Christmas (#4.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Father and Daughter Night (#1.21)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {From the Waldorf to Astoria (#4.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Gary\'s Ex (#4.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Gloria Comes Home: Part 1 (#3.18)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Gloria Comes Home: Part 2 (#3.19)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Gloria: The First Day (#3.29)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Goodbye, Murray (#2.20)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Growing Up Is Hard to Do: Part 1 (#3.8)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Growing Up Is Hard to Do: Part 2 (#3.9)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Happy Birthday, Stephanie (#3.7)}', 'Studio 31, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Harry\'s Investment (#3.5)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Hiring the Housekeeper (#2.4)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Home Again (#2.3)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {I Can Manage (#4.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {I\'m Torn Here (#4.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {La Cage Aux Bunker (#2.18)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Love Is Hell (#3.22)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Man of the Year (#1.13)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Marriage on the Rocks (#4.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Murray Klein\'s Place (#2.13)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Murray and the Liquor Board (#1.9)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Murray\'s Daughter (#1.17)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Murray\'s Wife (#2.7)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {No One Said It Was Easy (#4.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Norma Rae Bunker (#3.4)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Of Mice and Bunker (#3.20)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Rabinowitz \'s Brother (#3.26)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Reggie, 3; Archie, 0 (#3.14)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Relapse (#3.21)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Relief Bartender (#4.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Sex and the Single Parent (#3.17)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Small Claims Court (#4.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Stay Out of My Briefs (#4.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {Stephanie\'s Dance (#3.10)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Stephanie\'s Science Project (#2.15)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Stephanie\'s Tryout (#3.12)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Store Wars (#4.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Teacher\'s Pet (#4.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Thanksgiving Reunion: Part 1 (#1.10)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Thanksgiving Reunion: Part 2 (#1.11)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Ambush (#1.18)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Battle of Bunker III (#3.28)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Boys\' Night Out (#4.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {The Business Manager (#3.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Camping Trip (#2.8)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Cook (#1.8)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Date (#3.3)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Eyewitnesses (#4.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Archie Bunker\'s Place" (1979) {The Incident (#2.9)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Night Visitor (#3.13)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Photo Contest (#3.11)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Promotion (#4.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {The Red Herring (#4.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {The Return of Sammy (#1.19)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Second Time Around (#3.23)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Shabbat Dinner (#1.14)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Trashing of the Temple (#2.17)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {The Wildcat Strike (#2.5)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Three Women (#4.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archie Bunker\'s Place" (1979) {Three\'s a Crowd (#3.6)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Tough Love (#2.16)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Van Ranseleer\'s Operation (#1.22)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Veronica and the Health Inspector (#2.6)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Veronica\'s Ex (#1.23)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {Weekend Away (#2.14)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archie Bunker\'s Place" (1979) {West Side Astoria (#3.24)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A�oranza" (1979)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Beat the Clock" (1979)', '', '', '', '', 'Studio 31, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beat the Clock" (1979)', '', '', '', '', 'Studio 41, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bella y bestia" (1979)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Benson" (1979)', '', '', '', '', '', '1365 S Oakland Avenue, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Benson" (1979)', '', '', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979)', '', '', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {$1,000,000 an Hour (#7.6)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {A Real Gone Daddy (#5.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {A View from the Roof (#4.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {All Shook Up (#2.21)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {And the Winner Is... (#7.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Band of Gold (#5.1)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Beauty and the Beef (#5.18)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Benson in Love (#1.4)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Benson in the Hospital (#2.2)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Benson the Hero (#7.1)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Benson\'s Appointment (#3.1)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Benson\'s Army Reunion (#4.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Benson\'s Groupie (#2.7)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Benson\'s New Home (#4.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Big Buddy (#2.11)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Black Tuesday (#3.22)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Boys Night Out (#4.16)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Bugging the Governor (#1.16)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Calamity Kraus (#4.18)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Chain of Command (#1.15)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Checkmate (#1.18)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Citizen Kraus (#2.6)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Clayton\'s Condo (#3.15)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Clayton, Go Home (#2.16)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Close Encounters on the Third Hole (#4.13)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Cold Storage (#1.19)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Conflict of Interest (#1.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Crimes of the Hearth (#4.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Death in a Funny Position: Part 1 (#4.1)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Death in a Funny Position: Part 2 (#4.2)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Don\'t Quote Me (#1.9)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Double Date (#6.9)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Double Exposure (#3.4)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Down the Drain (#5.6)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Dubois: Portrait of a Politician (#6.21)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Easy Kid Stuff (#2.17)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Embarrassing Moments (#5.16)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Family Tree (#4.17)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Fireside Chat (#2.12)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {First Lady (#2.5)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Flight of the Dodo: Part 1 (#7.7)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Flight of the Dodo: Part 2 (#7.8)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Fool\'s Gold (#2.3)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Friends and Enemies (#7.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Full Court Press (#5.5)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Getting Even (#3.16)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Ghost Story (#1.11)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {God, I Need This Job (#5.3)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Half-Court Trap (#4.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Handwriting on the Wall (#2.19)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Hello, We Must Be Going (#6.8)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Hi, Society (#7.19)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Home for Christmas (#6.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Homework (#2.18)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Human Element (#5.2)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {In All the Wrong Places (#5.15)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {In High Places (#2.8)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {In the Red (#3.18)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {It Ain\'t Sheik (#5.7)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Jessica (#1.8)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Jung at Heart (#6.24)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Just Friends (#1.14)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Katie\'s Boyfriend (#4.14)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Katie\'s Cookies (#5.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Katie\'s Cousin (#6.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Katie\'s Romance (#3.14)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Kraus Affair (#1.17)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Kraus Falls in Love (#3.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Kraus Sings the Blues (#4.19)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Kraus\'s Deadly Mistake (#3.11)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Labor Pains (#5.10)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Last Man on Earth (#7.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Let\'s Get Physical (#6.3)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Let\'s Play Doctor (#5.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Lifesaver (#2.22)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Love and Politics (#7.2)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Love in a Funny Phase (#4.22)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Made in Hong Kong: Part 1 (#6.6)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Made in Hong Kong: Part 2 (#6.7)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Make War, Not Love (#6.12)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Benson" (1979) {Making Change (#6.16)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Marcy\'s Vacation (#1.24)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Marcy\'s Wedding (#2.13)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Mary and Her Lambs (#4.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Masquerade (#2.4)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Mid-life Cowboy (#6.19)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {No Sad Songs (#2.15)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Old Man Gatlin\' (#1.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Old School Ties (#2.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {On the Road (#6.14)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Once in a Blue Moon (#3.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {One Strike, You\'re Out (#1.13)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Parade Rest (#7.13)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Pardon Me (#7.18)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Pen Pal (#4.11)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Pete the Hero (#3.17)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Pilot (#1.1)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Power Play (#1.21)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Quest for Retire (#4.5)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Rainbow\'s End (#3.7)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Reel Murder: Part 1 (#7.14)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Reel Murder: Part 2 (#7.15)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Rivals (#2.14)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Scenario (#6.20)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Secret Love (#7.11)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Sit-In (#3.3)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Snowbound (#1.7)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Solid Gold (#6.17)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Stocks & Options (#3.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Street Gangs (#3.13)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Stress (#3.6)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Summer of Discontent (#7.12)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Take My Life, Please (#5.17)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Take This Job and Love It (#6.15)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Takin\' It to the Streets (#1.22)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Taking It to the Max (#6.10)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Taylor\'s Bid (#1.12)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Teacher\'s Pest (#4.6)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Teed Off (#3.19)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Apartment (#2.10)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Army Wants You (#1.23)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Bookburner (#6.23)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Bucks Stop Here (#7.17)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Campaign (#6.4)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Election (#6.5)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Endicott Dynasty (#5.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Governor\'s Brain Is Missing (#5.12)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Governor\'s House Call (#2.20)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Grass Ain\'t Greener (#3.2)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Hat and the Ring (#7.16)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Honeymooners (#4.12)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Inheritance (#6.2)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Layoff (#1.6)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Little Hotel That Could (#5.21)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Lobbyist (#3.5)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Lumber Mill (#3.21)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Oval Office (#6.18)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Party\'s Over (#3.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The President\'s Double (#1.3)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Reunion (#6.11)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Royal Painting (#4.15)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Scandal (#6.1)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {The Stranger (#7.4)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Thick as Thieves (#2.1)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Three on a Mismatch (#7.20)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Thy Brother\'s Keeper (#4.4)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Too Pooped to Pip (#5.14)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Trust Me (#1.2)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Two Boys and Their Dog (#7.9)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Uncle Jack (#7.3)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Unlisted Love (#5.11)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {War Stories (#1.10)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {We Deliver (#5.19)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {We Spy (#7.5)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {What a Revoltin\' Development (#4.3)}', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Who\'s Arnold? (#5.4)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {Wild Irish Rose (#3.12)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Benson" (1979) {You Can\'t Give It Away (#5.8)}', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Big Jim and the Figaro Club" (1979) {A Bit of Rough Shooting (#1.4)}', 'Exmouth, Devon, England, UK']	50.6190962	-3.4146801
+['"Big Jim and the Figaro Club" (1979) {Dung from a Rocking Horse (#1.1)}', 'Exmouth, Devon, England, UK']	50.6190962	-3.4146801
+['"Big Jim and the Figaro Club" (1979) {Hearts of Oak (#1.3)}', 'Exmouth, Devon, England, UK']	50.6190962	-3.4146801
+['"Big Jim and the Figaro Club" (1979) {Laughing Like a Drain (#1.2)}', 'Exmouth, Devon, England, UK']	50.6190962	-3.4146801
+['"Big Jim and the Figaro Club" (1979) {Pilot: Big Jim and the Figaro Club (#1.0)}', 'Exmouth, Devon, England, UK']	50.6190962	-3.4146801
+['"Big Jim and the Figaro Club" (1979) {The Pursuit of Courtly Love (#1.5)}', 'Exmouth, Devon, England, UK']	50.6190962	-3.4146801
+['"Big Shamus, Little Shamus" (1979) {Pilot (#1.0)}', 'Atlantic City, New Jersey, USA']	39.3642852	-74.4229351

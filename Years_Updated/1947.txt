@@ -1,0 +1,3 @@
+['"1947 World Series" (1947)', '', '', '', 'Ebbets Field, Brooklyn, New York City, New York, USA']	40.66502065	-73.95809708779942
+['"1947 World Series" (1947)', '', '', '', 'Yankee Stadium - E. 161st Street & River Avenue, Bronx, New York City, New York, USA']	40.7127281	-74.0060152
+['"Americana" (1947)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152

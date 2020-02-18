@@ -1,0 +1,8 @@
+['"BBC TV Cricket" (1938)', '', '', '', '', 'Edgbaston, Birmingham, West Midlands, England, UK']	52.4603261	-1.9179098
+['"BBC TV Cricket" (1938)', '', '', '', '', 'Grace Road, Leicester, Leicestershire, England, UK']	52.6361398	-1.1330789
+['"BBC TV Cricket" (1938)', '', '', '', '', 'Headingley, Leeds, West Yorkshire, England, UK']	53.8210076	-1.5777737
+['"BBC TV Cricket" (1938)', '', '', '', '', "Lord's, St. John's Wood, London, England, UK"]	51.5073219	-0.1276474
+['"BBC TV Cricket" (1938)', '', '', '', '', 'Old Trafford, Manchester, Greater Manchester, England, UK']	53.46310955	-2.2913864850545362
+['"BBC TV Cricket" (1938)', '', '', '', '', 'The Oval, Kennington, London, England, UK']	51.48375215	-0.11496182711601476
+['"BBC TV Cricket" (1938)', '', '', '', '', 'Trent Bridge, Nottingham, Nottinghamshire, England, UK']	52.93843235	-1.1363421142070211
+['"BBC TV Cricket" (1938) {Sport Aid: West Indies vs Rest of the World}', 'Edgbaston, Birmingham, West Midlands, England, UK']	52.5050033	-1.964396123331272

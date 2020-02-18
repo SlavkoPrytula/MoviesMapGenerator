@@ -1,0 +1,779 @@
+['"10 om te zien" (1989)', '', '', '', '', 'Blankenberge, Belgium']	50.6402809	4.6667145
+['"10 om te zien" (1989)', '', '', '', '', 'Leuven, Belgium']	50.879202	4.7011675
+['"10x10" (1989)', '', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"13 East" (1989)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"13 East" (1989)', '', '', '', '', 'Irving, Texas, USA']	32.8295183	-96.9442177
+['"3 News" (1989) {The Hobbit World Premiere: 3 News Special}', 'Wellington, New Zealand']	-41.5000831	172.8344077
+['"4 Play" (1989) {Family (#1.7)}', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"6 O\'Clock Live" (1989)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A Bit of a Do" (1989)', '', '', '', '', 'Knaresborough, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Bit of a Do" (1989) {The Registry Office Wedding (#1.6)}', 'Yeadon Town Hall, High Street, Yeadon, Leeds, West Yorkshire, England, UK']	53.865648199999995	-1.6844686630190253
+['"A Fine Romance" (1989)', '', '', '', '', 'Malta']	35.8885993	14.4476911
+['"A Fine Romance" (1989) {Desperately Seeking Louisa (#1.2)}', 'Paris, France']	48.8566969	2.3514616
+['"A Fine Romance" (1989) {The Day of the Third Wrong Thin Woman Who Knew All Too Much About Eve}', 'Malta']	35.8885993	14.4476911
+['"A Grande Aventura" (1989) {O Caminho Maritimo Para a India (#1.5)}', 'Sociedade de Geografia, Lisboa, Portugal']	38.7162531	-9.1397928
+['"A Grande Aventura" (1989) {O Caminho Maritimo Para a India (#1.5)}', 'Palacio das Alcacovas, Alentejo, Portugal']	40.0332629	-7.8896263
+['"A Grande Aventura" (1989) {O Caminho Maritimo Para a India (#1.5)}', 'Castelo de Palmela, Portugal']	38.565959	-8.900294804417523
+['"A Grande Aventura" (1989) {O Caminho Maritimo Para a India (#1.5)}', 'Portugal']	40.0332629	-7.8896263
+['"A Hora do Lecas" (1989)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Man Called Hawk" (1989)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"A Man Called Hawk" (1989) {Intensive Care (#1.10)}', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"A Porta" (1989)', '', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"A debat" (1989)', '', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Acropolis Now" (1989)', '', '', '', '', 'Fitzroy, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Acropolis Now" (1989)', '', '', '', '', 'HSV-7 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Act of Will" (1989)', '', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Act of Will" (1989)', '', '', '', '', 'France']	46.603354	1.8883335
+['"Act of Will" (1989)', '', '', '', '', 'Pinewood Studios, Iver Heath, Buckinghamshire, England, UK']	51.54831515	-0.5346765566753087
+['"Aftenhistorier" (1989)', '', '', '', '', 'Sels� Slot, Skibby, Sj�lland, Denmark']	55.670249	10.3333283
+['"Agatha Christie\'s Poirot" (1989)', '', '', 'The Charterhouse, Charterhouse Square, London, England, UK']	51.5214637	-0.0997845
+['"Agatha Christie\'s Poirot" (1989)', '', '', 'Charterhouse Square, Clerkenwell, London, England, UK']	51.5206495	-0.0987241
+['"Agatha Christie\'s Poirot" (1989)', '', '', "Freemason's Hall, Great Queen Street, Covent Garden, London, England, UK"]	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989)', '', '', 'Twickenham Film Studios, St Margarets, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {After the Funeral (#10.3)}', 'Horsted Keynes station, Bluebell Railway, West Sussex, England, UK']	51.0	-0.416667
+['"Agatha Christie\'s Poirot" (1989) {After the Funeral (#10.3)}', 'Rotherfield Park, East Tisted, Alton, Hampshire, England, UK']	51.083333	-1.166667
+['"Agatha Christie\'s Poirot" (1989) {Appointment with Death (#11.4)}', 'Casablanca, Morocco']	33.5950627	-7.6187768
+['"Agatha Christie\'s Poirot" (1989) {Appointment with Death (#11.4)}', 'El Jadida, Morocco']	33.2336952	-8.500424800741666
+['"Agatha Christie\'s Poirot" (1989) {Appointment with Death (#11.4)}', 'UK']	54.7023545	-3.2765753
+['"Agatha Christie\'s Poirot" (1989) {Cards on the Table (#10.2)}', 'Albert Memorial, Kensington Gardens, Kensington, London, England, UK']	51.5023975	-0.1776843914853914
+['"Agatha Christie\'s Poirot" (1989) {Cards on the Table (#10.2)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {Cat Among the Pigeons (#11.2)}', 'Sue Ryder Hospice, Nettlebed, Oxfordshire, England, UK']	51.833333	-1.25
+['"Agatha Christie\'s Poirot" (1989) {Curtain: Poirot\'s Last Case (#13.5)}', 'Shirburn Castle, Watlington, Oxfordshire, England, UK']	51.6583828	-0.9943401519552595
+['"Agatha Christie\'s Poirot" (1989) {Dead Man\'s Folly (#13.3)}', 'Greenway, Galmpton, Devon, England, UK']	50.38614235	-3.5799626623930165
+['"Agatha Christie\'s Poirot" (1989) {Dead Man\'s Mirror (#5.7)}', '"Maryland\'s", Ride Way, Ewhurst, Surrey, England, UK']	51.1709647	-0.4566856
+['"Agatha Christie\'s Poirot" (1989) {Death in the Clouds (#4.2)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {Death in the Clouds (#4.2)}', 'Shoreham Airport, Shoreham-by-Sea, West Sussex, England, UK']	51.0	-0.416667
+['"Agatha Christie\'s Poirot" (1989) {Death in the Clouds (#4.2)}', 'Palais de Tokyo, Paris 16, Paris, France']	48.8639905	2.2965215131311423
+['"Agatha Christie\'s Poirot" (1989) {Death on the Nile (#9.3)}', 'Valley of kings, Luxor, Egypt']	25.740189	32.60196923815269
+['"Agatha Christie\'s Poirot" (1989) {Death on the Nile (#9.3)}', 'Dendarra, Aswan, Egypt']	26.2540493	29.2675469
+['"Agatha Christie\'s Poirot" (1989) {Death on the Nile (#9.3)}', 'Karnak Temple, Luxor, Egypt']	25.7187213	32.6574682885218
+['"Agatha Christie\'s Poirot" (1989) {Death on the Nile (#9.3)}', 'Eltham Palace, Court Road, Eltham, London, England, UK']	51.44705265	0.04791081946563762
+['"Agatha Christie\'s Poirot" (1989) {Double Sin (#2.6)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {Double Sin (#2.6)}', 'Kirkby Lonsdale']	54.2018452	-2.5967366
+['"Agatha Christie\'s Poirot" (1989) {Double Sin (#2.6)}', 'Wray Castle, Low Wray, Ambleside, Cumbria, England, UK']	54.3980027	-2.9695206
+['"Agatha Christie\'s Poirot" (1989) {Double Sin (#2.6)}', 'Midland Hotel, Morecambe, Lancashire, England, UK']	54.0721113	-2.8750573932915193
+['"Agatha Christie\'s Poirot" (1989) {Evil Under the Sun (#8.1)}', 'Burgh Island, Bigbury-on-Sea, Devon, England, UK']	50.75	-3.75
+['"Agatha Christie\'s Poirot" (1989) {Five Little Pigs (#9.1)}', 'Benington Lordship Gardens, Benington, Stevenage, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Agatha Christie\'s Poirot" (1989) {Four and Twenty Blackbirds (#1.4)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {Four and Twenty Blackbirds (#1.4)}', 'Cumberland Gardens, Clerkenwell, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {Hercule Poirot\'s Christmas (#6.1)}', 'Chilham Castle, Chilham, Kent, England, UK']	51.24295755	0.9591308115684907
+['"Agatha Christie\'s Poirot" (1989) {Hercule Poirot\'s Christmas (#6.1)}', 'Chilham, Kent, England, UK']	51.2447805	0.9645024
+['"Agatha Christie\'s Poirot" (1989) {Hickory Dickory Dock (#6.2)}', "Former St Paul's Choir School, Carter Lane, London, England, UK"]	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {Hickory Dickory Dock (#6.2)}', 'Brushfield Street, Spitalfields, London, England, UK']	51.519046	-0.0762613
+['"Agatha Christie\'s Poirot" (1989) {Hickory Dickory Dock (#6.2)}', 'Charterhouse Square, Clerkenwell, London, England, UK']	51.5206495	-0.0987241
+['"Agatha Christie\'s Poirot" (1989) {Hickory Dickory Dock (#6.2)}', 'Morden Underground Station, Morden, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Agatha Christie\'s Poirot" (1989) {Hickory Dickory Dock (#6.2)}', 'University College London, Bloomsbury, London, England, UK']	51.5244433	-0.13351741008505605
+['"Agatha Christie\'s Poirot" (1989) {How Does Your Garden Grow? (#3.2)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	54.7023545	-3.2765753
+['"Agatha Christie\'s Poirot" (1989) {Jewel Robbery at the Grand Metropolitan (#5.8)}', 'Eastbourne Seafront, Eastbourne, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Agatha Christie\'s Poirot" (1989) {Lord Edgware Dies (#7.2)}', 'Shoreham Airport, Shoreham-by-Sea, West Sussex, England, UK']	54.7023545	-3.2765753
+['"Agatha Christie\'s Poirot" (1989) {Mrs McGinty\'s Dead (#11.1)}', 'Horsted Keynes station, Bluebell Railway, West Sussex, England, UK']	51.0	-0.416667
+['"Agatha Christie\'s Poirot" (1989) {Mrs McGinty\'s Dead (#11.1)}', "St Anne's Court, Chertsey, Surrey, England, UK"]	54.7023545	-3.2765753
+['"Agatha Christie\'s Poirot" (1989) {Mrs McGinty\'s Dead (#11.1)}', 'Richmond Theatre, The Green, Richmond, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Agatha Christie\'s Poirot" (1989) {Mrs McGinty\'s Dead (#11.1)}', 'Hambleden, Buckinghamshire, England, UK']	51.5719351	-0.8691036
+['"Agatha Christie\'s Poirot" (1989) {Murder in Mesopotamia (#8.2)}', 'Bray Film Studios, Windsor, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Agatha Christie\'s Poirot" (1989) {Murder in Mesopotamia (#8.2)}', 'Oudhna, Tunisia']	36.6069175	10.1728731
+['"Agatha Christie\'s Poirot" (1989) {Murder in the Mews (#1.2)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {Murder on the Orient Express (#12.3)}', 'Malta']	35.8885993	14.4476911
+['"Agatha Christie\'s Poirot" (1989) {Murder on the Orient Express (#12.3)}', 'Pinewood Studios, Iver Heath, Buckinghamshire, England, UK']	51.75	-0.75
+['"Agatha Christie\'s Poirot" (1989) {One, Two, Buckle My Shoe (#4.3)}', 'Lichfield Court, Sheen Road, Richmond, London, England, UK']	51.461307649999995	-0.30052410187595685
+['"Agatha Christie\'s Poirot" (1989) {One, Two, Buckle My Shoe (#4.3)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {Peril at End House (#2.1)}', 'Salcombe, Devon, England, UK']	50.2388158	-3.7726121
+['"Agatha Christie\'s Poirot" (1989) {Peril at End House (#2.1)}', 'Twickenham Film Studios, St Margarets, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {Problem at Sea (#1.7)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {Problem at Sea (#1.7)}', 'Greece']	38.9953683	21.9877132
+['"Agatha Christie\'s Poirot" (1989) {Sad Cypress (#9.2)}', 'Dorney Court, Dorney, Buckinghamshire, England, UK']	51.502580449999996	-0.6684001569528171
+['"Agatha Christie\'s Poirot" (1989) {Taken at the Flood (#10.4)}', 'Chilworth Manor, Chilworth, Guildford, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Agatha Christie\'s Poirot" (1989) {Taken at the Flood (#10.4)}', 'Englefield House, Theale, Reading, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Agatha Christie\'s Poirot" (1989) {Taken at the Flood (#10.4)}', 'The George Hotel, Dorchester-on-Thames, Oxfordshire, England, UK']	51.6438588	-1.165627
+['"Agatha Christie\'s Poirot" (1989) {The ABC Murders (#4.1)}', '39 Windsor Street Uxbridge, England, UK']	51.545334	-0.4804269
+['"Agatha Christie\'s Poirot" (1989) {The ABC Murders (#4.1)}', 'Twickenham Film Studios, St Margarets, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Adventure of Johnnie Waverly (#1.3)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Adventure of Johnnie Waverly (#1.3)}', 'Wrotham Park, Barnet, Hertfordshire, England, UK']	51.6775134	-0.1957087
+['"Agatha Christie\'s Poirot" (1989) {The Adventure of the Cheap Flat (#2.7)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Adventure of the Clapham Cook (#1.1)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Adventure of the Egyptian Tomb (#5.1)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Adventure of the Italian Nobleman (#5.5)}', 'Bosham, West Sussex, England, UK']	50.826113899999996	-0.8390211276770202
+['"Agatha Christie\'s Poirot" (1989) {The Adventure of the Italian Nobleman (#5.5)}', 'Kensington Roof Gardens, Kensington High Street, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {The Adventure of the Western Star (#2.9)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Affair at the Victory Ball (#3.10)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Affair at the Victory Ball (#3.10)}', 'BBC, Portland Place, London, England, UK']	51.51878285	-0.14383148508415589
+['"Agatha Christie\'s Poirot" (1989) {The Affair at the Victory Ball (#3.10)}', 'Highpoint, North Hill, Highgate, London, England, UK']	51.574698850000004	-0.1505088218085121
+['"Agatha Christie\'s Poirot" (1989) {The Case of the Missing Will (#5.4)}', 'Cambridge University, Cambridge, Cambridgeshire, England, UK']	52.20689025	0.11519652404117504
+['"Agatha Christie\'s Poirot" (1989) {The Case of the Missing Will (#5.4)}', 'Florin Court, Charterhouse Square, Clerkenwell, London, England, UK']	51.520938900000004	-0.09852853578342075
+['"Agatha Christie\'s Poirot" (1989) {The Case of the Missing Will (#5.4)}', 'Storrington, West Sussex, England, UK']	50.9184454	-0.45555
+['"Agatha Christie\'s Poirot" (1989) {The Case of the Missing Will (#5.4)}', 'Twickenham Film Studios, St Margarets, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Chocolate Box (#5.6)}', 'Antwerp, Flanders, Belgium']	51.2211097	4.3997081
+['"Agatha Christie\'s Poirot" (1989) {The Chocolate Box (#5.6)}', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"Agatha Christie\'s Poirot" (1989) {The Chocolate Box (#5.6)}', 'Twickenham Film Studios, St Margarets, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Clocks (#12.4)}', 'Thornhill Crescent, Islington, London, UK']	51.5414375	-0.1152134
+['"Agatha Christie\'s Poirot" (1989) {The Clocks (#12.4)}', "Woburn Walk, Duke's Road, Bloomsbury, London, England, UK"]	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {The Clocks (#12.4)}', 'Dover Castle, Dover, Kent, England, UK']	51.2474823	0.7105077
+['"Agatha Christie\'s Poirot" (1989) {The Clocks (#12.4)}', "St Margaret's Bay, Kent, England, UK"]	51.1506271	1.3856976
+['"Agatha Christie\'s Poirot" (1989) {The Clocks (#12.4)}', 'Dover, Kent, England, UK']	51.1251275	1.3134228
+['"Agatha Christie\'s Poirot" (1989) {The Cornish Mystery (#2.4)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Cornish Mystery (#2.4)}', 'High Street, Dunster, Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"Agatha Christie\'s Poirot" (1989) {The Disappearance of Mr. Davenheim (#2.5)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Disappearance of Mr. Davenheim (#2.5)}', 'Joldwynds, Surrey, UK']	51.1740379	-0.4137641
+['"Agatha Christie\'s Poirot" (1989) {The Double Clue (#3.7)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Double Clue (#3.7)}', 'Myddleton Square, Clerkenwell, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {The Dream (#1.10)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Dream (#1.10)}', 'Hoover Building, A40, Greenford, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Hollow (#9.4)}', 'Hampton Estate, Seale, Farnham, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Agatha Christie\'s Poirot" (1989) {The Hollow (#9.4)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {The Incredible Theft (#1.8)}', 'Chenies Manor House, Chenies, Buckinghamshire, England, UK']	51.75	-0.75
+['"Agatha Christie\'s Poirot" (1989) {The Incredible Theft (#1.8)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Kidnapped Prime Minister (#2.8)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Kidnapped Prime Minister (#2.8)}', 'Dover, Kent, England, UK']	51.1251275	1.3134228
+['"Agatha Christie\'s Poirot" (1989) {The Kidnapped Prime Minister (#2.8)}', "St Margaret's Bay, Kent, England, UK"]	51.1506271	1.3856976
+['"Agatha Christie\'s Poirot" (1989) {The Kidnapped Prime Minister (#2.8)}', 'Ingress Abbey, Greenhithe, Kent, England, UK']	51.2474823	0.7105077
+['"Agatha Christie\'s Poirot" (1989) {The King of Clubs (#1.9)}', 'Twickenham Studios, London, England, UK']	51.456256499999995	-0.3176999532315733
+['"Agatha Christie\'s Poirot" (1989) {The Labours of Hercules (#13.4)}', 'Halton House, Halton, Wendover, Buckinghamshire, England, UK']	51.7824784	-0.7254402
+['"Agatha Christie\'s Poirot" (1989) {The Labours of Hercules (#13.4)}', 'Saint Hilaire du Touvet, France']	45.311856899999995	5.88017176119991
+['"Agatha Christie\'s Poirot" (1989) {The Lost Mine (#2.3)}', 'Teddington Studios, Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Million Dollar Bond Robbery (#3.3)}', 'RMS Queen Mary - 1126 Queens Highway, Long Beach, California, USA']	33.7690164	-118.1916048
+['"Agatha Christie\'s Poirot" (1989) {The Million Dollar Bond Robbery (#3.3)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	54.7023545	-3.2765753
+['"Agatha Christie\'s Poirot" (1989) {The Murder of Roger Ackroyd (#7.1)}', 'Castle Combe, Wiltshire, England, UK']	51.4929672	-2.230289
+['"Agatha Christie\'s Poirot" (1989) {The Mysterious Affair at Styles (#3.1)}', 'Chavenage House, Tetbury, Gloucestershire, England, UK']	51.65536415	-2.1865569117328345
+['"Agatha Christie\'s Poirot" (1989) {The Mysterious Affair at Styles (#3.1)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Mysterious Affair at Styles (#3.1)}', 'Easton Grey, Wiltshire, England, UK']	51.5871461	-2.176583
+['"Agatha Christie\'s Poirot" (1989) {The Mystery of Hunter\'s Lodge (#3.11)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Mystery of the Blue Train (#10.1)}', 'France']	46.603354	1.8883335
+['"Agatha Christie\'s Poirot" (1989) {The Mystery of the Blue Train (#10.1)}', 'Menton, Alpes-Maritimes, France']	43.7753495	7.5029213
+['"Agatha Christie\'s Poirot" (1989) {The Mystery of the Blue Train (#10.1)}', 'Nene Valley Railway, Peterborough, Cambridgeshire, England, UK']	52.333333	0.083333
+['"Agatha Christie\'s Poirot" (1989) {The Mystery of the Blue Train (#10.1)}', 'Nice, Alpes-Maritimes, France']	43.7009358	7.2683912
+['"Agatha Christie\'s Poirot" (1989) {The Mystery of the Blue Train (#10.1)}', 'UK']	54.7023545	-3.2765753
+['"Agatha Christie\'s Poirot" (1989) {The Mystery of the Spanish Chest (#3.8)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Plymouth Express (#3.4)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Plymouth Express (#3.4)}', 'Adelphi Building, John Adam Street, Strand, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {The Plymouth Express (#3.4)}', 'Du Cane Court, Balham, London, England, UK']	51.4416055	-0.15560720576583437
+['"Agatha Christie\'s Poirot" (1989) {The Theft of the Royal Ruby (#3.9)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Third Floor Flat (#1.5)}', 'Twickenham Studios, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {The Tragedy at Marsdon Manor (#3.6)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Tragedy at Marsdon Manor (#3.6)}', 'Sennowe Hall, Norfolk, England, UK']	52.666667	1.0
+['"Agatha Christie\'s Poirot" (1989) {The Tragedy at Marsdon Manor (#3.6)}', 'The Dial House, Reepham, England, UK']	52.76295455	1.1111218408307468
+['"Agatha Christie\'s Poirot" (1989) {The Underdog (#5.2)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Underdog (#5.2)}', 'Boots D6 building, Beeston, Nottingham, UK']	52.9207938	-1.2075065
+['"Agatha Christie\'s Poirot" (1989) {The Veiled Lady (#2.2)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {The Veiled Lady (#2.2)}', 'Natural History Museum, South Kensington, London, England, UK']	51.4963342	-0.17646628949968132
+['"Agatha Christie\'s Poirot" (1989) {The Yellow Iris (#5.3)}', 'Twickenham Studios, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {Third Girl (#11.3)}', 'Wrotham Park, Barnet, Hertfordshire, England, UK']	51.6775134	-0.1957087
+['"Agatha Christie\'s Poirot" (1989) {Three Act Tragedy (#12.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Agatha Christie\'s Poirot" (1989) {Three Act Tragedy (#12.1)}', 'Eltham Palace, Court Road, Eltham, London, England, UK']	51.44705265	0.04791081946563762
+['"Agatha Christie\'s Poirot" (1989) {Triangle at Rhodes (#1.6)}', 'Twickenham Studios, London, England, UK']	51.5073219	-0.1276474
+['"Agatha Christie\'s Poirot" (1989) {Triangle at Rhodes (#1.6)}', 'Greece']	38.9953683	21.9877132
+['"Agatha Christie\'s Poirot" (1989) {Wasps\' Nest (#3.5)}', 'Twickenham Studios, Twickenham, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Agatha Christie\'s Poirot" (1989) {Wasps\' Nest (#3.5)}', 'The Range, Dockett Eddy Lane, Shepperton, England, UK']	51.3957695	-0.448532
+['"Agatha Christie\'s Poirot" (1989) {Wasps\' Nest (#3.5)}', 'Arnos Grove Underground Station, New Southgate, London, England, UK']	51.5073219	-0.1276474
+['"Agro\'s Cartoon Connection" (1989)', '', '', 'ATN-7 Studios - 61 Mobbs Lane, Epping, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Ai Life" (1989)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Alien Nation" (1989)', '', '', '', '', 'Vasquez Rocks Natural Area Park - 10700 W. Escondido Canyon Rd., Agua Dulce, California, USA']	36.773557	-121.737165
+['"America\'s Funniest Home Videos" (1989)', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"America\'s Funniest Home Videos" (1989)', '', '', 'MBS Media Campus - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"America\'s Funniest Home Videos" (1989)', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"America\'s Funniest Home Videos" (1989)', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {(#5.6)}', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {(#8.9)}', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Alumni Show: Moore vs. Anderson/Silich vs. Ross (#3.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Armed Forces Challenge II: Marines vs. Air Force vs. Army vs. Navy (#7.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Armed Forces of Champions: Marines vs. Air Force vs. Army vs. Navy (#6.25)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Battle of the Best II: Storm vs. Berry & Odita vs. Sullivan (#8.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Celebrity Challenge (#7.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Celebrity Pro Football Challenge: Mims & Craig vs. Flavin & Dunning (#8.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Final Round: Berry vs. Goodwin/Tyler vs. Marino (#6.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Final Round: Goldrick vs. Ortega/Kropp vs. Lentz (#4.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Final Round: LePage vs. Miller/McBride vs. Erickson (#5.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Final Round: Petitto vs. Phillips/Williams vs. Hutson (#1.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Final Round: Tillotson vs. Nichting/Costantino vs. Adams (#3.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Highlight Show (#1.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Preliminary Round 1: Costantino vs. Adams/Mercer vs. Tillotson (#3.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Preliminary Round 1: Feinberg vs. Lewiss/Pedulla vs. Phillips (#7.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 1: Hund vs. Perry/Shumski vs. Williams (#1.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Preliminary Round 1: Schwepker vs. Berry/Wheat vs. Marino (#6.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 1: Sellers and Moore vs. Miller/Erickson vs. Micheletti (#5.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 2: Deiuliis vs. Elmore, Jr./Watson vs. Smith (#7.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 2: Grey vs. Bettendorf/Langston vs. Jernegan (#5.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 2: Henry vs. Jorge/Moore vs. Wirth (#1.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Preliminary Round 2: Long vs. Engmann/Vineyard & Alstead vs. Johnson (#4.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 2: Ross vs. Fanshier/Lockey vs. Tyler (#6.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 2: Roundy vs. Vopatek/McCargo vs. Hirst (#3.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Preliminary Round 3: McCarthy vs. Needham/Hutson vs. Simmons (#1.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Preliminary Round 3: Muse vs. Hill/Morris vs. Albright (#6.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Preliminary Round 3: Rosenberg vs. Peace and Hargrow/Valdiviez vs. Walz (#5.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Preliminary Round 3: Thompson vs. Bottiggi/Smith vs. Peacock (#3.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 4: Goodwin vs. Kamp/Tatum vs. Scarvers (#6.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Preliminary Round 4: Petitto vs. Ross/Carroll vs. Wyatt (#1.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Preliminary Round 4: Street vs. Cooley/Montalvo vs. Pepe (#5.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Preliminary Round 4: Thomas/Foster vs. Simonds/Ratner vs. Nichting (#3.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Preliminary Round 5: Charles vs. Anthony/Lentz vs. Schenk (#4.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Preliminary Round 5: LePage vs. Hughes/Williams vs. Marshall (#5.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Preliminary Round 5: Phillips vs. Cotton/Rogers vs. Todd (#1.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Preliminary Round 5: Reiff vs. Keck/Mentzer vs. Bryant (#3.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Quarterfinal Round 1: Bettendorf vs. Cooley/Langston vs. Williams (#5.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 1: Cotton vs. Hund/Williams vs. Shumski (#1.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Quarterfinal Round 1: Foster vs. Costantino/Mercer vs. Tillotson (#3.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Quarterfinal Round 1: Tyler vs. Lockey/Berry vs. Hill (#6.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 1: Worthington Vs. Vineyard/Lentz Vs. Kropp (#4.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 2: Charles vs. Ortega/Jonckowski vs. Giardina (#4.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 2: LePage vs. Kettle/Marshall vs. McBride (#5.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 2: Petitto vs. Ross/Wirth vs. Simmons (#1.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Quarterfinal Round 2: Ross vs. Goodwin/Albright vs. Marino (#6.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 2: Vopatek vs. Keck/Hirst vs. Nichting (#3.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {First Half Quarterfinal Round 3: Franshier vs. Kamp/Morris vs. Scarvers (#6.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 3: Goldrick vs. Jones/Chase vs. Alstead (#4.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 3: Henry vs. Needham/Moore vs. Hutson (#1.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Quarterfinal Round 3: Miller vs. Street/Erickson vs. Walz (#5.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Quarterfinal Round 3: Thompson/Bottiggi vs. Simonds/Mentzer vs. Ratner (#3.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Quarterfinal Round 4: McCarthy vs. Phillips/Carroll vs. Todd (#1.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Quarterfinal Round 4: Peacock/Johnson vs. McCargo/Adams vs. Roundy (#3.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Quarterfinal Round 4: Schwepker vs. Muse/Wheat vs. Tantum (#6.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Semifinal Round 1: LePage vs. Street/Langston vs. Erickson (#5.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Semifinal Round 1: McCargo vs. Tillotson/Costantino vs. Simonds (#3.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Semifinal Round 1: Muse vs. Berry/Wheat vs. Tyler (#6.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Semifinal Round 1: Needham vs. Petitto/Williams vs. Carroll/Shumski (#1.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Semifinal Round 1: Ortega vs. Vineyard/Jonckowski vs. Lentz (#4.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Semifinal Round 2: Bettendorf vs. Miller/McBride vs. Walz (#5.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Semifinal Round 2: Cotton vs. Phillips/Hutson vs. Wirth (#1.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {First Half Semifinal Round 2: Franshier vs. Goodwin/Marino vs. Scarvers (#6.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Semifinal Round 2: Goldrick vs. Worthington/Kropp vs. Chase (#4.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {First Half Semifinal Round 2: Nichting vs. Mentzer/Vopatek vs. Adams (#3.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Gold Medal Challenge of Champions II: Gaylord vs. Breland vs. Stewart/Mitchell-Rocha vs. Brisco vs. Okino (#6.24)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Gold Medal Challenge of Champions III: Gaylord vs. Ctvrtlik vs. Thomas vs. Street (#7.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Gold Medal Challenge of Champions: Manning vs. Biggs vs. Johnson/Lieberman-Cline vs. Brown vs. Turner (#5.27)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Grand Champion Final: Jackson vs. Berry/Odita vs. Tyler (#6.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Grand Championship Final: Anderson vs. Hutson/Venturi vs. Phillips (#1.26)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Grand Championship Final: DePaoli vs.Miller/Wilson vs. Erickson (#5.25)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Grand Championship Final: Ortega vs. Mauro/Lentz vs. Mollica (#4.26)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Grand Championship Season 3: Costantino vs. Branham/Nichting vs. Cumberbatch (#3.26)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {International Gladiators 2: Grand Championship - Csizmazia vs. Halliday/Saltmarsh & Bevaart vs. Odita (#8.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {International Gladiators 2: Heat 1- Everitt vs Maltsev & Losch vs Odita (#8.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {International Gladiators 2: Heat 3 - Csizmazia vs Sunney & Bevaart vs Machtchenko (#8.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {International Gladiators 2: Semifinal Heat 1- Halliday vs. Clay & Allen/Kinsella vs. Odita (#8.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {International Gladiators 2: Semifinal Heat 2 - Csizmazia vs. Brits & Bevaart vs. Lebedenko/Machtchenko (#8.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {NYPD vs. LAPD Challenge: Tom vs Diaz & Shepard vs Ogburn (#7.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Playboy Models vs Underwear Models Challenge: Hintnaus & James vs Tenison & Ferratti (#8.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Power Rangers vs The Gladiators (#8.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Preliminary Round 1: Seymour vs. Jordan/Schwartze vs. Farwell (#1.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Preliminary Round 1: Wilson vs. Worthington/Kropp vs. Torjesen (#4.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Preliminary Round 2: Podesta vs. Harrison/Allen vs. Herbst (#1.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Preliminary Round 3: Jones vs. Collins/Stevenson vs. Jonckowski (#4.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Preliminary Round 4: Monostori/Goldrick vs. Petrie/Chase vs. Torres (#4.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Preliminary Round 5: Daniels vs Bruno & Chavez vs Sorge (#8.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Preliminary Round 6: Ortega vs. Giardina (#4.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Pro Football Challenge of Champions II: White vs. Dorsett vs. Clayton vs. Joyner vs. Hill vs. Walker (#5.26)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Pro Football Challenge of Champions: White vs. Villapiano vs. Kiick vs. Branch vs. Ham vs. Pruitt (#4.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Qualifying Round 10: Fragoso vs. Bafids & Oppliger vs. Smith (#7.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Qualifying Round 11: Betts vs. Valesco & Leroy vs. Haller (#7.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Qualifying Round 12: Hawkins, Jr. vs. LeBlanc & Johnson vs. Beloro (#7.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Qualifying Round 4: Sagaert vs. Sanchez & Sullivan vs. Rowe (#7.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Qualifying Round 5: O\'Brien vs. Glass & Dunbar vs. Boles (#7.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Qualifying Round 7: Hall vs. Hunt & Baird vs. Dorrough (#7.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Qualifying Round 8: White vs. Pruitt & Ragland vs. Lewis (#7.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Qualifying Round 9: Storm vs. Jackson & Croom vs. Howard (#7.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Final Round: Branham vs. Dieter/Telley vs. Cumberbatch (#3.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Second Half Final Round: DePaoli vs. Weber/Wilson vs. Ramsey (#5.24)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Final Round: Edwards vs. Jackson/Odita vs. Toyebo (#6.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Final Round: Kidd vs. Anderson/Venturi vs. Brown (#1.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Final Round: Mauro vs. Gholar/Mollica vs. Stencil (#4.25)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 1: Bender vs. Cleary/Perling vs. Shepard (#4.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 1: Clark vs. Jackson/Odita vs. Ferguson (#6.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 1: DePaoli vs. Burrell/Wilson vs. Liberman (#5.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 1: McClesky/Kieser vs. Branham/Look-Jaeger vs. Wilcox/Dorsa (#3.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Preliminary Round 2: Blasius vs. Parisi/Mollica vs. Wolf (#4.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 2: Collins vs. Kibort/Wooster vs. Shares (#6.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 2: Johnson vs. Kiernan/Akai vs. Henger (#3.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Second Half Preliminary Round 2: Weber vs. Coulson/Perry vs. Underhill-Richard and Ramelot (#5.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 3: Anderson vs. Brady/Venturi vs. Rampe (#1.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Preliminary Round 3: Cruz vs. Shriner/Bond vs. Toyebo (#6.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 3: Duke vs. Hill-Hudgins/Duke vs. Suzuki (#3.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Preliminary Round 3: Mauro vs. Watts/Murray vs. Plunkett and Stencil (#4.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 3: Miller vs. Bailey/Padelford vs. Moss (#5.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 4: Edwards vs. Diederick/Clay vs. Grizoffi (#6.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 4: Knox vs. Papenhagen/Sterns vs. Lehnen (#4.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 4: Nasca vs. Dieter/Cumberbatch vs. Jarchow (#3.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Second Half Preliminary Round 4: Small vs. Fluker/Dean vs. Bell (#5.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 4: Sutton vs. Cueva/Lakatos vs. Silich (#1.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Preliminary Round 5: McCormack and Jackson vs. Gholar/Sierra vs. Riley (#4.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 5: Montgomery vs. Altschuler/Telley vs. Stickleman (#3.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Preliminary Round 5: Stinson vs. Kidd/Brown vs. Koeberle (#1.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Preliminary Round 5: Yao vs. Granger/Ramsey vs. Traylor (#5.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 6: Echols vs. Neal/Wojciechowski vs. York and Murphy (#5.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Preliminary Round 6: Wilczynski vs. Curella/Paaso vs. Violante (#4.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 1: Diederick vs. Cruz/Bond vs. Odita (#6.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 1: Knox vs. Cleary/Stencil vs. Riley and Sterns (#4.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 1: Montgomery vs. Duke/Akai vs. Duke (#3.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 1: Seymour vs. Brady/Venturi vs. Harrison (#1.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 1: Yao vs. Weber/Liberman vs. Ramsey (#5.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 2: Clark vs. Kibort/Toyebo vs. Clay (#6.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 2: Gholar vs. Curella/Paaso vs. Lehnen (#4.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 2: Johnson vs. Dieter/Look-Jaeger vs. Dorsa (#3.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 2: Kidd vs. Herbst/Podesta vs. Koeberle (#1.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 2: Miller vs. Granger/Moss and Padelford vs. Wilson (#5.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 3: Blasius vs. Mauro/Mollica vs. Perling (#4.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 3: DePaoli vs. Fluker/Wojchiechowski vs. Perry (#5.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 3: Jackson vs. Shriner/Ferguson vs. Shares (#6.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 3: Kiernan vs. Nasca/Cumberbatch vs. Jarchow (#3.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 3: Sutton vs. Jordan/Lakatos vs. Silich (#1.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 4: Anderson vs. Allen/Brown vs. Farwell (#1.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 4: Branham vs. Altschuler/Telley vs. Stickleman (#3.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Quarterfinal Round 4: Edwards vs. Collins/Wooster vs. Grizoffi (#6.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Second Half Semifinal Round 1: Branham vs. Montgomery/Telley vs. Akai (#3.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Semifinal Round 1: Diederich vs. Edwards/Odita vs. Wooster (#6.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Semifinal Round 1: Jordan vs. Anderson/Venturi vs. Silich (#1.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"American Gladiators" (1989) {Second Half Semifinal Round 1: Knox vs. Gholar/Stencil vs. Paaso (#4.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Semifinal Round 1: Miller and Granger vs. DePaoli/Wilson vs. Liberman (#5.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Semifinal Round 2: Jackson vs. Kibort/Shares vs. Toyebo (#6.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Semifinal Round 2: Kiernan vs. Dieter/Cumberbatch vs. Dorsa (#3.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Semifinal Round 2: Mauro vs. Curella/Mollica vs. Perling (#4.24)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {Second Half Semifinal Round 2: Podesta vs. Brown/Kidd vs. Seymour/Herbst (#1.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Gladiators" (1989) {Second Half Semifinal Round 2: Weber vs. Fluker/Wojchiechowski vs. Ramsey (#5.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Gladiators" (1989) {USC vs Notre Dame: White & Davis vs Pinkett & Ferguson (#7.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Pie" (1989) {Florida (#1.2)}', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"American Pie" (1989) {Memphis (#1.3)}', '', '', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"American Pie" (1989) {New Orleans (#1.1)}', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Pie" (1989) {San Francisco (#1.6)}', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"American Pie" (1989) {Santa Fe (#1.4)}', '', '', 'Santa Fe, New Mexico, USA']	35.6869996	-105.9377997
+['"American Pie" (1989) {Texas (#1.5)}', '', '', 'Texas, USA']	31.8160381	-99.5120986
+['"Amigos son los amigos" (1989)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.20)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.21)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.22)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.23)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.24)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.25)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.26)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.27)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.28)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.29)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigos son los amigos" (1989) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Angela" (1989)', '', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Another Way of Telling" (1989)', '', '', '', 'Haute-Savoie, France']	46.068820849999994	6.344536991587102
+['"Another Way of Telling" (1989)', '', '', '', 'St Briavels, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Another Way of Telling" (1989) {(#1.1)}', '', 'Quincy, Mieussy, Haute-Savoie, France']	46.134722	6.523333
+['"Another Way of Telling" (1989) {(#1.1)}', '', 'St Briavels, Gloucestershire, England, UK']	51.7373356	-2.6398283
+['"Another Way of Telling" (1989) {(#1.2)}', '', 'Quincy, Mieussy, Haute-Savoie, France']	46.134722	6.523333
+['"Another Way of Telling" (1989) {(#1.2)}', '', 'Finland']	63.2467777	25.9209164
+['"Another Way of Telling" (1989) {(#1.3)}', '', 'Quincy, Mieussy, Haute-Savoie, France']	46.1532703	6.4935045
+['"Another Way of Telling" (1989) {(#1.3)}', '', 'Finland']	63.2467777	25.9209164
+['"Another Way of Telling" (1989) {(#1.4)}', '', 'Quincy, Mieussy, Haute-Savoie, France']	46.134722	6.523333
+['"Another Way of Telling" (1989) {(#1.4)}', '', 'Finland']	63.2467777	25.9209164
+['"Another Way of Telling" (1989) {(#1.4)}', '', 'St Briavels, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Antikrundan" (1989)', '', '', '', '', 'Askersund, �rebro l�n, Sweden']	59.6749712	14.5208584
+['"Antikrundan" (1989)', '', '', '', '', 'Borgholm, �land, Kalmar l�n, Sweden']	59.6749712	14.5208584
+['"Antikrundan" (1989)', '', '', '', '', 'Kalix, Norrbottens l�n, Sweden']	59.6749712	14.5208584
+['"Antikrundan" (1989)', '', '', '', '', 'Kramfors, V�sternorrlands l�n, Sweden']	59.6749712	14.5208584
+['"Antikrundan" (1989)', '', '', '', '', 'Pite�, Norrbottens l�n, Sweden']	59.6749712	14.5208584
+['"Antikrundan" (1989)', '', '', '', '', 'Simrishamn, Sk�ne l�n, Sweden']	59.6749712	14.5208584
+['"Antikrundan" (1989)', '', '', '', '', 'Sk�vde, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Antikrundan" (1989)', '', '', '', '', 'Uppsala, Uppsala l�n, Sweden']	59.6749712	14.5208584
+['"Antikrundan" (1989)', '', '', '', '', '�rnsk�ldsvik, V�sternorrlands l�n, Sweden']	59.6749712	14.5208584
+['"Anything But Love" (1989)', '', '', '', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {A Tale of Two Kiddies (#4.3)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Adventures in Baby-sitting (#3.8)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {All About Allison (#2.14)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Angst for the Memories (#4.14)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Bang You\'re Dead (#2.7)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Breast of Friends (#2.12)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Burning the Toad (#1.3)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Catherine Honey, I\'m Home (#4.13)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Ch-ch-changes (#2.1)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Deadline (#1.2)}', '', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Dorothy Dearest (#1.5)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Enormous Changes at the Last Minute (#4.1)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Fear of Flying (#1.1)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {First Lady Sings the Blues (#4.7)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Gimme an O (#4.5)}', '', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Hearts and Bones (#2.10)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Hello... Mali (#3.3)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Hooray for Hollywood (#2.19)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Hotel of the Damned (#2.13)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {I Feel a Cult Coming On (#4.2)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {I\'d Kill for a Mink (#4.12)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Isn\'t It Romantic (#3.9)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {It\'s Better to Have Loved and Flossed (#2.9)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {It\'s My Party and I\'ll Schvitz If I Want To (#2.3)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Just the Facts, Ma\'am (#2.6)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Long Day\'s Journey Into... What? (#3.4)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Love and Death (#1.4)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {M Is for the Many Things She Forgot She Gave Me (#4.4)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Martus Interruptus (#3.2)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Marty Walks (#4.17)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Mr. Mom (#2.5)}', '', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {My New Best Friend (#3.7)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Partying Is Such Sweet Sorrow (#2.17)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Pot of Gold (#3.11)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Proof It All Night (#2.15)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Robin Q. Public (#2.20)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Salmonella Is Coming to Town (#4.10)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Say It Again, Han (#3.1)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Scared Straight (#2.4)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Scream a Little Scream (#3.10)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Stop Me Before I... Again: Part 1 (#4.8)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Stop Me Before I... Again: Part 2 (#4.9)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {The Call of the Mild (#4.11)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {The Day After (#3.5)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {The Days of Whine and... (#2.21)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {The Icewoman Cometh (#2.18)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {The Torrid Zone (#3.6)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {The Waiting (#4.16)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Thirty... Something (#2.22)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {This Is Not a Date (#1.6)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Those Lips, Those Thais (#2.2)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Three Men on a Match (#2.16)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Training Film (#4.6)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Truth or Consequences (#2.8)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Tryst and Shout (#4.15)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anything But Love" (1989) {Woman on the Verge of a Nervous Breakdown (#2.11)}', 'Stage 22, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Around the World in 80 Days" (1989/I)', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Around the World in 80 Days" (1989/I)', '', '', 'Hong Kong, China']	22.2793278	114.1628131
+['"Around the World in 80 Days" (1989/I)', '', '', 'Macau, China']	22.1757605	113.5514142
+['"Around the World in 80 Days" (1989/I)', '', '', 'Thailand']	14.8971921	100.83273
+['"Around the World in 80 Days" (1989/I)', '', '', 'Yugoslavia']	8.1939477	-64.5043374
+['"Around the World in 80 Days" (1989/II)', '', '', 'Alexandria, Egypt']	31.199004	29.894378
+['"Around the World in 80 Days" (1989/II)', '', '', 'Athens, Greece']	37.9841493	23.7279843
+['"Around the World in 80 Days" (1989/II)', '', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	54.7023545	-3.2765753
+['"Around the World in 80 Days" (1989/II)', '', '', 'Bank Underground Station, London, England, UK']	51.5073219	-0.1276474
+['"Around the World in 80 Days" (1989/II)', '', '', 'Cairo, Egypt']	26.2540493	29.2675469
+['"Around the World in 80 Days" (1989/II)', '', '', 'Cathedral of St. Thomas, Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Around the World in 80 Days" (1989/II)', '', '', 'Central Station, Chennai, Tamil Nadu, India']	22.3511148	78.6677428
+['"Around the World in 80 Days" (1989/II)', '', '', 'Chennai, Tamil Nadu, India']	13.0801721	80.2838331
+['"Around the World in 80 Days" (1989/II)', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Around the World in 80 Days" (1989/II)', '', '', 'Connemara Hotel, Chennai, Tamil Nadu, India']	13.0459206	80.2477191
+['"Around the World in 80 Days" (1989/II)', '', '', 'Dubai, United Arab Emirates']	24.0002488	53.9994829
+['"Around the World in 80 Days" (1989/II)', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Around the World in 80 Days" (1989/II)', '', '', 'Felixstowe, Suffolk, England, UK']	51.9639098	1.3515106
+['"Around the World in 80 Days" (1989/II)', '', '', 'Folkestone, Kent, England, UK']	51.0791335	1.1794073
+['"Around the World in 80 Days" (1989/II)', '', '', 'Glenwood Springs, Colorado, USA']	39.5507448	-107.3255001
+['"Around the World in 80 Days" (1989/II)', '', '', 'Guangzhou, Guangdong, China']	23.1301964	113.2592945
+['"Around the World in 80 Days" (1989/II)', '', '', 'Happy Valley, Hong Kong, China']	22.267237	114.1869671
+['"Around the World in 80 Days" (1989/II)', '', '', 'Hong Kong, China']	22.2793278	114.1628131
+['"Around the World in 80 Days" (1989/II)', '', '', 'Innsbruck, Tyrol, Austria']	47.2654296	11.3927685
+['"Around the World in 80 Days" (1989/II)', '', '', 'Ipswich, Suffolk, England, UK']	52.0579495	1.1526345
+['"Around the World in 80 Days" (1989/II)', '', '', 'Jeddah, Saudi Arabia']	21.5810088	39.1653612
+['"Around the World in 80 Days" (1989/II)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Around the World in 80 Days" (1989/II)', '', '', 'Macau, China']	22.1757605	113.5514142
+['"Around the World in 80 Days" (1989/II)', '', '', 'Mojave Desert, California, USA']	35.1456319	-115.54896378664561
+['"Around the World in 80 Days" (1989/II)', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Around the World in 80 Days" (1989/II)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Around the World in 80 Days" (1989/II)', '', '', 'Newark, New Jersey, USA']	40.735657	-74.1723667
+['"Around the World in 80 Days" (1989/II)', '', '', 'Oxford Circus, Oxford Street, London, England, UK']	51.5152681	-0.1420078
+['"Around the World in 80 Days" (1989/II)', '', '', 'Poona, India']	18.521428	73.8544541
+['"Around the World in 80 Days" (1989/II)', '', '', 'Saitama, Japan']	35.9754168	139.4160114
+['"Around the World in 80 Days" (1989/II)', '', '', 'Shanghai, China']	35.000074	104.999927
+['"Around the World in 80 Days" (1989/II)', '', '', 'Singapore']	1.357107	103.8194992
+['"Around the World in 80 Days" (1989/II)', '', '', 'Suez, Egypt']	29.974498	32.537086
+['"Around the World in 80 Days" (1989/II)', '', '', 'Taj Hotel, Mumbai, Maharashtra, India']	22.3511148	78.6677428
+['"Around the World in 80 Days" (1989/II)', '', '', 'Thailand']	14.8971921	100.83273
+['"Around the World in 80 Days" (1989/II)', '', '', 'The Great Pyramids, Giza Plateau, Giza, Egypt']	26.2540493	29.2675469
+['"Around the World in 80 Days" (1989/II)', '', '', "The Reform Club, Pall Mall, St. James's, London, England, UK"]	51.5073219	-0.1276474
+['"Around the World in 80 Days" (1989/II)', '', '', 'Venice Beach, Venice, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"Around the World in 80 Days" (1989/II)', '', '', 'Venice, Veneto, Italy']	45.4371908	12.3345898
+['"Around the World in 80 Days" (1989/II)', '', '', 'Verrazano-Narrows Bridge, New York City, New York, USA']	39.7837304	-100.4458825
+['"Around the World in 80 Days" (1989/II)', '', '', 'Yokohama, Kanagawa, Japan']	35.444991	139.636768
+['"Around the World in 80 Days" (1989/II)', '', '', 'Yugoslavia']	8.1939477	-64.5043374
+['"Around the World in 80 Days" (1989/II) {Dateline to Deadline (#1.7)}', 'Burlington, Iowa, USA']	40.8075391	-91.1129234
+['"As� son los m�os" (1989)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.100)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.101)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.102)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.103)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.104)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.105)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.106)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.107)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.108)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.109)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.110)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.111)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.112)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.113)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.114)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.115)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.116)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.117)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.118)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.119)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.120)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.121)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.122)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.123)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.124)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.125)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.126)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.127)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.128)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.129)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.130)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.131)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.132)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.133)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.134)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.135)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.136)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.137)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.138)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.139)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.140)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.141)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.142)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.143)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.144)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.145)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.146)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.147)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.148)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.149)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.150)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.151)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.152)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.153)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.154)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.155)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.156)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.157)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.158)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.159)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.160)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.161)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.162)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.163)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.164)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.165)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.166)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.167)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.168)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.169)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.170)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.171)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.172)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.173)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.174)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.175)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.176)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.177)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.178)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.179)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.180)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.181)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.182)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.183)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.184)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.185)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.186)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.187)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.188)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.189)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.190)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.191)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.192)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.193)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.194)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.195)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.196)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.197)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.198)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.199)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.20)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.200)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.201)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.202)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.203)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.204)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.205)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.206)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.207)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.208)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.209)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.210)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.211)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.212)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.213)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.214)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.215)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.216)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.217)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.218)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.219)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.220)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.221)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.222)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.223)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.224)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.225)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.226)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.227)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.228)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.229)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.30)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.31)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.32)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.33)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.34)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.35)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.36)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.37)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.38)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.39)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.40)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.41)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.42)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.43)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.44)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.45)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.46)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.47)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.48)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.49)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.50)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.51)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.52)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.53)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.54)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.55)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.56)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.57)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.58)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.59)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.60)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.61)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.62)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.63)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.64)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.65)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.66)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.67)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.68)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.69)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.70)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.71)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.72)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.73)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.74)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.75)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.76)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.77)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.78)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.79)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.80)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.81)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.82)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.83)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.84)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.85)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.86)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.87)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.88)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.89)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.90)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.91)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.92)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.93)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.94)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.95)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.96)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.97)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.98)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"As� son los m�os" (1989) {(#1.99)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�vase a so�ar" (1989)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Auga de ver�n" (1989)', '', '', '', '', 'Vigo, Pontevedra, Galicia, Spain']	42.2376602	-8.7247205
+['"Australia\'s Most Wanted" (1989)', '', '', 'ATN-7 Studios - 61 Mobbs Lane, Epping, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"B.L. Stryker" (1989)', '', '', '', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {Auntie Sue (#1.4)}', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {Blind Chess (#1.3)}', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {Blues for Buder (#1.5)}', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {Carolann (#1.2)}', '', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {Grand Theft Hotel (#2.4)}', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {High Rise (#2.5)}', '', 'Northbridge Centre, West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {Night Train (#2.7)}', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {Plates (#2.6)}', '', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {The Dancer\'s Touch (#1.1)}', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {The King of Jazz (#2.1)}', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"B.L. Stryker" (1989) {Winner Takes All (#2.3)}', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"Babar" (1989)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Babar" (1989)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Balmain High School, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Bangkok International Airport, Bangkok, Thailand']	13.68187665	100.74858027718852
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Bangkok, Thailand']	13.7542529	100.493087
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Burwood, Sydney, New South Wales, Australia']	-32.9683166	151.5353935
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Cidade de Goa Resort Hotel, Vainguinim Beach, Goa, India']	22.3511148	78.6677428
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Concord, Sydney, New South Wales, Australia']	-33.8635104	151.0938267
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Goa Airport, Dabolim, Goa, India']	15.380501500000001	73.8317012646639
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Goa, India']	15.3004543	74.0855134
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Hotel Palacio de Goa, Goa, India']	15.4943228	73.8221853
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Kennedy Miller Studios, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Bangkok Hilton" (1989)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Royal Orchid Sheraton Hotel, Bangkok, Thailand']	14.8971921	100.83273
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Bangkok Hilton" (1989)', '', '', '', '', 'The Metro Theatre, 30 Orwell Street, Kings Cross, Sydney, New South Wales, Australia']	-24.7761086	134.755
+['"Bangkok Hilton" (1989)', '', '', '', '', 'Water Board facility, Waterloo, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Barney Barnato" (1989)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"Bassie en Adriaan en de verzonken stad" (1989)', '', 'Crete, Greece']	35.3084749	24.463320724202934
+['"Bassie en Adriaan en de verzonken stad" (1989)', '', 'Rhodos, Greece']	36.17262995	27.919418145633188
+['"Bassie en Adriaan en de verzonken stad" (1989)', '', 'Santorini, Greece']	38.9953683	21.9877132
+['"Baywatch" (1989)', '', '', '', '', 'Will Rogers State Beach - 17700 Pacific Coast Highway, Pacific Palisades, Los Angeles, California, USA']	34.0319067	-118.52872000577234
+['"Baywatch" (1989)', '', '', '', '', 'Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Baywatch" (1989)', '', '', '', '', "Hawaii Film Studio - 18th Avenue & Diamond Head Road, Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Baywatch" (1989)', '', '', '', '', 'Hawaii, USA']	21.2160437	-157.975203
+['"Baywatch" (1989)', '', '', '', '', "Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Baywatch" (1989)', '', '', '', '', 'RMS Queen Mary - 1126 Queens Highway, Long Beach, California, USA']	33.7690164	-118.1916048
+['"Baywatch" (1989)', '', '', '', '', 'Venice Beach, Venice, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"Baywatch" (1989) {Baywatch Down Under: Part 1 (#9.16)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Baywatch" (1989) {Baywatch Down Under: Part 2 (#9.17)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Baywatch" (1989) {Beauty and the Beast (#6.12)}', 'Cabo San Lucas, Baja California Sur, Mexico']	22.8938884	-109.9200604
+['"Baywatch" (1989) {Beauty and the Beast (#6.12)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baywatch" (1989) {Coronado del Soul: Part 1 (#4.14)}', 'Hotel del Coronado - 1500 Orange Avenue, Coronado, California, USA']	32.68089575	-117.17779096849321
+['"Baywatch" (1989) {Coronado del Soul: Part 1 (#4.14)}', 'Sea World, San Diego, California, USA']	32.7174209	-117.1627714
+['"Baywatch" (1989) {Coronado del Soul: Part 2 (#4.15)}', 'Hotel del Coronado - 1500 Orange Avenue, Coronado, California, USA']	32.68089575	-117.17779096849321
+['"Baywatch" (1989) {Coronado del Soul: Part 2 (#4.15)}', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Baywatch" (1989) {River of No Return: Part 1 (#3.1)}', 'El Dorado County, California, USA']	38.7574137	-120.5276129
+['"Baywatch" (1989) {Sky Rider (#4.5)}', '', '', 'Venice Beach, Venice, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"Baywatch" (1989) {The Trophy: Part 2 (#2.10)}', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Biala wizyt�wka" (1989)', '', '', '', 'Bielsko-Biala, Slaskie, Poland']	49.81207845	19.029198802013944
+['"Biala wizyt�wka" (1989)', '', '', '', 'Kopalnia Wincenty Pstrowski, Zabrze, Slaskie, Poland']	50.31428055	18.781576310579183
+['"Biala wizyt�wka" (1989)', '', '', '', 'Ksiaz, Walbrzych, Dolnoslaskie, Poland']	50.8425255	16.2927104
+['"Biala wizyt�wka" (1989)', '', '', '', 'Pszczyna, Slaskie, Poland']	49.9778328	18.9425124

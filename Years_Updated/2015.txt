@@ -1,0 +1,1688 @@
+['"#15SecondScare" (2015) {It\'s Me Jessica (#1.5)}', 'Coventry, West Midlands, England, UK']	52.4081812	-1.510477
+['"#15SecondScare" (2015) {Who Wants to Play with the Rabbit? (#1.2)}', 'West Hills, California, USA']	34.2032325	-118.645476
+['"#15SecondScare" (2015) {Who Wants to Play with the Rabbit? (#1.2)}', 'West Hills, California, USA']	34.2032325	-118.645476
+['"#DearGeorgette" (2015)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"#KateConwayisaJerk" (2015)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"#KateConwayisaJerk" (2015) {Helpful Tips for Getting Over a Breakup (#1.2)}', "Remark's Bar & Grill - 1026 Coxwell Ave, Toronto, Ontario, Canada"]	43.653963	-79.387207
+['"#KateConwayisaJerk" (2015) {Helping Friends (#1.1)}', 'Gooderham Building, 49 Wellington Street East, Toronto, Ontario, Canada']	43.648366800000005	-79.37439532076982
+['"#KateConwayisaJerk" (2015) {Helping Keep Your Boyfriend Company (#1.3)}', "Russell Winkelaar's flat, Toronto, Ontario, Canada"]	43.653963	-79.387207
+['"#KateConwayisaJerk" (2015) {Helping Miriam Pultro Around Toronto (#1.5)}', 'Broadview Avenue, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"#Millennials" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"#MommasGotBars" (2015)', '', '', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"$tripped" (2015) {Desired (#1.6)}', '', '', 'Riviera Hotel & Casino - 2901 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"$tripped" (2015) {Entertained (#1.3)}', '', '', 'Riviera Hotel & Casino - 2901 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"$tripped" (2015) {Naked (#1.11)}', '', '', 'Riviera Hotel & Casino - 2901 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"$tripped" (2015) {Sneaked (#1.2)}', '', '', 'Riviera Hotel & Casino - 2901 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"(Not) Brothers" (2015)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"1/4 Mermaid" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1/4 Mermaid" (2015)', '', '', '', '', 'Cypress, California, USA']	33.8248235	-118.0399368
+['"10,000 BC" (2015)', '', '', '', '', 'Bulgaria']	42.6073975	25.4856617
+['"100 Frogs" (2015)', '', '', '', '', 'Bronx, New York City, New York, USA']	40.8466508	-73.8785937
+['"100 Frogs" (2015)', '', '', '', '', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"12 Monkeys" (2015)', '', '', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"12 Monkeys" (2015)', '', '', '', '', 'Cinespace Studios, Toronto, Ontario, Canada']	43.630009799999996	-79.52817339890174
+['"12 Monkeys" (2015)', '', '', '', '', 'Vaughan, Ontario, Canada']	43.7941544	-79.5268023
+['"12 Monkeys" (2015)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"12 Monkeys" (2015)', '', '', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"12 Monkeys" (2015)', '', '', '', '', 'Uxbridge, Ontario, Canada']	44.107556	-79.127655
+['"12 Monkeys" (2015) {Pilot (#1.1)}', '', '', 'Detroit Institute of Arts Museum, Detroit, Michigan, USA']	42.3595105	-83.06452586249985
+['"12 Monkeys" (2015) {The Keys (#1.7)}', '', '', 'E. Samuels Development building - Bot Construction Group warehouse, Oakville, Ontario, Canada']	43.447436	-79.666672
+['"12 Monkeys" (2015) {The Keys (#1.7)}', '', '', 'Macedonia']	41.6171214	21.7168387
+['"12 Monkeys" (2015) {Thief (#3.9)}', '', '', 'Prague, Czech Republic']	50.0874654	14.4212535
+['"12 Monkeys" (2015) {Thief (#3.9)}', '', '', 'St. Vitus Cathedral, Prague, Czech Republic']	50.09086385	14.40057198099588
+['"12 Monkeys" (2015) {Tomorrow (#1.9)}', '', '', 'Macedonia']	41.6171214	21.7168387
+['"12 Monkeys" (2015) {Tomorrow (#1.9)}', '', '', 'Kratovo, Macedonia']	42.079261	22.1802182
+['"12 Monkeys" (2015) {Year of the Monkey (#2.1)}', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"12 Monkeys" (2015) {Year of the Monkey (#2.1)}', '', 'Sz�chenyi Chain Bridge, Budapest, Hungary']	47.1817585	19.5060937
+['"12 Monkeys" (2015) {Yesterday (#1.8)}', '', '', 'Macedonia']	41.6171214	21.7168387
+['"120 Seconds" (2015) {Cara Santana (#1.10)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"120 Seconds" (2015) {DELUKA (#1.2)}', '', '', 'Hollywood Roosevelt Hotel - 7000 Hollywood Blvd., Hollywood, Los Angeles, California, USA']	34.100968050000006	-118.34181478202902
+['"120 Seconds" (2015) {FMLYBND (#1.8)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"120 Seconds" (2015) {Jacob Whitesides (#1.6)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"120 Seconds" (2015) {Laleh (#1.9)}', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"120 Seconds" (2015) {Magic! (#1.1)}', '', '', 'Madison Square Garden, New York City, New York, USA']	40.7505247	-73.99355027800776
+['"120 Seconds" (2015) {RAC at SXSW (#1.7)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"120 Seconds" (2015) {Sammi Rotibi on Django Unchained, Quentin Tarantino, Jared Leto & Samuel L Jackson! (#1.4)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"120 Seconds" (2015) {THURZ (#1.5)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"120 Seconds" (2015) {The Kin on Touring with P!Nk & COLDPLAY! (#1.3)}', 'Bootleg Theater - 2220 Beverly Boulevard, Westlake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"13mil" (2015)', '', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"13mil" (2015) {Carmen (#1.2)}', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"13mil" (2015) {Deborah (#1.5)}', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"13mil" (2015) {Gemma (#1.1)}', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"13mil" (2015) {Jessica (#1.7)}', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"13mil" (2015) {Noa (#1.8)}', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"13mil" (2015) {Silvia (#1.6)}', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"13mil" (2015) {Yolanda (#1.4)}', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"13mil" (2015) {�lex (#1.3)}', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Westerbork Transit Camp, Netherlands']	52.5001698	5.7480821
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Nijmegen, Gelderland, Netherlands']	51.8427385	5.8634696
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Wien, Austria']	48.2083537	16.3725042
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Rotterdam, Zuid-Holland, Netherlands']	51.9278469	4.488595428701715
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Amsterdam, Netherlands']	52.3727598	4.8936041
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Bergen-Belsen, Niedersachsen, Germany']	52.7580569	9.9117992
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Utrecht, Netherlands']	52.0949753	5.109708
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Prinsengracht 263, Amsterdam, Netherlands']	52.37527115	4.884191650281915
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'Buchenwald, Weimar, Thuringia, Germany']	51.0195868	11.2508336
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Amsterdam - DerV�lkermord (#1.11)}', 'L�dz, L�dzkie, Poland']	52.215933	19.134422
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Augsburg, Bavaria, Germany']	48.3668041	10.8986971
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Auschwitz-Birkenau Concentration Camp, Oswiecim, Malopolskie, Poland']	50.03890605	19.171298357759902
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Buchenwald, Weimar, Thuringia, Germany']	50.9802813	11.3290855
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Reichsparteitag-Gel�nde, Nuremberg, Bavaria, Germany']	49.453872	11.077298
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Dachau, Bavaria, Germany']	48.2592477	11.4354419
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Nordhausen, Thuringia, Germany']	51.5051574	10.7925317
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Dillingen an der Donau, Bavaria, Germany']	48.5812458	10.4952243
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Lechbr�cke, Meitingen, Bavaria, Germany']	48.55	10.85
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Ohrdruf, Thuringia, Germany']	50.8270085	10.7319499
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Augsburg - Die Entnazifizierung (#1.6)}', 'Bergen-Belsen, Niedersachsen, Germany']	52.7580569	9.9117992
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Asbach, Hessen, Germany']	51.1683551	10.1519679
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Bad Hersfeld, Hessen, Germany']	50.8681341	9.7068481
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Merseburg, Saxony-Anhalt, Germany']	51.3564413	11.996148
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'B�hl, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Eisenach, Thuringia, Germany']	50.9833	10.3166999
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Offenburg, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Korbach, Hessen, Germany']	51.27242185	8.883906640788503
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Bruchsal, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Remagen, Rhineland-Palatinate, Germany']	50.5792112	7.2286788
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Bad Hersfeld - Die wei�en Fahnen (#1.3)}', 'Mainz, Rhineland-Palatinate, Germany']	50.0012314	8.2762513
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Berlin - Der Neubeginn (#1.12)}', 'Karlshorst, Brandenburg, Germany']	53.0627454	11.9751406
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Berlin - Der Neubeginn (#1.12)}', 'Berlin, Germany']	52.5170365	13.3888599
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Berlin - Der Neubeginn (#1.12)}', 'Potsdam, Brandenburg, Germany']	52.4009309	13.0591397
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Berlin - Der Neubeginn (#1.12)}', 'Seelower H�hen, Brandenburg, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Berlin - Der Neubeginn (#1.12)}', 'Dahlem, Berlin, Germany']	52.4573805	13.2810976
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Berlin - Der Neubeginn (#1.12)}', 'Seelow, Brandenburg, Germany']	52.5318238	14.380704
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Berlin - Der Neubeginn (#1.12)}', 'Enschede, Overijssel, Netherlands']	52.2209855	6.8940537
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Berlin - Der Neubeginn (#1.12)}', 'Aue, Saxony, Germany']	50.599558900000005	12.708984078483024
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Chemnitz, Saxony, Germany']	50.8322608	12.9252977
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Braunschweig, Lower Saxony, Germany']	52.2646577	10.5236066
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Bramfeld, Hamburg, Germany']	53.616809	10.0790012
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Birmingham, West Midlands, England, UK']	52.4796992	-1.9026911
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'L�beck, Schleswig-Holstein, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Coventry, West Midlands, England, UK']	52.4081812	-1.510477
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Peine, Niedersachsen, Germany']	52.3217849	10.2349489
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Braunschweig - Die Ruinen (#1.7)}', 'Moorweide, Hamburg, Germany']	53.56267875	9.991814627931811
+['"1945: 12 St�dte, 12 Schicksale" (2015) {K�ln die Zerst�rung (#1.1)}', 'Cologne, Westphalia, Germany']	50.938361	6.959974
+['"1945: 12 St�dte, 12 Schicksale" (2015) {K�ln die Zerst�rung (#1.1)}', 'K�ln-Bocklem�nd, Westphalia, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {K�ln die Zerst�rung (#1.1)}', 'Mengenich, Westphalia, Germany']	50.9807288	6.8601344
+['"1945: 12 St�dte, 12 Schicksale" (2015) {K�ln die Zerst�rung (#1.1)}', 'Vogelsang, K�ln, Westphalia, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Leipzig, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Torgau, Saxony, Germany']	51.5581272	13.0046538
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'V�lkerschlachtdenkmal, Leipzig, Sachsen, Germany']	51.3406321	12.3747329
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Halle, Saxony-Anhalt, Germany']	51.4825041	11.9705452
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Breslau, Poland']	51.1263106	16.97819633051261
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Wurzen, Saxony, Germany']	51.3709574	12.7410574
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Plagwitz, Leipzig, Sachsen, Germany']	51.3914486	12.6277285
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Zirkow, R�gen, Mecklenburg-Western Pomerania, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Beiden, Mecklenburg-Western Pomerania, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Leipzig - Die Teilung (#1.5)}', 'Poland']	52.215933	19.134422
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Linz, Upper Austria, Austria']	48.3059078	14.286198
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Vienna, Austria']	48.2083537	16.3725042
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Braunau am Inn, Upper Austria, Austria']	48.253136	13.039506
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Salzburg, Austria']	47.7981346	13.0464806
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Feldherrnhalle M�nchen, Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Volgograd, Russia']	48.64820995	44.38576379902911
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Obersalzberg, Berchtesgaden, Bavaria, Germany']	47.6323993	13.0421526
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Auschwitz-Birkenau Concentration Camp, Oswiecim, Malopolskie, Poland']	50.03890605	19.171298357759902
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Linz, Wien, M�nchen - Der Verf�hrer (#1.8)}', 'Reichstag, Tiergarten, Berlin, Germany']	52.5178005	13.3740257
+['"1945: 12 St�dte, 12 Schicksale" (2015) {N�rnberg - Die Fanatiker (#1.4)}', 'N�rnberg, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {N�rnberg - Die Fanatiker (#1.4)}', 'Zeppelinfeld, N�rnberg, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {N�rnberg - Die Fanatiker (#1.4)}', 'Reichsparteitag-Gel�nde, Nuremberg, Bavaria, Germany']	49.453872	11.077298
+['"1945: 12 St�dte, 12 Schicksale" (2015) {N�rnberg - Die Fanatiker (#1.4)}', 'Bayern, Germany']	48.9467562	11.4038717
+['"1945: 12 St�dte, 12 Schicksale" (2015) {N�rnberg - Die Fanatiker (#1.4)}', 'Bayerische Hochalpen, Bayern, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {N�rnberg - Die Fanatiker (#1.4)}', 'M�nchen, Bayern, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Plzen, Czech Republic']	49.7477415	13.3775249
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Prague, Czech Republic']	50.0874654	14.4212535
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Gdansk, Pomorskie, Poland']	54.36143405	18.62821847557274
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Susice, Czech Republic']	49.2313907	13.5204076
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Zatec, Czech Republic']	50.3274423	13.545952
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Lidice, Czech Republic']	50.1435834	14.1905224
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Postoloprty, Czech Republic']	50.3600554	13.7028467
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Sopot, Pomorskie, Poland']	54.44190905	18.54309444570447
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Hel Peninsula, Pomorskie, Poland']	52.215933	19.134422
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Pilsen - Die Flucht (#1.10)}', 'Copenhagen, Denmark']	55.6867243	12.5700724
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Plauen, Saxony, Germany']	50.4950632	12.1346523
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Karlovy Vary, Czech Republic']	50.2304694	12.8710769
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Auschwitz-Birkenau Concentration Camp, Oswiecim, Malopolskie, Poland']	50.03890605	19.171298357759902
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Offenburg, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Sonthofen, Bavaria, Germany']	47.5135363	10.281931
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Vogelsang, Zehdenick, Brandenburg, Germany']	53.0398986	13.384015761781972
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Sch�neck/Vogtland, Saxony, Germany']	51.0834196	10.4234469
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Salzburg, Austria']	47.7981346	13.0464806
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Plauen - Die Kindersoldaten (#1.9)}', 'Berlin, Germany']	52.5170365	13.3888599
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Wiesbaden - Die Kriegsgefangenen (#1.2)}', 'Wiesbaden, Hessen, Germany']	50.0820384	8.2416556
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Wiesbaden - Die Kriegsgefangenen (#1.2)}', 'Bielefeld, North Rhine-Westphalia, Germany']	52.0191005	8.531007
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Wiesbaden - Die Kriegsgefangenen (#1.2)}', 'Remagen, Rhineland-Palatinate, Germany']	50.5792112	7.2286788
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Wiesbaden - Die Kriegsgefangenen (#1.2)}', 'Bonn, North Rhine-Westphalia, Germany']	50.735851	7.10066
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Wiesbaden - Die Kriegsgefangenen (#1.2)}', 'Friesenhagen, Rheinland-Pfalz, Germany']	50.9034439	7.8084366
+['"1945: 12 St�dte, 12 Schicksale" (2015) {Wiesbaden - Die Kriegsgefangenen (#1.2)}', 'V�rkuta, Russia']	64.6863136	97.7453061
+['"1iota Update" (2015) {2015 IHeartRadio Music Festival Seat Filler Tickets! (#1.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1iota Update" (2015) {2015 MTV Movie Awards Ticket Information (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1iota Update" (2015) {2015 Radio Disney Music Awards Ticket Information (#1.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1iota Update" (2015) {2015 VMAs Tickets (#1.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2 Old Goats on Hogs" (2015)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"2 Old Goats on Hogs" (2015)', '', '', '', 'Kerrville, Texas, USA']	30.0474688	-99.1400207
+['"2 Old Goats on Hogs" (2015)', '', '', '', 'Georgetown, Texas, USA']	30.6665525	-97.6779637977368
+['"2-Bit Review" (2015)', '', '', '', '', 'Avon, Indiana, USA']	39.7628227	-86.3997168
+['"2015 MTV Video Music Awards with People Magazine" (2015) {2015 MTV VMA Red Carpet Special with Brandi Cyrus and People Magazine (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2015 MTV Video Music Awards with People Magazine" (2015) {Big Sean Teases New Collaboration with Miley on the 2015 MTV VMA Red Carpet (#1.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2015 MTV Video Music Awards with People Magazine" (2015) {Fall Out Boy Guess Most Insane Thing Miley Cyrus Could Do at the 2015 MTV VMAs (#1.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2015 MTV Video Music Awards with People Magazine" (2015) {It\'s a #CyrusTakeover as the Cyrus Family Supports Miley at the 2015 MTV VMAs (#1.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2015 MTV Video Music Awards with People Magazine" (2015) {O\'Shea Jackson Jr. Says He Is "Prepared for Anything" from VMA Host Miley Cyrus (#1.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2015 MTV Video Music Awards with People Magazine" (2015) {Shawn Mendes Tells Us Who Gets His Vote for Video of the Year at the 2015 MTV VMAs (#1.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2015 MTV Video Music Awards with People Magazine" (2015) {Silento Hopes Miley Cyrus Will Break Out the "Whip/Nae Nae" on the VMA Stage (#1.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2015 MTV Video Music Awards with People Magazine" (2015) {Tyler Oakley and Grace Helbig Talk Tongues, Miley & Nicki Minaj at the VMAS (#1.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2015 Stanley Cup Finals" (2015)', '', '', 'United Center - 1901 W. Madison Street, Near West Side, Chicago, Illinois, USA']	41.88068305	-87.67418510441388
+['"2015 Stanley Cup Finals" (2015)', '', '', 'Amalie Arena - 401 Channelside Drive, Tampa, Florida, USA']	27.942704	-82.45189031562487
+['"2015 World Series" (2015) {Game 1: New York Mets at Kansas City Royals (#1.1)}', 'Kauffman Stadium - 1 Royal Way, Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"2015 World Series" (2015) {Game 2: New York Mets at Kansas City Royals (#1.2)}', 'Kauffman Stadium - 1 Royal Way, Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"2015 World Series" (2015) {Game 3: Kansas City Royals at New York Mets (#1.3)}', 'Citi Field - 126th Street & Roosevelt Avenue, Flushing, New York, USA']	40.7654301	-73.8174291
+['"2015 World Series" (2015) {Game 4: Kansas City Royals at New York Mets (#1.4)}', 'Citi Field - 126th Street & Roosevelt Avenue, Flushing, New York, USA']	40.7654301	-73.8174291
+['"2015 World Women\'s Curling Championship" (2015)', 'Tsukisamu Gymnasium - 8, Tsukisamu Higashi 1, Toyohira, Sapporo City, Hokkaido, Japan']	43.0614489	141.354538
+['"2030" (2015)', '', '', '', '', '', 'Tbilisi, Georgia']	41.6934591	44.8014495
+['"25 Again" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"27th Annual Miss Asia USA,11th Annual Mrs. Asia USA and 1st Annual Miss Europe Global Cultural Pageants" (2015)', 'Redondo Beach Performing Arts Center, Redondo Beach, California, USA']	33.8455911	-118.3886766
+['"360@" (2015)', '', '', '', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"360@" (2015)', '', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"360@" (2015)', '', '', '', '', '', 'Italy']	42.6384261	12.674297
+['"360@" (2015)', '', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"360@" (2015)', '', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"37 Problems" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3x3 the Immersive Fiction" (2015)', '', '', 'Paris, France']	48.8566969	2.3514616
+['"5 Cents & the Boyz" (2015)', '', '', '', 'Dublin, Ireland']	53.3497645	-6.2602732
+['"5 minuts tard" (2015)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"5. Halvleg" (2015)', '', '', '', '', 'Nordisk Film, Valby, Copenhagen, Denmark']	55.6618019	12.5169523
+['"52%" (2015)', '', '', '', '', '', 'Liverpool, England, UK']	53.407154	-2.991665
+['"57, 58, 59, SECHZIG! Die L�wen-Dokumentation" (2015)', 'Kiel, Schleswig-Holstein, Germany']	54.3227085	10.135555
+['"6/6/66" (2015)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"7 Tods�nden" (2015)', '', '', '', '', 'Palais Schaumburg-Lippe, Salzburg, Austria']	47.2000338	13.199959
+['"773 the Go" (2015)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"800 Words" (2015)', '', '', '', '', 'Auckland, New Zealand']	-36.852095	174.7631803
+['"800 Words" (2015)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"800 Words" (2015)', '', '', '', '', 'Karekare Beach, Karekare, Waitakere, Auckland Region, New Zealand']	-41.5000831	172.8344077
+['"800 Words" (2015)', '', '', '', '', 'Warkworth, New Zealand']	-36.3984914	174.6642316
+['"800 Words" (2015)', '', '', '', '', 'Kaipara College, 36 Rautawhiri Road, Helensville, New Zealand']	-36.67874295	174.45953330513765
+['"800 Words" (2015)', '', '', '', '', '40 Queen Street, Warkworth, New Zealand']	-36.397388	174.6642
+['"800 Words" (2015)', '', '', '', '', '11 Elizabeth St, Warkworth, New Zealand']	-36.397456	174.661862
+['"800 Words" (2015)', '', '', '', '', '548 West Coast Road, Oratia, Auckland, New Zealand']	-36.9085798	174.6307226
+['"800 Words" (2015)', '', '', '', '', 'Broken Hill, New South Wales, Australia']	-31.965	141.4511111
+['"888.com World Grand Prix" (2015) {2015: Day Five - Part 1 (#1.9)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Five - Part 2 (#1.10)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Four - Part 1 (#1.7)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Four - Part 2 (#1.8)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day One - Part 1 (#1.1)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day One - Part 2 (#1.2)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Six - Part 1 (#1.11)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Six - Part 2 (#1.12)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Three - Part 1 (#1.5)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Three - Part 2 (#1.6)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Two - Part 1 (#1.3)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2015: Day Two - Part 2 (#1.4)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Five - Part 1 (#2.9)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Five - Part 2 (#2.10)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Four - Part 1 (#2.7)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Four - Part 2 (#2.8)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day One - Part 1 (#2.1)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day One - Part 2 (#2.2)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Six - Part 1 (#2.11)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Six - Part 2 (#2.12)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Three - Part 1 (#2.5)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Three - Part 2 (#2.6)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Two - Part 1 (#2.3)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"888.com World Grand Prix" (2015) {2016: Day Two - Part 2 (#2.4)}', 'Venue Cymru, Llandudno, Conwy, Wales, UK']	53.32180635	-3.817129991629856
+['"8MMM Aboriginal Radio" (2015)', '', '', '', 'Alice Springs, Northern Territory, Australia']	-23.6983884	133.8812885
+['"9-2-5" (2015)', '', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"9-2-5" (2015) {(2015-11-15)}', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"9-2-5" (2015) {(2015-11-15)}', '', '', '', 'Smyrna, Georgia, USA']	33.883887	-84.5147454
+['"A Book a City" (2015)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A Book a City" (2015)', '', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"A Book a City" (2015)', '', '', '', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"A Book a City" (2015)', '', '', '', '', 'Hong Kong']	22.2793278	114.1628131
+['"A Book a City" (2015)', '', '', '', '', 'Taipei, Taiwan']	25.0375198	121.5636796
+['"A Copa do Mundo no Recife" (2015)', '', '', 'Recife, Pernambuco, Brazil']	-8.0641931	-34.8781517
+['"A Dandelion Clock: Magellanic Clouds" (2015)', '', 'Dandenong Ranges, VIC, Australia']	-37.8291766	145.3538837
+['"A Dark Tale" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Decade On" (2015)', '', '', '', '', 'E - kid - na Cottage Artarmon, New South Wales, Australia']	-24.7761086	134.755
+['"A Decade On" (2015) {Melega (#1.2)}', '', '', 'Jersey Road Reserve, Artarmon, Australia']	-33.8111607	151.1815262156884
+['"A Decade On" (2015) {The Five Year Pre-school Reunion (#1.1)}', 'E-Kid-na Cottage, Artarmon NSW, Australia']	-24.7761086	134.755
+['"A Game of Darts" (2015)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Gay and a Girl" (2015)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"A Is for Apple" (2015)', '', '', '', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"A Journey Through the Three Times Moving Trilogy" (2015) {Day 1 (#1.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"A Journey Through the Three Times Moving Trilogy" (2015) {Day 2 (#1.2)}', 'London, England, UK']	51.5073219	-0.1276474
+['"A Journey Through the Three Times Moving Trilogy" (2015) {Day 3 (#1.3)}', 'London, England, UK']	51.5073219	-0.1276474
+['"A Journey Through the Three Times Moving Trilogy" (2015) {Day 4 (#1.4)}', 'London, England, UK']	51.5073219	-0.1276474
+['"A Journey Through the Three Times Moving Trilogy" (2015) {Day 5 (#1.5)}', 'London, England, UK']	51.5073219	-0.1276474
+['"A Ladies\' Guide to Making Conversation More Interesting" (2015)', 'Washington Heights, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Ladies\' Guide to Making Conversation More Interesting" (2015)', 'Woodside, Queens, New York City, New York, USA']	40.7453798	-73.9054145
+['"A Lesson Learnt" (2015)', '', '', '', 'Waltham Abbey, Essex, England, UK']	51.6892068	-0.0009449
+['"A Lesson Learnt" (2015)', '', '', '', 'Finsbury Park, London, England, UK']	51.5648345	-0.1064144
+['"A Quinta" (2015)', '', '', '', '', 'Venda do Pinheiro, Portugal']	38.92787745	-9.220561782807437
+['"A Redheads Life" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Southern Gentleman Reads Amazon Reviews" (2015)', 'West College Corner, Indiana, USA']	39.5675514	-84.8160671
+['"A Very British Romance" (2015) {Georgian Romance (#1.1)}', 'Steventon Church, Steventon, Hampshire, England, UK']	51.083333	-1.166667
+['"A Very British Romance" (2015) {Georgian Romance (#1.1)}', 'Bath, Somerset, England, UK']	51.3813864	-2.3596963
+['"A Very British Romance" (2015) {Georgian Romance (#1.1)}', 'Library of Birmingham, Birmingham, West Midlands, England, UK']	52.47968625	-1.9084782773901874
+['"A Very British Romance" (2015) {Georgian Romance (#1.1)}', 'Assembly Rooms, Bath, Somerset, England, UK']	51.3862376	-2.3628285
+['"A Very British Romance" (2015) {Georgian Romance (#1.1)}', 'Gretna Green, Dumfries & Galloway, Scotland, UK']	55.083333	-3.833333
+['"A Very British Romance" (2015) {Georgian Romance (#1.1)}', 'Chawton House, Chawton, Hampshire, England, UK']	51.1266817	-1.0067925887156763
+['"A Very British Romance" (2015) {Georgian Romance (#1.1)}', "Jane Austen's House Museum, Chawton, Hampshire, England, UK"]	51.1330749	-0.989069000736702
+['"A Weekend with Jacob Prasch" (2015) {Interpreting Scripture: Text, Co-Text and Context (#1.1)}', 'Dublin Community Recreation Center, 5600 Post Road, Dublin, Ohio, USA']	40.0992294	-83.1140771
+['"A Weekend with Jacob Prasch" (2015) {Taming the Serpent/Charming the Snake (#1.8)}', 'Fellowship Bible Chapel, East Wing Community Center, East Orange Road, Lewis Center, Ohio, USA']	40.1983958	-83.0101843
+['"A Weekend with Jacob Prasch" (2015) {The Pattern of Saul (#1.7)}', 'Fellowship Bible Chapel, East Wing Community Center, East Orange Road, Lewis Center, Ohio, USA']	40.1983958	-83.0101843
+['"A World of Women" (2015)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A Year in Space" (2015)', '', '', '', 'International Space Station, Earth Orbit, Space']	-35.26562945	149.1305008240921
+['"A hombros de gigantes" (2015)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A hombros de gigantes" (2015) {ESLAI (#1.4)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A hombros de gigantes" (2015) {IBCN (#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A hombros de gigantes" (2015) {IBYME (#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A hombros de gigantes" (2015) {INSTITUTO LELOIR (#1.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A job. A wife. A life." (2015)', '', '', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"A job. A wife. A life." (2015) {A Day in the Life (#1.1)}', 'Palm Beach, Florida, USA']	26.6279798	-80.4494174
+['"A job. A wife. A life." (2015) {A Day in the Life (#1.1)}', 'Boca Raton, Florida, USA']	26.3586885	-80.0830984
+['"A job. A wife. A life." (2015) {Birthday (#1.5)}', 'Palm Beach, Florida, USA']	26.6279798	-80.4494174
+['"A job. A wife. A life." (2015) {Birthday (#1.5)}', 'Boca Raton, Florida, USA']	26.3586885	-80.0830984
+['"A job. A wife. A life." (2015) {Health (#1.3)}', '', 'Palm Beach, Florida, USA']	26.6279798	-80.4494174
+['"A job. A wife. A life." (2015) {Health (#1.3)}', '', 'Boca Raton, Florida, USA']	26.3586885	-80.0830984
+['"A job. A wife. A life." (2015) {Jealousy (#1.4)}', 'Palm Beach, Florida, USA']	26.6279798	-80.4494174
+['"A job. A wife. A life." (2015) {Jealousy (#1.4)}', 'Boca Raton, Florida, USA']	26.3586885	-80.0830984
+['"A job. A wife. A life." (2015) {Money (#1.2)}', '', 'Palm Beach, Florida, USA']	26.6279798	-80.4494174
+['"A job. A wife. A life." (2015) {Money (#1.2)}', '', 'Boca Raton, Florida, USA']	26.3586885	-80.0830984
+['"A job. A wife. A life." (2015) {Religion or..Is There Anything Out There? (#1.6)}', 'Palm Beach, Florida, USA']	26.6279798	-80.4494174
+['"A job. A wife. A life." (2015) {Religion or..Is There Anything Out There? (#1.6)}', 'Boca Raton, Florida, USA']	26.3586885	-80.0830984
+['"A que no me dejas" (2015)', '', '', '', 'Televisa San Angel, Mexico City, Distrito Federal, Mexico']	19.34476565	-99.20394733773142
+['"A que no me dejas" (2015)', '', '', '', 'Mexico City, Mexico']	19.4326296	-99.1331785
+['"A que no me dejas" (2015) {(#1.1)}', '', '', 'Cancun, Quintana Roo, Mexico']	21.1617854	-86.8510468
+['"A que no me dejas" (2015) {(#1.2)}', '', '', 'Cancun, Quintana Roo, Mexico']	21.1617854	-86.8510468
+['"A que no me dejas" (2015) {(#1.3)}', '', '', 'Cancun, Quintana Roo, Mexico']	21.1617854	-86.8510468
+['"A que no me dejas" (2015) {(#1.4)}', '', '', 'Cancun, Quintana Roo, Mexico']	21.1617854	-86.8510468
+['"A que no me dejas" (2015) {(#1.5)}', '', '', 'Cancun, Quintana Roo, Mexico']	21.1617854	-86.8510468
+['"A �nica Mulher" (2015)', '', '', '', '', 'Luanda, Angola']	-8.8272699	13.2439512
+['"A �nica Mulher" (2015)', '', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"A �nica Mulher" (2015)', '', '', '', '', 'Cabo Ledo, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.1)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.1)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.1)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.10)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.10)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.10)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.100)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.100)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.101)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.101)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.101)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.102)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.102)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.102)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.103)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.103)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.103)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.104)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.104)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.105)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.105)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.105)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.106)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.106)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.106)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.107)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.107)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.107)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.108)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.108)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.109)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.109)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.109)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.11)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.11)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.11)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.110)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.110)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.110)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.111)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.111)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.112)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.112)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.112)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.113)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.113)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.113)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.114)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.114)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.114)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.115)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.115)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.116)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.116)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.116)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.117)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.117)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.117)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.118)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.118)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.118)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.119)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.119)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.12)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.12)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.12)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.120)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.120)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.120)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.121)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.121)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.121)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.122)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.122)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.123)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.123)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.123)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.124)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.124)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.124)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.125)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.125)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.125)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.126)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.126)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.126)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.127)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.127)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.127)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.128)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.128)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.128)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.129)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.129)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.13)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.13)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.13)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.130)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.130)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.130)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.131)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.131)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.131)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.132)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.132)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.132)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.133)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.133)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.134)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.134)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.134)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.135)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.135)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.135)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.136)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.136)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.136)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.137)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.137)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.137)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.138)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.138)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.138)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.139)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.139)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.139)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.14)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.14)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.14)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.140)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.140)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.141)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.141)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.141)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.142)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.142)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.142)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.143)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.143)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.143)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.144)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.144)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.144)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.145)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.145)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.146)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.146)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.146)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.147)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.147)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.147)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.148)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.148)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.148)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.149)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.149)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.149)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.15)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.15)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.15)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.150)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.150)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.150)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.151)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.151)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.151)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.152)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.152)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.152)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.153)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.153)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.154)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.154)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.154)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.155)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.155)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.155)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.156)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.156)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.156)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.157)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.157)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.158)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.158)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.158)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.159)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.159)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.159)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.16)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.16)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.16)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.160)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.160)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.160)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.161)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.161)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.161)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.162)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.162)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.162)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.163)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.163)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.163)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.164)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.164)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.164)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.165)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.165)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.166)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.166)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.166)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.167)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.167)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.167)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.168)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.168)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.168)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.169)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.169)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.17)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.17)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.17)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.170)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.170)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.170)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.171)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.171)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.171)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.172)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.172)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.173)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.173)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.173)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.174)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.174)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.174)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.175)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.175)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.175)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.176)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.176)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.177)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.177)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.177)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.178)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.178)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.178)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.179)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.179)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.179)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.18)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.18)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.180)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.180)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.180)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.181)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.181)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.181)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.182)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.182)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.183)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.183)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.183)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.184)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.184)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.184)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.185)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.185)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.185)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.186)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.186)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.187)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.187)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.187)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.188)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.188)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.188)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.189)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.189)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.189)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.19)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.19)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.19)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.190)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.190)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.190)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.191)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.191)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.191)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.2)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.2)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.2)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.20)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.20)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.21)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.21)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.21)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.22)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.22)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.22)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.23)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.23)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.23)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.24)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.24)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.24)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.25)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.25)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.25)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.26)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.26)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.26)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.27)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.27)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.27)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.28)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.28)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.28)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.29)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.29)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.3)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.3)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.3)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.30)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.30)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.30)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.31)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.31)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.31)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.32)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.32)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.32)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.33)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.33)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.33)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.34)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.34)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.34)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.35)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.35)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.35)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.36)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.36)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.36)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.37)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.37)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.37)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.38)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.38)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.39)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.39)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.39)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.4)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.4)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.4)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.40)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.40)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.40)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.41)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.41)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.42)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.42)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.42)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.43)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.43)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.43)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.44)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.44)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.44)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.45)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.45)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.45)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.46)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.46)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.46)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.47)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.47)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.48)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.48)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.48)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.49)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.49)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.49)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.5)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.5)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.50)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.50)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.50)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.51)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.51)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.51)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.52)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.52)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.52)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.53)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.53)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.53)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.54)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.54)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.54)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.55)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.55)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.55)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.56)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.56)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.57)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.57)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.57)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.58)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.58)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.58)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.59)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.59)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.59)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.6)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.6)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.60)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.60)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.60)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.61)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.61)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.61)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.62)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.62)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.62)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.63)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.63)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.64)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.64)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.64)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.65)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.65)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.65)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.66)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.66)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.66)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.67)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.67)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.68)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.68)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.68)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.69)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.69)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.69)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.7)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.7)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.70)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.70)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.70)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.71)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.71)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.71)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.72)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.72)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.72)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.73)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.73)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.74)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.74)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.74)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.75)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.75)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.75)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.76)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.76)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.76)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.77)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.77)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.77)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.78)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.78)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.79)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.79)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.79)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.8)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.8)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.8)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.80)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.80)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.81)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.81)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.81)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.82)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.82)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.82)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.83)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.83)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.83)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.84)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.84)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.85)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.85)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.85)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.86)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.86)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.86)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.87)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.87)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.87)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.88)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.88)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.89)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.89)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.89)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.9)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.9)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.9)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.90)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.90)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.90)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.91)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.91)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.91)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.92)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.92)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.93)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.93)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.93)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.94)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.94)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.94)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.95)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.95)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.95)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.96)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.96)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.96)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.97)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.97)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.97)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.98)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.98)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.98)}', '', '', 'Quedas de �gua de Kalandula, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#1.99)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#1.99)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.1)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.1)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.10)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.10)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.11)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.11)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.12)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.12)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.2)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.2)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.3)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.3)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.4)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.4)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.5)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.5)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.6)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.6)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.7)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.7)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.8)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.8)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A �nica Mulher" (2015) {(#2.9)}', '', '', 'Hotel Presidente Luanda, Luanda, Angola, Africa']	-8.8919982	13.2125367
+['"A �nica Mulher" (2015) {(#2.9)}', '', '', 'Parque Nacional da Qui�ama, Angola, Africa']	11.5024338	17.7578122
+['"A.E.G.I.S. Tales Radio Adventures" (2015)', '', 'Tir Na Fonn, Port Orchard, Washington, USA']	47.5315625	-122.6384056
+['"ABC123Songs" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"ANKE denkt na.." (2015)', '', '', '', 'Amsterdam, Netherlands']	52.3727598	4.8936041
+['"ATX Uncensored(ish)" (2015)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"AXSTV Concerts: Hosted by Mark Cuban" (2015)', '', 'The Bomb Factory, 2713 Canton St, Dallas, Texas, USA']	32.78239045	-96.78374808722413
+['"Abandoned" (2015)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Abandonware" (2015)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Ablutionary Rite" (2015)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Ablutionary Rite" (2015)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aborrescentes" (2015)', '', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"About Tonight" (2015)', '', '', '', '', 'Channel 31 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"About Tonight" (2015) {An Aunty Donna Australia Day: Part II (#4.3)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Anthony + Gabriel + Geraldine (#2.3)}', 'C31 Studios, William Street, Melbourne, Victoria, Australia']	-37.82398795	144.966513502037
+['"About Tonight" (2015) {Becky + Anne + Peter + David (#1.4)}', 'C31 Studios, William Street, Melbourne, Victoria, Australia']	-37.82398795	144.966513502037
+['"About Tonight" (2015) {Ben + Jonathan + Fifty Cats (#3.8)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-24.7761086	134.755
+['"About Tonight" (2015) {Brasier & Friends (#5.5)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-24.7761086	134.755
+['"About Tonight" (2015) {Callaghan & Mates (#5.3)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-24.7761086	134.755
+['"About Tonight" (2015) {Capper & Friends (#5.2)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-24.7761086	134.755
+['"About Tonight" (2015) {Daniel + John + Catherine + Rob (#1.9)}', 'Channel 31 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"About Tonight" (2015) {Dilruk + Fiona + Dave + Sam + Ben (#3.4)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-24.7761086	134.755
+['"About Tonight" (2015) {Hayley + Jo + Sietta (#1.8)}', 'Channel 31 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"About Tonight" (2015) {Hey Hey It\'s Saturdave! (#2.13)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Jack, Greg, Adam, Nick & Oliver (#3.7)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Jones & Pals (#5.4)}', '', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Kate & the End of the World (#3.6)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Laura + Ellen + Tessa + Ben (#1.3)}', 'Channel 31 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"About Tonight" (2015) {Lee + Scott + Grant + Vasili + Tamasin (#2.11)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Luis + David + Effie (#2.4)}', 'Channel 31 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"About Tonight" (2015) {Madeleine + Shane + Dianne + Natasha + Greg (#3.9)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Martin + Emma + Alex + Simon + Adam (#3.3)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Matheson & Mates (#5.6)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Matt + Damian + Lydia + Nick (#2.9)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Michael + Clem + Greg + Jack + Lee + Cyrus (#1.5)}', 'C31 Studios, William Street, Melbourne, Victoria, Australia']	-37.82398795	144.966513502037
+['"About Tonight" (2015) {Nicholas J Johnsons Live Heist (#5.1)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Nina + Helen + Phil + Jacob + Jekyll & James (#2.8)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Quinn\'s Birthday Spectacular (#3.2)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Sam + Tripod + Claire + Gamble (#3.5)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Sarah + Damian + Peter + Rob + Clara + Tom (#3.1)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Stuesdays (#1.2)}', '', 'C31 Studios, William Street, Melbourne, Victoria, Australia']	-37.82398795	144.966513502037
+['"About Tonight" (2015) {Suren + Andy + Alasdair + Puppetry of the Penis (#1.7)}', 'C31 Studios, William Street, Melbourne, Victoria, Australia']	-37.82398795	144.966513502037
+['"About Tonight" (2015) {Susie + Toby + Daniel + Lee + Zee + Rachel + the Twoks (#2.2)}', 'Channel 31 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"About Tonight" (2015) {Tessa + Nina + Dr Brown + East End Cabaret + Claire (#2.5)}', 'Channel 31 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"About Tonight" (2015) {The Live Special (#4.1)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {The Live Xmas Special (#4.2)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {The TBAAG 50th Episode Special (#6.9)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {Toby + Waleed + Nazeem + Rod + Avenue Q (#2.6)}', 'Channel 31 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"About Tonight" (2015) {Victoria + Jess + Roland + Sonia + Peter (#2.12)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Aaron Gocs (#6.2)}', '', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Alice Fraser (#6.10)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Andy & Alasdair (#6.3)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Angus Gordon (#7.6)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Bart Freebairn (#6.8)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Brianna Williams (#6.11)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Chimp Cop (#7.5)}', '', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Claire Sullivan (#7.3)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Clara Cupcakes (#6.5)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Elizabeth Davie (#7.2)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Jean Lizza (#6.7)}', '', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Laura Dunemann (#6.6)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Lauren Bok (#6.4)}', '', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Mitch McTaggart (#6.1)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Oliver Clark (#6.12)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Sonia Di Iorio (#7.4)}', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"About Tonight" (2015) {With Tim Hewitt (#7.1)}', '', 'Channel 31 Studios, William St, Melbourne, Australia']	-37.8070225	144.9543058
+['"AbsurdTV Show" (2015)', '', '', '', '', 'Whittier, California, USA']	33.9708782	-118.0308396
+['"AbsurdTV Show" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"AbsurdTV Show" (2015) {AbsurdTV 105 the Other Guy 0.5 (#1.5)}', 'Whittier, California, USA']	33.9708782	-118.0308396
+['"AbsurdTV Show" (2015) {AbsurdTV 308 4.7 Feet Down (#3.8)}', 'Upland, California, USA']	34.09751	-117.6483876
+['"AbsurdTV Show" (2015) {AbsurdTV 310 Magic Maddy the Park (#3.10)}', 'Whittier, California, USA']	33.9708782	-118.0308396
+['"AbsurdTV Show" (2015) {AbsurdTV 311 Brainless in the Park (#3.11)}', 'Whittier, California, USA']	33.9708782	-118.0308396
+['"AbsurdTV Show" (2015) {The Spy Barista (#1.2)}', '', 'Whittier, California, USA']	33.9708782	-118.0308396
+['"Aby Cho" (2015)', '', '', '', '', 'Krasnodar, Russia']	45.0352566	38.9764814
+['"Acapulco Shore" (2015)', '', '', '', '', 'Acapulco, Guerrero, Mexico']	16.8680495	-99.8940182
+['"Acapulco Shore" (2015)', '', '', '', '', 'Playa del Carmen, Solidaridad, Quintana Roo, Mexico']	20.584374699999998	-87.50345268296755
+['"Accidentally Exercising" (2015)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Accidentally Funny: Live from Florida" (2015)', '', 'Carrollwood Cultural Center, 4537 Lowell Rd, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Aci Ask" (2015)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Acil Ask Araniyor" (2015)', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"ActEd Online" (2015)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Acting Out!" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Acting! The Saga Continues" (2015)', '', '', 'Lake Jackson, Texas, USA']	29.0338575	-95.4343859
+['"Actor\'s Scope" (2015)', '', '', '', '', 'Atlanta Georgia, USA']	33.7490987	-84.3901849
+['"Actresses and Animals" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Green\'s Scary Sleepover" (2015)', '', '', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Adam Green\'s Scary Sleepover" (2015) {The Christmas Special}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Adam Ruins Everything" (2015)', '', '', '', 'Hollywood Riviera Studios, Torrance, California, USA']	33.8358492	-118.3406288
+['"Adam Ruins Everything" (2015) {Adam Ruins Cars (#1.3)}', 'Hollywood Riviera Studios, Torrance, California, USA']	33.8358492	-118.3406288
+['"Adam Ruins Everything" (2015) {Adam Ruins Nutrition (#1.11)}', 'Hollywood Riviera Studios, Torrance, California, USA']	33.8358492	-118.3406288
+['"Adam Ruins Everything" (2015) {Adam Ruins Nutrition (#1.11)}', 'Hollywood Riviera Studios, Torrance, California, USA']	33.8358492	-118.3406288
+['"Adam Ruins Everything" (2015) {Adam Ruins Science (#2.15)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Adam Ruins Everything" (2015) {Adam Ruins The Future (#2.16)}', 'Los Angeles Department of Water and Power 111 N Hope St Los Angeles, California, USA']	34.0581119	-118.24949046710387
+['"Adam Ruins Everything" (2015) {Adam Ruins the Wild West (#1.22)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Adam" (2015)', '', '', '', '', '', 'Princeton, New Jersey, USA']	40.3492744	-74.6592958
+['"Adhuri Kahaani Hamari" (2015)', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Adi Mutluluk" (2015)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adi Mutluluk" (2015)', '', '', '', '', 'Izmir, Turkey']	38.4147331	27.1434119
+['"AdventureCouch" (2015)', '', '', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"Adventures to the Edge" (2015)', '', '', '', 'Kilimanjaro, Tanzania']	-3.0764084	37.3539987
+['"Africa and Ottomans" (2015)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Africa and Ottomans" (2015)', '', '', '', 'Zanzibar, Tanzania']	-6.09994425	39.32094431715264
+['"Africa and Ottomans" (2015)', '', '', '', 'Agadez, Niger']	16.972556	7.990739
+['"Africa and Ottomans" (2015)', '', '', '', 'Cape Town, Western Cape, South Africa']	-33.928992	18.417396
+['"Africa and Ottomans" (2015)', '', '', '', 'Lagos, Nigeria']	6.4550575	3.3941795
+['"After Dark with Julian Clark" (2015) {With Special Guest Carlos Alazraqui (#1.10)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"After Dark with Julian Clark" (2015) {With Special Guest Carlos Alazraqui (#1.10)}', 'Second City Hollywood, 6560 Hollywood Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After Dark with Julian Clark" (2015) {With Special Guests Shanola Hampton and Jonathan Sadowski (#1.7)}', 'Second City Hollywood, 6560 Hollywood Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After Ever After" (2015)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"After the Applause" (2015)', '', '', '', 'Hong Kong']	22.2793278	114.1628131
+['"After the Fairytale" (2015)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Aftermath" (2015)', '', '', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"Afternoon Delight Live on Hollywood and Vine" (2015)', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Agent Carter" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agent Carter" (2015)', '', '', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Agent Carter" (2015)', '', '', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Agent Carter" (2015) {A Little Song and Dance (#2.9)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agent Carter" (2015) {Bridge and Tunnel (#1.2)}', 'Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agent Carter" (2015) {Hollywood Ending (#2.10)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agent Carter" (2015) {Life of the Party (#2.6)}', 'Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agent Carter" (2015) {Now Is Not the End (#1.1)}', 'The Ebell of Los Angeles - 743 South Lucerne Bouelvard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agent Carter" (2015) {The Iron Ceiling (#1.5)}', '', 'Hollywood Studio Club, 1215-1233 Lodi Place, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agent Carter" (2015) {The Iron Ceiling (#1.5)}', '', "Walt Disney's Golden Oak Ranch - 19802 Placerita Canyon Road, Newhall, California, USA"]	34.3798765	-118.5291917
+['"Agent Carter" (2015) {Time and Tide (#1.3)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Agent Carter" (2015) {Valediction (#1.8)}', '', 'Hollywood Burbank Airport - 2627 North Hollywood Way, Burbank, California, USA']	34.1816482	-118.3258554
+['"Agent X" (2015)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Agents of S.H.I.E.L.D. After Show" (2015)', '', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Agnes & Estelle" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agora Escolha" (2015)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Agora a S�rio" (2015)', '', '', '', '', 'Porto, Portugal']	41.1494512	-8.6107884
+['"Agrofolie" (2015)', '', '', '', '', 'Moncton, New Brunswick, Canada']	46.097995	-64.80011
+['"Agrofolie" (2015)', '', '', '', '', 'New-Brunswick, Canada']	46.500283	-66.750183
+['"Agrofolie" (2015)', '', '', '', '', 'Kapuskasing, Ontario, Canada']	49.416667	-82.433333
+['"Air Ambulance ER" (2015)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Airport Security: Colombia" (2015)', '', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"Alesia: Ground Zero" (2015)', '', '', '', 'France']	46.603354	1.8883335
+['"Alesia: Ground Zero" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alibi Boys" (2015)', '', '', '', '', 'Naples, Florida, USA']	26.1421976	-81.7942944
+['"All Downhill from Here" (2015)', '', '', '', "Martha's Vineyard, Massachusetts, USA"]	41.3918832	-70.62085427857699
+['"All Things Connecticut" (2015)', '', '', '', 'Connecticut, USA']	41.6500201	-72.7342163
+['"All for Love: Meet The Pierres" (2015)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Allegiance" (2015)', '', '', '', '', 'Philadelphia City Hall - 1450 John F. Kennedy Blvd., Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015)', '', '', '', '', 'Comcast Center, Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015)', '', '', '', '', '30th Street Station - 3001 Market Street, Philadelphia, Pennsylvania, USA']	39.9552836	-75.1821442
+['"Allegiance" (2015)', '', '', '', '', 'Masonic Temple, Philadelphia, Pennsylvania, USA']	39.9536203	-75.16265719351644
+['"Allegiance" (2015)', '', '', '', '', 'Clinton Diner, Maspeth, Queens, New York City, New York, USA']	39.7837304	-100.4458825
+['"Allegiance" (2015) {A Convenient Place to Die (#1.10)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Blowback (#1.11)}', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Chasing Ghosts (#1.4)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Clean Hands (#1.9)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Family Crisis (#1.13)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Liars and Thieves (#1.6)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Pilot (#1.1)}', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Stranger in a Strange Land (#1.7)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Surreptitious Entry (#1.3)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Teamwork (#1.2)}', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {The Arrival (#1.8)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Allegiance" (2015) {Those Who Help Themselves (#1.12)}', 'Clinton Diner, Maspeth, Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"Allegiance" (2015) {Tipping Point (#1.5)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"All� abajo" (2015)', '', '', '', '', 'Sevilla, Sevilla, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"All� abajo: Curso d\'andal� para euskaldunos" (2015)', 'Sevilla, Sevilla, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Almost Actors" (2015)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aloha Undertakers" (2015)', '', '', '', "O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Aloha Vet" (2015)', '', '', '', '', "Kaua'i, Hawaii, USA"]	22.050466550000003	-159.55876775017003
+['"Alohas World" (2015)', '', '', '', '', 'Bali, Indonesia']	-8.3304977	115.0906401
+['"Alone" (2015)', '', '', '', '', '', 'Vancouver Island, British Columbia, Canada']	49.592949450000006	-125.70255696124094
+['"Along Came a Stranger: The Killer Complex" (2015)', 'Louisville, Kentucky, USA']	38.2542376	-85.759407
+['"Alpaso Tv" (2015)', '', '', '', '', 'Trujillo, La Libertad, Peru']	-8.1116778	-79.0287742
+['"Alphabet Boys" (2015)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Altera2" (2015)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Altijd Prijs" (2015)', '', '', '', '', 'Antwerp, Flanders, Belgium']	51.2211097	4.3997081
+['"Always Connected" (2015)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Alyssa\'s Tips for Easy Parenting" (2015)', '', 'Acworth, Georgia, USA']	34.0659329	-84.6768796
+['"Alyssa\'s Tips for Easy Parenting" (2015)', '', 'Acworth, Georgia, USA']	34.0659329	-84.6768796
+['"Ambience" (2015)', '', '', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"America Trends" (2015)', '', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"America\'s Smartest" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime" (2015)', '', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015)', '', '', '', '', 'San Marcos, Texas, USA']	29.8826436	-97.9405828
+['"American Crime" (2015)', '', '', '', '', 'Modesto, California, USA']	37.6390972	-120.9968782
+['"American Crime" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Crime" (2015) {(#3.1)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"American Crime" (2015) {(#3.2)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"American Crime" (2015) {(#3.3)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"American Crime" (2015) {(#3.4)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"American Crime" (2015) {(#3.6)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"American Crime" (2015) {Episode Eight (#1.8)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Eleven (#1.11)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Five (#1.5)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Four (#1.4)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Nine (#1.9)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode One (#1.1)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Seven (#1.7)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Six (#1.6)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Ten (#1.10)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Three (#1.3)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Episode Two (#1.2)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Crime" (2015) {Season Two: Episode Four (#2.4)}', 'Zach Theatre, 1510 Toomey Rd, Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Dream" (2015)', '', '', '', '', 'Clichy Sous Bois, France']	48.910939	2.5460722
+['"American Dream" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Fire" (2015)', '', '', '', '', 'Harrisburg, Pennsylvania, USA']	40.2663107	-76.8861122
+['"American Fire" (2015)', '', '', '', '', 'Reading, Pennsylvania, USA']	40.335345	-75.9279495
+['"American Fire" (2015)', '', '', '', '', 'Lebanon, Pennsylvania, USA']	40.375713	-76.4626118
+['"American Fire" (2015)', '', '', '', '', 'Rohrerstown, Pennsylvania, USA']	40.0529952	-76.3598083
+['"American Fire" (2015)', '', '', '', '', 'New Holland, Pennsylvania, USA']	40.1017643	-76.085227
+['"American Fire" (2015)', '', '', '', '', 'East Earl, Pennsylvania, USA']	40.1100978	-76.0327246
+['"American History TV: Integration of U.S. Capitol Page Program" (2015)', 'Abraham Lincoln Presidential Library, Springfield, Illinois, USA']	39.802249950000004	-89.64750764390894
+['"American Motor Stories" (2015)', '', '', '', 'California, USA']	39.7837304	-100.4458825
+['"American Odyssey" (2015) {Gone Elvis (#1.1)}', '', 'Massachusetts, USA']	42.3788774	-72.032366
+['"American\'t" (2015)', '', '', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"Amor de barrio" (2015)', '', '', '', '', 'Televisa San Angel, Mexico City, Distrito Federal, Mexico']	19.34476565	-99.20394733773142
+['"Amor de barrio" (2015)', '', '', '', '', 'Mexico City, Mexico']	19.4326296	-99.1331785
+['"Amor de barrio" (2015) {(#1.109)}', '', '', 'Antigua, Guatemala']	15.6356088	-89.8988087
+['"Amor de barrio" (2015) {(#1.110)}', '', '', 'Antigua, Guatemala']	15.6356088	-89.8988087
+['"Amor secreto" (2015) {Accidente de Leo (#1.1)}', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"Amores con trampa" (2015)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amores con trampa" (2015)', '', '', '', 'Televisa San Angel, Mexico City, Distrito Federal, Mexico']	19.34476565	-99.20394733773142
+['"Amores con trampa" (2015)', '', '', '', 'Huamantla, Tlaxcala, Mexico']	19.32333185	-97.91456648961159
+['"Amores con trampa" (2015)', '', '', '', 'Terrenate, Tlaxcala, Mexico']	19.480123900000002	-97.91529357229729
+['"Amy Danzig" (2015)', '', '', '', '', 'Rooty Hill, NSW, Australia']	-33.7688649	150.8411802
+['"An Argument" (2015)', '', '', '', '', 'Pittsburg, California, USA']	38.0181745	-121.8901232
+['"An Audience to Behold" (2015)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"An Klondike" (2015)', '', '', '', '', 'Connemara, County Galway, Ireland']	53.5303027	-9.878957584029806
+['"Analar ve Anneler" (2015)', '', '', '', 'Beykoz Kundura Fabrikasi, Beykoz, Istanbul, Turkey']	38.9597594	34.9249653
+['"Analar ve Anneler" (2015)', '', '', '', 'Pasabahce, Beykoz, Istanbul, Turkey']	41.1239355	29.1083151
+['"Analar ve Anneler" (2015)', '', '', '', 'Tarabya, Istanbul, Turkey']	41.137572	29.0487506
+['"Analar ve Anneler" (2015)', '', '', '', 'Kisikli, Uskudar, Istanbul, Turkey']	41.0249053	29.0175283
+['"Anarkali" (2015)', '', '', '', '', 'Brampton, Ontario, Canada']	43.6858146	-79.7599337
+['"Anarkali" (2015)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"And Then There Were None" (2015)', '', '', 'Newquay, Cornwall, England, UK']	50.4143924	-5.0751373
+['"And Then There Were None" (2015)', '', '', 'Harefield House, High Street, Harefield, London, England, UK']	51.5073219	-0.1276474
+['"And Then There Were None" (2015)', '', '', 'Mullion Island, Cornwall, England, UK']	50.416667	-4.75
+['"And Then There Were None" (2015)', '', '', 'Mullion Cove, Mullion, Cornwall, England, UK']	50.0170003	-5.2581878
+['"And Then There Were None" (2015)', '', '', 'Kynance Cove, Lizard, Cornwall, England, UK']	50.416667	-4.75
+['"And Then There Were None" (2015)', '', '', 'South Devon Railway, Devon, England, UK']	50.75	-3.75
+['"And Then There Were None" (2015) {(#1.1)}', '', 'Harefield House, High Street, Harefield, London, England, UK']	54.7023545	-3.2765753
+['"And Then There Were None" (2015) {(#1.2)}', '', 'Harefield House, High Street, Harefield, London, England, UK']	54.7023545	-3.2765753
+['"And Then There Were None" (2015) {(#1.3)}', '', 'Harefield House, High Street, Harefield, London, England, UK']	54.7023545	-3.2765753
+['"Andrija i Andjelka" (2015) {(#1.1)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.10)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.11)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.12)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.13)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.14)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.15)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.16)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.17)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.18)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.19)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.2)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.20)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.21)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.22)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.23)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.24)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.25)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.26)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.27)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.28)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.29)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.3)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.30)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.31)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.32)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.33)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.34)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.35)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.36)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.4)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.5)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.6)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.7)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.8)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andrija i Andjelka" (2015) {(#1.9)}', '', '', 'Belgrade, Serbia']	44.8178131	20.4568974
+['"Andy the Android Dick" (2015)', '', '', '', 'Fourth Dimension, Monrovia, California, USA']	39.7837304	-100.4458825
+['"Andy the Android Dick" (2015) {Stripping with Andy (#1.5)}', 'Fourth Dimension, Monrovia, California, USA']	39.7837304	-100.4458825
+['"Andy\'s Hungry Voyage" (2015)', '', '', '', 'Greece']	38.9953683	21.9877132
+['"Andy\'s Hungry Voyage" (2015)', '', '', '', 'Denmark']	55.670249	10.3333283
+['"Andy\'s Hungry Voyage" (2015)', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Ang probinsyano" (2015)', '', '', '', 'Metro Manila, Philippines']	12.7503486	122.7312101
+['"Ang probinsyano" (2015)', '', '', '', 'Hong Kong']	22.2793278	114.1628131
+['"Animals in Love" (2015) {(#1.1)}', '', '', 'Kinshasa, Democratic Republic Of Congo']	-2.9814344	23.8222636
+['"Animus" (2015)', '', '', '', '', '', 'Fredonia, New York, USA']	42.440058	-79.331711
+['"Anna and the Country" (2015)', '', '', '', 'Drenthe, Netherlands']	52.9067922	6.6368423
+['"Anno 1764" (2015)', '', '', '', '', 'Bergen, Hordaland, Norway']	60.4660419	6.125592
+['"Ano Verano: Summer Piuts" (2015)', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Another Day with You" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Antes muerta que Lichita" (2015)', '', '', 'Televisa San Angel, Mexico City, Distrito Federal, Mexico']	19.34476565	-99.20394733773142
+['"Antes muerta que Lichita" (2015)', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Anthonix Maximus" (2015)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Anti-Adults" (2015)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Anxt" (2015)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ao Vivo na V�rzea" (2015)', '', '', '', 'Recife, Pernambuco, Brazil']	-8.0641931	-34.8781517
+['"Aquarius" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015)', '', '', '', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Aquarius" (2015)', '', '', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015) {(Please Let Me Love You And) It Won\'t Be Wrong (#1.12)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015) {A Change Is Gonna Come (#1.5)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015) {A Whiter Shade of Pale (#1.6)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015) {Blackbird (#2.10)}', '', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Aquarius" (2015) {Blackbird (#2.10)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015) {Can You Take Me Back (#2.11)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Aquarius" (2015) {Can You Take Me Back (#2.11)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Cease to Resist (#1.7)}', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Everybody\'s Been Burned (#1.1)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Everybody\'s Got Something to Hide Except Me and My Monkey (#2.5)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Happiness Is a Warm Gun (#2.2)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Home Is Where You\'re Happy (#1.4)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {I Will (#2.13)}', '', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Aquarius" (2015) {I Will (#2.13)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015) {I\'m So Tired (#2.1)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015) {It\'s Alright Ma (I\'m Only Bleeding) (#1.10)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aquarius" (2015) {Mother Nature\'s Son (#2.12)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Aquarius" (2015) {Mother Nature\'s Son (#2.12)}', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Never Say Never to Always (#1.3)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Old Ego Is a Too Much Thing (#1.13)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Piggies (#2.7)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Revolution 1 (#2.4)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Revolution 9 (#2.6)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Sexy Sadie (#2.9)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Sick City (#1.8)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {The Hunter Gets Captured by the Game (#1.2)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {While My Guitar Gently Weeps (#2.8)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Why Don\'t We Do It in the Road (#2.3)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Why? (#1.9)}', '', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Aquarius" (2015) {Your Mother Should Know (#1.11)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arany�let" (2015) {A helyzethez igaz�tsd a taktik�dat (#2.2)}', 'Hungary']	47.1817585	19.5060937
+['"Arany�let" (2015) {A k�pess�g nem garancia az eredm�nyess�gre (#2.5)}', 'Hungary']	47.1817585	19.5060937
+['"Arany�let" (2015) {A sikeres �zletben mindk�t f�l gyoz (#2.4)}', 'Hungary']	47.1817585	19.5060937
+['"Arany�let" (2015) {Az okos kock�zatv�llal�s biztons�got ny�jt (#2.3)}', 'Hungary']	47.1817585	19.5060937
+['"Arany�let" (2015) {Egy nagy siker minden kudarcot ellens�lyoz (#2.7)}', 'Hungary']	47.1817585	19.5060937
+['"Arany�let" (2015) {J�l megv�lasztott c�l vezet sikerhez (#2.8)}', 'Hungary']	47.1817585	19.5060937
+['"Arany�let" (2015) {�rtsd, amit csin�lsz - csin�ld, amihez �rtesz (#2.6)}', 'Hungary']	47.1817585	19.5060937
+['"Arany�let" (2015) {�sszetett c�lok = tart�s siker (#2.1)}', 'Hungary']	47.1817585	19.5060937
+['"Archives of the Heart" (2015)', '', '', '', 'Washington DC,USA']	39.7837304	-100.4458825
+['"Ariana\'s Persian Kitchen" (2015)', '', '', 'Iran']	32.6475314	54.5643516
+['"Ariana\'s Persian Kitchen" (2015)', '', '', 'Dubai, United Arab Emirates']	25.0657	55.1713
+['"Armenian American" (2015)', '', '', '', 'Armenia']	40.7696272	44.6736646
+['"Armenian American" (2015)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Armenian American" (2015)', '', '', '', 'Yerevan, Armenia']	40.1776121	44.5125849
+['"Armenian American" (2015)', '', '', '', 'Tsitsernakaberd, Yerevan, Armenia']	40.1881744	44.4860122
+['"Armenian American" (2015) {Drunk In Gavar (#1.5)}', 'Gavar, Gegharkunik Province, Armenia']	40.3565276	45.13134729280446
+['"Armenian American" (2015) {Drunk In Gavar (#1.5)}', 'Gegharkunik Province, Armenia']	40.30526105	45.41001320000001
+['"Armenian American" (2015) {Genocide (#1.8)}', '', 'Tsitsernakaberd, Yerevan, Armenia']	40.1881744	44.4860122
+['"Armenian American" (2015) {Genocide (#1.8)}', '', 'Yerevan, Armenia']	40.1776121	44.5125849
+['"Armenian American" (2015) {Genocide (#1.8)}', '', 'Armenia']	40.7696272	44.6736646
+['"Arnion" (2015)', '', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Arnion" (2015)', '', '', '', '', '', 'Salar de Uyuni, Bolivia']	-17.0568696	-64.9912286
+['"Arnion" (2015)', '', '', '', '', '', 'Cape Town, South Africa']	-33.928992	18.417396
+['"Arnion" (2015)', '', '', '', '', '', 'S�o Paulo, Brazil']	-10.3333333	-53.2
+['"Around and About New Jersey" (2015)', '', '', 'New Jersey, USA']	40.0757384	-74.4041622
+['"Art Ninja" (2015) {Day of the Egg (#3.3)}', '', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"Art Ninja" (2015) {Day of the Egg (#3.3)}', '', 'Buxton, Derbyshire, England, UK']	53.2607853	-1.9131016
+['"Arthur & George" (2015)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Arthur & George" (2015)', '', '', '', 'Staffordshire, England, UK']	52.824694199999996	-2.0074546723348115
+['"Arthur & George" (2015) {(#1.1)}', '', '', 'Black Country Museum, Dudley, West Midlands, England, UK']	52.5050033	-1.964396123331272
+['"Arthur & George" (2015) {(#1.2)}', '', '', 'Black Country Museum, Dudley, West Midlands, England, UK']	52.5050033	-1.964396123331272
+['"Arthur & George" (2015) {(#1.2)}', '', '', 'Black Country Museum, Dudley, West Midlands, England, UK']	52.5050033	-1.964396123331272
+['"Arthur & George" (2015) {(#1.2)}', '', '', 'Chatham Historic Dockyard, Chatham, Kent, England, UK']	51.2474823	0.7105077
+['"Arthur & George" (2015) {(#1.2)}', '', '', 'Chatham Historic Dockyard, Chatham, Kent, England, UK']	51.2474823	0.7105077
+['"Arthur & George" (2015) {(#1.3)}', '', '', 'Black Country Museum, Dudley, West Midlands, England, UK']	52.5050033	-1.964396123331272
+['"Arthur & George" (2015) {(#1.3)}', '', '', 'Chatham Historic Dockyard, Chatham, Kent, England, UK']	51.2474823	0.7105077
+['"Arthur & George" (2015) {(#1.3)}', '', '', 'Chatham Historic Dockyard, Chatham, Kent, England, UK']	51.2474823	0.7105077
+['"Arthur" (2015)', '', '', '', '', '', 'Cantone Ticino, Switzerland']	45.8863324	8.9683529
+['"Artist Armory" (2015)', '', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Arts i oficis" (2015) {Cantant d\'�pera (#1.9)}', '', 'Espai Lliure, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Arts i oficis" (2015) {Escenografia (#1.5)}', '', 'La Villarroel, Barcelona, Catalonia, Spain']	41.3845152	2.1573507
+['"Arts i oficis" (2015) {Regidoria (#1.1)}', '', 'Gran Teatre del Liceu, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Arts i oficis" (2015) {Regidoria (#1.1)}', '', 'Teatre Lliure de Montju�c, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Arts in Context: Flow" (2015)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Artsnight" (2015) {Kwasi Kwarteng on Empire}', '', 'Tate Britain, Millbank, Westminster, London, England, UK']	51.5073219	-0.1276474
+['"Asfalt" (2015) {(#1.1)}', '', '', '', 'Barcelona, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Asfalt" (2015) {(#1.1)}', '', '', '', 'Amager Strandpark, Amager, Copenhagen, Denmark']	55.6547864	12.6480564
+['"Asfalt" (2015) {(#1.1)}', '', '', '', 'Nikoline Kochs Plads, Aarhus, Denmark']	56.1644172	10.222694911818085
+['"Asfalt" (2015) {(#1.2)}', '', '', '', 'Barcelona, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Asfalt" (2015) {(#1.2)}', '', '', '', 'Enghave Plads, Copenhagen, Denmark']	55.6665336	12.544431610370713
+['"Asfalt" (2015) {(#1.5)}', '', '', '', 'Amager Strandpark, Amager, Copenhagen, Denmark']	55.6547864	12.6480564
+['"Asfalt" (2015) {(#1.6)}', '', '', '', 'Enghave Plads, Copenhagen, Denmark']	55.6665336	12.544431610370713
+['"Asfalt" (2015) {(#1.6)}', '', '', '', 'Godsbanen, Aarhus, Denmark']	56.15362275	10.194199657445491
+['"Ash vs Evil Dead" (2015)', '', '', '', 'Auckland, New Zealand']	-36.852095	174.7631803
+['"Ask J" (2015)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Yeniden" (2015)', '', '', '', '', 'Turkey']	38.9597594	34.9249653
+['"Ask Zamani" (2015)', '', '', '', '', 'Mugla, Turkey']	38.9597594	34.9249653
+['"Asla Vazge�mem" (2015)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Aspire Tv" (2015)', '', '', '', '', 'Hudson, New Hampshire, USA']	42.7654433	-71.4397167
+['"Ass Drunkholes" (2015)', '', '', '', '', 'Leicester, Leicestershire, England, UK']	52.6361398	-1.1330789
+['"Assassin Banana" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Assorted Meat" (2015)', '', '', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"Asylum: The Lost Interrogations" (2015)', '', 'Belmont, North Carolina, USA']	35.2438272	-81.0377322
+['"Asylum: The Lost Interrogations" (2015) {A Death Stroke in the Family (#1.2)}', 'Old Stone Steakhouse, 23 S. Main St Belmont, North Carolina, USA']	35.242017583333336	-81.03796566666666
+['"Asylum: The Lost Interrogations" (2015) {A Different Kind of Animal (#1.5)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Asylum: The Lost Interrogations" (2015) {Gordon\'s Knot (#1.1)}', 'Old Stone Steakhouse in Belmont, North Carolina, USA']	39.7837304	-100.4458825
+['"Asylum: The Lost Interrogations" (2015) {Interview with a Damned Liar (#1.4)}', 'Old Stone Steakhouse, 23 S Main St, Belmont, North Carolina, USA']	35.2438272	-81.0377322
+['"Asylum: The Lost Interrogations" (2015) {Scar Face (#1.6)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Asylum: The Lost Interrogations" (2015) {Snakes in a Jail (#1.3)}', 'Old Stone Steakhouse, 23 S. Main St Belmont, North Carolina, USA']	35.242017583333336	-81.03796566666666
+['"Asylum: The Lost Interrogations" (2015) {The Suit and the Case (#1.7)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"At the Cabin" (2015)', '', '', '', '', 'Minnesota, USA']	45.9896587	-94.6113288
+['"At the Studio with Lauren Reeves S2 E1" (2015)', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"At the Studio with Lauren Reeves S2 E2" (2015)', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Atlanta Cheer" (2015)', '', '', '', '', 'Johns Creek, Georgia, USA']	34.0181557	-84.190196
+['"Atlantica" (2015)', '', '', '', '', 'Jerusalem, Israel']	31.5313113	34.8667654
+['"Atticus\' Activists" (2015)', '', '', '', 'Venice Beach, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"Atticus\' Activists" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Atticus\' Activists" (2015)', '', '', '', 'Pacific Palisades, Los Angeles, California, USA']	34.0424134	-118.5409551
+['"Au service de la France" (2015) {L\'Alg�rie, c\'est la France (#1.4)}', "Aux petits oignons, 11 Rue Dupont de l'Eure, 75020 Paris, France"]	48.8681656	2.3999871
+['"Au service de la France" (2015) {Plume Invisible (#1.9)}', "Aux petits oignons, 11 Rue Dupont de l'Eure, 75020 Paris, France"]	48.8681656	2.3999871
+['"Au service de la France" (2015) {Un peu de soleil (#1.3)}', "Aux petits oignons, 11 Rue Dupont de l'Eure, 75020 Paris, France"]	48.8681656	2.3999871
+['"Au service de la France" (2015) {Une Femme moderne (#1.6)}', "Aux petits oignons, 11 Rue Dupont de l'Eure, 75020 Paris, France"]	48.8681656	2.3999871
+['"Aussie Barbeque Heroes" (2015)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Austin City Limits Music Festival Live 2015" (2015)', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Avec Eric" (2015)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Avec Eric" (2015)', '', '', '', '', 'South Korea']	36.5581914	127.9408564
+['"Avec Eric" (2015)', '', '', '', '', 'Puerto Rico']	18.22141715	-66.4132818505648
+['"Awakening Eve" (2015)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Awards Buzz" (2015)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Awkward Sass" (2015)', '', '', '', '', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Awkward Sass" (2015) {Started from the Bottom (#1.1)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Awled Moufida" (2015)', '', '', '', '', 'Tunis, Tunisia']	33.8439408	9.400138
+['"Ayrilsak da Beraberiz" (2015)', '', '', '', 'Darica, Kocaeli, Turkey']	40.7574799	29.3840563
+['"Ayrilsak da Beraberiz" (2015)', '', '', '', 'Kadikoy, Istanbul, Turkey']	40.9915716	29.0270173
+['"Az po sufit!" (2015)', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Az po sufit!" (2015)', '', '', '', '', 'Gdynia, Pomorskie, Poland']	54.50383255	18.462806155884614
+['"A�ores Hoje" (2015)', '', '', '', '', 'S. Miguel, Azores, Portugal']	37.7751374	-25.622177762194116
+['"A�ores Hoje" (2015)', '', '', '', '', 'Terceira Island, Azores, Portugal']	38.72116905	-27.217595256578946
+['"A�ores Hoje" (2015)', '', '', '', '', 'Faial, Azores, Portugal']	38.57965385	-28.709645587628927
+['"B2i" (2015)', '', '', '', '', '', 'Cannes, Alpes-Maritimes, France']	43.5515198	7.0134418
+['"BET Buzz" (2015)', '', '', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"BFF: Best Friends Foundation" (2015)', '', '', 'Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BGMC Middle East Tour" (2015)', '', '', '', 'Ein Gedi, Israel']	31.4523959	35.3848241
+['"BGMC Middle East Tour" (2015)', '', '', '', 'Jerusalem, Israel']	31.778345	35.2250786
+['"BGMC Middle East Tour" (2015)', '', '', '', 'Tel Aviv, Israel']	31.5313113	34.8667654
+['"BGMC Middle East Tour" (2015)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"BNow!" (2015) {48 Film Project - My Favourite and Unique Film Festival By}', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"BRUGS: A Sketch Channel" (2015)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BTS TV Live" (2015)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"BYOB Bring Your Own Board" (2015)', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"BYOB Bring Your Own Board" (2015)', '', '', 'Laguna Beach, California, USA']	33.5426975	-117.7853665
+['"BYOB Bring Your Own Board" (2015)', '', '', 'Huntington Beach, California, USA']	33.6783336	-118.0000166
+['"Bab Ela\'mod: Damascus Gate" (2015)', '', '', 'Jerusalem, Israel and the West Bank, Palestine']	31.714621700000002	35.20088338244312
+['"Bab Ela\'mod: Damascus Gate" (2015) {Arus Kamuneh - Kamuneh\'s Wedding (#2.1)}', 'Old City, Jerusalem, Israel']	31.7782872	35.2319526
+['"Babil�nia" (2015)', '', '', '', '', 'Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Bachelor\'s Degree" (2015)', '', '', '', 'Elon College, Elon, North Carolina, USA']	36.1070798	-79.5058563
+['"Baciato dal sole" (2015) {(#1.1)}', '', '', 'Studios, Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Baciato dal sole" (2015) {(#1.1)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.70544	15.967657
+['"Baciato dal sole" (2015) {(#1.1)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Baciato dal sole" (2015) {(#1.10)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.10)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.50281055	15.452899609627726
+['"Baciato dal sole" (2015) {(#1.10)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Baciato dal sole" (2015) {(#1.11)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.11)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.70544	15.967657
+['"Baciato dal sole" (2015) {(#1.11)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.50281055	15.452899609627726
+['"Baciato dal sole" (2015) {(#1.12)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.12)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.70544	15.967657
+['"Baciato dal sole" (2015) {(#1.12)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.50281055	15.452899609627726
+['"Baciato dal sole" (2015) {(#1.2)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.2)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.70544	15.967657
+['"Baciato dal sole" (2015) {(#1.2)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Baciato dal sole" (2015) {(#1.3)}', '', '', 'Studios, Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Baciato dal sole" (2015) {(#1.3)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.70544	15.967657
+['"Baciato dal sole" (2015) {(#1.3)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Baciato dal sole" (2015) {(#1.4)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.4)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.50281055	15.452899609627726
+['"Baciato dal sole" (2015) {(#1.4)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Baciato dal sole" (2015) {(#1.5)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.5)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.50281055	15.452899609627726
+['"Baciato dal sole" (2015) {(#1.5)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Baciato dal sole" (2015) {(#1.6)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.6)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.70544	15.967657
+['"Baciato dal sole" (2015) {(#1.6)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.50281055	15.452899609627726
+['"Baciato dal sole" (2015) {(#1.7)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.7)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.70544	15.967657
+['"Baciato dal sole" (2015) {(#1.7)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Baciato dal sole" (2015) {(#1.8)}', '', '', 'Studios, Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Baciato dal sole" (2015) {(#1.8)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.70544	15.967657
+['"Baciato dal sole" (2015) {(#1.8)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Baciato dal sole" (2015) {(#1.9)}', '', '', 'Studios, Rome, Lazio, Italy']	41.89559	12.4788541
+['"Baciato dal sole" (2015) {(#1.9)}', '', '', "Monte Sant'Angelo, Foggia, Apulia, Italy"]	41.50281055	15.452899609627726
+['"Baciato dal sole" (2015) {(#1.9)}', '', '', 'Manfredonia, Foggia, Apulia, Italy']	41.6254728	15.9095926
+['"Back Flip" (2015)', '', '', '', '', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"Backseat Driver" (2015)', '', '', '', '30 Northern Blvd, Long Island City, New York City, New York, USA']	40.7127281	-74.0060152
+['"Backstrom" (2015)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Backstrom" (2015)', '', '', '', '', 'Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"Backstrom" (2015)', '', '', '', '', 'Allied Shipyard, North Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Backstrom" (2015)', '', '', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"Backstrom" (2015) {Takes One to Know One (#1.3)}', 'Chan Centre for the Performing Arts, University of British Columbia, 6265 Crescent Road, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Bad Dates" (2015)', '', '', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"Bad Game Sunday!" (2015)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Bad Heroes" (2015)', '', '', '', '', 'Tampere, Finland']	61.4980214	23.7603118
+['"Bad Trip" (2015)', '', '', '', '', 'York, North Yorkshire, England, UK']	53.9590555	-1.0815361
+['"Badlands, Texas" (2015) {A Killing (#1.2)}', '', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {A Killing (#1.2)}', '', 'Brewster County, Texas, USA']	29.8462742	-103.2400734
+['"Badlands, Texas" (2015) {A Killing (#1.2)}', '', 'Brewster County, Texas, USA']	29.8462742	-103.2400734
+['"Badlands, Texas" (2015) {A Killing (#1.2)}', '', 'Study Butte, Texas, USA']	29.3213086	-103.5293499
+['"Badlands, Texas" (2015) {A Killing (#1.2)}', '', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {Answers & Anger (#1.6)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {Answers & Anger (#1.6)}', 'Sierra Blanca, Texas, USA']	31.1778312	-105.3576272
+['"Badlands, Texas" (2015) {Answers & Anger (#1.6)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {Answers & Anger (#1.6)}', 'Marfa, Texas, USA']	30.3134964	-104.0217161
+['"Badlands, Texas" (2015) {Answers & Anger (#1.6)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {Answers & Anger (#1.6)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {Answers & Anger (#1.6)}', 'Brewster County, Texas, USA']	29.8462742	-103.2400734
+['"Badlands, Texas" (2015) {Answers & Anger (#1.6)}', 'Sierra Blanca, Texas, USA']	31.1778312	-105.3576272
+['"Badlands, Texas" (2015) {End of the Road (#1.1)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {End of the Road (#1.1)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {End of the Road (#1.1)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {End of the Road (#1.1)}', 'Study Butte, Texas, USA']	29.3213086	-103.5293499
+['"Badlands, Texas" (2015) {End of the Road (#1.1)}', 'Fort Davis, Texas, USA']	30.5891919	-103.8947154
+['"Badlands, Texas" (2015) {Jurors Tell All (#1.7)}', 'Sierra Blanca, Texas, USA']	31.1778312	-105.3576272
+['"Badlands, Texas" (2015) {Jurors Tell All (#1.7)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {Jurors Tell All (#1.7)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {Jurors Tell All (#1.7)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {Jurors Tell All (#1.7)}', 'Alpine, Texas, USA']	30.3573802	-103.6609367
+['"Badlands, Texas" (2015) {Jurors Tell All (#1.7)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Interrogation (#1.3)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Interrogation (#1.3)}', 'Marfa, Texas, USA']	30.3134964	-104.0217161
+['"Badlands, Texas" (2015) {The Interrogation (#1.3)}', 'Sierra Blanca, Texas, USA']	31.1778312	-105.3576272
+['"Badlands, Texas" (2015) {The Interrogation (#1.3)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Interrogation (#1.3)}', 'Del Rio, Texas, USA']	29.3655405	-100.8946984
+['"Badlands, Texas" (2015) {The Interrogation (#1.3)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Sierra Blanca, Texas, USA']	31.1778312	-105.3576272
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Alpine, Texas, USA']	30.3573802	-103.6609367
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Brewster County, Texas, USA']	29.8462742	-103.2400734
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Road Ahead (#1.8)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Trial (#1.4)}', '', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Trial (#1.4)}', '', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Trial (#1.4)}', '', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Verdict (#1.5)}', '', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Badlands, Texas" (2015) {The Verdict (#1.5)}', '', 'Marfa, Texas, USA']	30.3134964	-104.0217161
+['"Badlands, Texas" (2015) {The Verdict (#1.5)}', '', 'Sierra Blanca, Texas, USA']	31.1778312	-105.3576272
+['"Badlands, Texas" (2015) {The Verdict (#1.5)}', '', 'Alpine, Texas, USA']	30.3573802	-103.6609367
+['"Badlands, Texas" (2015) {The Verdict (#1.5)}', '', 'Brewster County, Texas, USA']	29.8462742	-103.2400734
+['"Baggage on the Road" (2015)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Baggage on the Road" (2015)', '', '', '', 'Baton Rouge, Louisiana, USA']	30.4459596	-91.18738
+['"Baggage on the Road" (2015)', '', '', '', 'Mansfield, Connecticut, USA']	41.7754814	-72.2148133
+['"Bahama Blue" (2015)', '', '', '', '', 'Bahamas']	24.7736546	-78.0000547
+['"Baked" (2015)', '', '', '', '', '', 'New Delhi, India']	28.6141793	77.2022662
+['"Baker Street" (2015)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Baking Good, Baking Bad" (2015)', '', '', 'Paris, France']	46.603354	1.8883335
+['"Baking It on Broadway!" (2015)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Balancing Act: Portraits of the Modern Family" (2015)', 'Calgary, Alberta, Canada']	51.0534234	-114.0625892
+['"Balancing Act: Portraits of the Modern Family" (2015)', 'Edmonton, Alberta, Canada']	53.535411	-113.507996
+['"Ball Up" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ballers" (2015)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Ballers" (2015)', '', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {Alley-Oops (#3.8)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {Bull Rush (#3.2)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {Crackback (#3.9)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {I Hate New York (#3.6)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {In the Teeth (#3.3)}', '', '', 'Marina del Rey Hotel - 13534 Bali Way, Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Ballers" (2015) {In the Teeth (#3.3)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {Machete Charge (#1.5)}', '', 'Lamborghini, Miami, Florida, USA']	25.7742658	-80.1936589
+['"Ballers" (2015) {Make Believe (#3.5)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {Ricky-Leaks (#3.7)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {Ride and Die (#3.4)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {Seeds of Expansion (#3.1)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Ballers" (2015) {Seeds of Expansion (#3.1)}', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Ballers" (2015) {Seeds of Expansion (#3.1)}', '', 'Oakland, California, USA']	37.8044557	-122.2713563
+['"Ballers" (2015) {Yay Area (#3.10)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Balls" (2015)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Banana Sundae" (2015)', '', '', '', '', 'Studio 2, ABS-CBN Broadcasting Center, Diliman, Quezon City, Philippines']	14.6495832	121.05965
+['"Bandittes" (2015)', '', '', '', '', 'Washington, DC, USA']	38.8948932	-77.0365529
+['"Banished" (2015)', '', '', '', '', 'Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"Banished" (2015)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Bankroll Squad" (2015)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Brigadeiro (#1.9)}', 'Porto Alegre, Rio Grande do Sul, Brazil']	-30.0324999	-51.2303767
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Churrasco (#1.10)}', 'Barra do Ribeiro, Rio Grande do Sul, Brazil']	-30.2930206	-51.301437
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Empanadas (#1.4)}', 'Pinto Bandeira, Brazil']	-29.0977191	-51.4498258
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Maqluba (#1.2)}', 'Ven�ncio Aires, Brazil']	-10.3333333	-53.2
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Massa Caseira (#1.3)}', 'Morro do C�u, Cotipor�, Brazil']	-10.3333333	-53.2
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Pizza (#1.12)}', 'Xangri-l�, Rio Grande do Sul, Brazil']	-10.3333333	-53.2
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Quindim (#1.6)}', 'Pelotas, Rio Grande do Sul, Brazil']	-31.7699736	-52.3410161
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Receitas Natalinas (#1.5)}', 'Viam�o, Rio Grande do Sul, Brazil']	-10.3333333	-53.2
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Sopa de Tsampa (#1.7)}', 'Tr�s Coroas, Brazil']	-10.3333333	-53.2
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Torta de Lim�o (#1.11)}', 'Atl�ntida, Rio Grande do Sul, Brazil']	-10.3333333	-53.2
+['"Banquete: Experi�ncias Gastron�micas" (2015) {Trufa (#1.13)}', 'S�o Sebasti�o do Ca�, Rio Grande do Sul, Brazil']	-10.3333333	-53.2
+['"Banterflix" (2015)', '', '', '', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Barinia: Food and People of the Mediterranean" (2015)', 'Chioggia, Venice, Veneto, Italy']	45.4759144	12.2139418
+['"Barinia: Food and People of the Mediterranean" (2015)', 'Venice, Veneto, Italy']	45.4371908	12.3345898
+['"Barinia: Food and People of the Mediterranean" (2015)', 'Antalya, Turkey']	36.9279654	30.7276865
+['"Barinia: Food and People of the Mediterranean" (2015)', 'Aegean Islands, Greece']	38.8195713	20.7025807
+['"Barinia: Food and People of the Mediterranean" (2015)', 'Rhodes, Greece']	38.9953683	21.9877132
+['"Barinia: Food and People of the Mediterranean" (2015)', 'Sicily, Italy']	37.587794	14.155048
+['"Barinia: Food and People of the Mediterranean" (2015)', 'Ligurian Coast, Italy']	42.6384261	12.674297
+['"Base" (2015)', '', '', '', '', '', 'Fort Lauderdale, Florida, USA']	26.1223084	-80.1433786
+['"Batalha dos Confeiteiros Brasil" (2015)', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"Battle Creek" (2015)', '', '', '', '', 'MBS Media Campus - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Battle Creek" (2015) {Cereal Killer (#1.6)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Battle Creek" (2015) {Gingerbread Man (#1.9)}', '', 'St. Johns Bridge, Portland, Oregon, USA']	45.58519415	-122.76453736557794
+['"Battle Creek" (2015) {Heirlooms (#1.4)}', '', 'South Pasadena, California, USA']	34.1133062	-118.1478291
+['"Battle Creek" (2015) {Old Flames (#1.5)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Battle Creek" (2015) {The Battle Creek Way (#1.1)}', 'San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Battle Creek" (2015) {The Battle Creek Way (#1.1)}', 'Highland Park, Los Angeles, California, USA']	34.1099469	-118.1969828
+['"BattleBots" (2015) {Full Metal Bracket: Round of 16 Part 1 (#1.3)}', 'LA Hangar Studios Studio A Los Angeles, California, USA']	39.7837304	-100.4458825
+['"BattleBots" (2015) {Last Chance to Advance: Round of 16 Part 2 (#1.4)}', 'LA Hangar Studios Studio A Los Angeles, California, USA']	39.7837304	-100.4458825
+['"BattleBots" (2015) {Not So Sweet 16: The Round of 16 Part 1 (#2.6)}', 'LA Hangar Studios Studio A Los Angeles, California, USA']	39.7837304	-100.4458825
+['"BattleBots" (2015) {Rise of the Machines: The Round of 16 Part 2 (#2.7)}', 'LA Hangar Studios Studio A Los Angeles, California, USA']	39.7837304	-100.4458825
+['"BattleBots" (2015) {The Battle Begins: Qualifying Round Part 1 (#1.1)}', 'LA Hangar Studios Studio A Los Angeles, California, USA']	39.7837304	-100.4458825
+['"BattleBots" (2015) {We\'re Gonna Need a Bigger Bracket: The Round of 32 Part 1 (#2.3)}', 'LA Hangar Studios Studio A Los Angeles, California, USA']	39.7837304	-100.4458825
+['"BattleFrog College Championship" (2015) {Opening Round (#2.1)}', 'Georgia']	32.3293809	-83.1137366
+['"BattleFrog College Championship" (2015) {Quarterfinals (#2.2)}', 'Georgia']	32.3293809	-83.1137366
+['"Bay on Baes" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bean and Shivs" (2015)', '', '', '', '', 'St. Charles, Missouri, USA']	38.7877791	-90.6747372
+['"Bean and Shivs" (2015)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bear Grylls: Mission Survive" (2015)', '', '', 'Costa Rica']	10.2735633	-84.0739102
+['"Beautiful Fools" (2015)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beautiful Fools" (2015) {Aristophanes (#1.9)}', '', 'Covina, California, USA']	34.1024	-117.85486499999999
+['"Beautiful Fools" (2015) {Perfect Drunk (#1.1)}', '', 'Covina, California, USA']	34.1024	-117.85486499999999
+['"Becoming Us" (2015) {Welcome to My World (#1.1)}', 'Avail and Company, Evanston, Illinois, USA']	42.0469208	-87.6872562
+['"Bedfellas" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beer Grylls University Survivor" (2015)', '', 'Sunderland, Tyne & Wear, England, UK']	54.9058512	-1.3828727
+['"Beer Grylls University Survivor" (2015)', '', 'Newcastle, County Down, Northern Ireland, UK']	54.2118323	-5.8897216
+['"Beer Grylls University Survivor" (2015)', '', 'Cork, Ireland']	52.865196	-7.9794599
+['"Beer Grylls University Survivor" (2015) {University Survivor Cork (#1.3)}', 'Cork, Ireland']	52.865196	-7.9794599
+['"Beer Grylls University Survivor" (2015) {University Survivor Sunderland (#1.2)}', 'Sunderland, Tyne & Wear, England, UK']	54.9058512	-1.3828727
+['"Bees in the Trap" (2015)', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Bees in the Trap" (2015)', '', '', '', "Wuxi County, Chongqing, People's Republic of China"]	31.505926	109.344843
+['"Bees in the Trap" (2015)', '', '', '', 'India']	22.3511148	78.6677428
+['"Behind Bars: Rookie Year" (2015)', '', '', 'Penitentiary of New Mexico, Santa Fe County, New Mexico, USA']	35.4859674	-106.0135507
+['"Behind Closed Doors" (2015)', '', '', '', 'Thirlestane Castle, Lauder, Berwickshire, Scotland, UK']	55.75	-2.5
+['"Behind Closed Doors" (2015)', '', '', '', 'Naworth Castle, Brampton, Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"Behind Closed Doors" (2015)', '', '', '', 'The Castle, Castle Eden, Hartlepool, England, UK']	54.7320036	-1.3442544
+['"Behind Closed Doors" (2015)', '', '', '', 'Capheaton Hall, Capheaton, Newcastle upon Tyne, England, UK']	54.9738474	-1.6131572
+['"Behind Closed Doors" (2015)', '', '', '', 'Bamburgh Castle, Bamburgh, Northumberland, England, UK']	55.25	-2.000559
+['"Behind the Cine" (2015)', '', '', '', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Abstergo Agents Interview (#1.13)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Assassin\'s Creed Hidden Blade (#1.9)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Assassin\'s Creed Renegade Director Interview (#1.15)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Buzzed (#1.2)}', '', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Emily Alsdorf (Anna) Interview (#1.14)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {How to Make Slime (#1.5)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Lifestyles of the Apocalypse/Last Job (#1.7)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {May the 4th Be with You (#1.6)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Mutant Championship Fight (#1.8)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Pupa (#1.10)}', '', '', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {Pupa (#1.10)}', '', '', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {The Great Cat-Tastrophe (#1.3)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {The Great Kentucky Goblin Spree (#1.1)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Cine" (2015) {The Return of Sparrow Man (#1.4)}', 'Augusta, Georgia, USA']	33.4709714	-81.9748429
+['"Behind the Screams" (2015) {Alien Invasion (#1.6)}', 'Franklin Canyon, Martinez, California, USA']	37.989354	-122.1296122
+['"Behind the Screams" (2015) {Alien Invasion (#1.6)}', 'Contra Costa Juvenile Detention Facility, Martinez, California, USA']	38.0138934	-122.1338674
+['"Behind the Sign" (2015)', '', '', '', 'Redding, California, USA']	40.5863563	-122.3916754
+['"Being Fabulous Rocks! T.V. Show" (2015)', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Being" (2015) {Remy Ma (#5.12)}', '', '', 'Washington, DC, USA']	38.8948932	-77.0365529
+['"Being" (2015) {Sheryl Lee Ralph (#5.11)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bella and the Bulldogs" (2015)', '', '', '', 'Nickelodeon on Sunset - 6230 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ben and David" (2015)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Benders" (2015) {California Here We Come (#1.8)}', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Benders" (2015) {California Here We Come (#1.8)}', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Benders" (2015) {Choke (#1.1)}', '', '', '', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Benders" (2015) {Choke (#1.1)}', '', '', '', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Benders" (2015) {Fight Club (#1.4)}', '', '', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Benders" (2015) {Fight Club (#1.4)}', '', '', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Benders" (2015) {Nice Day for a Boat Ride (#1.7)}', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Benders" (2015) {Nice Day for a Boat Ride (#1.7)}', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Benders" (2015) {Prodigal Son (#1.3)}', '', '', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Benders" (2015) {Prodigal Son (#1.3)}', '', '', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Benders" (2015) {Secrets and Lies (#1.6)}', '', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Benders" (2015) {Secrets and Lies (#1.6)}', '', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Benders" (2015) {The Sport of Kings (#1.5)}', '', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Benders" (2015) {The Sport of Kings (#1.5)}', '', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Benders" (2015) {Wake \'Em Up (#1.2)}', '', '', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Benders" (2015) {Wake \'Em Up (#1.2)}', '', '', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Berg & Meltzer i Europa" (2015) {Berg & Meltzer intar Paris (#1.1)}', 'Paris, France']	46.603354	1.8883335
+['"Berg & Meltzer i Europa" (2015) {H�gtflygande planer (#1.5)}', 'Egremont, Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"Berg & Meltzer i Europa" (2015) {Tomatkriget i Bunol (#1.4)}', 'Bu�ol, Valencia, Comunidad Valenciana, Spain']	39.3262345	-4.8380649
+['"Bernie" (2015)', '', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bes Kardes" (2015) {(#1.7)}', '', '', '', 'G�ztepe, Istanbul, Turkey']	38.9597594	34.9249653
+['"Bes Kardes" (2015) {(#1.7)}', '', '', '', 'Yali Mahallesi, Kartal, Istanbul, Turkey']	40.8884921	29.1896017
+['"Bes Kardes" (2015) {(#1.7)}', '', '', '', 'Havacilar Sitesi, Maltepe, Istanbul, Turkey']	40.9235417	29.1328359
+['"Bespoke" (2015/I)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Bespoke" (2015/I)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Best in Social" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of VICE Canada" (2015) {B.C. Is Burning (#1.14)}', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"Beth and Charly" (2015)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Better Call Saul" (2015)', '', '', '', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015)', '', '', '', 'Cottonwood Mall, 10000 Coors Blvd Bypass NW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015)', '', '', '', 'Albuquerque Studios - 5650 University Boulevard SE, Albuquerque, New Mexico, USA']	34.989626099999995	-106.61274074444478
+['"Better Call Saul" (2015)', '', '', '', '1520 Tejana Mesa Pl NE, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015)', '', '', '', '1607 San Cristobal Rd SW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015)', '', '', '', "Loyola's Family Restaurant, 4500 Central Avenue SE, Albuquerque, New Mexico, USA"]	39.7837304	-100.4458825
+['"Better Call Saul" (2015)', '', '', '', '102 Marquette Ave NE, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Bali Ha\'i (#2.6)}', '', '330 Tijeras Ave NW, Albuquerque, New Mexico, USA']	35.0860946	-106.65072519477812
+['"Better Call Saul" (2015) {Bali Ha\'i (#2.6)}', '', 'Hotel Blue, 717 Central Ave NW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Bali Ha\'i (#2.6)}', '', 'The Mix at Sawmill Village Apts, 1751 Bellamah Ave NW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Bali Ha\'i (#2.6)}', '', '204 Edith Blvd. NE, Albuquerque, New Mexico, USA']	35.08447283673469	-106.64185797959185
+['"Better Call Saul" (2015) {Bali Ha\'i (#2.6)}', '', 'El Griego Guinador, Paleteria Michoacana, 6500 Zuni Road SE, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Bali Ha\'i (#2.6)}', '', 'Firestone Complete Auto Care, 701 Central Ave NW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Chicanery (#3.5)}', '', 'Rio Bravo Veterinary Hospital, 240 Rio Bravo Blvd SE, Albuquerque, New Mexico, USA']	39.7837304	-100.4458825
+['"Better Call Saul" (2015) {Cobbler (#2.2)}', '', '6611 Zuni Rd SE, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Fall (#3.9)}', '', '', 'Coronado Mall, 6600 Menaul Blvd NE, Albuquerque, NM, USA']	39.7837304	-100.4458825
+['"Better Call Saul" (2015) {Fall (#3.9)}', '', '', 'Bingo Pavilion, Ballut Abyad Shrine, 6600 Zuni Rd. SE, Albuquerque, New Mexico, USA']	39.7837304	-100.4458825
+['"Better Call Saul" (2015) {Fall (#3.9)}', '', '', '5793 Bobby Foster Rd, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Fifi (#2.8)}', '', '', '1216 Central Ave. SW, Albuquerque, New Mexico, USA']	35.087664	-106.66103058695653
+['"Better Call Saul" (2015) {Fifi (#2.8)}', '', '', 'Valliant Printing, 615 Gold Ave SW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Fifi (#2.8)}', '', '', 'Double Eagle Airport, 7401 Paseo Del Volcan Northwest, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Five-O (#1.6)}', '', '204 Edith Blvd. NE, Albuquerque, New Mexico, USA']	35.08447283673469	-106.64185797959185
+['"Better Call Saul" (2015) {Five-O (#1.6)}', '', 'Two Fools Tavern, 3211 Central Ave NE, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Gloves Off (#2.4)}', '', '204 Edith Blvd. NE, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Gloves Off (#2.4)}', '', 'El Michoacana Restaurant, 2511 Isleta Blvd. SW, Albuquerque, New Mexico, USA']	39.7837304	-100.4458825
+['"Better Call Saul" (2015) {Inflatable (#2.7)}', '', '7715 Central Ave. NE. Albuquerque, New Mexico, USA']	35.075159	-106.56128957142857
+['"Better Call Saul" (2015) {Inflatable (#2.7)}', '', '8613 La Sala Del Centro NE, Albuquerque, New Mexico, USA']	35.121648430853	-106.54764478237519
+['"Better Call Saul" (2015) {Inflatable (#2.7)}', '', '400 Gold Ave. SW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Inflatable (#2.7)}', '', 'Bank of America, 303 Roma NW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Inflatable (#2.7)}', '', "J & D's Little Store, 5117 Second St., Albuquerque, New Mexico, USA"]	39.7837304	-100.4458825
+['"Better Call Saul" (2015) {Mijo (#1.2)}', '', '', '12204 Manitoba Dr NE, Albuquerque, New Mexico, USA']	35.13696742962496	-106.50374125264774
+['"Better Call Saul" (2015) {Nailed (#2.9)}', '', "Louie's Pub & Grill, 5603 Menaul Blvd NE, Albuquerque, New Mexico, USA"]	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Nailed (#2.9)}', '', "Loyola's Family Restaurant, 4500 Central Avenue SE, Albuquerque, New Mexico, USA"]	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Off Brand (#3.6)}', '', "Skip Maisel's Indian Jewelry and Crafts, 510 Central SW, Albuquerque, NM, USA"]	35.0846261	-106.6533487
+['"Better Call Saul" (2015) {Slip (#3.8)}', '', '', "Allen's Automotive Inc., 12236 Central Ave SE, Albuquerque, New Mexico, USA"]	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Slip (#3.8)}', '', '', 'Triangle Grocery and Meat Market, 12165 NM Hwy 14, Cedar Crest, New Mexico, USA']	35.1101535	-106.38111976943165
+['"Better Call Saul" (2015) {Switch (#2.1)}', '', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Switch (#2.1)}', '', 'Special Collections Library, 423 Central Ave. NE, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Switch (#2.1)}', '', '7729 Robin Ave. NE, Albuquerque, New Mexico, USA']	35.098496714285716	-106.558725
+['"Better Call Saul" (2015) {Uno (#1.1)}', '', '', 'Los Altos Skate Park 10140 Lomas Blvd NE Albuquerque, New Mexico, USA']	35.086920649999996	-106.53838869129967
+['"Better Call Saul" (2015) {Uno (#1.1)}', '', '', 'Day Spa and Nail, 160 Juan Tabo Blvd NE, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Uno (#1.1)}', '', '', 'Cottonwood Mall, 10000 Coors Blvd Bypass NW, Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Uno (#1.1)}', '', '', "Loyola's Family Restaurant, 4500 Central Avenue SE, Albuquerque, New Mexico, USA"]	35.0841034	-106.6509851
+['"Better Call Saul" (2015) {Uno (#1.1)}', '', '', '1607 San Cristobal Rd SW, Albuquerque, New Mexico, USA']	35.088420345634304	-106.66617792549778
+['"Betterthandead" (2015) {The Walk (#1.3)}', '', 'Joshua Tree, California, USA']	34.1265262	-116.32093491214893
+['"Bettys Diagnose" (2015)', '', '', '', 'Klinikum Leverkusen, Paracelsusstrasse, Leverkusen, North Rhine-Westphalia, Germany']	51.0324743	6.9881194
+['"Bettys Diagnose" (2015) {Quarant�ne (#2.9)}', '', 'Aachen, North Rhine-Westphalia, Germany']	50.776351	6.083862
+['"Bettys Diagnose" (2015) {Quarant�ne (#2.9)}', '', 'Leverkusen, North Rhine-Westphalia, Germany']	51.0324743	6.9881194
+['"Bettys Diagnose" (2015) {Wunschkind (#2.10)}', '', 'Aachen, North Rhine-Westphalia, Germany']	50.776351	6.083862
+['"Bettys Diagnose" (2015) {Wunschkind (#2.10)}', '', 'Leverkusen, North Rhine-Westphalia, Germany']	51.0324743	6.9881194
+['"Between" (2015)', '', '', '', '', 'Cambridge, Ontario, Canada']	43.0138142	-79.2024786
+['"Between" (2015)', '', '', '', '', 'Cinespace Film Studios, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Between" (2015) {Crossing Lines (#1.3)}', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Between" (2015) {End of the Rope (#1.5)}', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Between" (2015) {Love Hurts (#1.4)}', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Between" (2015) {School\'s Out (#1.1)}', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Between" (2015) {War (#1.6)}', '', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Between" (2015) {Who\'s the Boss? (#1.2)}', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Beulreodeu" (2015)', '', '', '', '', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Beulreodeu" (2015)', '', '', '', '', 'Romania']	45.9852129	24.6859225
+['"Bevergem" (2015)', '', '', '', '', 'Zwevegem, Belgium']	50.803783	3.3417575596737397
+['"Bevergem" (2015)', '', '', '', '', 'Kooigem, Belgium']	50.74625315	3.3260553606143892
+['"Beverly Hills Royal" (2015)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills Royal" (2015)', '', '', '', 'Monte Carlo, Monaco']	43.7402961	7.426559
+['"Beverly Hills Royal" (2015)', '', '', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"Beyond A.D." (2015)', '', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Beyond A.D." (2015)', '', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Beyond A.D." (2015) {Week 1 (#1.1)}', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Beyond Bitchin\' Rides" (2015)', '', '', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Beyond the Breaker: Documentary Series" (2015) {A Breaker Falls (#1.8)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {Black Meets Green (#1.7)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {Black Meets Green (#1.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beyond the Breaker: Documentary Series" (2015) {Black Meets Green (#1.7)}', 'Philadelphia, Pennsylvania, USA']	39.7837304	-100.4458825
+['"Beyond the Breaker: Documentary Series" (2015) {Hometown (#1.2)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Beyond the Breaker: Documentary Series" (2015) {In This Corner (#1.3)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {Into Memory (#1.10)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {Iron Water (#1.5)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {Iron Water (#1.5)}', 'Shamokin, Pennsylvania, USA']	40.7887609	-76.5585175
+['"Beyond the Breaker: Documentary Series" (2015) {Sacred Ground (#1.4)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {Scarred (#1.6)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {Scarred (#1.6)}', 'Shamokin, Pennsylvania, USA']	40.7887609	-76.5585175
+['"Beyond the Breaker: Documentary Series" (2015) {The Way of Coal (#1.1)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {The Way of Coal (#1.1)}', 'Scranton, Pennsylvania, USA']	41.4086874	-75.6621294
+['"Beyond the Breaker: Documentary Series" (2015) {Transformed (#1.9)}', 'Ashley, Pennsylvania, USA']	41.2119643	-75.9005283
+['"Beyond the Breaker: Documentary Series" (2015) {Transformed (#1.9)}', 'Shamokin, Pennsylvania, USA']	40.7887609	-76.5585175
+['"Beyond the Red City" (2015)', '', '', '', 'San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"Beyond the Red City" (2015) {The Other (#1.2)}', '', 'Texas A&M University - One University Way, San Antonio, Texas, USA']	39.7837304	-100.4458825
+['"Beyond the Red City" (2015) {Your Stars Need You (#1.1)}', 'Mission Espada, 10040 Espada Rd, San Antonio, Texas, USA']	39.7837304	-100.4458825
+['"Bi D�nya Sov" (2015)', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Biais" (2015)', '', '', '', '', '', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb Antoinette e Georges, en pa�s Montalban�s (#2.1)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb Francis, al n�rd de Tolosa (#2.4)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb H�l�ne e la Bajeleta, en Tarn e Garona (#2.2)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb Jacques, dins lo Carcin Blanc (#2.3)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb l\'Aline, dins los monts de La Cauna (#1.14)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb la Josette, en nauta valada d\'Aube (#1.1)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb la Ren�e, lo long de Bargalona (#2.5)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb lo Christian, dins la Boriana (#1.19)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb lo Guilhem e lo Dominique, pel Causse de Gramat (#1.13)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb lo Jacques, dins lo Vilafrancat en Roergue (#1.17)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb lo Jean-Louis, dins lo causse de Sauvat�rra (#1.18)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb lo Ren�, al n�rd de Tolosa (#1.20)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Amb �liette e Olivier, dins lo Segalar (#2.8)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Coma lo Leo, en Peirig�rd (#1.5)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Dab la Jacmelina, en Lomanha (#2.9)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Dab la Louisette, en Pa�s T�i (#1.16)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Dab la Lucienne, en l\'arrib�ra deu gave d\'Auloron (#1.2)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Dab lo Henri de Lias, enas Baronias (#2.6)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Biais" (2015) {Dab lo Jean-Marie, en Big�rra (#2.7)}', 'Occitanie, France']	43.6487851	2.3435684
+['"Big Bang" (2015)', '', '', '', '', 'Bj�rnstjerne Bj�rnsons plass 1, Oslo, Norway']	60.5000209	9.0999715
+['"Big Breakin\'" (2015)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big Brother Coundown" (2015)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Big Crazy Family Adventure" (2015)', '', '', 'India']	22.3511148	78.6677428
+['"Big Crazy Family Adventure" (2015)', '', '', 'China']	35.000074	104.999927
+['"Big Crazy Family Adventure" (2015)', '', '', 'Lhasa, Tibet, China']	29.6553895	91.1704736
+['"Big Crazy Family Adventure" (2015)', '', '', 'Nepal']	28.1083929	84.0917139
+['"Big Crazy Family Adventure" (2015)', '', '', 'South Korea']	36.638392	127.6961188
+['"Big Crazy Family Adventure" (2015)', '', '', 'Canada']	61.0666922	-107.9917071
+['"Big Giant Swords" (2015)', '', '', '', "Martha's Vineyard, Massachusetts, USA"]	41.3918832	-70.62085427857699
+['"Big Metal Bird" (2015)', '', '', '', '', 'Newark, New Jersey, USA']	40.735657	-74.1723667
+['"Big Metal Bird" (2015)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Big Red: The Original Outlaw Racer" (2015)', '', 'Ely, Nevada, USA']	39.2469354	-114.8951016
+['"Big Red: The Original Outlaw Racer" (2015)', '', 'Mojave, California, USA']	35.01096025	-118.19028326663798
+['"Big Red: The Original Outlaw Racer" (2015)', '', 'Virginia City, Nevada, USA']	39.3108133	-119.6495173
+['"Big Red: The Original Outlaw Racer" (2015)', '', 'Bonneville Salt Flats, Utah, USA']	40.740006	-113.6815662
+['"Big Red: The Original Outlaw Racer" (2015)', '', 'El Mirage, California, USA']	34.6022132	-117.6311675
+['"Bikini Body Conscious Living" (2015)', '', '', 'Flagstaff, Arizona, USA']	35.1987522	-111.6518229
+['"Bikini Body Conscious Living" (2015)', '', '', 'Mesa, Arizona, USA']	33.4151117	-111.8314773
+['"Bikini Body Conscious Living" (2015)', '', '', 'Scottsdale, Arizona, USA']	33.4942189	-111.9260184
+['"Bikini Body Conscious Living" (2015)', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"Bikini Body Conscious Living" (2015)', '', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bikini Body Conscious Living" (2015)', '', '', 'Irvine, California, USA']	33.6856969	-117.8259819
+['"Bikini Body Conscious Living" (2015)', '', '', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"Bikini Body Conscious Living" (2015)', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Bilbainadas" (2015/I) {AUPA (#1.7)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {Afro-Vasco-Americano (#1.8)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {Chanquete\'s F.R.I.E.N.D.S (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {El Casting (#1.6)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {El Comunicado (#1.13)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {El Klub de la Komedia (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {El Puente Colgante (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {La Grada (#1.1)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {Persiguiendo a Obama. Part 1 (#1.9)}', 'Washington DC, USA']	39.7837304	-100.4458825
+['"Bilbainadas" (2015/I) {Persiguiendo a Obama. Part 2 (#1.10)}', 'Washington DC, USA']	39.7837304	-100.4458825
+['"Bilbainadas" (2015/I) {Persiguiendo a Obama. Part 3 (#1.11)}', 'Washington DC, USA']	39.7837304	-100.4458825
+['"Bilbainadas" (2015/I) {SuperCampeones. Parte 1 (#2.1)}', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"Bilbainadas" (2015/I) {Un viaje de Peregrinaci�n. (#1.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bilbainadas" (2015/I) {Uno de los Nuestros (#1.12)}', 'New York City, New York, USA']	40.7127281	-74.0060152

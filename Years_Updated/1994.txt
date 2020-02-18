@@ -1,0 +1,207 @@
+['"...i Hetluften" (1994)', '', '', '', '', 'Sweden']	59.6749712	14.5208584
+['"1994 Olympic Winter Games" (1994)', '', '', 'Lillehammer, Norway']	61.1333408	10.426585544131413
+['"37 Grad" (1994) {Immer am Limit}', '', '', 'Bad Hersfeld, Hessen, Germany']	50.8681341	9.7068481
+['"37 Grad" (1994) {Immer am Limit}', '', '', 'Duisburg, North Rhine-Westphalia, Germany']	51.434999	6.759562
+['"37 Grad" (1994) {Immer gut drauf - Ohne L�cheln, kein Job}', 'AWD-Arena, Hannover, Lower Saxony, Germany']	52.3600379	9.73000838304105
+['"37 Grad" (1994) {Immer gut drauf - Ohne L�cheln, kein Job}', 'Osnabr�ck, Lower Saxony, Germany']	51.0834196	10.4234469
+['"37 Grad" (1994) {Immer gut drauf - Ohne L�cheln, kein Job}', 'Rostock, Mecklenburg-Western Pomerania, Germany']	51.0834196	10.4234469
+['"37 Grad" (1994) {Kinderlos gl�cklich}', '', '', 'L�neburg, Lower Saxony, Germany']	51.0834196	10.4234469
+['"37 Grad" (1994) {Kreuzberger N�chte - Junge T�rken in Berlin}', 'Kreuzberg, Berlin, Germany']	52.4976443	13.411914
+['"37 Grad" (1994) {Kreuzberger N�chte - Junge T�rken in Berlin}', 'Berlin, Germany']	52.5170365	13.3888599
+['"37 Grad" (1994) {Kreuzberger N�chte - Junge T�rken in Berlin}', 'Germany']	51.0834196	10.4234469
+['"37 Grad" (1994) {Liebesgr��e aus Russland - Eine Braut aus dem Katalog (#1.897)}', 'Cuxhaven, Lower Saxony, Germany']	53.86878	8.698286
+['"37 Grad" (1994) {Liebesgr��e aus Russland - Eine Braut aus dem Katalog (#1.897)}', 'Northrhine-Westphalia, Germany']	51.2155477	6.7612602
+['"37 Grad" (1994) {Liebesgr��e aus Russland - Eine Braut aus dem Katalog (#1.897)}', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"37 Grad" (1994) {Liebesgr��e aus Russland - Eine Braut aus dem Katalog (#1.897)}', 'Samara, Russia']	53.198627	50.113987
+['"37 Grad" (1994) {Liebesgr��e aus Russland - Eine Braut aus dem Katalog (#1.897)}', 'North Rhine-Westphalia, Germany']	51.4781796	7.5542336
+['"37 Grad" (1994) {Menschen f�r Tiere - Prominente engagieren sich f�r den Tierschutz}', 'Mauritius']	-20.2759451	57.5703566
+['"37 Grad" (1994) {Mord im Paradies (#1.836)}', '', 'Nuku Hiva, French Polynesia']	-8.8733104	-140.1245634540394
+['"37 Grad" (1994) {Mord im Paradies (#1.836)}', '', 'Marquesas Islands, French Polynesia']	-9.73116465	-138.9787470714598
+['"37 Grad" (1994) {Mord im Paradies (#1.836)}', '', 'Hakaui, Marquesas Islands, French Polynesia']	-8.9400481	-140.1690821
+['"37 Grad" (1994) {Mord im Paradies (#1.836)}', '', 'W�rzburg, Bavaria, Germany']	51.0834196	10.4234469
+['"37 Grad" (1994) {Mord im Paradies (#1.836)}', '', 'Vaipo, Marquesas Islands, French Polynesia']	-8.9070142	-140.1656922
+['"37 Grad" (1994) {Mord im Paradies (#1.836)}', '', 'Papeete, Tahiti, French Polynesia']	-16.03442485	-146.0490931059517
+['"37 Grad" (1994) {Mord im Paradies (#1.836)}', '', 'Paea, Tahiti, French Polynesia']	-16.03442485	-146.0490931059517
+['"37 Grad" (1994) {Mord im Paradies (#1.836)}', '', 'Arue, Tahiti, French Polynesia']	-16.03442485	-146.0490931059517
+['"37 Grad" (1994) {Pl�tzlich war er da - Albtraum Geisterfahrer}', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"37 Grad" (1994) {Pl�tzlich war er da - Albtraum Geisterfahrer}', 'Salzburg, Salzburg, Austria']	47.7981346	13.0464806
+['"50/50" (1994)', '', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"86-60-86" (1994)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Dark Adapted Eye" (1994)', '', '', '', 'Sotterley Estate, Beccles, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"A Dark Adapted Eye" (1994)', '', '', '', 'Woodbridge School, Woodbridge, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"A Filha da Corn�lia" (1994)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Mind to Kill" (1994) {Shadow Falls (#3.1)}', '', 'Wales, UK']	52.2928116	-3.73893
+['"A Mulher do Sr. Ministro" (1994)', '', '', 'Teatro Vasco Santana, Portugal']	38.7027644	-9.3626611
+['"A Parliament of Souls" (1994)', '', '', '', 'Blackstone Hotel - 636 S. Michigan Avenue, Downtown, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"A flor de piel" (1994)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"A su servicio" (1994)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"AQP Show" (1994)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Aardvark" (1994)', '', '', '', '', 'Mt. Pleasant, Michigan, USA']	43.597646	-84.7668495
+['"Aardvark" (1994)', '', '', '', '', 'Saginaw, Michigan, USA']	43.4200387	-83.9490365
+['"Against All Odds" (1994) {The Promise}', '', '', 'Zagreb, Croatia']	45.813177	15.977048
+['"Ain\'t Misbehavin" (1994)', '', '', '', 'Harrogate, North Yorkshire, England, UK']	53.9921491	-1.5391039
+['"Alejandra" (1994)', '', '', '', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"Alejandra" (1994)', '', '', '', '', 'Colonia Tovar, Estado Miranda, Venezuela']	8.0018709	-66.1109318
+['"All Quiet on the Preston Front" (1994)', '', '', 'Church Street, Padiham, Lancashire, England, UK']	53.8014807	-2.3183574
+['"All Quiet on the Preston Front" (1994)', '', '', 'Former Army Cadet Detachment, Haslingden, Rossendale, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"All Quiet on the Preston Front" (1994)', '', '', 'HS Motors, Darwen Road, Bromley Cross, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"All Quiet on the Preston Front" (1994)', '', '', "Hurran's Garden Centre, Blakedown, Worcestershire, England, UK"]	52.2109495	-2.156955513242221
+['"All Quiet on the Preston Front" (1994)', '', '', 'Sudell Primary School, Sudell Road, Darwen, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"All Quiet on the Preston Front" (1994)', '', '', 'The Starkie Arms, Church Street, Padiham, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"All That" (1994)', '', '', '', '', 'Nickelodeon Studios, Universal Studios Florida, Universal Orlando Resort - 1000 Universal Studios Plaza, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"All That" (1994)', '', '', '', '', 'Nickelodeon on Sunset - 6230 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All That" (1994) {Knubby McFarlin}', '', '', 'Nickelodeon Studios, Universal Studios Florida, Universal Orlando Resort - 1000 Universal Studios Plaza, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"All You Need Is Love" (1994)', '', '', '', 'Estudios Contracampo, Frielas, Portugal']	40.0332629	-7.8896263
+['"All You Need Is Love" (1994)', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"All-American Girl" (1994)', '', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {A Night at the Oprah (#1.17)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Booktopus (#1.6)}', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Educating Margaret (#1.11)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Exile on Market Street (#1.9)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Loveless in San Francisco (#1.12)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Malpractice Makes Perfect (#1.13)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Mom, Dad, This Is Kyle (#1.1)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Mommie Nearest (#1.7)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Notes from the Underground (#1.15)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Pulp Sitcom (#1.18)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Ratting on Ruthie (#1.10)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Redesigning Women (#1.5)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Submission: Impossible (#1.2)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Take My Family, Please (#1.8)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {The Apartment (#1.14)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Venus de Margaret (#1.16)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Who\'s the Boss (#1.3)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Young Americans (#1.19)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"All-American Girl" (1994) {Yung at Heart (#1.4)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alle kinderen de deur uit" (1994)', '', '', 'Hilversum, Noord-Holland, Netherlands']	52.23158695	5.173493602392345
+['"Allegra\'s Window" (1994) {Play Along With Allegra & Friends (#3.11)}', 'Nickelodeon Studios, Universal Studios Florida, Universal Orlando Resort - 1000 Universal Studios Plaza, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Allegra\'s Window" (1994) {Sing Along With Allegra & Lindi (#3.12)}', 'Nickelodeon Studios, Universal Studios Florida, Universal Orlando Resort - 1000 Universal Studios Plaza, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Allegra\'s Window" (1994) {Where\'s Godfrey? (#1.2)}', 'Nickelodeon Studios, Universal Studios Florida, Universal Orlando Resort - 1000 Universal Studios Plaza, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Alles au�er Mord!" (1994) {Blackout (#3.1)}', '', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Blutiger Ernst (#2.4)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Das Kuckucksei (#2.3)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Das blonde Gift (#3.4)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Der Mann im Mond (#1.2)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Der Name der Nelke (#1.4)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Die Frau ohne Gesicht (#1.1)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Hals �ber Kopf (#3.2)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Marion Nr. 5 (#2.2)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Todk�ppchen (#3.3)}', '', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {T�dlicher Irrtum (#2.1)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Wahnsinn mit Methode (#2.5)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Wer Gewalt s�t (#1.3)}', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Alles au�er Mord!" (1994) {Y.?17 (#2.6)}', '', 'Hamburg, Germany']	51.0834196	10.4234469
+['"America\'s Castles" (1994) {Castles on the Bay}', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"America\'s Castles" (1994) {Castles on the Bay}', '', 'Santa Clara, California, USA']	37.2333253	-121.6846349
+['"America\'s Castles" (1994) {Castles on the Bay}', '', 'Oakland, California, USA']	37.8044557	-122.2713563
+['"America\'s Castles" (1994) {Coal Barons}', '', 'Dawson, Pennsylvania, USA']	40.0470291	-79.6555384
+['"America\'s Castles" (1994) {Coal Barons}', '', 'Victoria, British Columbia, Canada']	48.4283182	-123.3649533
+['"America\'s Castles" (1994) {Coal Barons}', '', 'Bristol, Rhode Island, USA']	41.7034082	-71.2844401
+['"America\'s Castles" (1994) {Empire Estates}', '', 'Irvington, New York, USA']	41.0350625	-73.86485213574096
+['"America\'s Castles" (1994) {Empire Estates}', '', 'Staatsburg, New York, USA']	41.8527325	-73.91943711868966
+['"America\'s Castles" (1994) {Empire Estates}', '', 'Hudson, New York, USA']	42.2528649	-73.790959
+['"America\'s Castles" (1994) {Gardens and Galleries}', 'Tulsa, Oklahoma, USA']	36.1556805	-95.9929113
+['"America\'s Castles" (1994) {Gardens and Galleries}', 'San Marino, California, USA']	34.1215947	-118.1057394
+['"America\'s Castles" (1994) {Gardens and Galleries}', 'Winston-Salem, North Carolina, USA']	36.0998131	-80.2440518
+['"America\'s Castles" (1994) {Grand Resorts}', '', 'New Paltz, New York, USA']	41.7464972	-74.0844894
+['"America\'s Castles" (1994) {Grand Resorts}', '', 'Hershey, Pennsylvania, USA']	40.2854881	-76.6506001
+['"America\'s Castles" (1994) {Grand Resorts}', '', 'White Sulphur Springs, West Virginia, USA']	37.7965149	-80.2975734
+['"America\'s Castles" (1994) {Industrial Barons}', '', 'Newport, Rhode Island, USA']	41.4899827	-71.3137707
+['"America\'s Castles" (1994) {Industrial Barons}', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"America\'s Castles" (1994) {Industrial Barons}', '', 'Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"America\'s Castles" (1994) {The Astor Estates (#3.1)}', 'Newport, Rhode Island, USA']	41.4899827	-71.3137707
+['"America\'s Castles" (1994) {The Astor Estates (#3.1)}', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"America\'s Castles" (1994) {The Astor Estates (#3.1)}', 'Rhinebeck, New York, USA']	41.9268754	-73.9126639
+['"America\'s Castles" (1994) {The Confederacy}', '', 'Arlington, Virginia, USA']	38.8903961	-77.0841585
+['"America\'s Castles" (1994) {The Confederacy}', '', 'Richmond, Virginia, USA']	37.5385087	-77.43428
+['"America\'s Castles" (1994) {The Confederacy}', '', 'Greenville, Mississippi, USA']	33.4000633	-91.0551312
+['"America\'s Castles" (1994) {The Confederacy}', '', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"America\'s Castles" (1994) {The Pioneers}', '', 'Billings, Montana, USA']	45.7874957	-108.49607
+['"America\'s Castles" (1994) {The Pioneers}', '', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"America\'s Castles" (1994) {The Pioneers}', '', 'Pueblo, Colorado, USA']	38.2544472	-104.609141
+['"Amigos Para Sempre" (1994)', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"Amravati Ki Kathayein" (1994)', '', '', '', 'Amravati, Andhra Pradesh, India']	22.3511148	78.6677428
+['"Aprender a volar" (1994)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aqu� est� la Chilindrina" (1994)', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Arabella" (1994)', '', '', '', '', 'SZM Studios, Unterf�hring, Bavaria, Germany']	51.0834196	10.4234469
+['"Arnau" (1994)', '', '', '', '', '', 'Sal� del Tinell, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Arnau" (1994)', '', '', '', '', '', "La Fageda d'en Jord�, Girona, Catalonia, Spain"]	41.9793006	2.8199439
+['"Arnau" (1994)', '', '', '', '', '', 'Rocacorba, Girona, Catalonia, Spain']	42.3418605	2.8211672
+['"Arnau" (1994)', '', '', '', '', '', 'Meranges, Girona, Catalonia, Spain']	42.4460663	1.7870102
+['"Arnau" (1994)', '', '', '', '', '', 'Parc Natural del Garraf, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Arnau" (1994)', '', '', '', '', '', 'Monestir de Sant Benet del Bages, Barcelona, Catalonia, Spain']	41.60998	1.8269266090104601
+['"Arnau" (1994)', '', '', '', '', '', 'Mass�s del Pedraforca, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Asian America" (1994)', '', '', '', '', 'WNYE Studios, Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"Awesome Interiors" (1994)', '', '', '', '688 South Avenue 21, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BBS Master Control" (1994)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"BYU\'s Divine Comedy" (1994)', '', '', '', 'Provo, Utah, USA']	40.2338438	-111.6585337
+['"BYU\'s Divine Comedy" (1994) {Y-Men: Students United (#13.2)}', 'Brigham Young University, Provo, Utah, USA']	40.2551075	-111.64965648425293
+['"Babylon 5" (1994)', '', '', '', '', 'Sun Valley, Los Angeles, California, USA']	34.2175042	-118.3703576
+['"Backchat" (1994)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Banegi Apni Baat" (1994)', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Bank nie z tej ziemi" (1994)', '', '', '', 'Central Station, Aleje Jerozolimskie, Sr�dmiescie, Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Bank nie z tej ziemi" (1994)', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Bank nie z tej ziemi" (1994)', '', '', '', 'Zacheta Gallery, Plac Malachowskiego, Sr�dmiescie, Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'Cura�ao, Netherlands']	52.5001698	5.7480821
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'Grand Canyon National Park, Arizona, USA']	36.307854750000004	-112.29289603702432
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'New York, USA']	40.7127281	-74.0060152
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'St. Maarten, Netherlands']	50.8381331	4.9237307
+['"Bassie en Adriaan en de reis vol verrassingen" (1994)', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Bay Kamber" (1994)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Beach Clash" (1994)', '', '', '', '', 'Sunset Beach, California, USA']	33.7179231	-118.0706056
+['"Begegnung mit der Bibel" (1994)', '', '', 'Morocco']	31.1728205	-7.3362482
+['"Behind Bars" (1994)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Behind the Scenes with TBN Founder Paul Crouch" (1994)', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Behind the Scenes with TBN Founder Paul Crouch" (1994)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Behind the Scenes with TBN Founder Paul Crouch" (1994)', 'Santa Ana, California, USA']	33.7494951	-117.8732213
+['"Bella Block" (1994) {Abschied im Licht (#1.7)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Am Ende der L�ge (#1.9)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Angeklagt (#1.34)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Auf der Jagd (#1.5)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Auf der Jagd (#1.5)}', '', 'Lower Saxony, Germany']	51.0834196	10.4234469
+['"Bella Block" (1994) {Auf der Jagd (#1.5)}', '', 'Schleswig-Holstein, Germany']	54.1853998	9.8220089
+['"Bella Block" (1994) {Bella Block und das B�se (#1.38)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Bitterer Verdacht (#1.11)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Bitterer Verdacht (#1.11)}', 'R�dingsmarkt, Altstadt, Hamburg-Mitte, Hamburg, Germany']	51.0834196	10.4234469
+['"Bella Block" (1994) {Bitterer Verdacht (#1.11)}', 'Schl�terstra�e, Rotherbaum, Hamburg, Germany']	53.5684065	9.9874317
+['"Bella Block" (1994) {Bitterer Verdacht (#1.11)}', 'Universit�t Hamburg, Hamburg, Germany']	51.0834196	10.4234469
+['"Bella Block" (1994) {Blackout (#1.22)}', '', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Blinde Liebe (#1.8)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Das Gegenteil von Liebe (#1.15)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Das Gl�ck der anderen (#1.20)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Das Schweigen der Kommissarin, Teil 1 (#1.26)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Das Schweigen der Kommissarin, Teil 2 (#1.27)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Das schwarze Zimmer (#1.29)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Das schwarze Zimmer (#1.29)}', 'Sweden']	59.6749712	14.5208584
+['"Bella Block" (1994) {Der Fahrgast und das M�dchen (#1.31)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Die Kommissarin (#1.1)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Die Kommissarin (#1.1)}', '', 'Lower Saxony, Germany']	51.0834196	10.4234469
+['"Bella Block" (1994) {Die Kommissarin (#1.1)}', '', 'Schleswig-Holstein, Germany']	54.1853998	9.8220089
+['"Bella Block" (1994) {Die sch�nste Nacht des Lebens (#1.36)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Falsche Liebe (#1.25)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Gefl�sterte Morde (#1.6)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Gefl�sterte Morde (#1.6)}', '', 'Speicherstadt, Hamburg, Germany']	53.5440149	9.9869792
+['"Bella Block" (1994) {Geldgier (#1.3)}', '', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Hundskinder (#1.33)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Im Namen der Ehre (#1.12)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Kurschatten (#1.14)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Kurschatten (#1.14)}', '', 'St. Peter-Ording, Schleswig-Holstein, Germany']	54.3172664	8.6254937
+['"Bella Block" (1994) {Liebestod (#1.2)}', '', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Mord unterm Kreuz (#1.21)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Reise nach China (#1.24)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Schuld und Liebe (#1.10)}', '', 'County Galway, Ireland']	53.34350465	-8.873374084151076
+['"Bella Block" (1994) {Schuld und Liebe (#1.10)}', '', 'Hamburg, Germany']	51.0834196	10.4234469
+['"Bella Block" (1994) {Stille Wasser (#1.37)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Bella Block" (1994) {Stille Wasser (#1.37)}', '', 'Teltow, Brandenburg, Germany']	52.4016457	13.2644532
+['"Bella Block" (1994) {Stille Wasser (#1.37)}', '', 'Ludwigsfelde, Brandenburg, Germany']	52.3016096	13.2610163
+['"Bella Block" (1994) {Tod eines M�dchens (#1.4)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Unter den Linden (#1.32)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Bella Block" (1994) {Vorsehung (#1.28)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Weisse N�chte (#1.23)}', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bella Block" (1994) {Weisse N�chte (#1.23)}', '', 'St. Petersburg, Russia']	64.6863136	97.7453061
+['"Bellamy\'s Singapore" (1994)', '', '', '', 'Singapore']	1.357107	103.8194992
+['"Big Girl\'s Blouse" (1994)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608

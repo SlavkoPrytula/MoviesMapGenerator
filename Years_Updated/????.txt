@@ -1,0 +1,26 @@
+['"\'Pathic" (????)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"4 Seasons" (????)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Absolution and Penance" (????)', '', '', '', 'South Boston, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Actor/Waiter" (????)', '', '', '', '', 'NYC, New York, USA']	40.7127281	-74.0060152
+['"Adam Parker Smith" (????)', '', '', '', 'Fairfield, Iowa, USA']	41.0087364	-91.9626486
+['"Africa Music" (????) {Oliver Mtukudzi}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After Camelot" (????)', '', '', '', '', 'Skorpios, Greece']	38.6919014	20.74227566075542
+['"After Camelot" (????)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"After Her" (????) {Pilot}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Age of Desolation" (????)', '', '', '', 'Troms, Norway']	69.86993469999999	21.827278548625912
+['"All Grown Up" (????)', '', '', '', '', 'North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Almost Americans" (????) {Teacher\'s Choice (#1.1)}', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Almost Americans" (????) {Teacher\'s Choice (#1.1)}', 'Albuquerque New Mexico, USA']	35.0841034	-106.6509851
+['"American Dynasty" (????)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"American Resort" (????)', '', '', '', 'Hillcrest Event Center, Orion, Illinois, USA']	41.3532038	-90.3808307
+['"American Resort" (????)', '', '', '', 'Illinois, USA']	40.0796606	-89.4337288
+['"Art2All!" (????)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astoria" (????/I)', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Astoria" (????/I)', '', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Astoria" (????/I)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Aurora" (????)', '', '', '', '', '', 'Joshua Tree, California, USA']	34.1265262	-116.32093491214893
+['"Banish\'d" (????)', '', '', '', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Ba�o compartido" (????)', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Ba�o compartido" (????)', '', '', '', 'Catalunya, Spain']	39.3262345	-4.8380649
+['"Big Fish" (????)', '', '', '', '', 'Biloxi, Mississippi, USA']	30.374673	-88.84594333482862
+['"Big Fish" (????)', '', '', '', '', 'Gulfport, Mississippi, USA']	30.3674198	-89.0928155

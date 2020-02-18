@@ -1,0 +1,926 @@
+['"10th Winter Olympic Games" (1968)', '', '', 'Grenoble, Is�re, France']	46.603354	1.8883335
+['"60 Minutes" (1968)', '', '', '', '', 'West 57th Street, Manhattan, New York City, New York, USA']	40.7658781	-73.9808768
+['"60 Minutes" (1968) {(1969-03-18)}', '', '', 'Palm Beach, Florida, USA']	26.6279798	-80.4494174
+['"60 Minutes" (1968) {(1976-09-19)}', '', '', 'Michigan City, Indiana, USA']	41.7075394	-86.8950297
+['"60 Minutes" (1968) {After the Wave/Alone on the Wall/Andy Rooney (#44.2)}', 'Otsuchi, Iwate, Japan']	39.3584659	141.9001305
+['"60 Minutes" (1968) {After the Wave/Alone on the Wall/Andy Rooney (#44.2)}', 'Yosemite National Park, California, USA']	37.84054795	-119.51658779802511
+['"60 Minutes" (1968) {Aftershock/Burning Rage/Mad Money Man (#38.8)}', 'Pakistan']	30.3308401	71.247499
+['"60 Minutes" (1968) {Clang, Clang, Clang Went the Trolley}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"60 Minutes" (1968) {Clang, Clang, Clang Went the Trolley}', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"60 Minutes" (1968) {Clang, Clang, Clang Went the Trolley}', 'Perris, California, USA']	33.7825194	-117.2286478
+['"60 Minutes" (1968) {Guantanamo/Lamborghini/The Perfectionist (#46.6)}', 'Guantanamo Bay, Cuba']	23.0131338	-80.8328748
+['"60 Minutes" (1968) {Live from New York/The Governor/In Harm\'s Way (#37.6)}', 'Studio 8H, NBC Studios - 30 Rockefeller Plaza, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"60 Minutes" (1968) {Newtown/Costa Concordia/The Library (#45.12)}', 'Newtown, Connecticut, USA']	41.4134764	-73.3086445
+['"60 Minutes" (1968) {Newtown/Costa Concordia/The Library (#45.12)}', 'Vatican City']	41.90381485	12.453152716779822
+['"60 Minutes" (1968) {Running the War/The Life and Death of Vincent Van Gogh (#44.4)}', 'Afghanistan']	33.7680065	66.2385139
+['"60 Minutes" (1968) {Running the War/The Life and Death of Vincent Van Gogh (#44.4)}', 'Aiken, South Carolina, USA']	33.5723191	-81.6182086
+['"60 Minutes" (1968) {Running the War/The Life and Death of Vincent Van Gogh (#44.4)}', "Auvers-sur-Oise, Val-d'Oise, France"]	49.0701875	2.1718687
+['"60 Minutes" (1968) {Running the War/The Life and Death of Vincent Van Gogh (#44.4)}', 'Frick Art Reference Library - 10 E. 71st St., Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"60 Minutes" (1968) {Running the War/The Life and Death of Vincent Van Gogh (#44.4)}', "Mus�e d'Orsay, Paris, France"]	46.603354	1.8883335
+['"60 Minutes" (1968) {Running the War/The Life and Death of Vincent Van Gogh (#44.4)}', 'Mus�e du Louvre, Paris 1, Paris, France']	48.8566969	2.3514616
+['"60 Minutes" (1968) {Running the War/The Life and Death of Vincent Van Gogh (#44.4)}', 'Van Gogh Museum, Amsterdam, Noord-Holland, Netherlands']	52.35836725	4.88108997215221
+['"60 Minutes" (1968) {Southern Exposure/Come Dancing/Kevin Mitnick, Cyber Thief (#32.19)}', 'Savannah River, South Carolina, USA']	33.14145	-81.743835
+['"60 Minutes" (1968) {Steve Jobs/Apps for Autism (#44.5)}', 'Beverley School - 64 Baldwin St., Toronto, Ontario, Canada']	43.65584525	-79.39551077862464
+['"60 Minutes" (1968) {Steve Jobs/Apps for Autism (#44.5)}', 'University of Pittsburgh, Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"60 Minutes" (1968) {The Colonel\'s Wife/A Right That Could Be Wrong/The Bicycle Thief (#32.34)}', 'California, USA']	36.7014631	-118.7559974
+['"60 Minutes" (1968) {The Cost of Admission/Justice Sotomayor/God\'s Architect (#45.34)}', 'Barcelona, Spain']	41.3828939	2.1774322
+['"60 Minutes" (1968) {The Jobs Czar/Revolution/The Player (#44.3)}', 'Brazil']	-10.3333333	-53.2
+['"60 Minutes" (1968) {The Jobs Czar/Revolution/The Player (#44.3)}', 'Cairo, Egypt']	26.2540493	29.2675469
+['"60 Minutes" (1968) {The Jobs Czar/Revolution/The Player (#44.3)}', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"60 Minutes" (1968) {The Last Frontier/North Korea/The Wrong Man (#35.18)}', 'North Korea']	40.3736611	127.0870417
+['"60 Minutes" (1968) {The New Beirut/The Sea Gypsies/Tina Turner (#38.14)}', 'Beirut, Lebanon']	33.8959203	35.47843
+['"60 Minutes" (1968) {The View from Jordan/Dr. Chalabi Goes to Iraq/Guilty Until Proven/Rebuilding Iraq (#35.27)}', 'Jordan']	31.1667049	36.941628
+['"Adam-12" (1968)', '', '', '', '', 'Union Street, Los Angeles, California, USA']	34.2080812	-118.2084945
+['"Adam-12" (1968)', '', '', '', '', 'Glendale Freeway, Glendale, California, USA']	34.1518558	-118.224655
+['"Adam-12" (1968)', '', '', '', '', 'Apartments, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968)', '', '', '', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968)', '', '', '', '', 'Courthouse Square, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968)', '', '', '', '', 'Downtown, Los Angeles, California, USA']	34.4987133	-118.5843067
+['"Adam-12" (1968)', '', '', '', '', 'Los Angeles Police Department, Rampart Division - 2710 W Temple St, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968)', '', '', '', '', 'Toluca Lake Avenue, Toluca Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968)', '', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {A Fool and His Money (#5.21)}', '', '461 S. Santa Fe Ave., Los Angeles, California, USA']	33.8238432	-118.2153908
+['"Adam-12" (1968) {A Fool and His Money (#5.21)}', '', '14227 Katherine Ave., Los Angeles, California, USA']	34.2267687	-118.4444642
+['"Adam-12" (1968) {A Fool and His Money (#5.21)}', '', '14242 Ventura Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {A Fool and His Money (#5.21)}', '', '14219 Moorpark St., Los Angeles, California, USA']	34.1508832	-118.44275
+['"Adam-12" (1968) {A Fool and His Money (#5.21)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Airdrop (#5.3)}', '', '', '10702 Woodbridge St., Los Angeles, California, USA']	34.14876670588235	-118.36406770588235
+['"Adam-12" (1968) {Airdrop (#5.3)}', '', '', '4340 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Airdrop (#5.3)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Alcohol (#7.9)}', '', '', '4141 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Alcohol (#7.9)}', '', '', '6110 Vesper Ave., Los Angeles, California, USA']	34.18185581632653	-118.450796
+['"Adam-12" (1968) {Alcohol (#7.9)}', '', '', '4201 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Alcohol (#7.9)}', '', '', '10716 Acama St., Los Angeles, California, USA']	34.145821	-118.36353927272727
+['"Adam-12" (1968) {Alcohol (#7.9)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Ambush (#4.8)}', '', '', "Malibu Co. Sheriff's Office, 23625 Civic Center Way., Malibu, California, USA"]	34.035591	-118.689423
+['"Adam-12" (1968) {Ambush (#4.8)}', '', '', 'Malibu Canyon Road, Santa Monica Mountains, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Ambush (#4.8)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Anatomy of a 415 (#5.22)}', '', "Topper's Market, 11650 Riverside Dr., Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Anatomy of a 415 (#5.22)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Anniversary (#4.9)}', '', '', '4201 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Anniversary (#4.9)}', '', '', "Dave Berg's Liquor and Deli, 11340 Moorpark St., Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Anniversary (#4.9)}', '', '', '10744 Acama St., Los Angeles, California, USA']	34.145821	-118.36435459459459
+['"Adam-12" (1968) {Anniversary (#4.9)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Assassination (#4.11)}', '', '10806 Whipple St., Los Angeles, California, USA']	34.14815009615385	-118.365472
+['"Adam-12" (1968) {Assassination (#4.11)}', '', '4301 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Assassination (#4.11)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Backup 1-L20 (#4.21)}', '', '', '6301 Colfax Ave., North Hollywood, Los Angeles, California, USA']	34.184983	-118.387876
+['"Adam-12" (1968) {Backup 1-L20 (#4.21)}', '', '', '11254 Vanowen St., Los Angeles, California, USA']	34.1939102	-118.4967622
+['"Adam-12" (1968) {Backup 1-L20 (#4.21)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Badge Heavy (#5.6)}', '', '', '4433 Talofa Ave., Los Angeles, California, USA']	34.15102802040816	-118.35176955102041
+['"Adam-12" (1968) {Badge Heavy (#5.6)}', '', '', '4425 Talofa Ave, Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Badge Heavy (#5.6)}', '', '', '4425 Talofa Ave, Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Badge Heavy (#5.6)}', '', '', 'Riverside Dr & Talofa Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Badge Heavy (#5.6)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Camp: Part 1 (#7.1)}', '', '', 'Vineland Wine Cellar, 6012 Vineland Ave., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Camp: Part 1 (#7.1)}', '', '', '6011 Bonner Ave., Los Angeles, California, USA']	34.17970320408163	-118.37423620408163
+['"Adam-12" (1968) {Camp: Part 1 (#7.1)}', '', '', '4522 Van Nuys Blvd, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Camp: Part 1 (#7.1)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Camp: Part 2 (#7.2)}', '', '', '7164 Varna Ave., Los Angeles, California, USA']	34.20059002941064	-118.42460427984008
+['"Adam-12" (1968) {Camp: Part 2 (#7.2)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Capture (#6.9)}', '', '', 'Hollywood Hills, Los Angeles, California, USA']	34.1311792	-118.3355474
+['"Adam-12" (1968) {Capture (#6.9)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Capture (#6.9)}', '', '', 'Mobil Station - 5166 Vineland Avenue, North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Capture (#6.9)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Christmas (#7.11)}', '', '', 'S San Fernando Blvd & E Verdugo Ave, Burbank, California, USA']	34.1816482	-118.3258554
+['"Adam-12" (1968) {Christmas (#7.11)}', '', '', '21731 Ventura Blvd, Woodland Hills, Los Angeles, California, USA']	34.1686089	-118.6091922
+['"Adam-12" (1968) {Christmas (#7.11)}', '', '', '21733 Ventura Blvd, Woodland Hills, Los Angeles, California, USA']	34.1686089	-118.6091922
+['"Adam-12" (1968) {Christmas (#7.11)}', '', '', 'Los Angeles River, California, USA']	34.163011	-118.4697788
+['"Adam-12" (1968) {Christmas (#7.11)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Citizen with a Gun (#7.17)}', '', '7702 Santa Monica Blvd., West Hollywood, California, USA']	34.090706450751604	-118.35685339299906
+['"Adam-12" (1968) {Citizen with a Gun (#7.17)}', '', 'Downtown, Los Angeles, California, USA']	34.4987133	-118.5843067
+['"Adam-12" (1968) {Citizen with a Gun (#7.17)}', '', 'Hollywood Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Citizen with a Gun (#7.17)}', '', 'Los Angeles Police Academy - 1880 N. Academy Drive, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Citizen with a Gun (#7.17)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Citizens All (#4.14)}', '', '', '4314 Hazeltine Ave., Los Angeles, California, USA']	34.17167	-118.4399655
+['"Adam-12" (1968) {Citizens All (#4.14)}', '', '', 'Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Citizens All (#4.14)}', '', '', '14242 Ventura Blvd., Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Adam-12" (1968) {Citizens All (#4.14)}', '', '', '11176 Hesby St., Los Angeles, California, USA']	34.161744326530616	-118.37415428571428
+['"Adam-12" (1968) {Citizens All (#4.14)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Citizens Arrest - 484 (#5.16)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Citizens Arrest - 484 (#5.16)}', 'Riverside Dr & Talofa Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Citizens Arrest - 484 (#5.16)}', 'Santa Fe Rail Yards, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Citizens Arrest - 484 (#5.16)}', '11650 Riverside Drive, Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {Citizens Arrest - 484 (#5.16)}', 'Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Clear with a Civilian: Part 1 (#5.14)}', '902 Cole Ave., Los Angeles, California, USA']	34.087264	-118.32977512244898
+['"Adam-12" (1968) {Clear with a Civilian: Part 1 (#5.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Clear with a Civilian: Part 1 (#5.14)}', 'Yucca St & Ivar Ave, Hollywood Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Clear with a Civilian: Part 2 (#5.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Clinic on 18th Street (#6.24)}', 'Lyndon Hotel, 413 E. 7th St., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Clinic on 18th Street (#6.24)}', 'Department Of Water And Power - 111 N Hope Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Clinic on 18th Street (#6.24)}', 'Eastern Columbia Building - 849 S. Broadway, Los Angeles, California, USA']	34.0427494	-118.25620910782035
+['"Adam-12" (1968) {Clinic on 18th Street (#6.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Credit Risk (#7.10)}', '', '', '12151 Hartsook St., North Hollywood, Los Angeles, California, USA']	34.1639393	-118.3724255
+['"Adam-12" (1968) {Credit Risk (#7.10)}', '', '', '11425 Moorpark St., North Hollywood, Los Angeles, California, USA']	34.150454	-118.37981428571429
+['"Adam-12" (1968) {Credit Risk (#7.10)}', '', '', '3990 Vantage Ave., Los Angeles, California, USA']	34.14312422222222	-118.39734911111111
+['"Adam-12" (1968) {Credit Risk (#7.10)}', '', '', '4503 Tujunga Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Credit Risk (#7.10)}', '', '', '12238 Ventura Blvd., Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Adam-12" (1968) {Credit Risk (#7.10)}', '', '', 'Riverside Dr & Forman Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Credit Risk (#7.10)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Dana Hall (#7.22)}', '', '', '14511 Sylvan St, Van Nuys, Los Angeles, California, USA']	34.184735897959186	-118.44905434693878
+['"Adam-12" (1968) {Dana Hall (#7.22)}', '', '', 'Universal Amphitheater - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Dana Hall (#7.22)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Day Watch (#4.10)}', '', '', 'Universal Liquors, 3769 Lankershim Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Day Watch (#4.10)}', '', '', '10300 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {Day Watch (#4.10)}', '', '', 'Intersection of Whipple St., & Cahuenga Blvd., Toluca Lake, California, USA']	34.14678565	-118.34909242125983
+['"Adam-12" (1968) {Day Watch (#4.10)}', '', '', '11653 Moorpark St., N. Hollywood, California, USA']	34.1503847	-118.3772212
+['"Adam-12" (1968) {Day Watch (#4.10)}', '', '', '4913 Moorpark Way, Los Angeles, California, USA']	34.1520077	-118.3574403
+['"Adam-12" (1968) {Day Watch (#4.10)}', '', '', '10619 Whipple St., Toluca Lake, California, USA']	34.14678565	-118.34909242125983
+['"Adam-12" (1968) {Day Watch (#4.10)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Dirt Duel (#5.1)}', '', '', 'Mullholland Drive @ Laurel Pass Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Dirt Duel (#5.1)}', '', '', 'Indian Dunes - 28700 Henry Mayo Drive, Valencia, California, USA']	34.413819	-118.5610378
+['"Adam-12" (1968) {Dirt Duel (#5.1)}', '', '', 'Hollywood Hills, Los Angeles, California, USA']	34.1311792	-118.3355474
+['"Adam-12" (1968) {Dirt Duel (#5.1)}', '', '', 'Hancock Park, Los Angeles, California, USA']	34.0677881	-118.3325765
+['"Adam-12" (1968) {Dirt Duel (#5.1)}', '', '', '11611 Ventura Blvd., Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Adam-12" (1968) {Dirt Duel (#5.1)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', '4658 Arcola Ave., Toluca Lake, California, USA']	34.14678565	-118.34909242125983
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', 'Los Angeles Police Department, Georgia Street Station - 1335 Georgia St, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', 'Hesby St & Fair Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', 'Riverside Dr & Forman Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', 'Riverside Dr & Ledge Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Easy Rap (#5.24)}', '', '', 'Valley Village, Los Angeles, California, USA']	34.1637147	-118.3965758
+['"Adam-12" (1968) {Excessive Force (#7.8)}', '', 'Toluca Lake, Los Angeles, California, USA']	34.14678565	-118.34909242125983
+['"Adam-12" (1968) {Excessive Force (#7.8)}', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {Excessive Force (#7.8)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Excessive Force (#7.8)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Extortion (#4.1)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Extortion (#4.1)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Extortion (#4.1)}', '', '', 'Venice, Los Angeles, California, USA']	33.995044	-118.4668875
+['"Adam-12" (1968) {Extortion (#4.1)}', '', '', 'Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Adam-12" (1968) {Extortion (#4.1)}', '', '', '52 Windward Ave., Venice Beach, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Extortion (#4.1)}', '', '', '3016 Washington Blvd., Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Adam-12" (1968) {Extortion (#4.1)}', '', '', '455 E. Sherman Ave., Venice, California, USA']	33.98455230612245	-118.46353185714285
+['"Adam-12" (1968) {Extortion (#4.1)}', '', '', '3141 Yale Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Eyewitness (#4.23)}', '', '', '5647 Cartwright Ave., Los Angeles, California, USA']	34.173016530612244	-118.36388040816327
+['"Adam-12" (1968) {Eyewitness (#4.23)}', '', '', '5634 Cartwright Ave., Los Angeles, California, USA']	34.172825653061224	-118.36368204081633
+['"Adam-12" (1968) {Eyewitness (#4.23)}', '', '', '10703 Collins St., Los Angeles, California, USA']	34.174054	-118.36394736734694
+['"Adam-12" (1968) {Eyewitness (#4.23)}', '', '', '5631 Cartwright Ave., Los Angeles, California, USA']	34.17276069387755	-118.36387991836735
+['"Adam-12" (1968) {Eyewitness (#4.23)}', '', '', 'Travel Town Museum - 5200 Zoo Drive, Griffith Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Eyewitness (#4.23)}', '', '', 'Collins St., Burbank, California, USA']	34.1739807	-118.3626788
+['"Adam-12" (1968) {Eyewitness (#4.23)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Follow Up (#7.18)}', '', '', '910 S. Mariposa St., Los Angeles, California, USA']	34.15640442857143	-118.31295302040816
+['"Adam-12" (1968) {Follow Up (#7.18)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Foothill Division: Mac\'s Boots (#6.3)}', '4805 Colfax Avenue, North Hollywood, Los Angeles, California, USA']	34.1790108	-118.3877823
+['"Adam-12" (1968) {Foothill Division: Mac\'s Boots (#6.3)}', 'Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Foothill Division: Mac\'s Boots (#6.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Foothill Division: Mac\'s Boots (#6.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Gifts and Long Letters (#5.12)}', 'Lori Apartments, 5424 Corteen Pl., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Gifts and Long Letters (#5.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Grand Theft Auto (#7.13)}', '', '10959 Camarillo St., Los Angeles, California, USA']	34.157731444444444	-118.36960888888889
+['"Adam-12" (1968) {Grand Theft Auto (#7.13)}', '', '10849 Camarillo St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Grand Theft Auto (#7.13)}', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Adam-12" (1968) {Grand Theft Auto (#7.13)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Grand Theft Auto (#7.13)}', '', 'Sun Valley, Los Angeles, California, USA']	34.2175042	-118.3703576
+['"Adam-12" (1968) {Grand Theft Auto (#7.13)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Gus Corbin (#7.21)}', '', '', 'St. Jane Frances Church, 13001 Victory Blvd., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Gus Corbin (#7.21)}', '', '', '14517 Sylvan St., Van Nuys, California, USA']	34.184735836734696	-118.44916975510205
+['"Adam-12" (1968) {Gus Corbin (#7.21)}', '', '', '6309 Van Nuys Blvd, Van Nuys, Los Angeles, California, USA']	34.1984658	-118.4486997
+['"Adam-12" (1968) {Gus Corbin (#7.21)}', '', '', '6020 Tyrone Ave., Van Nuys, California, USA']	34.17961946938775	-118.444245
+['"Adam-12" (1968) {Gus Corbin (#7.21)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', '2502 S. Patton Ave., Long Beach, California, USA']	33.72144806122449	-118.30553906122448
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', '1177 W. 25th St., Long Beach, California, USA']	33.72149042857143	-118.30285712244898
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', 'Vincent Thomas Bridge, San Pedro, Los Angeles, California, USA']	33.749544	-118.2716379
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', '38st & S Carolina, San Pedro, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', '11235 Morrison St., Los Angeles, California, USA']	34.160896781249996	-118.37556040624999
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', 'Port of Los Angeles, Los Angeles, California, USA']	33.742765899999995	-118.26144046191327
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', 'S Carolina St & W 37th St, San Pedro, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', 'S Carolina St & W 38th St, San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Harbor Division (#6.1)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Harry Nobody (#5.7)}', '', '', 'Hotel Schuyler - 117 W Ocean Blvd, Long Beach, California, USA']	33.7690164	-118.1916048
+['"Adam-12" (1968) {Harry Nobody (#5.7)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Hollywood Division (#6.10)}', '', 'Shaarei Tefila Synagogue, 7269 Beverly Blvd, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Hollywood Division (#6.10)}', '', '7269 Beverly Blvd., Los Angeles, California, USA']	34.0771774	-118.3898452
+['"Adam-12" (1968) {Hollywood Division (#6.10)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', '1394 Lemoyne Street, Los Angeles, California, USA']	34.07870970545736	-118.2586324942862
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', '1721 Montana Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', '1557 Echo Park Ave., Los Angeles, California, USA']	34.08098005238391	-118.25480857593668
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', '1616 Delta St., Los Angeles, California, USA']	34.08149906122449	-118.2548917755102
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', '4500 Sylmar, Sherman Oaks, Los Angeles, California, USA']	34.153138	-118.446411
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', '7003-7017 Costello, Van Nuys, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', 'Intersection of 14000 Hart and 7000 Costello, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', 'Sherman Oaks Branch, Los Angeles Public Library - 14245 Moorpark Street, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Hot Shot (#6.6)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Hot Spell (#5.11)}', '', '', 'Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Hot Spell (#5.11)}', '', '', 'Hesby St & Fair Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Hot Spell (#5.11)}', '', '', 'Hesby St & Lankershim Blvd, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Hot Spell (#5.11)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {If the Shoe Fits (#6.12)}', '', '5025 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {If the Shoe Fits (#6.12)}', '', '5022 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {If the Shoe Fits (#6.12)}', '', '11041 Hesby St., Los Angeles, California, USA']	34.162097775510205	-118.3715772244898
+['"Adam-12" (1968) {If the Shoe Fits (#6.12)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Keeping Tabs (#5.23)}', '', '', 'Echo Park Lake, Echo Park, Los Angeles, California, USA']	34.0730923	-118.26070946811949
+['"Adam-12" (1968) {Keeping Tabs (#5.23)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Krash (#6.18)}', '', '', '11908 Ventura Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Krash (#6.18)}', '', '', '10737 Landale St., Los Angeles, California, USA']	34.15134489795918	-118.3649794489796
+['"Adam-12" (1968) {L.A. International (#6.23)}', '', 'LA International Airport, Center Way North, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {L.A. International (#6.23)}', '', 'Los Angeles International Airport - 1 World Way, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Ladies\' Night (#7.16)}', '', '100 E. Tujunga Ave., Burbank, California, USA']	34.178216	-118.30783
+['"Adam-12" (1968) {Ladies\' Night (#7.16)}', '', '140 E. Tujunga Ave., Burbank, California, USA']	34.1816482	-118.3258554
+['"Adam-12" (1968) {Ladies\' Night (#7.16)}', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Adam-12" (1968) {Ladies\' Night (#7.16)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Ladies\' Night (#7.16)}', '', 'Riverside Dr & Talofa Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Ladies\' Night (#7.16)}', '', 'Riverside Drive, Toluca Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Ladies\' Night (#7.16)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Lady Beware (#7.7)}', '', '', 'Hubert Howe Bancroft Middle School, 929 N Las Palmas Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Lady Beware (#7.7)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Lady Beware (#7.7)}', '', '', 'North Hollywood Park, North Hollywood, Los Angeles, California, USA']	34.16151745	-118.37987259635514
+['"Adam-12" (1968) {Lady Beware (#7.7)}', '', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Lady Beware (#7.7)}', '', '', 'Riverside Dr & Forman Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Lady Beware (#7.7)}', '', '', 'Riverside Drive, Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Lady Beware (#7.7)}', '', '', 'The Kitchen Kaper, 8279 Santa Monica Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Lady Beware (#7.7)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 101: The Stolen Lawn (#1.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 102: We Can\'t Just Walk Away from It (#1.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 103: A Sound Like Thunder (#2.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 104: The Bomb (#2.20)}', '', '11351 Moorpark St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 104: The Bomb (#2.20)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 105: Elegy for a Pig (#3.8)}', 'Forest Lawn Hollywood Hills - 6300 Forest Lawn Drive, Hollywood Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 105: Elegy for a Pig (#3.8)}', 'Angelus Block Co., 11324 Taxford St., Sun Valley, California, USA']	34.2175042	-118.3703576
+['"Adam-12" (1968) {Log 105: Elegy for a Pig (#3.8)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 105: Elegy for a Pig (#3.8)}', 'Los Angeles Police Academy - 1880 N. Academy Drive, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 105: Elegy for a Pig (#3.8)}', 'Los Angeles Police Department, Rampart Division - 2710 W Temple St, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 105: Elegy for a Pig (#3.8)}', 'Interstate 5 - Sylmar, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 105: Elegy for a Pig (#3.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 106: Post Time (#3.24)}', '', '607 N. Glendale Ave., Glendale, California, USA']	34.15646421548097	-118.2419670775062
+['"Adam-12" (1968) {Log 106: Post Time (#3.24)}', '', '316 N. Beaudry Ave., Los Angeles, California, USA']	34.062567381643305	-118.25184632992892
+['"Adam-12" (1968) {Log 106: Post Time (#3.24)}', '', '12436 Moorpark St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 106: Post Time (#3.24)}', '', '11625 Ventura Blvd., Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Adam-12" (1968) {Log 106: Post Time (#3.24)}', '', 'Glendale, California, USA']	34.1469416	-118.2478471
+['"Adam-12" (1968) {Log 106: Post Time (#3.24)}', '', 'Glendale Freeway, Glendale, California, USA']	34.1518558	-118.224655
+['"Adam-12" (1968) {Log 111: The Boa Constrictor (#1.11)}', 'Universal City Overlook, 7701 Mulholland Dr., Los Angeles, California, USA']	34.1289372	-118.3652198
+['"Adam-12" (1968) {Log 111: The Boa Constrictor (#1.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 112: You Blew It (#1.18)}', '', 'Stahl House, Case House 22 - 1635 Woods Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 112: You Blew It (#1.18)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 114: The Hero (#2.22)}', '', 'Toluca Lake, Los Angeles, California, USA']	34.14678565	-118.34909242125983
+['"Adam-12" (1968) {Log 114: The Hero (#2.22)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 114: The Hero (#2.22)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 114: The Hero (#2.22)}', '', 'San Fernando, California, USA']	34.28497	-118.437652
+['"Adam-12" (1968) {Log 114: The Hero (#2.22)}', '', 'St. Ferdinand Church - 1109 Cornel Street, San Fernando, California, USA']	34.28497	-118.437652
+['"Adam-12" (1968) {Log 115: Gang War (#3.14)}', '', '4355 Forman Ave. @ Toluca Lake Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 115: Gang War (#3.14)}', '', '4301 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Log 115: Gang War (#3.14)}', '', '4304 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Log 115: Gang War (#3.14)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 11: It\'s Just a Little Dent, Isn\'t It? (#1.3)}', 'Talofa Ave., @ Toluca Lake Ave., Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 11: It\'s Just a Little Dent, Isn\'t It? (#1.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 122: Christmas - The Yellow Dump Truck (#1.13)}', '12164 Ventura Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 122: Christmas - The Yellow Dump Truck (#1.13)}', 'BUDDY BROWN TOYS, 12166 VENTURA BLVD., Studio City, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {Log 122: Christmas - The Yellow Dump Truck (#1.13)}', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {Log 122: Christmas - The Yellow Dump Truck (#1.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 123: Courtroom (#2.9)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 124: Airport (#2.18)}', '', 'Venice Market, 10830 Landale St., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 124: Airport (#2.18)}', '', 'Van Nuys Airport - 6590 Hayvenhurst Avenue, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 124: Airport (#2.18)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 125: A Safe Job (#3.26)}', '', '5651 Cartwright Ave., Los Angeles, California, USA']	34.173080489795915	-118.36388053061225
+['"Adam-12" (1968) {Log 125: A Safe Job (#3.26)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 12: He Was Trying to Kill Me (#1.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 131: Reed, the Dicks Have Their Jobs, and We Have Ours (#1.4)}', '10152 Toluca Lake Ave., Los Angeles, California, USA']	34.14865819230769	-118.35148934615385
+['"Adam-12" (1968) {Log 131: Reed, the Dicks Have Their Jobs, and We Have Ours (#1.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 132: Producer (#1.10)}', '', '3717 Cahuenga Blvd., Los Angeles, California, USA']	34.13616390698379	-118.36244805019145
+['"Adam-12" (1968) {Log 132: Producer (#1.10)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', '10999 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', '11443 Chandler Blvd., Los Angeles, California, USA']	34.168678	-118.4136589
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', 'Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0981552	-118.2871076
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', 'Downtown, Los Angeles, California, USA']	34.4987133	-118.5843067
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', 'Anzen Hardware & Supply Co., 309 E 1st St ., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', 'USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 134: Child Stealer (#2.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 135: Arson (#3.10)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 141: The Color TV Bandit (#1.2)}', 'Harbor Isle Apts., 3391 Bennett Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 141: The Color TV Bandit (#1.2)}', 'Valleyheart Drive, Studio City, Los Angeles, California, USA']	34.1467019	-118.4109927
+['"Adam-12" (1968) {Log 141: The Color TV Bandit (#1.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 142: As High as You Are (#2.11)}', 'Harbor Isle Apts., 3391 Bennett Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 142: As High as You Are (#2.11)}', 'Western Exterminators, 3333 W. Temple St., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 142: As High as You Are (#2.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 143: Cave (#2.10)}', '', 'Roxford Street onramp, Foothill Freeway, Sylmar, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 143: Cave (#2.10)}', '', '13773 Sproule Avenue, Sylmar, Los Angeles, California, USA']	34.321963000000004	-118.45813528571429
+['"Adam-12" (1968) {Log 143: Cave (#2.10)}', '', '14951 Roxford Street, Sylmar, Los Angeles, California, USA']	34.32277093877551	-118.460339
+['"Adam-12" (1968) {Log 143: Cave (#2.10)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 144: Bank Robbery (#2.24)}', '3655 Cahuenga Boulevard, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 144: Bank Robbery (#2.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 14: SWAT (#2.14)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 152: A Dead Cop Can\'t Help Anyone (#1.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 153: Find Me a Needle (#2.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 155: Internal Affairs - Blackmail (#3.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 15: Exactly 100 Yards (#2.1)}', 'Notre Dame High School - 13645 Riverside Drive, Sherman Oaks, Los Angeles, California, USA']	34.1582853	-118.42903372731408
+['"Adam-12" (1968) {Log 15: Exactly 100 Yards (#2.1)}', '13612 Huston St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 15: Exactly 100 Yards (#2.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 15: Exactly 100 Yards (#2.1)}', 'Ventura Canyon Ave and Huston St, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 161: And You Want Me to Get Married? (#1.6)}', "Dave Berg's Liquor and Deli, 11340 Moorpark St., Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 161: And You Want Me to Get Married? (#1.6)}', '4800 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Log 161: And You Want Me to Get Married? (#1.6)}', '11201 Ostego St., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 161: And You Want Me to Get Married? (#1.6)}', "Biff's Coffe Shop, 11146 Magnolia Blvd., North Hollywood, California, USA"]	34.1729044	-118.3740371
+['"Adam-12" (1968) {Log 161: And You Want Me to Get Married? (#1.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 164: The Poachers (#3.21)}', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Log 164: The Poachers (#3.21)}', 'Whitnall Hwy & Cartwright Ave., North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Log 164: The Poachers (#3.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 165: Once a Cop (#3.19)}', '', 'Union Station - 800 N. Alameda Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 165: Once a Cop (#3.19)}', '', '114 E. 5th St., Los Angeles, California, USA']	34.12992791666667	-117.90730902083334
+['"Adam-12" (1968) {Log 165: Once a Cop (#3.19)}', '', '106 E. 5th St., Los Angeles, California, USA']	34.12992858333333	-117.90736685416667
+['"Adam-12" (1968) {Log 165: Once a Cop (#3.19)}', '', '115 E. 5th St., Los Angeles, California, USA']	34.12992783333333	-117.90730179166667
+['"Adam-12" (1968) {Log 165: Once a Cop (#3.19)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 16: A Child in Danger (#3.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 172: Boy, the Things You Do for the Job (#1.24)}', '2103 W. Silver Lake Dr., Los Angeles, California, USA']	34.09716583838384	-118.26664204040405
+['"Adam-12" (1968) {Log 172: Boy, the Things You Do for the Job (#1.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 173: Shoplift (#2.26)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 174: Loan Sharks (#3.1)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 175: The Con Artists (#3.13)}', '3 Toluca Lake Drive, Toluca Estates, Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 175: The Con Artists (#3.13)}', '10734 Valley Spring Lane, Los Angeles, California, USA']	34.146659	-118.364861
+['"Adam-12" (1968) {Log 175: The Con Artists (#3.13)}', '10502 Whipple St. @ Strohm Ave., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 175: The Con Artists (#3.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}', 'Los Angeles Police Department, Rampart Division - 2710 W Temple St, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}', 'Tujunga Wash, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}', 'Los Angeles Police Department, North Hollywood Station - 11640 Burbank Blvd, North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}', '11340 Moorpark St., Studio City, California, USA']	34.15029	-118.37816017647059
+['"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}', 'Moorpark Park, 12028 Moorpark St., Studio City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}', 'Laurel Canyon Ave. and Moorpark St., Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 1: The Impossible Mission (#1.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 22:...So This Little Guy Goes Into a Bar, and... (#1.26)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 23: Pig Is a Three-Letter Word (#2.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 24: A Rare Occasion (#2.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 25: Indians (#3.9)}', '', '13257 Ventura Blvd., Los Angeles, California, USA']	34.14620647959184	-118.42197420408164
+['"Adam-12" (1968) {Log 25: Indians (#3.9)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 26: LEMRAS (#3.15)}', '', '4270 Forman Ave., Los Angeles, California, USA']	34.14761214285714	-118.35258857142858
+['"Adam-12" (1968) {Log 26: LEMRAS (#3.15)}', '', 'Pax Market, 12144 Magnolia Blvd., Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 26: LEMRAS (#3.15)}', '', 'Weddington Park South, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 26: LEMRAS (#3.15)}', '', '8 Toluca Estates Dr., Los Angeles, California, USA']	34.14423334357542	-118.36011199301676
+['"Adam-12" (1968) {Log 26: LEMRAS (#3.15)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 32: Jimmy Eisley\'s Dealing Smack (#1.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 33: It All Happened So Fast (#1.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 34: Astro Division (#2.13)}', 'Laurelgrove Ave. @ Los Angeles River, Los Angeles, California, USA']	34.2059363	-118.4001386
+['"Adam-12" (1968) {Log 34: Astro Division (#2.13)}', '12433 Ventura Blvd., Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Adam-12" (1968) {Log 34: Astro Division (#2.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 35: Easy, Bare Rider (#3.2)}', '4419 Lankershim Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 35: Easy, Bare Rider (#3.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 36: Man Between (#3.18)}', '', 'Vineland Avenue and Camarillo Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 36: Man Between (#3.18)}', '', '10067 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {Log 36: Man Between (#3.18)}', '', '10225 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {Log 36: Man Between (#3.18)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 43: Hostage (#2.12)}', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Log 43: Hostage (#2.12)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 43: Hostage (#2.12)}', '', 'Harbor Isle Apartments, 3270 Oakshire Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 43: Hostage (#2.12)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 44: Attempted Bribery (#2.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 45: Bright Boy (#3.4)}', '', '6311 Yucca St., Los Angeles, California, USA']	34.10385989473684	-118.3269672631579
+['"Adam-12" (1968) {Log 45: Bright Boy (#3.4)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 46: Pilgrimage (#3.11)}', '', 'Beverly Boulavard & N. Robertson Boulavard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 46: Pilgrimage (#3.11)}', '', 'Hollywood Cross, Cahuenga Pass, Hollywood Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 46: Pilgrimage (#3.11)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 51: A Jumper, Code 2 (#1.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 52: Good Cop - Handle with Care (#2.3)}', '3991 Carpenter Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 52: Good Cop - Handle with Care (#2.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 54: Impersonation (#2.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 55: Missing Child (#3.6)}', '', 'Toluca Lake, Los Angeles, California, USA']	34.14678565	-118.34909242125983
+['"Adam-12" (1968) {Log 55: Missing Child (#3.6)}', '', '904 Hilldale Ave., West Hollywood, California, USA']	34.0875121	-118.38643434273547
+['"Adam-12" (1968) {Log 55: Missing Child (#3.6)}', '', 'Rio Vista Elementary School, 4261 Satsuma Ave., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 55: Missing Child (#3.6)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 55: Missing Child (#3.6)}', '', 'Whipple St & Riverton Ave, Toluca Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 56: Vice Versa (#3.23)}', '', '4426 Kraft Ave., Los Angeles, California, USA']	34.15091226530612	-118.37997879591836
+['"Adam-12" (1968) {Log 56: Vice Versa (#3.23)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 61: The Runaway (#1.12)}', '', 'Harbor Isle Apts., 3270 Oakshire Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 61: The Runaway (#1.12)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 62: Grand Theft Horse? (#1.16)}', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Log 62: Grand Theft Horse? (#1.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 63: Baby (#2.7)}', '', '', 'The Versailles Apartments, 5232 Corteen Pl., N. Hollywood, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Log 63: Baby (#2.7)}', '', '', 'Valley Ambassador Apartments, 12345 Magnolia Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 63: Baby (#2.7)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 64: Bottom of the Bottle (#2.15)}', '4093 Lankershim Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 64: Bottom of the Bottle (#2.15)}', '10763 Valleyheart Drive, Los Angeles, California, USA']	34.1502722	-118.4245485
+['"Adam-12" (1968) {Log 64: Bottom of the Bottle (#2.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 66: The Vandals (#3.17)}', '', '3300-3400 Wilshire, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 66: The Vandals (#3.17)}', '', '101 S. Larchmont Blvd., Los Angeles, California, USA']	34.07288314285714	-118.32342993877552
+['"Adam-12" (1968) {Log 66: The Vandals (#3.17)}', '', '5082 W. 2nd St., Los Angeles, California, USA']	34.071203173469385	-118.32566881632653
+['"Adam-12" (1968) {Log 66: The Vandals (#3.17)}', '', '606 N. Larchmont Blvd., Los Angeles, California, USA']	34.08189724492523	-118.32356029751136
+['"Adam-12" (1968) {Log 66: The Vandals (#3.17)}', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Adam-12" (1968) {Log 66: The Vandals (#3.17)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 69: Cigarettes, Cars, and Wild, Wild Women (#3.5)}', '10152 Toluca Lake Ave., Los Angeles, California, USA']	34.14865819230769	-118.35148934615385
+['"Adam-12" (1968) {Log 69: Cigarettes, Cars, and Wild, Wild Women (#3.5)}', '631 N. Robertson Blvd., Los Angeles, California, USA']	34.083719775510204	-118.38557114285715
+['"Adam-12" (1968) {Log 69: Cigarettes, Cars, and Wild, Wild Women (#3.5)}', '8933 Santa Monica Blvd., Los Angeles, California, USA']	34.0175912	-118.4937527
+['"Adam-12" (1968) {Log 69: Cigarettes, Cars, and Wild, Wild Women (#3.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 69: Cigarettes, Cars, and Wild, Wild Women (#3.5)}', 'Toluca Lake, Los Angeles, California, USA']	34.14678565	-118.34909242125983
+['"Adam-12" (1968) {Log 69: Cigarettes, Cars, and Wild, Wild Women (#3.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}', 'Riverton Ave., Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}', 'Los Angeles Police Department, Rampart Division - 2710 W Temple St, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}', '1641 Woods Drive, West Hollywood, California, USA']	34.1022011	-118.3699371
+['"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}', 'Hollywood Boulevard, Hollywood, Los Angeles, California, USA']	34.0996168	-118.2893713
+['"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}', 'Stahl House, Case House 22 - 1635 Woods Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 71: I Feel Like a Fool, Malloy (#1.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 72: El Presidente (#1.8)}', '', '5077 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Log 72: El Presidente (#1.8)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 73: I\'m Still a Cop (#1.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 74: Light Duty (#2.21)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 75: Have a Nice Weekend (#3.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 76: The Militants (#3.20)}', '4523 Talofa Ave., Los Angeles, California, USA']	34.15273233333333	-118.35178758333333
+['"Adam-12" (1968) {Log 76: The Militants (#3.20)}', '5729 Whitnall Hwy., Los Angeles, California, USA']	34.17517920917844	-118.36025404699227
+['"Adam-12" (1968) {Log 76: The Militants (#3.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 81: The Long Walk (#1.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 83: A Different Thing (#2.5)}', 'Harbor Isle Apts., 3391 Bennett Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 83: A Different Thing (#2.5)}', '11561 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {Log 83: A Different Thing (#2.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 85: Sign of the Twins (#3.12)}', '11425 Moorpark St., North Hollywood, Los Angeles, California, USA']	34.150454	-118.37981428571429
+['"Adam-12" (1968) {Log 85: Sign of the Twins (#3.12)}', '10155 Riverside Drive, Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 85: Sign of the Twins (#3.12)}', '185 N. Rose St., Los Angeles, California, USA']	34.04749157142857	-118.23717142857143
+['"Adam-12" (1968) {Log 85: Sign of the Twins (#3.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 88 - Reason to Run (#3.25)}', '13600 Ventura Blvd., Los Angeles, California, USA']	34.147693	-118.429756
+['"Adam-12" (1968) {Log 88 - Reason to Run (#3.25)}', 'Berkeley Riding Academy, 968 W. Riverside Dr., Burbank, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 88 - Reason to Run (#3.25)}', "Danny's Tacos, 12001 Ventura Pl., Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 88 - Reason to Run (#3.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 91: You\'re Not the First Guy\'s Had the Problem (#1.5)}', "Henry's Tacos, 11401 Moorpark St., Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 91: You\'re Not the First Guy\'s Had the Problem (#1.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 92: Tell Him He Pushed a Little Too Hard (#1.25)}', "Biff's, 11172 Magnolia Blvd., Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 92: Tell Him He Pushed a Little Too Hard (#1.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 93: Once a Junkie (#2.8)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Log 94: Vengeance (#2.19)}', '', "Dave Berg's Liquor and Deli, 11340 Moorpark St., Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 94: Vengeance (#2.19)}', '', 'Phillips 66, 11899 Ventura Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Log 94: Vengeance (#2.19)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Log 95: Purse Snatcher (#3.3)}', '758 Hudson Ave., Los Angeles, California, USA']	34.0255362	-117.9588253
+['"Adam-12" (1968) {Log 95: Purse Snatcher (#3.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Lost and Found (#5.4)}', '', '10663 Burbank Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Lost and Found (#5.4)}', '', '10645 Burbank Blvd., Los Angeles, California, USA']	34.1846211	-118.3206799
+['"Adam-12" (1968) {Lost and Found (#5.4)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Mary Hong Loves Tommy Chen (#4.19)}', 'Intersection of Woodbridge St and Bakman Ave, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Mary Hong Loves Tommy Chen (#4.19)}', '4295 Bakman St, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Mary Hong Loves Tommy Chen (#4.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Million Dollar Bluff (#4.2)}', '', '1765 Vista Del Mar Ave., Los Angeles, Caliornia, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Million Dollar Bluff (#4.2)}', '', '6273 Yucca Street, Los Angeles, Caliornia, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Million Dollar Bluff (#4.2)}', '', '10270 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {Million Dollar Bluff (#4.2)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Nightwatch (#5.19)}', '', '', '10651 Valley Spring Lane, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Nightwatch (#5.19)}', '', '', '4212 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Nightwatch (#5.19)}', '', '', 'El Patio Inn, 11466 Ventura Blvd., Studio City, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {Nightwatch (#5.19)}', '', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {Nightwatch (#5.19)}', '', '', 'Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Nightwatch (#5.19)}', '', '', 'Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Nightwatch (#5.19)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Nightwatch (#5.19)}', '', '', 'Van Nuys, Los Angeles, California, USA']	34.1866581	-118.448729
+['"Adam-12" (1968) {North Hollywood Division (#6.16)}', '14350 Milbank St., Sherman Oaks, California, USA']	34.15293348979592	-118.44597161224489
+['"Adam-12" (1968) {North Hollywood Division (#6.16)}', '10974 Ventura Blvd., Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Adam-12" (1968) {North Hollywood Division (#6.16)}', '20793 Ventura Blvd., Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Adam-12" (1968) {North Hollywood Division (#6.16)}', '14431 Milbank St., Los Angeles, California, USA']	34.153097	-118.44723604081632
+['"Adam-12" (1968) {North Hollywood Division (#6.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Northeast Division (#6.11)}', '', '3330 Verdugo Rd, Los Angeles, California, USA']	34.11239907142857	-118.23567632142857
+['"Adam-12" (1968) {Northeast Division (#6.11)}', '', 'Los Feliz, Los Angeles, California, USA']	34.1100408	-118.28892364093718
+['"Adam-12" (1968) {Northeast Division (#6.11)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Northeast Division (#6.11)}', '', 'Verdugo Rd & Arthur St, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {O\'Brien\'s Stand (#5.13)}', '', '2704 W. Temple St., Los Angeles, California, USA']	34.0589471	-118.24741
+['"Adam-12" (1968) {O\'Brien\'s Stand (#5.13)}', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {O\'Brien\'s Stand (#5.13)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Operation Action (#7.20)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Pick-up (#4.13)}', '', '', '8426 Mulholland Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Pick-up (#4.13)}', '', '', '8601 Edwin Dr., Los Angeles, California, USA']	34.121225	-118.38762
+['"Adam-12" (1968) {Pick-up (#4.13)}', '', '', 'Hollywood Hills, Los Angeles, California, USA']	34.1311792	-118.3355474
+['"Adam-12" (1968) {Pick-up (#4.13)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Pick-up (#4.13)}', '', '', 'Mulholland Drive, Hollywood Hills, Los Angeles, California, USA']	34.1230133	-118.3422296
+['"Adam-12" (1968) {Pick-up (#4.13)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Pick-up (#4.13)}', '', '', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Adam-12" (1968) {Point of View (#7.6)}', '', '', "Archie's Ranch Market - 7500 Lankershim Blvd, North Hollywood, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Point of View (#7.6)}', '', '', '5321 Laurel Canyon Blvd., Los Angeles, California, USA']	34.1457186	-118.3960582
+['"Adam-12" (1968) {Point of View (#7.6)}', '', '', 'Shakeys Pizza - 5321 Laurel Canyon Blvd, Valley Village, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Point of View (#7.6)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Pot Shot (#7.12)}', '', '', '4139 Laurel Canyon Blvd., North Hollywood, Los Angeles, California, USA']	34.1248993	-118.3775414
+['"Adam-12" (1968) {Pot Shot (#7.12)}', '', '', '5210 Cahuenga Blvd., Los Angeles, California, USA']	34.1435783	-118.361495
+['"Adam-12" (1968) {Pot Shot (#7.12)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Pressure Point (#7.15)}', '', '11650 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {Pressure Point (#7.15)}', '', '10635 Bloomfield St., Los Angeles, California, USA']	34.149688653061226	-118.36226334693878
+['"Adam-12" (1968) {Pressure Point (#7.15)}', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Adam-12" (1968) {Pressure Point (#7.15)}', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Adam-12" (1968) {Pressure Point (#7.15)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Pressure Point (#7.15)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Pressure Point (#7.15)}', '', 'Van Nuys, Los Angeles, California, USA']	34.1866581	-118.448729
+['"Adam-12" (1968) {Rampart Division: The Senior Citizens (#6.2)}', '4300 1st St. @ Humphreys Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Rampart Division: The Senior Citizens (#6.2)}', 'Hotel Barbizon, 1927 W. 6th St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Rampart Division: The Senior Citizens (#6.2)}', '502 S Westlake Ave, Los Angeles, California, USA']	34.059808	-118.2730033877551
+['"Adam-12" (1968) {Rampart Division: The Senior Citizens (#6.2)}', 'Echo Park Lake, Echo Park, Los Angeles, California, USA']	34.0730923	-118.26070946811949
+['"Adam-12" (1968) {Rampart Division: The Senior Citizens (#6.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Roll Call (#7.4)}', '', '', '10724 Bloomfield St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Roll Call (#7.4)}', '', '', '11746 Victory Blvd., Los Angeles, California, USA']	34.1833234	-118.3211715
+['"Adam-12" (1968) {Roll Call (#7.4)}', '', '', '10700 Bloomfield St., Los Angeles, California, USA']	34.149524	-118.363778
+['"Adam-12" (1968) {Roll Call (#7.4)}', '', '', '4358 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Roll Call (#7.4)}', '', '', '5424 Laurel Canyon Blvd., Los Angeles, California, USA']	34.1457186	-118.3960582
+['"Adam-12" (1968) {Roll Call (#7.4)}', '', '', '4200 Laurel Canyon Blvd., Los Angeles, California, USA']	34.146512	-118.39626
+['"Adam-12" (1968) {Roll Call (#7.4)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Routine Patrol: The Drug Store Cowboys (#6.19)}', '6012 Vineland Ave., North Hollywood, California, USA']	34.17973912244898	-118.37020348979593
+['"Adam-12" (1968) {Routine Patrol: The Drug Store Cowboys (#6.19)}', '4358 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Routine Patrol: The Drug Store Cowboys (#6.19)}', '6801 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Routine Patrol: The Drug Store Cowboys (#6.19)}', '4257 Denny Ave., Los Angeles, California, USA']	34.1477917852349	-118.36535157718122
+['"Adam-12" (1968) {Routine Patrol: The Drug Store Cowboys (#6.19)}', '6907 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {Routine Patrol: The Drug Store Cowboys (#6.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Skywatch: Part 1 (#6.21)}', '', 'Arco Plaza, 505, 555, South Flower Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Skywatch: Part 1 (#6.21)}', '', 'Los Angeles Police Department Heliport, 1000 Flower St, Glendale, California, USA']	34.1469416	-118.2478471
+['"Adam-12" (1968) {Skywatch: Part 1 (#6.21)}', '', '9977 Wornom Ave, Shadow Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Skywatch: Part 1 (#6.21)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Skywatch: Part 1 (#6.21)}', '', 'Wornom Ave & Kalua Dr, Shadow Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Skywatch: Part 2 (#6.22)}', '', 'Los Angeles Police Department Heliport, 1000 Flower St, Glendale, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Skywatch: Part 2 (#6.22)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Something Worth Dying For: Part 1 (#7.23)}', '6319 De Longore Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Something Worth Dying For: Part 1 (#7.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Something Worth Dying For: Part 2 (#7.24)}', 'Hollywood Palladium, 6215 Sunset Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Something Worth Dying For: Part 2 (#7.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', "Ted's Market, 6301 Colfax Ave., Los Angeles, California, USA"]	39.7837304	-100.4458825
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', 'Menlo Bar, 900 W. Martin Luther King, Jr. Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', 'Weddington Park South 10732-10798 Valleyheart Dr., Studio City, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', 'Laurel Grove Park, 12243 Erwin St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', 'Los Angeles Memorial Coliseum - 3911 S. Figueroa Street, Exposition Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', 'Los Feliz, Los Angeles, California, USA']	34.1100408	-118.28892364093718
+['"Adam-12" (1968) {Southwest Division (#6.13)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Substation (#4.20)}', '', '', 'Los Angeles International Airport - 1 World Way, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Suicide (#7.19)}', '', '', 'El Royale Motel - 11117 Ventura Blvd., North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Suicide (#7.19)}', '', '', 'The Orion Apartments, 4176 Arch Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Suicide (#7.19)}', '', '', '4151 Arch Dr., Los Angeles, California, USA']	34.14262926145114	-118.37208008593329
+['"Adam-12" (1968) {Suicide (#7.19)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Sunburn (#6.20)}', '', '', '11104 Weddington St., N. Hollywood, California, USA']	34.166913	-118.37273353063249
+['"Adam-12" (1968) {Sunburn (#6.20)}', '', '', 'Echo Park Lake, Echo Park, Los Angeles, California, USA']	34.0730923	-118.26070946811949
+['"Adam-12" (1968) {Sunburn (#6.20)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Suspect Number One (#7.5)}', '', '17 Toluca Estates Dr., Los Angeles, California, USA']	34.144239912052115	-118.36030998138669
+['"Adam-12" (1968) {Suspect Number One (#7.5)}', '', 'Farmers & Merchants National Bank, 104 W. 4th St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Suspect Number One (#7.5)}', '', '211 E 5th St, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Suspect Number One (#7.5)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Suspended (#5.20)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Taking It Easy (#6.17)}', '', '2704 W. Temple St., Los Angeles, California, USA']	34.0589471	-118.24741
+['"Adam-12" (1968) {Taking It Easy (#6.17)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Teamwork (#7.3)}', '', '', '400 N. San Vicente Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Teamwork (#7.3)}', '', '', '14014 Moorpark St., Los Angeles, California, USA']	34.1499364	-118.43818330598202
+['"Adam-12" (1968) {Teamwork (#7.3)}', '', '', "Tail o' the Pup - 311 N La Cienega Blvd, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Adam-12" (1968) {Teamwork (#7.3)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Adoption (#4.18)}', '', '', '10730 Riverside Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Adoption (#4.18)}', '', '', '3 Toluca Lake Drive, Toluca Estates, Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Adoption (#4.18)}', '', '', '10726 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {The Adoption (#4.18)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Chaser (#5.10)}', '', '', '4455 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {The Chaser (#5.10)}', '', '', '4000 Denny Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Chaser (#5.10)}', '', '', '15343 Vanowen St., Los Angeles, California, USA']	34.1939102	-118.4967622
+['"Adam-12" (1968) {The Chaser (#5.10)}', '', '', '6734 Sepulveda Blvd., Los Angeles, California, USA']	34.0560057	-118.4515062
+['"Adam-12" (1968) {The Chaser (#5.10)}', '', '', 'El Patio Inn, 11466 Ventura Blvd., Studio City, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {The Chaser (#5.10)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Dinosaur (#4.12)}', '', '', '11156 Morrison St., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Dinosaur (#4.12)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Ferret (#4.6)}', '', '', 'Filling station, 12265 Ventura Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Ferret (#4.6)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Ferret (#4.6)}', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {The Ferret (#4.6)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Ferret (#4.6)}', '', '', 'Ventura Blvd., Studio City, Los Angeles, California, USA']	34.1447999	-118.4118118
+['"Adam-12" (1968) {The Grandmothers (#4.3)}', '', '4217 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {The Grandmothers (#4.3)}', '', '4224 Lankershim Blvd., Los Angeles, California, USA']	34.1601021	-118.3717424
+['"Adam-12" (1968) {The Grandmothers (#4.3)}', '', '4258 Cahuenga Blvd., Toluca Lake, CA 91602']	34.1501657	-118.37809887296473
+['"Adam-12" (1968) {The Grandmothers (#4.3)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Late Baby (#5.2)}', '', '', '3354 Fryman Rd. @ Fryman Pl., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Late Baby (#5.2)}', '', '', '3482 Fryman Rd., Los Angeles, California, USA']	34.13349564034783	-118.39148167878204
+['"Adam-12" (1968) {The Late Baby (#5.2)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Parole Violator (#4.17)}', '', '10654 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {The Parole Violator (#4.17)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Princess and the Pig (#4.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Radical (#4.4)}', '', '', 'W Washington Blvd & Magnolia Ave, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Radical (#4.4)}', '', '', '10629 Valleyheart Dr., Los Angeles, California, USA']	34.14205994348236	-118.36222464336576
+['"Adam-12" (1968) {The Radical (#4.4)}', '', '', '11000-13000, Victory Boulevard, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Radical (#4.4)}', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Adam-12" (1968) {The Radical (#4.4)}', '', '', 'Hollywood Hills, Los Angeles, California, USA']	34.1311792	-118.3355474
+['"Adam-12" (1968) {The Radical (#4.4)}', '', '', 'Port of Los Angeles, Los Angeles, California, USA']	33.742765899999995	-118.26144046191327
+['"Adam-12" (1968) {The Radical (#4.4)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Radical (#4.4)}', '', '', 'Whitnall Highway, Burbank, California, USA']	34.1632741	-118.3433776
+['"Adam-12" (1968) {The Search (#4.5)}', '', '', 'Supermarket, 4304 Lankershim Blvd., Los Angeles, California, USA']	34.1400528	-118.3679456
+['"Adam-12" (1968) {The Search (#4.5)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', '13814 Ventura Blvd., Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', '4400 Tyrone Ave, Sherman Oaks, Los Angeles, California, USA']	34.151155	-118.444634
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', 'Milbank Street at Tyrone Ave, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', '14246 Moorpark Ave, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', 'Riverside Drive, Toluca Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', 'Sherman Oaks, Los Angeles, California, USA']	34.1508718	-118.4489865
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Surprise (#5.8)}', '', '', '11701 Ventura Blvd., Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', '10124 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'FUNKY FLIPPER ARCADE, 5066 Lankershim Blvd., North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'First Baptist Church of North Hollywood - 11210 Otsego St, North Hollywood, Los Angeles, California, USA']	34.1627841	-118.3750792
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'Hesby St & Fair Ave, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'Lankershim Blvd & Otsego St, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'Lankershim Boulevard, North Hollywood, Los Angeles, California, USA']	34.1373458	-118.3631183
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Sweet Smell (#6.14)}', '', 'Ventura Blvd., Sherman Oaks, Los Angeles, California, USA']	34.1490892	-118.437649
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', '10767 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', '10101 Riverside Dr., Los Anteles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', '10053 Riverside Dr., Los Angeles, California, USA']	34.1514655	-118.3303057
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', '4361 Forman Ave., Los Angeles, California, USA']	34.14971778571428	-118.35279928571428
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', '4585 N. Clybourn Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', '10000-10500 Riverside Drive, Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', 'Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Tip (#4.16)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {The Vendetta (#5.9)}', '', '', 'Alley behind Trader Joes, 10130 Riverside Dr., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {The Vendetta (#5.9)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Training Division: The Rookie (#6.8)}', '12501 Ventura Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Training Division: The Rookie (#6.8)}', '12542 Valleyheart Dr., Los Angeles, California, USA']	34.14348469416728	-118.40625374789462
+['"Adam-12" (1968) {Training Division: The Rookie (#6.8)}', 'S Wetherly Dr & Burton Way, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Training Division: The Rookie (#6.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Training Wheels (#5.5)}', '', 'AMC Dealer, 5949 Lankershim Boulevard, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Training Wheels (#5.5)}', '', 'Driving School, Ferry St. at Seaside Freeway, San Pedro, California, USA']	33.6360337	-117.625669
+['"Adam-12" (1968) {Training Wheels (#5.5)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Trouble in the Bank (#6.15)}', '', '23697 Malibu Rd., Malibu, California, USA']	34.03412383262932	-118.68835812201246
+['"Adam-12" (1968) {Trouble in the Bank (#6.15)}', '', '23712 Malibu Rd., Malibu, California, USA']	34.035591	-118.689423
+['"Adam-12" (1968) {Trouble in the Bank (#6.15)}', '', 'Malibu, California, USA']	34.035591	-118.689423
+['"Adam-12" (1968) {Trouble in the Bank (#6.15)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Truant (#4.7)}', '', '', '10152 Toluca Lake Ave., Los Angeles, California, USA']	34.14865819230769	-118.35148934615385
+['"Adam-12" (1968) {Truant (#4.7)}', '', '', '10010 Toluca Lake Ave., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Truant (#4.7)}', '', '', '10063 Toluca Lake Ave. Los Angeles, California, USA']	34.14856082758621	-118.34923620689655
+['"Adam-12" (1968) {Truant (#4.7)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Van Nuys Division: Pete\'s Mustache (#6.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Van Nuys Division: Pete\'s Mustache (#6.7)}', 'Sepulveda Basin, Los Angeles, California, USA']	34.1673227	-118.47901430549625
+['"Adam-12" (1968) {Van Nuys Division: Pete\'s Mustache (#6.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', '8105 W. Manchester Ave., Playa Del Rey, California, USA']	33.9596769	-118.4348174
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', '185 Culver Blvd, Playa del Rey, Los Angeles, California, USA']	33.958800749999995	-118.44883317312139
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', '6824 Esplanade St, Playa del Rey, Los Angeles, California, USA']	33.9608474	-118.4503633
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', 'Culver Blvd & Trolley Pl, Playa del Rey, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', 'Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', 'Playa del Rey, Los Angeles, California, USA']	33.9550828	-118.4367496
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', 'Venice Beach, Venice, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"Adam-12" (1968) {Venice Division (#6.5)}', '', 'Westchester, Los Angeles, California, USA']	33.9597349	-118.4006322
+['"Adam-12" (1968) {Victim of the Crime (#7.14)}', '', '6520 De Longpre Ave., Los Angeles, California, USA']	34.09607028571428	-118.33133128571428
+['"Adam-12" (1968) {Victim of the Crime (#7.14)}', '', 'Weinerschnitzel, 5135 Laurel Canyon Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Victim of the Crime (#7.14)}', '', '9000 Santa Monica Blvd., Los Angeles, California, USA']	34.0826019	-118.38676121065396
+['"Adam-12" (1968) {Victim of the Crime (#7.14)}', '', '875 Westbourne Dr, West Hollywood, California, USA']	34.08629104460902	-118.37972620760219
+['"Adam-12" (1968) {Victim of the Crime (#7.14)}', '', 'Huntley Dr & Santa Monica Blvd, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Adam-12" (1968) {Victim of the Crime (#7.14)}', '', 'Santa Monica Boulevard, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Victim of the Crime (#7.14)}', '', 'The Wilcox Apartments, Wilcox Ave, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Victim of the Crime (#7.14)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Wednesday Warrior (#4.24)}', '', 'Weddington Park South, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {Wednesday Warrior (#4.24)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Wednesday Warrior (#4.24)}', '', '11609 Ventura Blvd., Studio City, Los Angeles, California, USA']	34.140410051063334	-118.38494665125701
+['"Adam-12" (1968) {Wednesday Warrior (#4.24)}', '', 'Toluca Lake Estates,Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Wednesday Warrior (#4.24)}', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Adam-12" (1968) {Wednesday Warrior (#4.24)}', '', '12515 Ventura Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {Wednesday Warrior (#4.24)}', '', '4031 Riverton Ave., Los Angeles, California, USA']	34.14249618367347	-118.36587030612245
+['"Adam-12" (1968) {Wednesday Warrior (#4.24)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {West Valley Division (#6.4)}', '', 'Universal Liquors, 3769 Lankershim Blvd., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {West Valley Division (#6.4)}', '', 'Fashion Square, Sherman Oakes, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam-12" (1968) {West Valley Division (#6.4)}', '', 'Mulholland Drive, Hollywood Hills, Los Angeles, California, USA']	34.1230133	-118.3422296
+['"Adam-12" (1968) {West Valley Division (#6.4)}', '', 'Sepulvada Blvd. & Highway 101 Underpass, Van Nuys, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adam-12" (1968) {West Valley Division (#6.4)}', '', 'Sherman Oaks, Los Angeles, California, USA']	34.1508718	-118.4489865
+['"Adam-12" (1968) {West Valley Division (#6.4)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Adam-12" (1968) {Who Won? (#4.22)}', '', '', "Lion's Drag Strip, 223rd Street & Alameda Street, Wilmington, California, USA"]	33.780018	-118.2625711
+['"Adam-12" (1968) {Who Won? (#4.22)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Adorable profesor Aldao" (1968)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alegrias" (1968)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Almorzando con Mirtha Legrand" (1968) {(#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.16)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.18)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.4)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#43.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.16)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.18)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.22)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.27)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.29)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.30)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.32)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.33)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.34)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.35)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.36)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.37)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.38)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.4)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.40)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.41)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.42)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.43)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.44)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.45)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.46)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.7)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(#44.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1978-09-21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1992-07-07)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1992-08-25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1994-07-22)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1995-07-31)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1995-09-13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1996-04-02)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1997-04-11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1997-04-21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1997-04-25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1997-06-23)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1997-09-15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1997-10-13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1998-09-08)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1998-09-17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1999-06-28)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1999-06-29)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1999-07-12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1999-07-13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1999-07-26)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1999-09-13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(1999-09-20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2000-04-11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2000-04-19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2000-05-29)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2001-05-07)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2001-12-20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2003-06-13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2003-08-08)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2004-01-13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2004-02-13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2004-03-24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2004-04-06)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2004-11-22)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2005-08-09)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2006-08-25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2006-08-28)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2007-06-12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2007-08-01)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2007-08-09)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2007-08-16)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2008-06-05)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2008-06-12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2008-07-10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2008-07-11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2008-09-04)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2008-11-05)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2008-11-08)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2009-01-06)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2009-08-12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2009-09-29)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2010-05-19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2010-05-21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2010-06-15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2010-08-31)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2010-10-11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {(2010-11-24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Adri�n Suar and Guillermo Francella}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Alc�n/Echarri/Puig/Estevanez}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Alfredo Alc�n/Guillermo Francella}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Alfredo Alc�n/Nicol�s Cabr�}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Antonio Banderas and Melanie Griffith}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Antonio Gasalla and Enrique Pinti (#42.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Arias/L�pez/Oteyza/Maestro}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Cris Morena and Chiquititas}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Daniel Scioli and Karina Rabolini}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Dar�n/Palacios/Mart�nez}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {De la Vega/Mazzocco/Hanglin/Serra Lima}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Diego Brancatelli/Tom�s Bulat/Dar�o Lopilato/Luisana Lopilato/Oscar Mart�nez/Arturo Puig (#44.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Dufau/C�rpena/Biral/Pons}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Enrique Pinti and Antonio Gasalla}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Enrique Pinti and Flor de la V}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Enrique Pinti and Moria Cas�n}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Enrique Pinti and Ricardo Dar�n (#41.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Fernando Pe�a}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Florencia de la V}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Gabriela Spanic}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Georgina Barbarossa/Alberto Cormillot/Mauro Szeta/Nazarena V�lez (#43.7)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Gimena Accardi/Hern�n Drago/Brenda Gandini/Pablo Sirven/Gustavo Sylvestre/Nazarena V�lez (#44.26)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Gisela Bernal/Fernando Burlando/Sergio Denis/Flavio Mendoza/Guillermo Montenegro/Noelia Pompa (#44.15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Graciela Alfano/Silvia Fern�ndez Barrio/Dar�o Giustozzi/Graciela Oca�a/Gabriela Arias Uriburu (#43.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Griselda Siciliani/Ismael Cala/Anal�a Franch�n/Lorena Maciel/Facundo Manes/Virginia Gallardo (#44.28)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Ingrid Betacourt}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Julio Iglesias}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Marcelo Tinelli}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Mariano Mart�nez}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Mart�n Karadagian/Las Trilllizas de Oro/Pablo Codevilla}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Maru Botana and Mariana Fabbiani}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Mauricio Macri}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Nacho Viale/Juana Viale}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Osvaldo Baz�n/Ivo Cutzarida/Zulma Faiad/Andrea Ghidone/Mauro Szeta/Mar�a Eugenia Vidal (#44.25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Pablo Echarri}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Peleritti/Pauls/Carri�/Aleandro}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Peretti/Villamil/Dopazo/Milone/Yerbabuena}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Ricardo Casal/Florencia Etcheves/Juan Gabriel Labak�/Zulemita Menem/Barbie Simons/Zulema Yoma (#44.23)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Rodrigo Alegre/Juan Carr/Miriam Lanzoni/Horacio Rodr�guez Larreta/Hern�n Piqu�n/Diego Reinhold (#44.19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Sergio Massa/Mariano I�dica/Jonatan Viale/Bel�n Francese/Cecilia Figaredo/Marcela Tinayre (#44.39)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Silvia Fern�ndez Barrio/Luis Bremer/Eduardo Feinmann/Alex Freyre/Jairo/Daniela Urzi (#44.31)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Soria/Wornat/Flores/G�mez}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Sosa/Heredia/Carabajal/Pintos/Gieco}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Susana Gim�nez y Sergio Denis}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The "Valientes"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Amo De Casa"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Atracci�n x4"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Botineras"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "CQC"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Casados Con Hijos"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Chiquititas"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Closer"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Dromo"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "El baile de la Victoria"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "El secreto de sus ojos"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "El tiempo no para"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Frecuencia 04"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Guapas" (#44.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "La se�al"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Lalola"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Las viudas de los jueves"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Los Exitosos Pells"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Malparida"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Montecristo"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "M�s respeto que soy tu madre"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Pap� por un d�a"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Rey Lear"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Socias"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Son De Fierro"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Cast of "Tocar El Cielo"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Female Cast of Los Rold�n}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {The Young Cast of "Los Rold�n"}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Thelma Biral/Sergio Dalma/Elisabetta Piqu�/Ludovica Squirru/Pata Villanueva (#43.17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorzando con Mirtha Legrand" (1968) {Ver�nica Castro}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animal World" (1968) {Adventure Antarctica}', '', 'McMurdo Sound, Antarctica']	-79.4063075	0.3149312
+['"Animal World" (1968) {Alligator Adventure}', '', 'Florida, USA']	27.7567667	-81.4639835
+['"Animal World" (1968) {Amboseli: Struggle for Survival}', 'Amboseli National Park, Kenya']	1.4419683	38.4313975
+['"Animal World" (1968) {Animal Orphans}', '', '', 'Nairobi, Kenya']	1.4419683	38.4313975
+['"Animal World" (1968) {Bee People}', '', '', 'University of Arizona, Tucson, Arizona, USA']	32.22877495	-110.9768841153795
+['"Animal World" (1968) {Creatures of the Nile}', '', 'Uganda']	1.5333554	32.2166578
+['"Animal World" (1968) {Death in the Tsavo}', '', 'Voi, Kenya']	1.4419683	38.4313975
+['"Animal World" (1968) {From Kaziranga with Love}', 'Assam, India']	26.4073841	93.2551303
+['"Animal World" (1968) {Guardian Angels}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Animal World" (1968) {Hollywood Animal Stars}', '', 'California, USA']	36.7014631	-118.7559974
+['"Animal World" (1968) {Jungle Island}', '', '', 'Barro Colorado Island, Panama']	8.559559	-81.1308434
+['"Animal World" (1968) {Land of the Kiwi}', '', 'Rotorua, Bay of Plenty, New Zealand']	-38.2457586	176.357926301078
+['"Animal World" (1968) {Land of the Yagua}', '', 'Iquitos, Peru']	-6.8699697	-75.0458515
+['"Animal World" (1968) {Life Down Under}', '', '', 'Australia']	-24.7761086	134.755
+['"Animal World" (1968) {Looney Gooney}', '', '', 'Midway Islands']	28.2417536	-177.3754308
+['"Animal World" (1968) {Ocelot}', '', '', '', 'Ecuador']	-1.3397668	-79.3666965
+['"Animal World" (1968) {Project Rhino}', '', '', 'Hluhluwe, KwaZulu-Natal, South Africa']	-28.0175	32.269167
+['"Animal World" (1968) {Return to Zululand}', '', 'KwaZulu-Natal, South Africa']	-28.503833	30.8875009
+['"Animal World" (1968) {Seals of Pribilof}', '', 'Pribilof Islands, Alaska, USA']	61.174454049999994	-149.8612874086104
+['"Animal World" (1968) {Secrets of the Desert}', '', 'California, USA']	39.7837304	-100.4458825
+['"Animal World" (1968) {The Elephants of Tsavo}', '', 'Kenya']	1.4419683	38.4313975
+['"Animal World" (1968) {The Great Migration}', '', 'Serengeti, Tanzania']	-6.5247123	35.7878438
+['"Animal World" (1968) {Trapper of the Amazon}', '', 'Leticia, Amazonas, Colombia']	-3.58082345	-70.08851628711486
+['"Animal World" (1968) {Turtles of the Sulu Sea}', '', 'Sabah, Malaysia']	5.595237	117.0051734
+['"Animal World" (1968) {Umfolozi Patrol}', '', '', 'KwaZulu-Natal, South Africa']	-28.8166236	24.991639
+['"Animal World" (1968) {Waterhole}', '', '', 'Ngulia, Kenya']	1.4419683	38.4313975
+['"Animal World" (1968) {Wayleggo, Wayleggo!}', '', 'Te Kuiti, Waikato, New Zealand']	-38.3341925	175.1657117
+['"Animal World" (1968) {Wild Burros of the West}', '', 'California, USA']	39.7837304	-100.4458825
+['"Animal World" (1968) {Winged Treasure}', '', '', 'Ecuador']	-1.3397668	-79.3666965
+['"Animal World" (1968) {World of Bees}', '', '', 'Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Animal World" (1968) {World of Storks}', '', '', 'Alsace, France']	46.603354	1.8883335
+['"Animal World" (1968) {World of Storks}', '', '', 'Altreu, Kanton Solothurn, Switzerland']	47.192634	7.44799
+['"Anything Legal Considered" (1968)', '', '', 'Sheffield, Yorkshire West Riding, England, UK']	53.5672207	-1.0814693
+['"Anything Legal Considered" (1968)', '', '', 'Ebbw Vale, Monmouthshire, Wales, UK']	51.7501058	-2.8333331
+['"Anything Legal Considered" (1968)', '', '', 'Pwllheli, Caernarfonshire, Wales, UK']	53.2907066	-3.8430031507431313
+['"Anything Legal Considered" (1968)', '', '', 'Prestatyn, Denbighshire, Wales, UK']	53.3345598	-3.4029487
+['"Anything Legal Considered" (1968) {Ebbw Vale, South Wales (#1.2)}', 'Ebbw Vale, Monmouthshire, Wales, UK']	51.7501058	-2.8333331
+['"Anything Legal Considered" (1968) {North Wales (#1.3)}', 'Butlins Holiday Camp, Pwllheli, Caernarfonshire, Wales, UK']	53.2907066	-3.8430031507431313
+['"Anything Legal Considered" (1968) {North Wales (#1.3)}', 'Pontins Holiday Camp, Prestatyn, Denbighshire, Wales, UK']	54.7023545	-3.2765753
+['"Anything Legal Considered" (1968) {Sheffield (#1.1)}', 'Sheffield, Yorkshire West Riding, England, UK']	53.5672207	-1.0814693
+['"Anything Legal Considered" (1968) {The North-East (#1.4)}', 'Newcastle-upon-Tyne, Northumberland, England, UK']	55.25	-2.000559
+['"Anything Legal Considered" (1968) {The North-East (#1.4)}', 'Sunderland, County Durham, England, UK']	54.666667	-1.75
+['"Aquaman" (1968) {Goliaths of the Deep-Sea Gorge/The Sinister Sea Scamp/Take a Giant Step (#1.11)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {In Captain Cuda\'s Clutches/The Mirror-Man from the Planet Imago/Peril from Pluto (#1.13)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {Menace of the Black Manta/The Rampaging Reptile-Men/Between Two Armies (#1.1)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {Programmed by Destruction/The War of the Quatix and the Bimphars/Evil Is as Evil Does (#1.16)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Devil Fish/The Sea Scavengers/To Catch a Blue Bolt (#1.12)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Ice Dragon/The Deadly Drillers/The Plant Master (#1.5)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Onslaught on the Octomen/Treacherous Is the Torpedoman/The Monster Machine (#1.7)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Return of Nepto/The Fiery Invaders/Target Earth (#1.2)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Satanic Saturnians/The Brain, the Brave and the Bold/The Space Beast Round-Up (#1.8)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Sea Raiders/War of the Water Worlds/Bad Day on Black Mountain (#1.3)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Sea Sorcerer/The Sea-Snares of Captain Sly/A Visit to Venus (#1.14)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Silver Sphere/To Catch a Fisherman/Sirena, Empress of Evil (#1.18)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Stickman of Stygia/Three Wishes to Trouble/The Vanishing World (#1.17)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Trio of Terror/The Torp, the Magneto, and the Claw/The Chemo-Creature (#1.10)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Undersea Trojan Horse/The Vicious Villainy of Vassa/The Twenty-Third Dimension (#1.15)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {The Volcanic Monster/The Crimson Monster from the Pink Pool/Invasion of the Beetle Men (#1.4)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {Vassa - Queen of the Mermen/The Microscopic Monsters/The House of Doom (#1.6)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aquaman" (1968) {Where Lurks the Fisherman/Mephisto\'s Marine Marauders/Operation Rescue (#1.9)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Aurelia" (1968)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Banpaiya" (1968)', '', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Beat the Odds" (1968)', '', '', '', '', 'KCOP Television - 915 N. LaBrea Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Our Control" (1968)', '', '', '', 'University of Notre Dame, South Bend, Indiana, USA']	41.704567749999995	-86.23822026017265
+['"Bilder aus New Orleans" (1968)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156

@@ -1,0 +1,674 @@
+['"#2WheelzNHeelz" (2017)', '', '', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"#BreakfastClub" (2017)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"#BreakfastClub" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"#CaptchaLA" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"#Hashtag Travel UK" (2017)', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"#Hashtag Travel" (2017)', '', '', '', 'Hudson Valley, New York, USA']	41.31611085	-74.12629189225156
+['"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}', 'Cold Spring, New York, USA']	41.4200938	-73.9545831
+['"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}', 'Beacon, New York, USA']	41.504879	-73.9696822
+['"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}', 'Fishkill, New York, USA']	41.5355745	-73.898702
+['"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}', 'Wappingers Falls, New York, USA']	41.5965635	-73.9112103
+['"#Hashtag Travel" (2017) {The Hudson Valley (#1.1)}', 'Poughkeepsie, New York, USA']	41.7065779	-73.9284101
+['"#Mittelfingerspitzengef�hl" (2017)', '', '', 'Germany']	51.0834196	10.4234469
+['"#Mittelfingerspitzengef�hl" (2017)', '', '', 'The Netherlands']	52.5001698	5.7480821
+['"#Murder" (2017)', '', '', '', '', 'Knoxville, Tennessee, USA']	35.9603948	-83.9210261
+['"#VitalSignz" (2017)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"$2 Donuts" (2017)', '', '', '', '', 'Sydney, Australia']	-33.8548157	151.2164539
+['"\'Frankie & Emma\'" (2017)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"(Re)placement" (2017)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"(Un)Balanced: A Web Series" (2017)', '', '', 'Astoria, New York, USA']	40.7720145	-73.9302673
+['"01.09" (2017)', '', '', '', '', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"10,000 Hours" (2017)', '', '', '', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"10th Ave." (2017)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"10th Ave." (2017)', '', '', '', '', 'Woodside, Queens, New York City, New York, USA']	40.7453798	-73.9054145
+['"10th Ave." (2017) {Pilot (#1.1)}', '', '', "Hell's Kitchen, Manhattan, New York City, New York, USA"]	40.7644228	-73.9923918
+['"10th Ave." (2017) {The Italians (#1.2)}', '', "Hell's Kitchen, New York City, New York, USA"]	40.7644228	-73.9923918
+['"13 Reasons Why" (2017)', '', '', '', '', 'Mare Island, Vallejo, California, USA']	38.0954755	-122.2724704
+['"13 Reasons Why" (2017)', '', '', '', '', 'Corte Madera, California, USA']	37.9254806	-122.5274755
+['"13 Reasons Why" (2017)', '', '', '', '', 'Larkspur, California, USA']	37.9340915	-122.5352539
+['"13 Reasons Why" (2017)', '', '', '', '', 'Mount Diablo, California, USA']	37.8816585	-121.9142611
+['"13 Reasons Why" (2017)', '', '', '', '', 'Fernwood Cemetery, Mill Valley, California, USA']	39.7837304	-100.4458825
+['"13 Reasons Why" (2017)', '', '', '', '', 'Analy High School - 6950 Analy Avenue, Sebastopol, California, USA']	38.3845125	-122.8332501583744
+['"13 Reasons Why" (2017)', '', '', '', '', '415 Virginia Street, Vallejo, California, USA']	38.102009025423726	-122.2552046440678
+['"13 Reasons Why" (2017)', '', '', '', '', '333 Georgia Street, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017)', '', '', '', '', '419 Georgia Street, Vallejo, California, USA']	38.10103169387755	-122.25623224489796
+['"13 Reasons Why" (2017)', '', '', '', '', 'Deer Creek Village - 429 N McDowell Blvd, Petaluma, California, USA']	38.270022	-122.60612241304348
+['"13 Reasons Why" (2017)', '', '', '', '', '231 Bayview Street, San Rafael, California, USA']	37.96767344777568	-122.53365003157839
+['"13 Reasons Why" (2017)', '', '', '', '', 'Belvedere, California, USA']	37.8727044	-122.4644171
+['"13 Reasons Why" (2017)', '', '', '', '', 'Crockett, California, USA']	38.0525612	-122.2202603
+['"13 Reasons Why" (2017)', '', '', '', '', 'Martinez, California, USA']	38.0138934	-122.1338674
+['"13 Reasons Why" (2017) {Tape 1, Side A (#1.1)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 1, Side A (#1.1)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 1, Side A (#1.1)}', '', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 1, Side B (#1.2)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 1, Side B (#1.2)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 1, Side B (#1.2)}', '', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 2, Side A (#1.3)}', '', 'Deer Creek Village - 429 N McDowell Blvd, Petaluma, California, USA']	38.270022	-122.60612241304348
+['"13 Reasons Why" (2017) {Tape 2, Side A (#1.3)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 2, Side A (#1.3)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 2, Side A (#1.3)}', '', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 2, Side B (#1.4)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 2, Side B (#1.4)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 2, Side B (#1.4)}', '', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 3, Side A (#1.5)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 3, Side A (#1.5)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 3, Side A (#1.5)}', '', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 3, Side B (#1.6)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 3, Side B (#1.6)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 3, Side B (#1.6)}', '', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 4, Side A (#1.7)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 4, Side A (#1.7)}', '', 'Mare Island, Vallejo, California, USA']	38.0954755	-122.2724704
+['"13 Reasons Why" (2017) {Tape 4, Side A (#1.7)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 4, Side A (#1.7)}', '', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 4, Side B (#1.8)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 4, Side B (#1.8)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 4, Side B (#1.8)}', '', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 5, Side A (#1.9)}', '', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 5, Side A (#1.9)}', '', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 5, Side A (#1.9)}', '', 'Film Mare Island, Vallejo, California, USA']	39.7837304	-100.4458825
+['"13 Reasons Why" (2017) {Tape 5, Side B (#1.10)}', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 5, Side B (#1.10)}', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 5, Side B (#1.10)}', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 6, Side A (#1.11)}', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 6, Side A (#1.11)}', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 6, Side A (#1.11)}', 'Film Mare Island, Vallejo, California, USA']	39.7837304	-100.4458825
+['"13 Reasons Why" (2017) {Tape 6, Side B (#1.12)}', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 6, Side B (#1.12)}', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 6, Side B (#1.12)}', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"13 Reasons Why" (2017) {Tape 7, Side A (#1.13)}', 'San Rafael, California, USA']	37.9735346	-122.5310874
+['"13 Reasons Why" (2017) {Tape 7, Side A (#1.13)}', 'Analy High School, Sebastopol, California US']	38.407358	-122.82468501355999
+['"13 Reasons Why" (2017) {Tape 7, Side A (#1.13)}', 'Film Mare Island, Vallejo, California, USA']	38.1040864	-122.2566367
+['"138 Escape" (2017)', '', '', '', '', 'Mynydd Isa, Flintshire, Wales, UK']	53.2164468	-3.1401395293792307
+['"138 Escape" (2017)', '', '', '', '', 'Sychdyn, Flintshire, Wales, UK']	53.1883306	-3.1351322
+['"138 Escape" (2017)', '', '', '', '', 'Liverpool, England, UK']	53.407154	-2.991665
+['"138 Escape" (2017)', '', '', '', '', 'Manchester, England, UK']	53.4794892	-2.2451148
+['"1491: The Untold Story of the Americas Before Columbus" (2017)', 'Victoria, British Columbia, Canada']	48.4283182	-123.3649533
+['"1491: The Untold Story of the Americas Before Columbus" (2017)', 'Kamloops, British Columbia, Canada']	50.6758269	-120.3394159
+['"1491: The Untold Story of the Americas Before Columbus" (2017)', 'Peru']	-6.8699697	-75.0458515
+['"2 gars 30 jours" (2017) {I\'ll Be Back (#1.14)}', '', 'New York, USA']	40.7127281	-74.0060152
+['"2 gars 30 jours" (2017) {I\'ll Be Back (#1.14)}', '', 'Montreal, Qu�bec, Canada']	61.0666922	-107.9917071
+['"200 Million Years Old Classmate" (2017)', '', 'Beijing, China']	35.000074	104.999927
+['"200 Million Years Old Classmate" (2017)', '', 'Qingdao, China']	36.0638034	120.3781372
+['"2017 World Series" (2017) {Game 1 (#1.1)}', '', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2017 World Series" (2017) {Game 2 (#1.2)}', '', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2017 World Series" (2017) {Game 3 (#1.3)}', '', 'Minute Maid Park - 501 Crawford Street, Houston, Texas, USA']	29.75723205	-95.35523391491142
+['"2017 World Series" (2017) {Game 4 (#1.4)}', '', 'Minute Maid Park - 501 Crawford Street, Houston, Texas, USA']	29.75723205	-95.35523391491142
+['"2017 World Series" (2017) {Game 5 (#1.5)}', '', 'Minute Maid Park - 501 Crawford Street, Houston, Texas, USA']	29.75723205	-95.35523391491142
+['"2017 World Series" (2017) {Game 6 (#1.6)}', '', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2017 World Series" (2017) {Game 7 (#1.7)}', '', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2Real4U" (2017)', '', '', '', '', '2214 Mahoning Ave, Youngstown, Ohio, USA']	41.10280342857143	-80.69340700000001
+['"2Real4U" (2017)', '', '', '', '', '2905 Glenwood Ave, Youngstown, Ohio, USA']	41.07039648979592	-80.67517979591837
+['"2Real4U" (2017)', '', '', '', '', '751 Harlem Street, Youngstown, Ohio, USA']	41.11404236734694	-80.66118769387755
+['"2Real4U" (2017)', '', '', '', '', '3330 South Ave, Youngstown, Ohio, USA']	41.1035786	-80.6520161
+['"2nd Chance" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2nd Time Around" (2017)', '', '', '', '7900 Haskell Ave, Van Nuys, CA 91406']	34.21390310067679	-118.47483889800297
+['"3 Degrees" (2017) {Demon Protocol (#1.1)}', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"30 Seconds in Paris" (2017)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"30 Seconds in Paris" (2017)', '', '', '', 'Le Gibus, Paris, France']	48.8682496	2.3663122
+['"30 and Booked" (2017)', '', '', '', '', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"3D Print the Future" (2017)', '', '', '', '601 N Tryon St, Charlotte, North Carolina, USA']	35.2888061	-80.7584139
+['"48 Steps" (2017)', '', '', '', '', 'North Hollywood, California, USA']	34.1729044	-118.3740371
+['"48 Steps" (2017)', '', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"4Play" (2017)', '', '', '', '', '', 'Porto, Portugal']	41.1494512	-8.6107884
+['"52 Dage som hjeml�s" (2017)', '', '', '', 'Copenhagen, Denmark']	55.6867243	12.5700724
+['"5vor12" (2017)', '', '', '', '', '', 'Bayrischzell, Bavaria, Germany']	47.6737001	12.0148837
+['"600 Bottles of Wine" (2017)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"702" (2017)', '', '', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"7YUZ" (2017)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"99 Problems" (2017) {Here Be Dragons (#1.1)}', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"9JKL" (2017)', '', '', '', '', '', 'Stage 2, CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"A Beautiful Cruel Thing" (2017)', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"A Bedroom Boy\'s Best" (2017)', '', '', '', 'Tyler, Texas, USA']	32.3512601	-95.3010624
+['"A Billion to One" (2017) {First in Line (#1.1)}', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"A Billion to One" (2017) {First in Line (#1.1)}', 'Lyon, France']	45.7578137	4.8320114
+['"A Billion to One" (2017) {First in Line (#1.1)}', 'Dubai, UAE']	25.0657	55.1713
+['"A Billion to One" (2017) {First in Line (#1.1)}', 'Dhaka, Bangladesh']	24.4768783	90.2932426
+['"A Blind Eye" (2017)', '', '', '', '', 'Southern Arizona, Arizona, USA']	32.534836	-111.4397818
+['"A Blind Eye" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Cria��o" (2017)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Dirty Filmmaker PSA" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Escola dos Misterios" (2017)', '', '', '', 'Chapada dos Veadeiros, Goi�s, Brazil']	-10.3333333	-53.2
+['"A Fam�lia Ventura" (2017)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Five Star Option" (2017)', '', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"A Grande Viagem" (2017)', '', '', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Guide to Dating" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Guide to Grocery Shopping" (2017)', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"A Herdeira" (2017)', '', '', '', '', 'Pa�o de Lanheses, Viana do Castelo, Portugal']	40.0332629	-7.8896263
+['"A Herdeira" (2017)', '', '', '', '', 'Rua Manuel Espregueira 100, Viana do Castelo, Portugal']	41.6871511	-8.7896606
+['"A Herdeira" (2017)', '', '', '', '', 'Rande Regueiras, Redondela, Pontevedra, Spain']	42.2737863	-8.6163998
+['"A Herdeira" (2017)', '', '', '', '', 'La Morante Art Bar, Esterito, La Paz, Mexico']	19.4326296	-99.1331785
+['"A Herdeira" (2017)', '', '', '', '', 'Largo de S�o Domingos, Viana do Castelo, Portugal']	40.0332629	-7.8896263
+['"A Herdeira" (2017)', '', '', '', '', 'Largo de S�o Domingos, Viana do Castelo, Portugal']	40.0332629	-7.8896263
+['"A Herdeira" (2017)', '', '', '', '', 'Largo de S�o Domingos 54, Viana do Castelo, Portugal']	40.0332629	-7.8896263
+['"A Herdeira" (2017)', '', '', '', '', 'Lugar Sar, 100, Pontevedra, Spain']	42.4318876	-8.6431592
+['"A Herdeira" (2017)', '', '', '', '', 'Restaurante Asturias, Viana do Castelo, Portugal']	40.0332629	-7.8896263
+['"A Herdeira" (2017)', '', '', '', '', 'Preg�o Beija Flor, Viana do Castelo, Portugal']	40.0332629	-7.8896263
+['"A Hundred Indecisions" (2017)', '', '', '', 'New Jersey, USA']	39.7837304	-100.4458825
+['"A Just Cause" (2017)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"A Series of Unfortunate Events" (2017)', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Bad Beginning: Part One (#1.1)}', 'Vancouver , British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Bad Beginning: Part One (#1.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Bad Beginning: Part Two (#1.2)}', 'Vancouver , British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Bad Beginning: Part Two (#1.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Miserable Mill: Part One (#1.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Miserable Mill: Part Two (#1.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Reptile Room: Part One (#1.3)}', 'Vancouver , British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Reptile Room: Part One (#1.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Reptile Room: Part Two (#1.4)}', 'Vancouver , British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Reptile Room: Part Two (#1.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Wide Window: Part One (#1.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Series of Unfortunate Events" (2017) {The Wide Window: Part Two (#1.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A Spooky Ghost: Preparing for Exam" (2017)', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Study in Red Trilogy" (2017)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A Tale of Two Sisters" (2017)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"A Tale of Two Sisters" (2017)', '', '', '', 'Vermont, USA']	44.5990718	-72.5002608
+['"A Very British Hotel" (2017)', '', '', '', 'Mandarin Oriental Hotel, Hyde Park, London, England, UK']	51.5073219	-0.1276474
+['"A glimpse insight into the mind of Charlie Baker" (2017)', 'Salzburg, Salzburg, Austria']	47.7981346	13.0464806
+['"A mi kis falunk" (2017)', '', '', '', 'Pilisszentl�lek, Esztergom, Hungary']	47.1817585	19.5060937
+['"A mi kis falunk" (2017) {A halast� (#1.3)}', '', 'Pilisszentl�lek, Hungary']	47.1817585	19.5060937
+['"A mi kis falunk" (2017) {A kamion (#1.2)}', '', 'Pilisszentl�lek, Hungary']	47.1817585	19.5060937
+['"A mi kis falunk" (2017) {A k�rforgalom (#1.6)}', '', 'Pilisszentl�lek, Hungary']	47.1817585	19.5060937
+['"A mi kis falunk" (2017) {A p�kernap (#1.7)}', '', 'Pilisszentl�lek, Hungary']	47.1817585	19.5060937
+['"A mi kis falunk" (2017) {A riv�lisok (#1.8)}', '', 'Pilisszentl�lek, Esztergom, Hungary']	47.1817585	19.5060937
+['"A mi kis falunk" (2017) {A strand (#1.5)}', '', 'Pilisszentl�lek, Hungary']	47.1817585	19.5060937
+['"A mi kis falunk" (2017) {A vaddiszn� (#1.4)}', '', 'Pilisszentl�lek, Hungary']	47.1817585	19.5060937
+['"A mi kis falunk" (2017) {A v�laszt�s (#1.1)}', '', 'Pilisszentl�lek, Hungary']	47.1817585	19.5060937
+['"ACTIV888" (2017)', '', '', '', '', 'Venice California, USA']	33.995044	-118.4668875
+['"ADR TV" (2017)', '', '', '', '', '', 'Ciudad Aut�noma de Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"AM:PM" (2017)', '', '', '', '', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"Aallonmurtaja" (2017)', '', '', '', '', 'Kotka, Finland']	60.4674228	26.9450844
+['"Aallonmurtaja" (2017)', '', '', '', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Abandoned: Hide and Seek" (2017)', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Abandoned: Hide and Seek" (2017)', '', '', 'New South Wales, Australia']	-31.8759835	147.2869493
+['"Abismo" (2017)', '', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Absentia" (2017)', '', '', '', '', 'Sofia, Bulgaria']	42.6978634	23.3221789
+['"Abstract: The Art of Design" (2017) {Bjarke Ingels: Architecture (#1.4)}', 'VIA 57 WEST, 625 W 57th St, Manhattan, New York City, New York, USA']	40.77149655	-73.99359319047188
+['"Abstract: The Art of Design" (2017) {Bjarke Ingels: Architecture (#1.4)}', 'Copenhagen, Denmark']	55.6867243	12.5700724
+['"Abstract: The Art of Design" (2017) {Bjarke Ingels: Architecture (#1.4)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Acceptable Risk" (2017)', '', '', '', 'Dublin, Ireland']	53.3497645	-6.2602732
+['"Acceptable Risk" (2017)', '', '', '', 'Wicklow, Ireland']	52.865196	-7.9794599
+['"Acceptable Risk" (2017)', '', '', '', 'Montreal, Canada']	45.4972159	-73.6103642
+['"Access All Areas" (2017)', '', '', '', 'Snowdonia National Park, Snowdonia, Gwynedd, Wales, UK']	54.7023545	-3.2765753
+['"Ace Micheals Interviews" (2017)', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Ackley Bridge" (2017)', '', '', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Ackley Bridge" (2017)', '', '', '', '', 'Bradford Ice Arena, Bradford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Acting Master Class" (2017)', '', '', '', 'Vienna, Austria']	48.2083537	16.3725042
+['"Actress: Another Word for Waitress" (2017)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adi Efsane" (2017)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adult School Holiday" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adulthood" (2017)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adulthood" (2017) {Pilot (#1.1)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adulting" (2017/I)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adults" (2017) {(#1.1)}', '', '', '', 'Park Slope, Brooklyn, New York City, New York, USA']	40.6701033	-73.9859723
+['"Adults" (2017) {(#1.2)}', '', '', '', 'Red Hook, Brooklyn, New York City, New York, USA']	40.6751032	-74.0095841
+['"Adults" (2017) {(#1.2)}', '', '', '', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Adults" (2017) {(#1.3)}', '', '', '', 'Sunnyside, Queens, New York City, New York, USA']	40.7398242	-73.9354153
+['"Adventist Health TV" (2017)', '', '', '', 'Fort Worth, Texas, USA']	32.753177	-97.3327459
+['"Adventure Box" (2017)', '', '', '', '', 'Gooseberry Mesa, Utah, USA']	37.1416499	-113.167445
+['"Adventure Box" (2017)', '', '', '', '', 'Lambs Knoll, Utah, USA']	37.3047036	-113.109945
+['"Adventures of Bellatrix & Ayan" (2017)', '', '', 'Richmond, Virginia, USA']	37.5385087	-77.43428
+['"Adventures of Bellatrix & Ayan" (2017)', '', '', 'Hopewell, Virginia, USA']	37.3043154	-77.2872001
+['"Aerial Africa" (2017) {Kruger National Park (#1.7)}', 'Kruger National Park, South Africa']	-23.915303350000002	31.49070131950694
+['"Africans of Hollywood" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Afrishare" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After Birth Alley" (2017)', '', '', '', '613 11th Ave SW Calgary, AB, Canada']	61.0666922	-107.9917071
+['"After Curfew" (2017)', '', '', '', '', 'Lynchburg, Virginia, USA']	37.4137536	-79.1422464
+['"After Forever" (2017)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"After Hours" (2017)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"After Midnight with Ethan Steele" (2017)', '', 'St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"After Midnight with Ethan Steele" (2017)', '', 'Webster Groves, Missouri, USA']	38.592339	-90.3564329
+['"After Midnight with Ethan Steele" (2017)', '', 'Fenton, Missouri, USA']	38.5131989	-90.4400578
+['"After Oil" (2017)', '', '', '', '', 'Catskill, New York, USA']	42.2173102	-73.8645734
+['"After Trek" (2017)', '', '', '', '', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After Trek" (2017) {Context Is for Kings (#1.2)}', 'CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Afterlife" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Afterlife" (2017) {Bad Blood (#1.3)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Afterlife" (2017) {Dear Diary (#1.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Afterlife" (2017) {I Remember (#1.2)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Afterlife" (2017) {We\'ll All Be Together Soon (#1.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Afterlife" (2017) {Welcome Home (#1.1)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Age of the Living Dead" (2017) {(#1.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Age of the Living Dead" (2017) {(#1.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Age of the Living Dead" (2017) {(#1.3)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Age of the Living Dead" (2017) {(#1.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Age of the Living Dead" (2017) {(#1.5)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Age of the Living Dead" (2017) {(#1.6)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Agent Briggs" (2017)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Agenterna" (2017)', '', '', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Aggie NOW" (2017)', '', '', '', '', 'Davis, California, USA']	38.545379	-121.7445835
+['"Agora Somos 2" (2017)', '', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Agrofun" (2017)', '', '', '', '', 'Moncton, New Brunswick, Canada']	46.097995	-64.80011
+['"Ah� Afuera" (2017)', '', '', '', '', 'Patagonia, Argentina']	-44.99028505	-70.81737413544226
+['"Ai nostri" (2017)', '', '', '', '', 'Romania']	45.9852129	24.6859225
+['"Ai nostri" (2017) {Botezul (#1.2)}', '', '', 'Romania']	45.9852129	24.6859225
+['"Ai nostri" (2017) {Mostenitorul (#1.5)}', '', 'Romania']	45.9852129	24.6859225
+['"Ai nostri" (2017) {Noaptea, ca hotii! (#1.1)}', '', 'Romania']	45.9852129	24.6859225
+['"Ai nostri" (2017) {Prima rata (#1.4)}', '', '', 'Romania']	45.9852129	24.6859225
+['"Ai nostri" (2017) {Taxe si Impozite (#1.3)}', '', 'Romania']	45.9852129	24.6859225
+['"Air a\' Chan�l/Scotland\'s Canals" (2017)', '', 'Scotland, UK']	56.7861112	-4.1140518
+['"Airbnb Profile Video" (2017)', '', '', '', 'East Rutherford, New Jersey, USA']	40.833989	-74.0970865
+['"Al HaRetzef" (2017)', '', '', '', '', 'Tel Aviv, Israel']	32.0804808	34.7805274
+['"Al HaRetzef" (2017)', '', '', '', '', 'Jerusalem, Israel']	31.778345	35.2250786
+['"Al HaRetzef" (2017)', '', '', '', '', 'Haifa, Israel']	32.8191218	34.9983856
+['"Al Hayba" (2017)', '', '', '', '', 'Lebanon']	33.8750629	35.843409
+['"Alex Caine: Infiltrateur" (2017)', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Alex Caine: Infiltrateur" (2017) {Fili�re Pakistanaise (#1.3)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Alex" (2017)', '', '', '', '', '', 'Gothenburg, Sweden']	57.7072326	11.9670171
+['"Alex, Inc." (2017)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Alias Grace" (2017)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alias Grace" (2017)', '', '', '', '', 'Revival 629, 629 Eastern Avenue, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alias Grace" (2017)', '', '', '', '', 'Kingston Penitentiary, Kingston, Ontario, Canada']	44.21935025	-76.51347258278352
+['"Alias Grace" (2017) {Part 1 (#1.1)}', '', '', 'Kingston Penitentiary, Kingston, Ontario, Canada']	44.21935025	-76.51347258278352
+['"Alias Grace" (2017) {Part 2 (#1.2)}', '', '', 'Kingston Penitentiary, Kingston, Ontario, Canada']	44.21935025	-76.51347258278352
+['"Alias Grace" (2017) {Part 3 (#1.3)}', '', '', 'Kingston Penitentiary, Kingston, Ontario, Canada']	44.21935025	-76.51347258278352
+['"Alias Grace" (2017) {Part 4 (#1.4)}', '', '', 'Kingston Penitentiary, Kingston, Ontario, Canada']	44.21935025	-76.51347258278352
+['"Alias Grace" (2017) {Part 5 (#1.5)}', '', '', 'Kingston Penitentiary, Kingston, Ontario, Canada']	44.21935025	-76.51347258278352
+['"Alias Grace" (2017) {Part 6 (#1.6)}', '', '', 'Kingston Penitentiary, Kingston, Ontario, Canada']	44.21935025	-76.51347258278352
+['"Alien Experiencers" (2017)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Aliens Anonymous" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All 8" (2017)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Def Comedy" (2017)', '', '', '', '', 'Avalon Theatre, Los Angeles, California, USA']	34.1027177	-118.3269976
+['"All Night" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Shades of Suzana" (2017)', '', '', '', 'Ruma, Serbia']	45.0081327	19.8161308
+['"All Wrong" (2017)', '', '', '', '', 'Venice Beach, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"All of Me" (2017)', '', '', '', '', 'Melbourne, Australia']	-24.7761086	134.755
+['"All of Me" (2017) {All of Me Exercising (#1.2)}', 'St Kilda, Victoria, Australia']	-37.8638261	144.981637
+['"All of Me" (2017) {All of Me Socializing (#1.7)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"All of Me" (2017) {All of Me at a Job Interview (#1.1)}', 'Fitzroy, Melbourne, Victoria, Australia']	-24.7761086	134.755
+['"Alliance" (2017)', '', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Allie & Lara Make a Horror Movie" (2017)', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Almost Naked" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Naked" (2017)', '', '', '', '', 'Palos Verdes, California, USA']	33.7483311	-118.3707683
+['"Altai 30 p�iv�ss�" (2017) {H�rm�l�isen Homo sapiensin kaksoisolento (#1.5)}', 'Barnaul, Altai Krai, Russia']	53.347402	83.7784496
+['"Altai 30 p�iv�ss�" (2017) {H�rm�l�isen Homo sapiensin kaksoisolento (#1.5)}', 'Belokuriha, Altai Krai, Russia']	64.6863136	97.7453061
+['"Altai 30 p�iv�ss�" (2017) {Islamilainen ramadan-siunaus (#1.6)}', '�skemen, Kazakhstan']	47.2286086	65.2093197
+['"Altai 30 p�iv�ss�" (2017) {J��tik�it� ja Mars-maisemaa (#1.4)}', 'Barnaul, Altai Krai, Russia']	53.347402	83.7784496
+['"Altai 30 p�iv�ss�" (2017) {Kultaisen j�rven taika (#1.2)}', 'Altyn-K�l, Altai Republic, Russia']	64.6863136	97.7453061
+['"Altai 30 p�iv�ss�" (2017) {Kultaisen j�rven taika (#1.2)}', 'Lake Teletskoye, Altai Republic, Russia']	51.57442575	87.66520319533117
+['"Altai 30 p�iv�ss�" (2017) {Kultaisen j�rven taika (#1.2)}', 'Askat, Altai Republic, Russia']	51.537136	85.897095
+['"Altai 30 p�iv�ss�" (2017) {Luonnonvoimien armoilla (#1.3)}', 'Kulada, Altai Republic, Russia']	50.6906416	85.7805812
+['"Altai 30 p�iv�ss�" (2017) {Luonnonvoimien armoilla (#1.3)}', 'Inya, Altai Republic, Russia']	50.454182	86.627296
+['"Altai 30 p�iv�ss�" (2017) {Mongolian Altai (#1.8)}', 'Mongolia']	46.8250388	103.8499736
+['"Altai 30 p�iv�ss�" (2017) {Mongolian Altai (#1.8)}', '�lgii, Mongolia']	46.8250388	103.8499736
+['"Altai 30 p�iv�ss�" (2017) {Muumioprinsessa (#1.1)}', 'Gorno-Altaysk, Altai Republic, Russia']	51.957775	85.963653
+['"Altai 30 p�iv�ss�" (2017) {Muumioprinsessa (#1.1)}', 'Helsinki-Vantaa Airport, Seutula, Vantaa, Finland']	60.3488797	24.8673247
+['"Altai 30 p�iv�ss�" (2017) {Muumioprinsessa (#1.1)}', 'Altyn-K�l, Altai Republic, Russia']	64.6863136	97.7453061
+['"Altai 30 p�iv�ss�" (2017) {Muumioprinsessa (#1.1)}', 'Lake Teletskoye, Altai Republic, Russia']	51.57442575	87.66520319533117
+['"Altai 30 p�iv�ss�" (2017) {Rallia lumihuippujen keskell� (#1.7)}', 'Ridder, Kazakhstan']	50.338932	83.506157
+['"Alternatives" (2017)', '', '', '', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Am I Perfect?" (2017)', '', '', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"Amacing Race 29" (2017)', '', '', '', '�lesund Airport, �lesund, M�re og Romsdal, Norway']	60.5000209	9.0999715
+['"Amanda ja pelimiehet" (2017) {Chicago (#1.8)}', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Amanda ja pelimiehet" (2017) {Chicago (#1.8)}', '', 'Green Mill - 4802 N. Broadway Avenue, Uptown, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Amanda ja pelimiehet" (2017) {Chicago (#1.8)}', '', 'Rockford, Illinois, USA']	42.2713945	-89.093966
+['"Amanda ja pelimiehet" (2017) {Columbus (#1.9)}', '', 'Columbus, Ohio, USA']	39.9622601	-83.0007065
+['"Amanda ja pelimiehet" (2017) {Columbus (#1.9)}', '', 'Cleveland, Ohio, USA']	41.5051613	-81.6934446
+['"Amanda ja pelimiehet" (2017) {Dallas (#1.2)}', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Amanda ja pelimiehet" (2017) {Magnitogorsk (#1.7)}', 'Magnitogorsk, Russia']	53.42542665	59.05102287339135
+['"Amanda ja pelimiehet" (2017) {Miami (#1.1)}', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Amanda ja pelimiehet" (2017) {Minnesota (#1.6)}', 'St. Paul, Minnesota, USA']	44.9504037	-93.1015026
+['"Amanda ja pelimiehet" (2017) {Minnesota (#1.6)}', 'Mall of America, Bloomington, Minnesota, USA']	44.8322405	-93.3204872
+['"Amanda ja pelimiehet" (2017) {Moskova (#1.10)}', '', 'GUM Department Store, Moscow, Russia']	55.754693599999996	37.621455538022964
+['"Amanda ja pelimiehet" (2017) {Moskova (#1.10)}', '', 'Red Square, Kitai-gorod, Tverskoy District, Moscow, Russia']	55.7536283	37.62137960067377
+['"Amanda ja pelimiehet" (2017) {Moskova (#1.10)}', '', 'Moscow, Russia']	64.6863136	97.7453061
+['"Amanda ja pelimiehet" (2017) {Moskova (#1.10)}', '', 'Podolsk, Moscow Oblast, Russia']	55.4308841	37.5453056
+['"Amanda ja pelimiehet" (2017) {Peking (#1.5)}', '', 'Beijing, China']	39.906217	116.3912757
+['"Amanda ja pelimiehet" (2017) {Peking (#1.5)}', '', 'Great Wall of China, China']	40.354652	116.0066357
+['"Amanda ja pelimiehet" (2017) {Pietari (#1.3)}', '', 'St. Petersburg, Russia']	64.6863136	97.7453061
+['"Amanda ja pelimiehet" (2017) {Pittsburgh (#1.4)}', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"Amber Townsend Presents" (2017)', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"Amber Townsend Presents" (2017)', '', '', 'Jailhouse Saloon Spring, Texas, USA']	30.0812543	-95.4210507
+['"American Dope" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dope" (2017)', '', '', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"American Dope" (2017)', '', '', '', '', 'Arkansas, USA']	35.2048883	-92.4479108
+['"American Dope" (2017)', '', '', '', '', 'New York City Studio, New York City, New York, USA']	39.7837304	-100.4458825
+['"American Dope" (2017)', '', '', '', '', 'Tijuana, Mexico']	32.5010188	-116.9646629
+['"American Gods" (2017)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"American Gods" (2017)', '', '', '', '', 'Cinespace Studios, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"American Gods" (2017)', '', '', '', '', 'Guelph, Ontario, Canada']	43.546557	-80.249977
+['"American Gods" (2017)', '', '', '', '', 'Oklahoma City, Oklahoma, USA']	35.4729886	-97.5170536
+['"American Gods" (2017)', '', '', '', '', 'Ponca City, Oklahoma, USA']	36.7267431	-97.0667341
+['"American Gods" (2017)', '', '', '', '', 'McAlester, Oklahoma, USA']	34.9334981	-95.7697934
+['"American Gods" (2017)', '', '', '', '', 'Cambridge, Ontario, Canada']	43.0138142	-79.2024786
+['"American Gods" (2017)', '', '', '', '', 'Newfoundland and Labrador, Canada']	53.8217327	-61.2295532
+['"American Gods" (2017) {A Murder of Gods (#1.6)}', 'Brantford, Ontario, Canada']	43.1408157	-80.2631733
+['"American Gods" (2017) {A Murder of Gods (#1.6)}', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Gods" (2017) {A Murder of Gods (#1.6)}', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Gods" (2017) {A Prayer for Mad Sweeney (#1.7)}', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Gods" (2017) {Come to Jesus (#1.8)}', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Gods" (2017) {Git Gone (#1.4)}', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Gods" (2017) {Head Full of Snow (#1.3)}', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Gods" (2017) {Lemon Scented You (#1.5)}', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Gods" (2017) {The Bone Orchard (#1.1)}', 'Global Television Studios, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"American Gods" (2017) {The Bone Orchard (#1.1)}', 'Orono, Ontario, Canada']	43.975028	-78.616447
+['"American Gods" (2017) {The Bone Orchard (#1.1)}', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Gods" (2017) {The Secret of Spoons (#1.2)}', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"American Ripper" (2017) {Black Heart, White City (#1.5)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Ripper" (2017) {Black Heart, White City (#1.5)}', 'Richard J. Daley Library, University of Illinois at Chicago, Near West Side, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Ripper" (2017) {Blood and Bone (#1.6)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Ripper" (2017) {Blood and Bone (#1.6)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"American Ripper" (2017) {Blood and Bone (#1.6)}', 'Irvington, Indianapolis, Indiana, USA']	39.770876	-86.0749843
+['"American Ripper" (2017) {Blood and Bone (#1.6)}', 'Bona Thompson Memorial Center, Irvington, Indianapolis, Indiana, USA']	39.7837304	-100.4458825
+['"American Ripper" (2017) {Devil in the Details (#1.1)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Ripper" (2017) {Devil in the Details (#1.1)}', 'Chicago Cultural Center - 78 E. Washington Street, Downtown, Chicago, Illinois, USA']	39.7837304	-100.4458825
+['"American Ripper" (2017) {Devil in the Details (#1.1)}', 'Chicago City Hall, 121 N LaSalle St, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Ripper" (2017) {Devil in the Details (#1.1)}', 'Gilmanton, New Hampshire, USA']	43.425497	-71.414566
+['"American Ripper" (2017) {Home Sweet Hell (#1.4)}', 'London, England, UK']	51.5073219	-0.1276474
+['"American Ripper" (2017) {Home Sweet Hell (#1.4)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Ripper" (2017) {Home Sweet Hell (#1.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Ripper" (2017) {Home Sweet Hell (#1.4)}', 'Evanston Public Library, Evanston, Illinois, USA']	42.0484189	-87.68000840829133
+['"American Ripper" (2017) {Home Sweet Hell (#1.4)}', 'Romeoville, Illinois, USA']	41.6475306	-88.0895061
+['"American Ripper" (2017) {No Rest for the Wicked (#1.7)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Ripper" (2017) {No Rest for the Wicked (#1.7)}', 'Irvington, Indianapolis, Indiana, USA']	39.770876	-86.0749843
+['"American Ripper" (2017) {No Rest for the Wicked (#1.7)}', 'Edison, New Jersey, USA']	40.5382375	-74.39451734508772
+['"American Ripper" (2017) {No Rest for the Wicked (#1.7)}', 'Indiana Medical History Museum, Indianapolis, Indiana, USA']	39.7683331	-86.1583502
+['"American Ripper" (2017) {No Rest for the Wicked (#1.7)}', 'Eastern State Penitentiary - 2027 Fairmount Ave, Philadelphia, Pennsylvania, USA']	39.9683436	-75.17265384525605
+['"American Ripper" (2017) {The Butcher\'s Blade (#1.2)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Ripper" (2017) {The Butcher\'s Blade (#1.2)}', "King's College London, London, England, UK"]	51.5073219	-0.1276474
+['"American Ripper" (2017) {The Butcher\'s Blade (#1.2)}', 'London, England, UK']	51.5073219	-0.1276474
+['"American Ripper" (2017) {The Butcher\'s Blade (#1.2)}', 'Whitechapel, London, England, UK']	51.5186227	-0.0620807
+['"American Ripper" (2017) {The Grave (#1.8)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"American Ripper" (2017) {The Grave (#1.8)}', '', 'Holy Cross Cemetery, Yeadon, Pennsylvania, USA']	39.9390017	-75.2554605
+['"American Ripper" (2017) {Whitechapel Runs Red (#1.3)}', 'London, England, UK']	51.5073219	-0.1276474
+['"American Ripper" (2017) {Whitechapel Runs Red (#1.3)}', "King's College London, London, England, UK"]	51.5060001	-0.1121582948025203
+['"American Roots Outdoors with Alex Rutledge" (2017)', 'Birch Tree, Missouri, USA']	36.9911648	-91.4926376
+['"American Songbook at NJPAC Hosted by Michael Feinstein" (2017)', 'Victoria Theater, New Jersey Performing Arts Center, Newark, New Jersey, USA']	39.7837304	-100.4458825
+['"American Songbook at NJPAC Hosted by Michael Feinstein" (2017) {(#4.3)}', 'New Jersey Performing Arts Center, Newark, New Jersey, USA']	40.74021385	-74.16738180048264
+['"American Vandal" (2017)', '', '', '', 'Palisades Charter High School, 15777 Bowdoin St, Pacific Palisades, California, USA']	34.04684965	-118.53154105240442
+['"American Vandal" (2017) {A Limp Alibi (#1.2)}', '', 'Pacific Palisades, Los Angeles, California, USA']	34.0424134	-118.5409551
+['"American Vandal" (2017) {A Limp Alibi (#1.2)}', '', 'Venice, Los Angeles, California, USA']	33.995044	-118.4668875
+['"American Vandal" (2017) {A Limp Alibi (#1.2)}', '', 'Palisades Charter High School, 15777 Bowdoin St, Pacific Palisades, California, USA']	34.0424134	-118.5409551
+['"American Vandal" (2017) {A Limp Alibi (#1.2)}', '', 'Palisades, California, USA']	32.974109	-117.0493669
+['"American Vandal" (2017) {A Limp Alibi (#1.2)}', '', 'Palisades Charter High School, 15777 Bowdoin St, Pacific Palisades, California, USA']	34.04684965	-118.53154105240442
+['"American Vandal" (2017) {A Limp Alibi (#1.2)}', '', 'Palisades Charter High School, 15777 Bowdoin St, Pacific Palisades, California, USA']	34.04684965	-118.53154105240442
+['"American Vandal" (2017) {Clean Up (#1.8)}', '', 'Pacific Palisades, Los Angeles, California, USA']	34.0424134	-118.5409551
+['"American Vandal" (2017) {Clean Up (#1.8)}', '', 'Venice, Los Angeles, California, USA']	33.995044	-118.4668875
+['"American Vandal" (2017) {Clean Up (#1.8)}', '', 'Palisades Charter High School, 15777 Bowdoin St, Pacific Palisades, California, USA']	34.0424134	-118.5409551
+['"American Vandal" (2017) {Clean Up (#1.8)}', '', 'Palisades, California, USA']	32.974109	-117.0493669
+['"American Vandal" (2017) {Clean Up (#1.8)}', '', 'Palisades Charter High School, 15777 Bowdoin St, Pacific Palisades, California, USA']	34.04684965	-118.53154105240442
+['"American Vandal" (2017) {Clean Up (#1.8)}', '', 'Palisades Charter High School, 15777 Bowdoin St, Pacific Palisades, California, USA']	34.04684965	-118.53154105240442
+['"American Vandal" (2017) {Climax (#1.7)}', '', 'Pacific Palisades, Los Angeles, California, USA']	34.0424134	-118.5409551
+['"American Vandal" (2017) {Climax (#1.7)}', '', 'Venice, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Woman" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Woman" (2017)', '', '', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Amish Firearm Academy" (2017)', '', '', '', 'Selah, Washington, USA']	46.6540065	-120.5302727
+['"Amnesia" (2017)', '', '', '', '', 'Kuwait']	29.2733964	47.4979476
+['"Amoral" (2017)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Amore pensaci tu" (2017)', '', '', '', 'Roma, Lazio, Italy']	41.8933203	12.4829321
+['"Am�lie et Compagnie" (2017)', '', '', '', 'Sudbury, Ontario, Canada']	46.49272	-80.991211
+['"An Art Lovers\' Guide" (2017)', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"An Art Lovers\' Guide" (2017)', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"An Art Lovers\' Guide" (2017)', '', '', '', 'St. Petersburg, Russia']	64.6863136	97.7453061
+['"Ana Polo Rules" (2017)', '', '', '', '', 'Doral, Florida, USA']	25.8184725	-80.35396791309786
+['"Anak Merdeka" (2017)', '', '', '', '', 'Pinewood Iskandar Malaysia Studios, Nusajaya, Malaysia']	1.40815605	103.63946127603089
+['"Anak Merdeka" (2017)', '', '', '', '', 'Johor Baru, Johor, Malaysia']	1.4953041	103.7550839
+['"Anatomy of an Antihero 2" (2017) {Malendrain (#2.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anatomy of an Antihero 2" (2017) {New Beginning (#2.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anatomy of an Antihero 2" (2017) {The Road Chosen (#2.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anatomy of an Antihero 2" (2017) {The Road Chosen (#2.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Andi Mack" (2017)', '', '', '', '', 'Wasatch Middle School, 3750 S 3100 E, Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {13 (#1.1)}', '', '', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {13 (#1.1)}', '', '', '', 'Liberty Park - 900 S 700 E, Salt Lake City, Utah, USA']	39.7837304	-100.4458825
+['"Andi Mack" (2017) {Best Surprise Ever (#1.12)}', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {Dad Influence (#1.7)}', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {Dancing in the Dark (#1.4)}', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {Dancing in the Dark (#1.4)}', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {Home Away from Home (#1.10)}', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {It\'s Not About You (#1.5)}', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {Outside the Box (#1.2)}', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {She Said, She Said (#1.6)}', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {She\'s Turning Into You (#1.9)}', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {Shhh! (#1.3)}', '', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {Terms of Embarrassment (#1.8)}', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Andi Mack" (2017) {Were We Ever? (#1.11)}', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Android Employed" (2017)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Animal Nation with Anthony Anderson" (2017)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anjelica\'s Dance Workout" (2017)', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Ankara Nation" (2017) {Uniquely Niche}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anne with an E" (2017)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Anne with an E" (2017)', '', '', '', '', 'Millbrook, Ontario, Canada']	44.1509783	-78.4474915
+['"Anne with an E" (2017)', '', '', '', '', 'Prince Edward Island, Canada']	46.3355508	-63.1466676
+['"Anne with an E" (2017) {But What Is So Headstrong as Youth? (#1.3)}', 'Westfield Heritage Village, Rockton, Ontario, Canada']	43.3198088	-80.1428933
+['"Anne with an E" (2017) {Tightly Knotted to a Similar String (#1.5)}', 'Westfield Heritage Village, Rockton, Ontario, Canada']	43.3198088	-80.1428933
+['"Anne with an E" (2017) {Wherever You Are Is My Home (#1.7)}', 'Westfield Heritage Village, Rockton, Ontario, Canada']	43.3198088	-80.1428933
+['"Anssi Kela ja isot biisit" (2017) {Sporttia ja rappiota (#1.3)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Anssi Kela ja isot biisit" (2017) {Sporttia ja rappiota (#1.3)}', 'Akun Tehdas, Yl�j�rvi, Finland']	63.2467777	25.9209164
+['"Anssi Kela ja isot biisit" (2017) {Tunteiden tulkit (#1.4)}', 'Suomenlinna, Helsinki, Finland']	60.1457064	24.9888603
+['"Anssi Kela ja isot biisit" (2017) {Tunteiden tulkit (#1.4)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Anthropology in 10 or Less" (2017)', '', '', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"Antonio: Down Under" (2017)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Antti Holma ja Maastamuuttajat" (2017) {Brasilialainen joulustressi (#1.7)}', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Antti Holma ja Maastamuuttajat" (2017) {Brasilialainen joulustressi (#1.7)}', 'Penedo, Rio de Janeiro, Brazil']	-22.4409531	-44.5240711
+['"Antti Holma ja Maastamuuttajat" (2017) {Hevari & hinttari aavikolla (#1.2)}', 'San Pedro de Atacama, El Loa, Regi�n de Antofagasta, Chile']	-31.7613365	-71.3187697
+['"Antti Holma ja Maastamuuttajat" (2017) {Kansalaisk�lvimme Bj�rck (#1.1)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Antti Holma ja Maastamuuttajat" (2017) {Parhaita paloja (#1.8)}', 'San Pedro de Atacama, El Loa, Regi�n de Antofagasta, Chile']	-31.7613365	-71.3187697
+['"Antti Holma ja Maastamuuttajat" (2017) {Parhaita paloja (#1.8)}', 'Penedo, Rio de Janeiro, Brazil']	-22.4409531	-44.5240711
+['"Antti Holma ja Maastamuuttajat" (2017) {Parhaita paloja (#1.8)}', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Antti Holma ja Maastamuuttajat" (2017) {Parhaita paloja (#1.8)}', 'Hancock, Michigan, USA']	47.126871	-88.580956
+['"Antti Holma ja Maastamuuttajat" (2017) {Parhaita paloja (#1.8)}', 'Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Antti Holma ja Maastamuuttajat" (2017) {Parhaita paloja (#1.8)}', 'Iceland']	64.9841821	-18.1059013
+['"Antti Holma ja Maastamuuttajat" (2017) {Parhaita paloja (#1.8)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Antti Holma ja Maastamuuttajat" (2017) {Parhaita paloja (#1.8)}', 'Helsinki, Finland']	63.2467777	25.9209164
+['"Antti Holma ja Maastamuuttajat" (2017) {Sasu Salinin saaret (#1.3)}', 'Gran Canaria, Canary Islands, Spain']	27.9580004	-15.6062305376665
+['"Antti Holma ja Maastamuuttajat" (2017) {Sasu Salinin saaret (#1.3)}', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	28.1373026	-15.4305696
+['"Antti Holma ja Maastamuuttajat" (2017) {Satu Islannista (#1.4)}', 'Reykjav�k, Iceland']	64.9841821	-18.1059013
+['"Antti Holma ja Maastamuuttajat" (2017) {Suomalaiset sulatusuunissa (#1.5)}', 'Hancock, Michigan, USA']	47.126871	-88.580956
+['"Apanha Se Puderes" (2017)', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"Apeulogy" (2017)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Apple Tree Yard" (2017) {(#1.1)}', '', '', 'Regency Cafe - 17-19 Regency Street, Victoria, London, England, UK']	51.5073219	-0.1276474
+['"Apple Tree Yard" (2017) {(#1.1)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Apple Tree Yard" (2017) {(#1.2)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Apple Tree Yard" (2017) {(#1.3)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Apple Tree Yard" (2017) {(#1.4)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Aqu� sin para�so" (2017) {El reencuentro (#1.1)}', 'Gij�n, Asturias, Spain']	39.3262345	-4.8380649
+['"Aqu� sin para�so" (2017) {El reencuentro (#1.1)}', 'Oviedo, Asturias, Spain']	43.3533424	-5.879514339526834
+['"Architects of Hip Hop" (2017)', '', '', '', 'Full Sail University Studios 3300 University Blvd. Winter Park, Florida, USA']	39.7837304	-100.4458825
+['"Architects of Hip Hop" (2017)', '', '', '', 'Full Sail University Studios 3300 University Blvd. Winter Park, Florida, USA']	39.7837304	-100.4458825
+['"Arkansas Traveler" (2017)', '', '', '', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"Arkham: Tales of the Dark Knight" (2017)', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Armchair Detectives" (2017)', '', '', '', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"Arqueologias, em busca dos primeiros brasleiros" (2017)', 'Amazon Rainforest, Brazil']	-10.3333333	-53.2
+['"Arrivals" (2017) {Prologue (#1.0)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Art Attack in VR" (2017)', '', '', '', 'Playa Vista, California, USA']	33.9727898	-118.4275776
+['"Art Is Charisma" (2017)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Art Is Charisma" (2017)', '', '', '', 'Oak Park, Illinois, USA']	41.8878145	-87.7887615
+['"Art Trileri" (2017)', '', '', '', '', 'Serbia']	44.1534121	20.55144
+['"Art Trileri" (2017)', '', '', '', '', 'Croatia']	45.5643442	17.0118954
+['"Art Trileri" (2017)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Art Trileri" (2017)', '', '', '', '', 'France']	46.603354	1.8883335
+['"Art Trileri" (2017)', '', '', '', '', 'Switzerland']	46.7985624	8.2319736
+['"Artisanal Journey with Norma Vally" (2017)', '', 'USA']	39.7837304	-100.4458825
+['"Artisanal Journey with Norma Vally" (2017)', '', 'Sardinia, Italy']	42.6384261	12.674297
+['"As the Smoke Clears" (2017)', '', '', '', 'Central Florida, USA']	30.327073849999998	-81.66235804044518
+['"Assassins" (2017)', '', '', '', '', 'Ireland']	52.865196	-7.9794599
+['"Astrid" (2017)', '', '', '', '', '', 'West Los Angeles, Los Angeles, California, USA']	34.0463986	-118.448135
+['"Atesb�cegi" (2017)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Atlantin yli" (2017) {K�ydet irti! (#1.2)}', '', 'Saint Lucia']	13.8250489	-60.975036
+['"Atlantin yli" (2017) {Maata n�kyviss�! (#1.8)}', '', 'Las Palmas de Gran Canaria, Gran Canaria, Canary Islands, Spain']	28.1373026	-15.4305696
+['"Atlas Obscura VR" (2017)', '', '', '', 'Italy']	42.6384261	12.674297
+['"Atlas Obscura VR" (2017)', '', '', '', 'Romania']	45.9852129	24.6859225
+['"Atlas Obscura VR" (2017)', '', '', '', 'California, USA']	39.7837304	-100.4458825
+['"Atlas" (2017)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Atwill at Large" (2017) {Diego & Alana (#1.5)}', '', 'Desert Hot Springs, California, USA']	33.961124	-116.5016784
+['"Atwill at Large" (2017) {Howie & Fury (#1.2)}', '', '13500 Ventura Blvd. Sherman Oaks, California, USA']	34.1476354	-118.4288347
+['"Atwill at Large" (2017) {Treasure & Tarragon (#1.4)}', '16153 Victory Boulevard Van Nuys, California, USA']	34.1866488	-118.4736539
+['"Atypical" (2017)', '', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Atypical" (2017) {Antarctica (#1.1)}', '', '', 'University of Toronto, Toronto, Ontario, Canada']	43.663461999999996	-79.39775965337452
+['"Au coeur d\'une r�daction" (2017) {Danger in Air (#1.3)}', 'Metz, Moselle, France']	49.1196964	6.1763552
+['"Au coeur d\'une r�daction" (2017) {Election Day: Part 3 (#1.11)}', 'Metz, Moselle, France']	49.1196964	6.1763552
+['"Au coeur d\'une r�daction" (2017) {Good Bye My Friend (#1.12)}', 'Metz, Moselle, France']	49.1196964	6.1763552
+['"Au coeur d\'une r�daction" (2017) {The New (#1.1)}', 'Metz, Moselle, France']	49.1196964	6.1763552
+['"Augury" (2017)', '', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Augury" (2017)', '', '', '', '', '', 'Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Aussie Girl" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aussie Rangers" (2017)', '', '', '', '', 'Manjedal Scout Camp, Western Australia, Australia']	-24.7761086	134.755
+['"Australian Ninja Warrior" (2017)', '', '', 'Cockatoo Island, Sydney Harbour, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Away" (2017)', '', '', '', '', '', 'North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Away" (2017)', '', '', '', '', '', 'Van Nuys, California, USA']	34.1866581	-118.448729
+['"Axogun" (2017)', '', '', '', '', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"Ay G�ey, Chicas Bien" (2017)', '', '', '', 'Mexico City, Mexico']	19.4326296	-99.1331785
+['"Ay G�ey, Chicas Bien" (2017)', '', '', '', 'Acapulco, Mexico']	16.8680495	-99.8940182
+['"Aynabaji Original Series" (2017) {Ke? Keno? Kibhabe? (#1.4)}', 'Chittagong, Bangladesh']	22.3307998	91.8412863
+['"Aynabaji Original Series" (2017) {Mukhomukhi (#1.5)}', "Cox's Bazar, Bangladesh"]	21.16587175	92.03996424949703
+['"Aynabaji Original Series" (2017) {Ratul Bonam Ratul (#1.2)}', 'Bandarban, Bangladesh']	22.1963002	92.2198872
+['"Aynabaji Original Series" (2017) {Ratul Bonam Ratul (#1.2)}', 'Dhaka, Bangladesh']	23.7593572	90.3788136
+['"Aynabaji Original Series" (2017) {Sheshta Ektu Onnorokom (#1.7)}', 'Mymensingh, Bangladesh']	24.8386014	90.41126950462677
+['"B.r.e.a.d TV" (2017)', '', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"B.r.e.a.d TV" (2017)', '', '', '', '', 'San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"BANA: Heart of Darkness" (2017)', '', '', 'Dayton, Ohio, USA']	39.7589478	-84.1916069
+['"BBC Newsnight" (2017)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"BBC Rugby Autumn Internationals" (2017)', '', 'Twickenham Stadium, Whitton Road, Twickenham, England, UK']	51.4549931	-0.3392773
+['"BFFs" (2017)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BFFs" (2017)', '', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"BHL: Throw the Sticks, Let\'s Go!" (2017)', '', 'Brampton, Ontario, Canada']	43.6858146	-79.7599337
+['"BKPI" (2017)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"BNG" (2017)', '', '', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"BP Underground" (2017)', '', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"BP Underground" (2017)', '', '', '', '', 'NYC, New York, USA']	40.7127281	-74.0060152
+['"BP Underground" (2017) {Hardcore/Punk (#1.1)}', '', 'NYC, New York, USA']	40.7127281	-74.0060152
+['"BP Underground" (2017) {Hardcore/Punk (#1.1)}', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"BROOD" (2017) {Nederland & Belgi� (#1.1)}', '', 'Kerkwerve, Zeeland, Netherlands']	51.63315905	3.8026488281605397
+['"Baaghi" (2017)', '', '', '', '', '', 'Pakistan']	30.3308401	71.247499
+['"Babamin G�nahlari" (2017)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Baby Avengers" (2017)', '', '', '', '', 'XMA World Headquarters, North Hollywood']	34.1729044	-118.3740371
+['"Babylon Berlin" (2017)', '', '', '', '', 'Studio Babelsberg, Potsdam, Brandenburg, Germany']	52.38260355	13.113726021425222
+['"Babylon Berlin" (2017)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Babylon Berlin" (2017)', '', '', '', '', 'Germany']	51.0834196	10.4234469
+['"Babylon Berlin" (2017) {(#1.1)}', '', '', 'Alexanderplatz, Mitte, Berlin, Germany']	52.521670650000004	13.413278026558228
+['"Babylon Berlin" (2017) {(#1.2)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Babylon Berlin" (2017) {(#1.4)}', '', '', 'Alexanderplatz, Mitte, Berlin, Germany']	52.521670650000004	13.413278026558228
+['"Babylon Berlin" (2017) {(#1.6)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Babylon Berlin" (2017) {(#1.7)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Babylon Berlin" (2017) {(#1.8)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Babylon Berlin" (2017) {(#2.1)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Babylon Berlin" (2017) {(#2.4)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Babylon Berlin" (2017) {(#2.5)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Back Door Santa" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Back Door Santa" (2017) {Place the Order Zaddy (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Back Door Santa" (2017) {Take You Serious (#1.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Back Door Santa" (2017) {You Just Need a Manager (#1.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Back in Black" (2017)', '', '', '', '', 'Melbourne Florida, USA']	28.0836269	-80.6081089
+['"Back in Black" (2017)', '', '', '', '', 'Viera Florida, USA']	28.243006	-80.7301522
+['"Back in the Game" (2017)', '', '', '', 'Sydney, Australia']	-33.8548157	151.2164539
+['"Back to Goode" (2017)', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Back to Goode" (2017)', '', '', '', '', 'Daylesford, Victoria, Australia']	-37.35185855	144.13914557160606
+['"Back" (2017) {(#1.2)}', '', '', '', '', 'Stroud, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Back" (2017) {(#1.3)}', '', '', '', '', 'Stroud, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Back" (2017) {(#1.4)}', '', '', '', '', 'Stroud, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Back" (2017) {(#1.5)}', '', '', '', '', 'Stroud, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Back" (2017) {(#1.6)}', '', '', '', '', 'Stroud, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Back" (2017) {Pilot (#1.1)}', '', '', '', 'Stroud, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Bad Banks" (2017)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Bad Banks" (2017)', '', '', '', '', 'Frankfurt am Main, Hessen, Germany']	50.1106444	8.6820917
+['"Bad Banks" (2017)', '', '', '', '', 'Luxembourg']	49.8158683	6.1296751
+['"Bad Banks" (2017)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Bad Cop: Kriminell gut" (2017)', '', '', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bad Cop: Kriminell gut" (2017) {Feuer und Flamme (#1.3)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bad Cop: Kriminell gut" (2017) {Ich bin Du (#1.1)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bad Cop: Kriminell gut" (2017) {Paradiesv�gel (#1.4)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Bad Move" (2017) {Day Trip (#1.5)}', '', '', 'West London Film Studios, London, England, UK']	51.5073219	-0.1276474
+['"Bad Move" (2017) {Dead Zone (#1.1)}', '', '', 'West London Film Studios, London, England, UK']	51.5073219	-0.1276474
+['"Bad Move" (2017) {Deep End (#1.2)}', '', '', 'West London Film Studios, London, England, UK']	51.5073219	-0.1276474
+['"Bad Move" (2017) {Get Lost (#1.4)}', '', '', 'West London Film Studios, London, England, UK']	51.5073219	-0.1276474
+['"Bad Move" (2017) {Party Time (#1.6)}', '', '', 'West London Film Studios, London, England, UK']	51.5073219	-0.1276474
+['"Bad Move" (2017) {Shut Up (#1.3)}', '', '', 'West London Film Studios, London, England, UK']	51.5073219	-0.1276474
+['"Bad Reputation" (2017)', '', '', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"Bahtiyar �lmez" (2017)', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Bali Blue" (2017)', '', '', '', '', 'Sanur, Denpasar, Bali, Indonesia']	-8.6831728	115.2564626
+['"Bali Blue" (2017)', '', '', '', '', 'Pemuteran Bay, Bali, Indonesia']	-8.1600279	114.6135304
+['"Ballerina Belle" (2017)', '', '', '', "C�te d'Azur, France"]	46.603354	1.8883335
+['"Ballerina Belle" (2017)', '', '', '', 'California, USA']	39.7837304	-100.4458825
+['"Ballerz World Live" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bancroft" (2017)', '', '', '', '', 'Greater Manchester North West, England, UK']	53.50652485	-2.3374401422576687
+['"Bang" (2017) {(#1.1)}', '', '', '', '', 'Port Talbot, Neath Port Talbot, Wales, UK']	51.5954335	-3.787263
+['"Barber Shop" (2017)', '', '', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"Barber Shop" (2017)', '', '', '', '', 'New Delhi, India']	22.3511148	78.6677428
+['"Barber Shop" (2017)', '', '', '', '', 'Clacton-on-Sea, Essex, England, UK']	51.7883997	1.1527865
+['"Barber Shop" (2017)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"Barber Shop" (2017)', '', '', '', '', 'Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Barber Shop" (2017)', '', '', '', '', 'Algeria']	28.0000272	2.9999825
+['"Barcelona secrets" (2017)', '', '', '', 'Barcelona, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Barely Well-Adjusted" (2017)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Bargain-Loving Brits in Blackpool" (2017)', '', 'Blackpool, Lancashire, England, UK']	53.77493495	-3.047551917868039
+['"Bariga Kvitila" (2017)', '', '', '', '', 'Tbilisi, Georgia']	41.6934591	44.8014495
+['"Barry Mickey the Ultimate Human" (2017)', '', 'Stevenson Ranch, California, USA']	34.3864721	-118.5826635
+['"Barut" (2017)', '', '', '', '', '', 'Ankara, Turkey']	38.9597594	34.9249653
+['"Baryshnya i khuligan" (2017) {(#1.1)}', '', '', 'Moscow, Russia']	64.6863136	97.7453061
+['"Baryshnya i khuligan" (2017) {(#1.2)}', '', '', 'Moscow, Russia']	64.6863136	97.7453061
+['"Baryshnya i khuligan" (2017) {(#1.3)}', '', '', 'Moscow, Russia']	64.6863136	97.7453061
+['"Baryshnya i khuligan" (2017) {(#1.4)}', '', '', 'Moscow, Russia']	64.6863136	97.7453061
+['"Battle Ready" (2017) {A Soldier\'s Discipline (#1.8)}', "St. Mary's Catholic Church, 580 I Street, David City, Nebraska, USA"]	41.2527355	-97.1300668
+['"Battle Ready" (2017) {A Soldier\'s Discipline (#1.8)}', 'David City, Nebraska, USA']	41.2527355	-97.1300668
+['"Battle Ready" (2017) {A Warrior Before His Commander (#1.3)}', 'St. Gerald Catholic Church, 9602 Q Street, Ralston, Nebraska, USA']	41.2016674	-96.0323796
+['"Battle Ready" (2017) {Do or Die (#1.10)}', '', 'Omaha, Nebraska, USA']	41.2587459	-95.9383758
+['"Battle Ready" (2017) {Do or Die (#1.10)}', '', 'St. Gerald Lakeview Chapel, 7859 Lakeview St., Ralston, Nebraska, USA']	41.2016674	-96.0323796
+['"Battle Ready" (2017) {Everyday Heroes (#1.7)}', '', 'Newman Center, St. Thomas Aquinas Catholic Church, 320 N. 16th St., Lincoln, Nebraska, USA']	40.8088861	-96.7077751
+['"Battle Ready" (2017) {Everyday Heroes (#1.7)}', '', 'University of Nebraska, Lincoln, Nebraska, USA']	40.8229219	-96.70405844999999
+['"Battle Ready" (2017) {Everyday Heroes (#1.7)}', '', 'Lincoln, Nebraska, USA']	40.8088861	-96.7077751
+['"Battle Ready" (2017) {Fatima: 100 Years of Spiritual Combat (#1.2)}', 'St. Joseph Catholic Church, 831 E Street, Geneva, Nebraska, USA']	40.5257539	-97.6027667
+['"Battle Ready" (2017) {Know Your Enemy (#1.4)}', '', 'Century Center, South Bend, Indiana, USA']	41.676044149999996	-86.24801927172702
+['"Battle Ready" (2017) {The Queen\'s Request (#1.5)}', 'Sacred Heart Catholic Church, 3128 S St., Lincoln, Nebraska, USA']	40.8183457	-96.6756877
+['"Battle Ready" (2017) {The Queen\'s Request (#1.5)}', 'Lincoln, Nebraska, USA']	40.8088861	-96.7077751
+['"Battle Ready" (2017) {What Is Battle Ready? (#1.1)}', 'Eppley Airfield - 4501 Abbott Drive, Omaha, Nebraska, USA']	41.2587459	-95.9383758
+['"Battle Ready" (2017) {What Is Battle Ready? (#1.1)}', 'St. Thomas More Catholic Church, Spokane, Washington, USA']	47.6579425	-117.4212265
+['"Battle Ready" (2017) {What Is Battle Ready? (#1.1)}', 'St. Gerald Catholic Church, 9602 Q St., Ralston, Nebraska, USA']	41.2016674	-96.0323796
+['"Battle Ready" (2017) {What Is Battle Ready? (#1.1)}', 'Omaha, Nebraska, USA']	41.2587459	-95.9383758
+['"Battle Ready" (2017) {You Only Fight the Way You Train (#1.9)}', 'Lincoln, Nebraska, USA']	40.8088861	-96.7077751
+['"Battleground LA" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batuki-l�" (2017)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Be with You" (2017)', '', '', '', '', 'China']	35.000074	104.999927
+['"Be with You" (2017)', '', '', '', '', 'Hong Kong']	22.2793278	114.1628131
+['"Beaufort" (2017)', '', '', '', '', 'Guyana']	4.8417097	-58.6416891
+['"Beaufort" (2017)', '', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Beaufort" (2017)', '', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Beaufort" (2017)', '', '', '', '', 'Jordan']	31.1667049	36.941628
+['"Beaufort" (2017)', '', '', '', '', 'Netherlands']	52.5001698	5.7480821
+['"Beaufort" (2017)', '', '', '', '', 'Belgium']	50.6402809	4.6667145
+['"Beauty Battle Thailand" (2017)', '', '', '', 'Bangkok, Thailand']	13.7542529	100.493087
+['"Bedtime Stories for Men" (2017)', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Before Anyone Else" (2017)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Behind the Grind" (2017)', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Behind the Seams" (2017)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Behind the White Coat" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Belle Epoque" (2017)', '', '', '', '', 'Tokarnia, Swietokrzyskie, Poland']	50.7648231	20.4445747
+['"Bellevue" (2017)', '', '', '', '', "L'Ile-Perrot, Quebec, Canada"]	45.39564905	-73.9600535354406
+['"Bellevue" (2017) {He\'s Back (#1.2)}', '', '', 'Thetford Mines, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Bellevue" (2017) {He\'s Back (#1.2)}', '', '', 'Thetford Mines, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Bellevue" (2017) {Hello Little Light (#1.4)}', '', 'Thetford Mines, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Bellevue" (2017) {Hello Little Light (#1.4)}', '', 'Thetford Mines, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Bellevue" (2017) {How Do I Remember? (#1.5)}', '', 'Thetford Mines, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Bellevue" (2017) {How Do I Remember? (#1.5)}', '', 'Thetford Mines, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Bellevue" (2017) {Pilot (#1.1)}', '', '', 'Mont Saint-Bruno, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Bengleton Socks Bummer" (2017)', '', '', '', 'Myrtle Beach, South Carolina, USA']	33.6956461	-78.8900409
+['"Benross" (2017)', '', '', '', '', 'Cape Town, South Africa']	-33.928992	18.417396
+['"Bent 101" (2017)', '', '', '', '', 'Alexandria, NSW, Australia']	-33.9091568	151.1921281
+['"Best Friend Blues" (2017)', '', '', '', 'San Francisco Bay Area, California, USA']	37.7884969	-122.3558473
+['"BestCollegeAmerica.com" (2017)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Better Homes and Onions" (2017)', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Between Busts" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beutolom�us und der wahre Weihnachtsmann" (2017)', 'Berlin, Germany']	52.5170365	13.3888599
+['"Beyond Reasonable Doubt" (2017/I) {The Atlanta Bomber (#1.5)}', 'Birmingham, England, UK']	52.4796992	-1.9026911
+['"Beyond the Badge" (2017) {Pilot}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond the Usual" (2017)', '', '', '', 'Southern California, California, USA']	34.0218833	-118.28586726915088
+['"Beyond the Usual" (2017)', '', '', '', 'Lexington, Kentucky, USA']	38.0464066	-84.4970393
+['"Beyond the Usual" (2017)', '', '', '', 'Colorado Springs, Colorado, USA']	38.8339578	-104.8253485
+['"Beyond the Usual" (2017)', '', '', '', 'Indonesia']	-2.4833826	117.8902853
+['"Beyond the Usual" (2017)', '', '', '', 'Oslo, Norway']	60.5000209	9.0999715
+['"Beyond the Usual" (2017)', '', '', '', 'Atlanta, Georgia']	33.7490987	-84.3901849
+['"Beyond the Usual" (2017)', '', '', '', 'Virgin Islands']	17.789187	-64.7080574
+['"Beyond the Usual" (2017)', '', '', '', 'Florida Keys, Florida, USA']	24.6670875	-81.5831421
+['"Beyond the Usual" (2017)', '', '', '', 'Hilton Head, South Carolina, USA']	39.7837304	-100.4458825
+['"Beyond the Usual" (2017)', '', '', '', 'Morganton, North Carolina, USA']	35.7454291	-81.6870837
+['"Big Little City" (2017)', '', '', '', 'Parnell, Auckland, New Zealand']	-36.8553969	174.786445
+['"Big Little City" (2017)', '', '', '', 'Parnell, Auckland, New Zealand']	-36.8553969	174.786445
+['"Big Little City" (2017)', '', '', '', 'Parnell, Auckland, New Zealand']	-36.8553969	174.786445
+['"Big Little Lies" (2017)', '', '', '', 'Monterey, California, USA']	36.2231079	-121.3877428
+['"Big Little Lies" (2017)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big Little Lies" (2017)', '', '', '', '30760 Broad Beach Road, Malibu, California, USA']	34.03143491678087	-118.84478920142335
+['"Big Little Lies" (2017) {You Get What You Need (#1.7)}', 'Barnsdall Art Park - 4800 Hollywood Blvd., Los Angeles, California, USA']	34.100441700000005	-118.29421476491565
+['"Big Papa" (2017)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big Problems" (2017)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Bike & Builder: The Road to Mama Tried" (2017)', '', 'West Harrison, Indiana, USA']	39.2608882	-84.8207849
+['"Bike & Builder: The Road to Mama Tried" (2017)', '', 'Brooklyn, New York, USA']	40.6501038	-73.9495823
+['"Bike & Builder: The Road to Mama Tried" (2017)', '', 'Santa Ana, California, USA']	33.7494951	-117.8732213
+['"Bike & Builder: The Road to Mama Tried" (2017)', '', 'Milwaukee, Wisconsin, USA']	43.0349931	-87.922497

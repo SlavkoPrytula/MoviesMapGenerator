@@ -1,0 +1,1097 @@
+['"12 steden, 13 ongelukken" (1990) {Comeback (Den Haag)}', 'Den Haag, Zuid-Holland, Netherlands']	52.0799838	4.3113461
+['"12 steden, 13 ongelukken" (1990) {De dode hoek (Weesp)}', 'Weesp, Noord-Holland, Netherlands']	52.30444305	5.0585343520066335
+['"12 steden, 13 ongelukken" (1990) {De melkwegtaart (Meppel)}', 'Meppel, Drenthe, Netherlands']	52.711744350000004	6.197307325163717
+['"12 steden, 13 ongelukken" (1990) {De val (Driebergen)}', 'Driebergen, Utrecht, Netherlands']	52.0651958	5.2897704
+['"12 steden, 13 ongelukken" (1990) {De witte ruiter (Ruurlo)}', 'Ruurlo, Gelderland, Netherlands']	52.0643053	6.470324101825035
+['"12 steden, 13 ongelukken" (1990) {Een Afrikaan in Marken (Marken)}', 'Marken, Noord-Holland, Netherlands']	52.44160995	5.1207325522897165
+['"12 steden, 13 ongelukken" (1990) {Een zakelijke overeenkomst (Muiden)}', 'Muiden, Noord-Holland, Netherlands']	52.350947700000006	5.072250746425341
+['"12 steden, 13 ongelukken" (1990) {Gemeenschap van goederen (Echteld)}', 'Echteld, Gelderland, Netherlands']	51.90681925	5.491233190891506
+['"12 steden, 13 ongelukken" (1990) {Hoogmoed (Heerhugowaard)}', 'Heerhugowaard, Noord-Holland, Netherlands']	52.6780162	4.851688593963786
+['"12 steden, 13 ongelukken" (1990) {Killing Me Softly (Alphen Aan Den Rijn)}', 'Alphen aan den Rijn, Zuid-Holland, Netherlands']	52.1343369	4.6561357
+['"12 steden, 13 ongelukken" (1990) {Kortsluiting (Vlaardingen)}', 'Vlaardingen, Zuid-Holland, Netherlands']	51.9227863	4.329563378870851
+['"12 steden, 13 ongelukken" (1990) {Lasergun (Castricum)}', 'Castricum, Noord-Holland, Netherlands']	52.558830549999996	4.639675526200153
+['"12 steden, 13 ongelukken" (1990) {Leeuwarden}', '', 'Leeuwarden, Friesland, Netherlands']	53.2005936	5.7918548
+['"12 steden, 13 ongelukken" (1990) {Leraar Ron kan niet kiezen (Maastricht)}', 'Maastricht, Limburg, Netherlands']	50.8512438	5.6909768
+['"12 steden, 13 ongelukken" (1990) {Oud zeer (Bergen)}', 'Bergen, Noord-Holland, Netherlands']	52.6702278	4.7011616
+['"12 steden, 13 ongelukken" (1990) {Pasfoto\'s (Lage Vuursche)}', 'Lage Vuursche, Utrecht, Netherlands']	52.18548715	5.224827909907685
+['"12 steden, 13 ongelukken" (1990) {Poldergeest (Westerwolde)}', 'Westerwolde, Groningen, Netherlands']	52.999464450000005	7.1404588700937754
+['"12 steden, 13 ongelukken" (1990) {Slikken (Bruinisse)}', 'Bruinisse, Zeeland, Netherlands']	51.6527898	4.171103196352971
+['"12 steden, 13 ongelukken" (1990) {The Young Ones (Bennebroek)}', 'Bennebroek, Noord-Holland, Netherlands']	52.32095295	4.598558896834166
+['"12 steden, 13 ongelukken" (1990) {Wat een dag (Oegstgeest)}', 'Oegstgeest, Zuid-Holland, Netherlands']	52.1833669	4.472129402976295
+['"120 Minutes" (1990) {(1994-06-25)}', '', '', 'London Astoria, Charing Cross Road, London, England, UK']	51.5073219	-0.1276474
+['"360: Todo para ver" (1990)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"360: Todo para ver" (1990) {(1994-04-08)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"360: Todo para ver" (1990) {Sharon Stone}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"8:15 from Manchester" (1990)', '', '', '', 'BBC, Manchester, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Ardoyne Plantation (#6.2)}', 'Ardoyne Plantation - Highway 311, Schreiver, Louisiana, USA']	30.228313	-92.666391
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Ashland/Belle Helene (#6.12)}', 'Ashland-Belle Helene Plantation - State Highway 75, Geismer, Louisiana, USA']	39.7837304	-100.4458825
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Black Heritage Festival (#8.1)}', 'Lake Charles, Louisiana, USA']	30.2265949	-93.2173759
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Blueberry Festival (#7.4)}', 'St. Martinville, Louisiana, USA']	30.1252011	-91.8334498
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Blythewood (#5.7)}', 'Blythewood - 400 Daniel Street, Amite, Louisiana, USA']	30.7265747	-90.5089815
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Boscobel Cottage (#5.5)}', 'Boscobel Cottage - Cordell Lane, Bosco, Louisiana, USA']	32.2901506	-92.0890239
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Caspiana (#5.9)}', 'Caspiana House - Louisiana State University Shreveport, Shreveport, Louisiana, USA']	32.5221828	-93.7651944
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Catalpa Plantation (#6.5)}', 'Catalpa Plantation - 9506 U.S. Highway 61, St. Francisville, Louisiana, USA']	30.7807244	-91.3763353
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Catfish Festival (#7.5)}', 'Des Allemands, Louisiana, USA']	29.8149585	-90.47350127114603
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Celtic Nations Heritage Festival (#8.4)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Chretien Point (#5.2)}', 'Chretien Point Plantation - 665 Chretien Point Rd, Sunset, Louisiana, USA']	30.4113095	-92.0684539
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Cochon de Lait (#8.13)}', 'Mansura, Louisiana, USA']	31.0579664	-92.049012
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Crab Festival (#7.3)}', 'Bayou Lacombe, Louisiana, USA']	31.090658	-92.03844
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Crawfish Festival (#8.9)}', 'Breaux Bridge, Louisiana, USA']	30.283746	-91.8963757012574
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Creole Tomato Festival (#7.1)}', 'French Quarter, New Orleans, Louisiana, USA']	29.9595056	-90.0655668
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Duck Festival (#7.6)}', 'Gueydan, Louisiana, USA']	30.0260404	-92.5084692
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Festival International de Louisiane (#8.11)}', 'Lafayette, Louisiana, USA']	30.2240897	-92.0198427
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Festivals Acadiens (#7.10)}', 'Lafayette, Louisiana, USA']	30.2240897	-92.0198427
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Frog Festival (#7.8)}', 'Rayne, Louisiana, USA']	30.234925	-92.2684617
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Gumbo Festival (#8.2)}', 'Bridge City, Louisiana, USA']	29.9296175	-90.1649645687793
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Houmas House (#6.6)}', 'Houmas House Plantation - 40136 Highway 942, Burnside, Louisiana, USA']	39.7837304	-100.4458825
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Kent House (#6.8)}', 'Kent Plantation House - 3601 Bayou Rapides Road, Alexandria, Louisiana, USA']	31.3034239	-92.48293036369076
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Lafitte\'s Landing (#6.11)}', "Lafitte's Landing Restaurant, Bittersweet Plantation - 404 Claiborne Avenue, Donaldsonville, Louisiana, USA"]	30.1010324	-90.9928774
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Layton Castle (#6.10)}', 'Layton Castle - 1133 South Grand Street, Monroe, Louisiana, USA']	32.4907004	-92.1134678
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Longue Vue House & Gardens (#6.3)}', 'Longue Vue House & Gardens - 7 Bamboo Road, New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Los Islenos Festival (#8.6)}', 'St. Bernard Parish, Louisiana, USA']	29.8217562	-89.6008692
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Loyd\'s Hall (#5.6)}', 'Loyd Hall Plantation - 292 Loyd Bridge Road, Cheneyville, Louisiana, USA']	31.0149128	-92.2873521
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Madewood (#5.4)}', 'Madewood Plantation - 4250 Highway 308, Napoleonville, Louisiana, USA']	29.9404803	-91.0248214
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Magnolia Mound (#6.9)}', 'Magnolia Mound - 2161 Nicholson Drive, Baton Rouge, Louisiana, USA']	30.4459596	-91.18738
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Magnolia Plantation (#5.3)}', 'Magnolia Plantation - 5487 Highway 119, Natchez, Louisiana, USA']	39.7837304	-100.4458825
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Magnolia Ridge (#6.7)}', 'Magnolia Ridge Plantation - Highway 103 West, Washington, Louisiana, USA']	30.8337523	-90.0721467
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Melrose Plantation (#6.1)}', 'Melrose Plantation - 3533 Highway 119, Natchitoches, Louisiana, USA']	39.7837304	-100.4458825
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Nottoway Plantation (#6.4)}', 'Nottoway Plantation, White Castle, Louisiana, USA']	30.1847827	-91.16707425413784
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Oak Alley (#5.1)}', 'Oak Alley Plantation - 3645 Highway 18, Vacherie, Louisiana, USA']	30.0110358	-90.7195356
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Peach Festival (#7.2)}', 'Ruston, Louisiana, USA']	32.5232053	-92.637927
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Pecan Festival (#8.7)}', 'Colfax, Louisiana, USA']	31.5194077	-92.7068037
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Pepper Festival (#8.5)}', 'St. Martinville, Louisiana, USA']	30.1252011	-91.8334498
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Poke Salot Festival (#8.10)}', 'Oak Grove, Louisiana, USA']	32.8609625	-91.3884483
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Poplar Grove (#5.12)}', 'Poplar Grove - 3142 N River Rd, Port Allen, Louisiana, USA']	30.4521351	-91.2101081
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Rene Beauregard House (#5.10)}', 'Rene Beauregard House, Chalmette, Louisiana, USA']	29.9427892	-89.9629372
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Rice Festival (#7.13)}', 'Crowley, Louisiana, USA']	30.2140928	-92.3745761
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {San Francisco Plantation (#5.8)}', 'San Francisco Plantation - 2646 Highway 44, Garyville, Louisiana, USA']	30.075840499999998	-90.6316030460708
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Shadows-on-the-Teche (#5.13)}', 'Shadows-on-the-Teche - 317 E Main Street, New Iberia, Louisiana, USA']	30.0035365	-91.8187285
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Shrimp & Petroleum Festival (#7.7)}', 'Morgan City, Louisiana, USA']	29.6993748	-91.20677
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Strawberry Festival (#8.8)}', 'Ponchatoula, Louisiana, USA']	30.4388041	-90.4414762
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Sugarcane Festival (#7.11)}', 'New Iberia, Louisiana, USA']	30.0035365	-91.8187285
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Sunshine Festival (#7.9)}', 'Donaldsonville, Louisiana, USA']	30.1010324	-90.9928774
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {The Myrtles Plantation (#5.11)}', 'The Myrtles Plantation - 7747 US Highway 61, St. Francisville, Louisiana, USA']	30.7807244	-91.3763353
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Washington Parish Free Fair (#8.12)}', 'Franklinton, Louisiana, USA']	30.8471283	-90.153141
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Wooden Boat Festival (#7.12)}', 'Madisonville, Louisiana, USA']	30.4043607	-90.1570232
+['"A Taste of Louisiana with Chef John Folse & Co." (1990) {Yambilee Festival (#8.3)}', 'Opelousas, Louisiana, USA']	30.5335302	-92.081509
+['"A la cama con Moria" (1990)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A la cama con Porcel" (1990)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A quien corresponda" (1990)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"AMA U.S. Motocross Nationals" (1990)', '', '', 'Binghamton, New York, USA']	42.096968	-75.914341
+['"AMA U.S. Motocross Nationals" (1990)', '', '', 'Gainesville, Florida, USA']	29.6519684	-82.3249846
+['"AMA U.S. Motocross Nationals" (1990)', '', '', 'Sacramento, California, USA']	38.5815719	-121.4943996
+['"AMA U.S. Motocross Nationals" (1990)', '', '', 'Washougal, Washington, USA']	45.5819594	-122.3479921
+['"AMA United States Motocross Nationals" (1990)', '', 'Binghamton, New York, USA']	42.096968	-75.914341
+['"AMA United States Motocross Nationals" (1990)', '', 'Gainesville, Florida, USA']	29.6519684	-82.3249846
+['"AMA United States Motocross Nationals" (1990)', '', 'Sacramento, California, USA']	38.5815719	-121.4943996
+['"AMA United States Motocross Nationals" (1990)', '', 'Washougal, Washington, USA']	45.5819594	-122.3479921
+['"Against the Law" (1990)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Against the Law" (1990) {Damages (#1.14)}', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Aix� �s la vida" (1990)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Albert Einstein" (1990)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Albert Einstein" (1990)', '', '', '', 'Brandenburg, Germany']	52.8455492	13.2461296
+['"Albert Einstein" (1990)', '', '', '', 'DEFA-Studio f�r Spielfilme, Babelsberg, Potsdam, Brandenburg, Germany']	52.4009309	13.0591397
+['"Albert Einstein" (1990)', '', '', '', 'Potsdam, Brandenburg, Germany']	52.4009309	13.0591397
+['"Alfa Papa Tango" (1990)', '', '', '', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"Alleyn Mysteries" (1990)', '', '', '', 'Tintagel, Cornwall, England, UK']	50.6642063	-4.7526181
+['"Alleyn Mysteries" (1990) {Death at the Bar (#1.4)}', 'Port Isaac Harbour, Port Isaac, Cornwall, England, UK']	50.416667	-4.75
+['"American Chronicles" (1990) {The Eye of the Beholder (#1.2)}', 'San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"American Dreamer" (1990)', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dreamer" (1990) {Don\'t Drink the Water (#1.13)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dreamer" (1990) {Heartbreak Diner (#1.16)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dreamer" (1990) {Mother Knows Best (#1.14)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dreamer" (1990) {Papa Joe (#1.15)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dreamer" (1990) {They Shoot Ducks, Don\'t They? (#1.17)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amor de nadie" (1990)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Am�ndote II" (1990)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.100)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.101)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.102)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.103)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.104)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.105)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.106)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.107)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.108)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.109)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.110)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.111)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.112)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.113)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.114)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.115)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.116)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.117)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.118)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.119)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.120)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.121)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.122)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.123)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.124)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.125)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.126)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.127)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.128)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.129)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.130)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.131)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.132)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.133)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.134)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.135)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.136)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.137)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.138)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.139)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.140)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.141)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.142)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.143)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.144)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.145)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.146)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.147)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.148)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.149)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.150)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.40)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.41)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.42)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.43)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.44)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.45)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.46)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.47)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.48)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.49)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.50)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.51)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.52)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.53)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.54)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.55)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.56)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.57)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.58)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.59)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.60)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.61)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.62)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.63)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.64)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.65)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.66)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.67)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.68)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.69)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.70)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.71)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.72)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.73)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.74)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.75)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.76)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.77)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.78)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.79)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.80)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.81)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.82)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.83)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.84)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.85)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.86)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.87)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.88)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.89)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.90)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.91)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.92)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.93)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.94)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.95)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.96)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.97)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.98)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Am�ndote II" (1990) {(#1.99)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Angyalb�rben" (1990)', '', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Angyalb�rben" (1990)', '', '', '', '', 'Buda�rs, Hungary']	47.1817585	19.5060937
+['"Angyalb�rben" (1990)', '', '', '', '', 'Zs�mb�k, Hungary']	47.1817585	19.5060937
+['"Angyalb�rben" (1990)', '', '', '', '', 'Pilisborosjen�, Hungary']	47.1817585	19.5060937
+['"Angyalb�rben" (1990)', '', '', '', '', 'D�ms�d, Hungary']	47.1817585	19.5060937
+['"Angyalb�rben" (1990)', '', '', '', '', 'Ercsi, Hungary']	47.2519697	18.8983773
+['"Angyalb�rben" (1990)', '', '', '', '', 'Kisoroszi, Hungary']	47.8077185	19.0072798
+['"Angyalb�rben" (1990)', '', '', '', '', 'Pilisv�r�sv�r, Hungary']	47.1817585	19.5060937
+['"Angyalb�rben" (1990)', '', '', '', '', 'T�k, Hungary']	47.1817585	19.5060937
+['"Angyalb�rben" (1990)', '', '', '', '', 'Budakeszi, Hungary']	47.5099444	18.929382
+['"Answers with Bayless Conley" (1990)', '', '', 'Los Alamitos, California, USA']	33.8038865	-118.0772433
+['"Are You Afraid of the Dark?" (1990)', '', '', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990)', '', '', 'Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990)', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Are You Afraid of the Dark?" (1990)', '', '', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990)', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990)', '', '', 'Richmond, British Columbia, Canada']	49.163168	-123.137414
+['"Are You Afraid of the Dark?" (1990) {The Tale of Cutter\'s Treasure: Part 1 (#4.4)}', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of Cutter\'s Treasure: Part 1 (#4.4)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of Cutter\'s Treasure: Part 2 (#4.5)}', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of Cutter\'s Treasure: Part 2 (#4.5)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of Jake and the Leprechaun (#1.10)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of Laughing in the Dark (#1.2)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of Laughing in the Dark (#1.2)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of Oblivion (#6.11)}', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of a Door Unlocked (#5.12)}', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Captured Souls (#1.7)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Carved Stone (#3.7)}', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Carved Stone (#3.7)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Crimson Clown (#3.12)}', 'Montreal, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Dangerous Soup (#3.13)}', 'Montreal, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Dark Dragon (#2.6)}', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Dark Dragon (#2.6)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Dark Music (#1.11)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Dead Man\'s Float (#5.1)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Dead Man\'s Float (#5.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Fire Ghost (#4.10)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Frozen Ghost (#2.7)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Guardian\'s Curse (#3.8)}', 'Montreal Museum of Fine Arts - 1380 Rue Sherbrooke Street Ouest, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Guardian\'s Curse (#3.8)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Hungry Hounds (#1.5)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Lonely Ghost (#1.3)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Manaha (#5.8)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Manaha (#5.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Midnight Madness (#2.2)}', 'Montreal, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Midnight Ride (#3.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Nightly Neighbors (#1.8)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Phantom Cab (#1.1)}', 'Montreal, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Pinball Wizard (#1.13)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Pinball Wizard (#1.13)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Prom Queen (#1.12)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Quicksilver (#3.11)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Quicksilver (#3.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Shiny Red Bicycle (#2.10)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Sorcerer\'s Apprentice (#1.9)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Super Specs (#1.6)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Super Specs (#1.6)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Time Trap (#7.11)}', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Time Trap (#7.11)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Twisted Claw (#1.4)}', 'Windsor Ontario, Canada']	42.317099	-83.0353434
+['"Are You Afraid of the Dark?" (1990) {The Tale of the Virtual Pets (#6.4)}', 'Chambly Academy, St. Lambert, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Atreverse" (1990)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Al sonar la campana (#1.9)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Alguien puede llamarme (#1.24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Alta en el cielo (#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Amores (#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Aqu� puede pasar cualquier cosa (#2.19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Besos dulces, momentos amargos (#2.4)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Conciencias (#1.20)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Damas de otra �poca (#2.7)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Damas y caballeros (#2.6)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Darse cuenta II Parte 1 (#2.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Darse cuenta II Parte 2 (#2.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Darse cuenta II Parte 3 (#2.14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Darse cuenta II Parte 4 (#2.15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {De mis amores con Alain Delon (#1.18)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Despiertos para siempre (#2.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Dime con quien andas (#2.20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {El hombre enamorado (#2.9)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {En la isla (#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Entre las s�banas (#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Entre mujeres (#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Ganas de gritar (#2.5)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Gracias por la ayuda (#2.22)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Gracias por las rosas (#1.26)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Infierno cotidiano (#1.28)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {La madre que los tir� (#2.25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {La mala de la historia (#1.15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {La vida empieza con A (#2.23)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Las hermanas provincianas (#2.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Mientras viva (#1.30)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Mirarse a la cara Parte 1 (#1.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Mirarse a la cara Parte 2 (#1.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Mujeres contra mujeres (#2.26)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {M�s que una yunta de bueyes (#2.17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {No estamos solos (#1.31)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Otros para�sos (#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Padres, hijos, amantes (#1.19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Peque�as vidas, peque�as muertes (#1.27)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Peque�os hombres, grandes amores (#2.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Perder la cabeza (#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Por la vida (#2.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Quien me pedir� perd�n (#1.23)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Ratones (#2.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Reencuentros (#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Reuni�n de padres (#1.4)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Sin amor (#2.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Sobre todo los domingos (#2.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Sobrevivientes (#1.8)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Tambi�n hay gente en la selva (#2.21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Tarde o temprano (#1.22)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Todos estamos enamorados (#1.29)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Tres hermanas, tres sirvientas (#1.25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Tres veces atreverse (#1.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Un 30 de Febrero (#2.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Un negocio redondo (#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Un... uno... una... etc (#1.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {Vamos a galopar (#1.7)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atreverse" (1990) {�Qui�n dijo que todo est� perdido? (#2.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Australia\'s Funniest Home Video Show" (1990)', '', 'Channel 9 Studios, Willoughby, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Australia\'s Funniest Home Video Show" (1990) {Grand Final 2009 (#20.42)}', 'Village Roadshow Studios, Oxenford, Queensland, Australia']	-27.91054195	153.31264045360678
+['"Bad Movies We Love" (1990)', '', '', '', 'Ben Kitay Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baldur Blauzahn" (1990)', '', '', '', 'Bavaria Studios, Bavariafilmplatz 7, Geiselgasteig, Gr�nwald, Bavaria, Germany']	51.0834196	10.4234469
+['"Barend en Van Dorp" (1990)', '', '', '', "Scheveningen, 's-Gravenhage, Zuid-Holland, Netherlands"]	52.0799838	4.3113461
+['"Barend en Van Dorp" (1990) {(1999-03-31)}', '', 'Amsterdam Arena, Amsterdam, Noord-Holland, Netherlands']	52.3159898	4.9429305
+['"Barend en Van Dorp" (1990) {(1999-04-28)}', '', 'Gelredome, Arnhem, Gelderland, Netherlands']	51.96265475	5.891837806982878
+['"Barend en Van Dorp" (1990) {(2000-04-26)}', '', 'Gelredome, Arnhem, Gelderland, Netherlands']	51.96265475	5.891837806982878
+['"Barend en Van Dorp" (1990) {(2000-10-11)}', '', 'Feyenoord Stadion De Kuip, Rotterdam-Zuid, Zuid-Holland, Netherlands']	52.5001698	5.7480821
+['"Barend en Van Dorp" (1990) {(2003-11-14)}', '', 'Hampden Park, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"Baseball Tonight" (1990)', '', '', '', 'ESPN Studio - 935 Middle Street, Bristol, Connecticut, USA']	41.6735209	-72.9464859
+['"Basta para m�" (1990)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Basta para m�" (1990) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"BerlinMitte" (1990)', '', '', '', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"Betes i films" (1990)', '', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Beverly Hills, 90210" (1990)', '', '', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990)', '', '', '', '18515 Wells Drive, Tarzana, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990)', '', '', '', '1605 E. Altadena Drive, Altadena, California, USA']	34.1907487	-118.1173946
+['"Beverly Hills, 90210" (1990)', '', '', '', '16711 Bosque Avenue, Encino, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990)', '', '', '', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990)', '', '', '', '3500 The Strand, Hermosa Beach, California, USA']	33.87672052996548	-118.40814282631906
+['"Beverly Hills, 90210" (1990)', '', '', '', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990)', '', '', '', '45 S. Fair Oaks Avenue, Pasadena, California, USA']	34.144960049999995	-118.15071492407054
+['"Beverly Hills, 90210" (1990)', '', '', '', '7250 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990)', '', '', '', 'Cedars Sinai Medical Center - 8700 Beverly Blvd, West Hollywood, California, USA']	34.0751604	-118.38109362449856
+['"Beverly Hills, 90210" (1990)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990)', '', '', '', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990)', '', '', '', 'Paley Residence - 1060 Brooklawn Drive, Bel Air, Los Angeles, California, USA']	34.0878946	-118.43025658120098
+['"Beverly Hills, 90210" (1990)', '', '', '', 'The Lot - 1041 N. Formosa Avenue, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990)', '', '', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990)', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990)', '', '', '', 'Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {80\'s Night (#10.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Clean Slate (#5.3)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {A Clean Slate (#5.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Clean Slate (#5.3)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {A Competitive Edge (#2.20)}', 'Monarch Stadium, Los Angeles Valley College - 5800 Fulton Avenue, Valley Glen, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {A Competitive Edge (#2.20)}', 'Ventura Blvd., Studio City, Los Angeles, California, USA']	34.1447999	-118.4118118
+['"Beverly Hills, 90210" (1990) {A Competitive Edge (#2.20)}', '4130 Troost Ave Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {A Competitive Edge (#2.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Fine Mess (#10.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Fling in Palm Springs (#1.14)}', '2658 East Thousand Oaks Boulevard, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"Beverly Hills, 90210" (1990) {A Fling in Palm Springs (#1.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Fling in Palm Springs (#1.14)}', '6636 Portshead Road, Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {A Fling in Palm Springs (#1.14)}', 'Hyatt Westlake Plaza - 880 South Westlake Boulevard, Westlake Village, California, USA']	34.1460234	-118.8061794
+['"Beverly Hills, 90210" (1990) {A Mate for Life (#7.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Night to Remember (#3.27)}', 'London West Hollywood Hotel, former Bel Age Hotel - 1020 N San Vicente Blvd., West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Beverly Hills, 90210" (1990) {A Night to Remember (#3.27)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {A Night to Remember (#3.27)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Pig Is a Boy Is a Dog (#4.23)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {A Pig Is a Boy Is a Dog (#4.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {A Pig Is a Boy Is a Dog (#4.23)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {A Presumption of Innocence (#3.11)}', '17400 Cumpston St, Encino, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {A Presumption of Innocence (#3.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Ripe Young Age (#7.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Song for My Mother (#5.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Song for My Mother (#5.26)}', 'Pepperdine University - 24255 Pacific Coast Highway, Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {A Walsh Family Christmas (#2.18)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {A Walsh Family Christmas (#2.18)}', '33310 Agua Dulce Canyon Road, Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Beverly Hills, 90210" (1990) {A Walsh Family Christmas (#2.18)}', '33355 Agua Dulce Canyon Road, Santa Clarita California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {A Walsh Family Christmas (#2.18)}', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {A Walsh Family Christmas (#2.18)}', '105 S. Robertson, Los Angeles, California, USA']	34.06718818706139	-118.38378632419133
+['"Beverly Hills, 90210" (1990) {A Walsh Family Christmas (#2.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {A Walsh Family Christmas (#2.18)}', 'Robertson Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Acting Out (#4.28)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Acting Out (#4.28)}', '295 Palmetto Dr, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Acting Out (#4.28)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Acting Out (#4.28)}', 'The Manor Hotel - 5930 Franklin Ave, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Addicted to Love (#4.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Agony (#9.25)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {All That Glitters (#8.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {All That Jazz (#7.28)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {All This and Mary Too (#6.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Aloha Beverly Hills: Part 1 (#8.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Aloha Beverly Hills: Part 1 (#8.1)}', "Hilton Hawaiian Village, Waikiki Beach, Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Beverly Hills, 90210" (1990) {Aloha Beverly Hills: Part 1 (#8.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Aloha Beverly Hills: Part 1 (#8.1)}', "O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Beverly Hills, 90210" (1990) {Aloha Beverly Hills: Part 2 (#8.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Aloha Beverly Hills: Part 2 (#8.2)}', "Hilton Hawaiian Village, Waikiki Beach, Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Beverly Hills, 90210" (1990) {Aloha Beverly Hills: Part 2 (#8.2)}', "Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Beverly Hills, 90210" (1990) {Aloha Beverly Hills: Part 2 (#8.2)}', "O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Beverly Hills, 90210" (1990) {Alone at the Top (#5.22)}', "Bruno's Ristorante - 3838 S. Centinela Ave, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Alone at the Top (#5.22)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Alone at the Top (#5.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Anaconda (#2.4)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Anaconda (#2.4)}', '', '1418 2nd St, Santa Monica, California, USA']	34.01453720529831	-118.49676571278157
+['"Beverly Hills, 90210" (1990) {Anaconda (#2.4)}', '', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0113479	-118.4952424
+['"Beverly Hills, 90210" (1990) {And Did It... My Way (#4.10)}', 'Gold Ballroom, Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {And Did It... My Way (#4.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {And Don\'t Forget to Give Me Back My Black T-Shirt (#10.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Angels We Have Heard on High (#6.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {April Is the Cruelest Month (#1.18)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {April Is the Cruelest Month (#1.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {April Is the Cruelest Month (#1.18)}', '4839 Louise Avenue, Encino, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Ashes to Ashes (#2.9)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Ashes to Ashes (#2.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Ashes to Ashes (#2.9)}', '15912 Woodvale Rd, Encino, Los Angeles, California, USA']	34.15007183368417	-118.48011971738667
+['"Beverly Hills, 90210" (1990) {Ashes to Ashes (#2.9)}', '7225 Topanga Canyon Blvd, Canoga Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Aunt Bea\'s Pickles (#8.25)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Aunt Bea\'s Pickles (#8.25)}', 'Church of the Angels - 1100 Avenue 64, Pasadena, California, USA']	34.1254824	-118.1762211
+['"Beverly Hills, 90210" (1990) {Aunt Bea\'s Pickles (#8.25)}', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Aunt Bea\'s Pickles (#8.25)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Beverly Hills, 90210" (1990) {B.Y.O.B. (#1.10)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {B.Y.O.B. (#1.10)}', '18515 Wells Drive, Tarzana, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {B.Y.O.B. (#1.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Baby Makes Five (#2.22)}', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Baby Makes Five (#2.22)}', 'Santa Anita Park & Racetrack - 285 West Huntington Drive, Arcadia, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Baby Makes Five (#2.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Baby, You Can Drive My Car (#10.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Baby, You Can Drive My Car (#10.8)}', 'The Huntington Library, Art Collections, and Botanical Gardens - 1151 Oxford Rd, San Marino, California, USA']	34.1215947	-118.1057394
+['"Beverly Hills, 90210" (1990) {Back in the High Life Again (#3.19)}', '5401 Wilshire Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Back in the High Life Again (#3.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Back in the High Life Again (#3.19)}', 'Roxbury Park - 471 S. Roxbury Dr, Beverly Hills, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Back in the High Life Again (#3.19)}', 'London West Hollywood Hotel, former Bel Age Hotel - 1020 N San Vicente Blvd., West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Beverly Hills, 90210" (1990) {Beach Blanket Brandon (#2.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Beach Blanket Brandon (#2.1)}', 'Palisades Beach Rd, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Beach Blanket Brandon (#2.1)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Beheading St. Valentine (#9.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Bleeding Hearts (#6.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Blind Spot (#4.26)}', 'Equator Coffee House - 22 Mills Pl, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Blind Spot (#4.26)}', '1876 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Blind Spot (#4.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Blind Spot (#4.26)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Bobbi Dearest (#9.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Brandon Leaves (#9.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Breast Side Up (#6.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Budget Cuts (#9.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Buffalo Gals (#6.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Buffalo Gals (#6.2)}', 'Greek Theatre, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Camping Trip (#2.7)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Camping Trip (#2.7)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Camping Trip (#2.7)}', 'Big Oaks Lodge, Saugus, California, USA']	34.4493489	-118.5168257
+['"Beverly Hills, 90210" (1990) {Cardio-Funk (#2.23)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Cardio-Funk (#2.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Castles in the Sand (#3.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Castles in the Sand (#3.6)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Change Partners (#4.22)}', 'Calamigos Ranch - 327 S. Latigo Canyon Road, Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {Change Partners (#4.22)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Change Partners (#4.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Child of the Night (#8.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Christmas Comes This Time Each Year (#5.15)}', 'Westfield Fashion Square Mall - 14006 Riverside Drive, Sherman Oaks, Los Angeles, California, USA']	34.15688195	-118.43721639482855
+['"Beverly Hills, 90210" (1990) {Christmas Comes This Time Each Year (#5.15)}', '18515 Wells Drive, Tarzana, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Christmas Comes This Time Each Year (#5.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Chuckie\'s Back (#2.17)}', '16711 Bosque Avenue, Encino, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Chuckie\'s Back (#2.17)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Chuckie\'s Back (#2.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', '540 N. Gramercy Place, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', '130 North Gunston Drive, Brentwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', '16711 Bosque Avenue, Encino, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', '417 Amapola Ln, Bel Air, Los Angeles, California, USA']	34.083383572587216	-118.44034900926349
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Class of Beverly Hills (#1.0)}', "St. Brendan's Catholic Church - 310 S. Van Ness Avenue, Hancock Park, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Comic Relief (#8.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Coming Home (#8.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Coming Out, Getting Out, Going Out (#6.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Commencement: Part 1 (#3.29)}', 'Griffith Park Helipad, Vista Del Valle Dr, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Commencement: Part 1 (#3.29)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Commencement: Part 1 (#3.29)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Commencement: Part 2 (#3.30)}', 'Griffith Park Helipad, Vista Del Valle Dr, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Commencement: Part 2 (#3.30)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {Commencement: Part 2 (#3.30)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Commencement: Part 2 (#3.30)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Confession (#9.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Confession (#9.6)}', 'King Edward Hotel - 121 E. 5th St, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Courting (#6.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Courting (#6.13)}', 'City Hall - 100 N. Garfield Avenue, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Crimes and Misdemeanors (#8.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Crunch Time (#4.16)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Crunch Time (#4.16)}', '1815 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.13004926315789	-118.21156952631578
+['"Beverly Hills, 90210" (1990) {Crunch Time (#4.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Cuffs and Links (#4.24)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {Cuffs and Links (#4.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Cuffs and Links (#4.24)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Cupid\'s Arrow (#8.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Cupid\'s Arrow (#8.20)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Dead End (#3.21)}', 'Del Rey Yacht Club - 13900 Palawan Way, Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Beverly Hills, 90210" (1990) {Dead End (#3.21)}', 'Marina del Rey harbor, Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Beverly Hills, 90210" (1990) {Dead End (#3.21)}', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.1418009402905	-118.42068445743054
+['"Beverly Hills, 90210" (1990) {Dead End (#3.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Deadline (#8.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Deadline (#8.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Dealer\'s Choice (#9.3)}', '101 Fremont Place, Los Angeles, California, USA']	34.056663	-118.328433
+['"Beverly Hills, 90210" (1990) {Dealer\'s Choice (#9.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Destiny Rides Again (#3.12)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Destiny Rides Again (#3.12)}', 'Valley Vista Blvd, Sherman Oaks, Los Angeles, California, USA']	34.1453437	-118.4464405
+['"Beverly Hills, 90210" (1990) {Destiny Rides Again (#3.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Destiny Rides Again (#3.12)}', '15053 Ventura Blvd, Sherman Oaks, Los Angeles, California, USA']	34.1476354	-118.4288347
+['"Beverly Hills, 90210" (1990) {Disappearing Act (#7.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Divas (#4.27)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Divas (#4.27)}', '', 'Ventura Blvd, Encino, Los Angeles, California, USA']	34.1571131	-118.4890122
+['"Beverly Hills, 90210" (1990) {Divas (#4.27)}', '', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Doc Martin (#10.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Dog\'s Best Friend (#9.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Don\'t Ask, Don\'t Tell (#9.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Double Jeopardy (#5.25)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Down and Out of District in Beverly Hills (#2.12)}', 'Westwood Village Theater, 961 Broxton Ave, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Down and Out of District in Beverly Hills (#2.12)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Down and Out of District in Beverly Hills (#2.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Duke\'s Bad Boy (#3.23)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Duke\'s Bad Boy (#3.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Earthquake Weather (#6.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Earthquake Weather (#6.9)}', 'Inter-Continental Hotel - 2151 Avenue of the Stars, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Earthquake Weather (#6.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Earthquake Weather (#6.9)}', 'Wrigley Mansion - 391 S. Orange Grove Boulevard, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {East Side Story (#1.13)}', '166 N Edgeware Rd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {East Side Story (#1.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {East Side Story (#1.13)}', 'War Memorial Park - 14201 Huston Street , Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Eddie Waitkus (#10.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Emily (#4.13)}', '', 'Haight-Ashbury, San Francisco, California, USA']	37.7790262	-122.4199061
+['"Beverly Hills, 90210" (1990) {Emily (#4.13)}', '', "Fisherman's Wharf, San Francisco, California, USA"]	37.8091669	-122.4165994
+['"Beverly Hills, 90210" (1990) {Emily (#4.13)}', '', 'Golden Gate Bridge, San Francisco, California, USA']	37.8303213	-122.4797496
+['"Beverly Hills, 90210" (1990) {Emily (#4.13)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Emily (#4.13)}', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Beverly Hills, 90210" (1990) {Ever Heard the One About the Exploding Father? (#10.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Every Dream Has Its Price (Tag) (#1.2)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Every Dream Has Its Price (Tag) (#1.2)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {Every Dream Has Its Price (Tag) (#1.2)}', '1690 Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Every Dream Has Its Price (Tag) (#1.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Every Dream Has Its Price (Tag) (#1.2)}', '333 S. Boylston St, Los Angeles, California, USA']	34.05661505102041	-118.25778617346938
+['"Beverly Hills, 90210" (1990) {Everybody\'s Talking \'Bout It (#2.21)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Everybody\'s Talking \'Bout It (#2.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Everything\'s Coming Up Roses (#6.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Everything\'s Coming Up Roses (#6.4)}', 'Point Mugu, California, USA']	34.106923800000004	-119.02102537387437
+['"Beverly Hills, 90210" (1990) {Face-Off (#7.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Fade In, Fade Out (#6.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Fade In, Fade Out (#6.17)}', 'Van Nuys Airport - 6590 Hayvenhurst Avenue, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Fame Is Where You Find It (#1.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Fame Is Where You Find It (#1.15)}', 'Notre Dame High School - 13645 Riverside Drive, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Fame Is Where You Find It (#1.15)}', 'War Memorial Park - 14201 Huston Street , Sherman Oaks, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Family Tree (#10.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Fearless (#7.7)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Fertile Ground (#10.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Fertile Ground (#10.15)}', '5135 Shoshone Ave, Encino, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Fire and Ice (#2.19)}', '105 S. Robertson, Los Angeles, California, USA']	34.06718818706139	-118.38378632419133
+['"Beverly Hills, 90210" (1990) {Fire and Ice (#2.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Fire and Ice (#2.19)}', 'Culver Ice Arena - 4545 Sepulveda Boulevard, Culver City, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Flirting with Disaster (#6.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Flirting with Disaster (#6.26)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Flirting with Disaster (#6.26)}', 'Malibu Creek State Park - 1925 Las Virgenes Road, Calabasas, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Flying (#6.20)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Flying (#6.20)}', '', 'Lancaster, California, USA']	34.6981064	-118.1366153
+['"Beverly Hills, 90210" (1990) {Flying (#6.20)}', '', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Forgive and Forget (#8.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Fortunate Son (#6.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Fortune Cookie (#9.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Friends in Deed (#8.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Friends, Lovers and Children (#8.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Friends, Lovers and Children (#8.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Gift Wrapped (#7.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Girls on the Side (#5.28)}', '6628 Cantaloupe Ave, Van Nuys, Los Angeles, California, USA']	34.190777999999995	-118.43442714141415
+['"Beverly Hills, 90210" (1990) {Girls on the Side (#5.28)}', '1257 Third Street Promenade, Santa Monica, California, USA']	34.01633635	-118.49691179011856
+['"Beverly Hills, 90210" (1990) {Girls on the Side (#5.28)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Graduation Day: Part 1 (#7.31)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Graduation Day: Part 1 (#7.31)}', 'Santa Monica Pier, Santa Monica, California, USA']	34.00889605	-118.49740225045329
+['"Beverly Hills, 90210" (1990) {Graduation Day: Part 2 (#7.32)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Graduation Day: Part 2 (#7.32)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Graduation Day: Part 2 (#7.32)}', 'Shangri-La Hotel - 1301 Ocean Ave, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Graduation Day: Part 2 (#7.32)}', 'The Wiltern - 3790 Wilshire Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Greek to Me (#4.4)}', '1815 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.13004926315789	-118.21156952631578
+['"Beverly Hills, 90210" (1990) {Greek to Me (#4.4)}', '1876 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.13034375	-118.209466375
+['"Beverly Hills, 90210" (1990) {Greek to Me (#4.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Gypsies, Cramps and Fleas (#6.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Gypsies, Cramps and Fleas (#6.8)}', 'Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Beverly Hills, 90210" (1990) {Halloween (#2.13)}', 'Higgins-Verbeck-Hirsch Mansion - 637 South Lucerne Boulevard, Windsor Square, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Halloween (#2.13)}', 'Palace Costume Co., 835 N. Fairfax Ave, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Halloween (#2.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Hate Is Just a Four Letter Word (#5.11)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Hate Is Just a Four Letter Word (#5.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Hazardous to Your Health (#5.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Hazardous to Your Health (#5.18)}', 'Cabo San Lucas, Baja California Sur, Mexico']	22.8938884	-109.9200604
+['"Beverly Hills, 90210" (1990) {Hazardous to Your Health (#5.18)}', 'One & Only Palmilla Resort, Km 7.5 Carretera Transpeninsular, San Jos� del Cabo, Baja California, Mexico']	19.4326296	-99.1331785
+['"Beverly Hills, 90210" (1990) {Heartbreaker (#4.18)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Heartbreaker (#4.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Heaven Scent (#7.25)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Hello Life, Goodbye Beverly Hills (#5.30)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Hello Life, Goodbye Beverly Hills (#5.30)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Hello Life, Goodbye Beverly Hills (#5.30)}', 'Ocean Front Walk, Venice Beach, Venice, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Hello Life, Goodbye Beverly Hills (#5.30)}', '25th Ave, Venice, Los Angeles, California, USA']	33.9823541	-118.4692587
+['"Beverly Hills, 90210" (1990) {Here We Go Again (#7.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Here We Go Again (#7.2)}', 'MountainGate Country Club - 12445 MountainGate Drive, Westwood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Here We Go Again (#7.2)}', 'Portuguese Bend Beach Club - 4100 Palos Verdes Drive South, Rancho Palos Verdes, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Higher Education (#1.5)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {Higher Education (#1.5)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Higher Education (#1.5)}', '1690 Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Higher Education (#1.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Highwire (#3.9)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Highwire (#3.9)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Home Again (#1.21)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Home Again (#1.21)}', 'PTC carousel, Pacific Ocean Park, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Home Again (#1.21)}', 'Santa Monica Pier, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Home Again (#1.21)}', 'Santa Monica Beach, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Home Again (#1.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Home Is Where the Tart Is (#6.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Home Is Where the Tart Is (#6.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Home Is Where the Tart Is (#6.1)}', 'Van Nuys, Los Angeles, California, USA']	34.1866581	-118.448729
+['"Beverly Hills, 90210" (1990) {Home and Away (#3.10)}', 'Normandie Ave, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Home and Away (#3.10)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Home and Away (#3.10)}', 'Reseda High School - 18230 Kittridge Avenue, Reseda, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Home and Away (#3.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Homecoming (#5.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Housewarming (#7.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {How to Be the Jerk Women Love (#9.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {I Only Have Eyes for You (#7.27)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {I Wanna Reach Right Out and Grab Ya (#9.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {I Will Be Your Father Figure (#10.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {I Will Be Your Father Figure (#10.19)}', 'La Crescenta Motel - 2413 Foothill Boulevard, La Crescenta, California, USA']	34.230429	-118.2350733
+['"Beverly Hills, 90210" (1990) {I Will Be Your Father Figure (#10.19)}', 'La Crescenta, California, USA']	34.230429	-118.2350733
+['"Beverly Hills, 90210" (1990) {I\'m Back Because (#9.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {I\'m Happy for You... Really (#10.25)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {I\'m Married (#9.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {I\'m Using You \'Cause I Like You (#10.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {I\'m Using You \'Cause I Like You (#10.14)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {If I Had a Hammer (#7.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {If I Had a Hammer (#7.11)}', 'Malibu Shores Motel - 23033 Pacific Coast Hwy, Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {If I Had a Hammer (#7.11)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Illegal Tender (#8.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Injustice for All (#5.14)}', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Injustice for All (#5.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Intervention (#5.9)}', 'Vista Del Valle Dr, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Intervention (#5.9)}', '18515 Wells Drive, Tarzana, Los Angeles, California, USA']	34.16329471428571	-118.535919
+['"Beverly Hills, 90210" (1990) {Intervention (#5.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Isn\'t It Romantic? (#1.9)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {Isn\'t It Romantic? (#1.9)}', 'Nancy Hoover Pohl Overlook, 8401 Mulholland Dr, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Isn\'t It Romantic? (#1.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Isn\'t It Romantic? (#1.9)}', 'Barnes and Noble - 12136 Ventura Blvd., Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Isn\'t It Romantic? (#1.9)}', "L'Ermitage Hotel - 9291 Burton Way, Beverly Hills, California, USA"]	34.0696501	-118.3963062
+['"Beverly Hills, 90210" (1990) {It\'s Only a Test (#1.17)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {It\'s Only a Test (#1.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {It\'s a Totally Happening Life (#3.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {It\'s a Totally Happening Life (#3.16)}', 'Playa Del Rey Elementary School - 12221 Juniette St, Culver City, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Jobbed (#7.14)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Jobbed (#7.14)}', '', '658 Ashland Ave, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Jobbed (#7.14)}', '', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Jobbed (#7.14)}', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Judgement Day (#7.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Law and Disorder (#8.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Laying Pipe (#10.7)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Laying Pipe (#10.7)}', 'Orcutt Ranch Horticulture Center - 23600 Roscoe Blvd, Canoga Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Leading from the Heart (#2.11)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Leading from the Heart (#2.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Leap of Faith (#6.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Let\'s Eat Cake (#10.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Life after Death (#5.4)}', '1815 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Life after Death (#5.4)}', '18515 Wells Drive, Tarzana, Los Angeles, California, USA']	34.16329471428571	-118.535919
+['"Beverly Hills, 90210" (1990) {Life after Death (#5.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Life after Death (#5.4)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Little Monsters (#5.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Local Hero (#9.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Loser Take All (#7.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Lost in Las Vegas (#7.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Love Hurts (#5.23)}', 'Best Western Carriage Inn - 5525 Sepulveda Blvd, Sherman Oaks, California, USA']	34.1508718	-118.4489865
+['"Beverly Hills, 90210" (1990) {Love Hurts (#5.23)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Love Hurts (#5.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Love Is Blind (#10.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Lover\'s Leap (#6.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Making Amends (#8.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Marathon Man (#9.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Marathon Man (#9.10)}', 'Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {Marathon Man (#9.10)}', 'Van Nuys Airport - 6590 Hayvenhurst Avenue, Van Nuys, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Meeting Mr. Pony (#2.25)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Meeting Mr. Pony (#2.25)}', 'Los Angeles Equestrian Center - 480 West Riverside Drive, Burbank, California, USA']	34.1816482	-118.3258554
+['"Beverly Hills, 90210" (1990) {Mexican Standoff (#2.27)}', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Mexican Standoff (#2.27)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Mexican Standoff (#2.27)}', 'Adamson House - 23200 W. Pacific Coast Highway, Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {Mexican Standoff (#2.27)}', 'Malibu Lagoon State Beach - 23200 Pacific Coast Highway, Malibu, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Midlife... Now What? (#3.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Midlife... Now What? (#3.18)}', 'Loews Santa Monica Beach Hotel - 1700 Ocean Ave, Santa Monica, California, USA']	34.009096549999995	-118.49314856916199
+['"Beverly Hills, 90210" (1990) {Misery Loves Company (#3.1)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0113479	-118.4952424
+['"Beverly Hills, 90210" (1990) {Misery Loves Company (#3.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Mother\'s Day (#7.29)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Moving Targets (#4.7)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Moving Targets (#4.7)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Moving Targets (#4.7)}', '1605 E. Altadena Drive, Altadena, California, USA']	34.1907487	-118.1173946
+['"Beverly Hills, 90210" (1990) {Moving Targets (#4.7)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Moving Targets (#4.7)}', 'Arden Villa - 1145 Arden Road, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Moving Targets (#4.7)}', '154 W Providencia Ave, Burbank, California, USA']	34.1816482	-118.3258554
+['"Beverly Hills, 90210" (1990) {Mr. Walsh Goes to Washington (#4.31)}', 'Westin Los Angeles Airport - 5400 West Century Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Mr. Walsh Goes to Washington (#4.31)}', 'Los Angeles International Airport - 1 World Way, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Mr. Walsh Goes to Washington (#4.31)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Must Be a Guy Thing (#6.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Must Be a Guy Thing (#6.3)}', 'Sherman Oaks, Los Angeles, California, USA']	34.1508718	-118.4489865
+['"Beverly Hills, 90210" (1990) {My Desperate Valentine (#2.16)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {My Desperate Valentine (#2.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {My Funny Valentine (#7.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Nancy\'s Choice (#6.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Nancy\'s Choice (#6.19)}', 'Hyatt Regency Century Plaza - 2025 Avenue of the Stars, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Nancy\'s Choice (#6.19)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Necessity Is a Mother (#2.10)}', 'Notre Dame High School - 13645 Riverside Drive, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Necessity Is a Mother (#2.10)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {Necessity Is a Mother (#2.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Nine Yolks Whipped Lightly (#10.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Ode to Joy (#10.27)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Ode to Joy (#10.27)}', 'Beverly Hilton Hotel - 9876 Wilshire Blvd., Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Beverly Hills, 90210" (1990) {Ode to Joy (#10.27)}', 'First Presbyterian Church of Hollywood - 1760 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Offensive Interference (#6.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {One Man and a Baby (#1.11)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {One Man and a Baby (#1.11)}', '1690 Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {One Man and a Baby (#1.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {One Wedding and a Funeral (#6.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {One Wedding and a Funeral (#6.10)}', '28808 Cliffside Dr., Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {One Wedding and a Funeral (#6.10)}', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {One on One (#1.4)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {One on One (#1.4)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {One on One (#1.4)}', 'CostCo - 6100 Sepulveda Boulevard, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {One on One (#1.4)}', 'Chevron Altadena Services Center - 907 E. Altadena Dr, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {One on One (#1.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Otherwise Engaged (#4.9)}', 'Skirball Cultural Center - 2701 N. Sepulveda Boulevard, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Otherwise Engaged (#4.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 1 (#5.31)}', 'Hyatt Westlake Plaza - 880 South Westlake Boulevard, Westlake Village, California, USA']	34.1460234	-118.8061794
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 1 (#5.31)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 1 (#5.31)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 1 (#5.31)}', "Marriot's Rancho Las Palmas Resort, Rancho Mirage, California, USA"]	33.770859	-116.42687402345575
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 1 (#5.31)}', '555 N. Patencio Rd, Palm Springs, California, USA']	33.8246269	-116.540303
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 2 (#5.32)}', 'Chevron - 24137 Lyons Ave, Newhall, California, USA']	34.37909105	-118.55790794872945
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 2 (#5.32)}', 'Lyons Avenue, Newhall, California, USA']	34.3798765	-118.5291917
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 2 (#5.32)}', '1441 Truman St, San Fernando, California, USA']	34.28497	-118.437652
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 2 (#5.32)}', 'Hyatt Westlake Plaza - 880 South Westlake Boulevard, Westlake Village, California, USA']	34.1460234	-118.8061794
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 2 (#5.32)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 2 (#5.32)}', "Marriot's Rancho Las Palmas Resort, Rancho Mirage, California, USA"]	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {P.S. I Love You: Part 2 (#5.32)}', '555 N. Patencio Rd, Palm Springs, California, USA']	33.83109020827836	-116.55309857676967
+['"Beverly Hills, 90210" (1990) {Parental Guidance Recommended (#3.20)}', '1605 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Parental Guidance Recommended (#3.20)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Parental Guidance Recommended (#3.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Pass, Not Pass (#2.6)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Pass, Not Pass (#2.6)}', '6478 Van Nuys Blvd, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Pass, Not Pass (#2.6)}', 'Van Nuys Blvd, Van Nuys, Los Angeles, California, USA']	34.1916707	-118.4487248
+['"Beverly Hills, 90210" (1990) {Pass, Not Pass (#2.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Pass, Not Pass (#2.6)}', '7032 Murietta Ave, Van Nuys, Los Angeles, California, USA']	34.198076666666665	-118.43872108080808
+['"Beverly Hills, 90210" (1990) {Pass, Not Pass (#2.6)}', 'Van Nuys, Los Angeles, California, USA']	34.1866581	-118.448729
+['"Beverly Hills, 90210" (1990) {Perfect Mom (#1.6)}', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Perfect Mom (#1.6)}', 'London West Hollywood Hotel, former Bel Age Hotel - 1020 N San Vicente Blvd., West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Perfect Mom (#1.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Perfectly Perfect (#3.24)}', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Perfectly Perfect (#3.24)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Perfectly Perfect (#3.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Phantom of CU (#7.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Play It Again, David (#2.5)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0113479	-118.4952424
+['"Beverly Hills, 90210" (1990) {Play It Again, David (#2.5)}', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.1418009402905	-118.42068445743054
+['"Beverly Hills, 90210" (1990) {Play It Again, David (#2.5)}', '2033-2041 Euclid St, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Play It Again, David (#2.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Pledging My Love (#7.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Pledging My Love (#7.5)}', 'Benefit St, Sherman Oaks, Los Angeles, California, USA']	34.1490638	-118.4491176
+['"Beverly Hills, 90210" (1990) {Pride and Prejudice (#8.7)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Pride and Prejudice (#8.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Radar Love (#4.12)}', 'California Street, San Francisco, California, USA']	37.784009	-122.4824118
+['"Beverly Hills, 90210" (1990) {Radar Love (#4.12)}', '130 North Gunston Drive, Brentwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Radar Love (#4.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Radar Love (#4.12)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Beverly Hills, 90210" (1990) {Radio Daze (#4.5)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Radio Daze (#4.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Rave On (#5.5)}', '', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Rave On (#5.5)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Ray of Hope (#6.30)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Ray of Hope (#6.30)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Ray of Hope (#6.30)}', 'Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Ready or Not (#8.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Rebel with a Cause (#3.13)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Rebel with a Cause (#3.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Rebel with a Cause (#3.13)}', 'Griffith Observatory, 2800 E Observatory Rd, Los Angeles, California, USA']	34.11821875	-118.30029332196601
+['"Beverly Hills, 90210" (1990) {Rebel with a Cause (#3.13)}', '4326 W. Sunset Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Rebound (#8.18)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Rebound (#8.18)}', '', "All Saint's Episcopal Church - 132 N. Euclid Avenue, Pasadena, California, USA"]	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Remember the Alamo (#7.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Remember the Alamo (#7.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Remember the Alamo (#7.1)}', 'North Las Vegas, Nevada, USA']	36.2005843	-115.1215844
+['"Beverly Hills, 90210" (1990) {Remember the Alamo (#7.1)}', 'Venice Beach, Venice, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Reunion (#8.27)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Ricochet (#8.29)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Rock of Ages (#5.12)}', 'Rose Bowl - 1001 Rose Bowl Drive, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Rock of Ages (#5.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Santa Knows (#8.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Scared Very Straight (#4.20)}', '1815 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Scared Very Straight (#4.20)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Scared Very Straight (#4.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Senior Poll (#3.25)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Senior Poll (#3.25)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Senior Week (#7.30)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Sentenced to Life (#5.16)}', 'Archer School for Girls - 11725 Sunset Boulevard, Brentwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Sentenced to Life (#5.16)}', 'Woodman Coin Laundry - 6016 Woodman Ave, Van Nuys, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Sentenced to Life (#5.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Sex, Lies and Volleyball/Photo Fini (#3.4)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0113479	-118.4952424
+['"Beverly Hills, 90210" (1990) {Sex, Lies and Volleyball/Photo Fini (#3.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Sex, Lies and Volleyball/Photo Fini (#3.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {She Came in Through the Bathroom Window (#3.26)}', '15045 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {She Came in Through the Bathroom Window (#3.26)}', 'Six Flags Magic Mountain - 26101 Magic Mountain Parkway, Valencia, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {She Came in Through the Bathroom Window (#3.26)}', 'Notre Dame High School - 13645 Riverside Drive, Sherman Oaks, Los Angeles, California, USA']	34.1582853	-118.42903372731408
+['"Beverly Hills, 90210" (1990) {She Came in Through the Bathroom Window (#3.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Shooting Star/American in Paris (#3.5)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0113479	-118.4952424
+['"Beverly Hills, 90210" (1990) {Shooting Star/American in Paris (#3.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Shooting Star/American in Paris (#3.5)}', 'The Huntington Library, Art Collections, and Botanical Gardens - 1151 Oxford Rd, San Marino, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Sibling Revelry (#10.11)}', '14227 Kittridge St, Van Nuys, Los Angeles, California, USA']	34.190757425	-118.443158575
+['"Beverly Hills, 90210" (1990) {Sibling Revelry (#10.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Skin Deep (#8.28)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Slipping Away (#9.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Slumber Party (#1.12)}', '15011 Delano St, Van Nuys, Los Angeles, California, USA']	34.18265369387755	-118.45997024489796
+['"Beverly Hills, 90210" (1990) {Slumber Party (#1.12)}', '14980 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18111497979798	-118.45903846464647
+['"Beverly Hills, 90210" (1990) {Slumber Party (#1.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Smashed (#6.25)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Snowbound (#6.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Snowbound (#6.18)}', 'Woodland Hills, Los Angeles, California, USA']	34.1684364	-118.6058382
+['"Beverly Hills, 90210" (1990) {So Long, Farewell, Auf Wiedersehen, Goodbye (#4.1)}', '23816 Malibu Rd, Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {So Long, Farewell, Auf Wiedersehen, Goodbye (#4.1)}', '3500 The Strand, Hermosa Beach, California, USA']	33.86428	-118.39591
+['"Beverly Hills, 90210" (1990) {So Long, Farewell, Auf Wiedersehen, Goodbye (#4.1)}', '1640 Braeburn Road, Altadena, California, USA']	34.18745642857143	-118.11652
+['"Beverly Hills, 90210" (1990) {So Long, Farewell, Auf Wiedersehen, Goodbye (#4.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {So Long, Farewell, Auf Wiedersehen, Goodbye (#4.1)}', '23832 Malibu Rd, Malibu, California, USA']	34.033516745477144	-118.69284372076206
+['"Beverly Hills, 90210" (1990) {So Long, Farewell, Auf Wiedersehen, Goodbye (#4.1)}', 'Craven Estate - 430 Madeline Avenue, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Something in the Air (#3.28)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Something in the Air (#3.28)}', '18515 Wells Drive, Tarzana, Los Angeles, California, USA']	34.16329471428571	-118.535919
+['"Beverly Hills, 90210" (1990) {Something in the Air (#3.28)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Something in the Air (#3.28)}', 'Burbank City Hall - 275 E. Olive Ave, Burbank, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Somewhere in the World It\'s Christmas (#4.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Somewhere in the World It\'s Christmas (#4.15)}', 'St. Ferdinand Church - 1109 Cornel Street, San Fernando, California, USA']	34.28497	-118.437652
+['"Beverly Hills, 90210" (1990) {Song of Myself (#3.7)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Song of Myself (#3.7)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Speechless (#6.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Spring Breakdown (#7.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Spring Dance (#1.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Spring Dance (#1.20)}', 'Sheraton Universal Hotel - 333 Universal Hollywood Drive, Universal City, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Spring Fever (#10.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Spring Training (#1.19)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Spring Training (#1.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Spring Training (#1.19)}', 'Roxbury Park - 471 S. Roxbury Dr, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Beverly Hills, 90210" (1990) {Squash It (#5.27)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Stand (Up) and Deliver (#1.16)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {Stand (Up) and Deliver (#1.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Storm Warning (#7.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Storm Warning (#7.23)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Stormy Weather (#5.21)}', 'Alverno High School - 200 North Michillinda Avenue, Sierra Madre, California, USA']	34.1616729	-118.0528456
+['"Beverly Hills, 90210" (1990) {Stormy Weather (#5.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Straight Shooter (#7.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Strangers in the Night (#4.6)}', '1876 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Strangers in the Night (#4.6)}', 'Eagle Rock Blvd, Eagle Rock, Los Angeles, California, USA']	34.1372195	-118.2147401
+['"Beverly Hills, 90210" (1990) {Strangers in the Night (#4.6)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Strangers in the Night (#4.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Strangers in the Night (#4.6)}', '6110 Van Nuys Blvd, Van Nuys, Los Angeles, California, USA']	34.1984658	-118.4486997
+['"Beverly Hills, 90210" (1990) {Strike the Match (#6.27)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Summer Storm (#2.3)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Summer Storm (#2.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Survival Skills (#9.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Survival Skills (#9.16)}', 'Encino, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Sweating It Out (#5.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Tainted Love (#10.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Tainted Love (#10.13)}', 'Church of the Angels - 1100 Avenue 64, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {Take Back the Night (#4.11)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Take Back the Night (#4.11)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {That\'s the Guy (#9.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The 17 Year Itch (#1.7)}', '200 S. Venice Blvd, Venice, California, USA']	33.984979	-118.468639
+['"Beverly Hills, 90210" (1990) {The 17 Year Itch (#1.7)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {The 17 Year Itch (#1.7)}', 'UCLA, Westwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The 17 Year Itch (#1.7)}', 'Venice Canals, Venice, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {The 17 Year Itch (#1.7)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Back Story (#3.8)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {The Back Story (#3.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Big Hurt (#6.28)}', '101 N. Las Palmas Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Big Hurt (#6.28)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Big Hurt (#6.28)}', 'Point Mugu, California, USA']	34.106923800000004	-119.02102537387437
+['"Beverly Hills, 90210" (1990) {The Child Is Father to the Man (#3.22)}', '1605 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {The Child Is Father to the Man (#3.22)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {The Child Is Father to the Man (#3.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Child Is Father to the Man (#3.22)}', 'Olvera Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {The Dreams of Dylan McKay (#5.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Easter Bunny (#10.22)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Elephant\'s Father (#8.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Elephant\'s Father (#8.17)}', 'City Hall - 100 N. Garfield Avenue, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beverly Hills, 90210" (1990) {The End of the World as We Know It (#9.23)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Final Proof (#10.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The First Time (#1.3)}', 'London West Hollywood Hotel, former Bel Age Hotel - 1020 N San Vicente Blvd., West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Beverly Hills, 90210" (1990) {The First Time (#1.3)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {The First Time (#1.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The First Time (#1.3)}', '333 S. Boylston St, Los Angeles, California, USA']	34.05661505102041	-118.25778617346938
+['"Beverly Hills, 90210" (1990) {The Following Options (#9.9)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Fundamental Things Apply (#8.30)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Game Is Chicken (#3.17)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {The Game Is Chicken (#3.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Game Is Chicken (#3.17)}', 'Woodley Ave, Van Nuys, Los Angeles, California, USA']	34.1916795	-118.4836488
+['"Beverly Hills, 90210" (1990) {The Gentle Art of Listening (#1.8)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {The Gentle Art of Listening (#1.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Girl Who Cried Wolf (#8.21)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Girl Who Cried Wolf (#8.21)}', 'Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Girl from New York City (#4.2)}', '23816 Malibu Rd, Malibu, California, USA']	34.03349591134911	-118.69311720165794
+['"Beverly Hills, 90210" (1990) {The Girl from New York City (#4.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Girl from New York City (#4.2)}', 'Craven Estate - 430 Madeline Avenue, Pasadena, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {The Green Room (#1.1)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {The Green Room (#1.1)}', 'London West Hollywood Hotel, former Bel Age Hotel - 1020 N San Vicente Blvd., West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Beverly Hills, 90210" (1990) {The Green Room (#1.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Green Room (#1.1)}', 'Leo Carrillo State Beach - 35000 W. Pacific Coast Highway, Malibu, California, USA']	34.035591	-118.689423
+['"Beverly Hills, 90210" (1990) {The Kindness of Strangers (#3.15)}', 'Alverno High School - 200 North Michillinda Avenue, Sierra Madre, California, USA']	34.1616729	-118.0528456
+['"Beverly Hills, 90210" (1990) {The Kindness of Strangers (#3.15)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Labors of Love (#4.19)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {The Labors of Love (#4.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Leprechaun (#9.19)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Leprechaun (#9.19)}', 'Santa Monica Pier, Santa Monica, California, USA']	34.00889605	-118.49740225045329
+['"Beverly Hills, 90210" (1990) {The Leprechaun (#9.19)}', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {The Little Fish (#4.3)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Little Fish (#4.3)}', '1815 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.13004926315789	-118.21156952631578
+['"Beverly Hills, 90210" (1990) {The Little Fish (#4.3)}', '3500 The Strand, Hermosa Beach, California, USA']	33.86428	-118.39591
+['"Beverly Hills, 90210" (1990) {The Little Fish (#4.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Little Fish (#4.3)}', 'Manhattan Beach Pier, Manhattan Beach, California, USA']	33.88339445	-118.41463996264673
+['"Beverly Hills, 90210" (1990) {The Long Goodbye (#7.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Loo-Ouch (#10.5)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Morning After (#9.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Nature of Nurture (#8.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Next Fifty Years (#2.14)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {The Next Fifty Years (#2.14)}', '17400 Cumpston St, Encino, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Next Fifty Years (#2.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Next Fifty Years (#2.14)}', "St. Andrew's Episcopal Church - 1432 Engracia Ave, Torrance, California, USA"]	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {The Party Fish (#2.2)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0113479	-118.4952424
+['"Beverly Hills, 90210" (1990) {The Party Fish (#2.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Penultimate (#10.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Penultimate (#10.26)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Phantom Menace (#10.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Pit and the Pendulum (#2.24)}', 'Spelling Television Inc. - 5700 Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Pit and the Pendulum (#2.24)}', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8286788	-118.32040313752209
+['"Beverly Hills, 90210" (1990) {The Pit and the Pendulum (#2.24)}', 'Burbank City Hall - 275 E. Olive Ave, Burbank, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {The Pit and the Pendulum (#2.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Real McCoy (#5.29)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Real McCoy (#5.29)}', "Walt Disney's Golden Oak Ranch - 19802 Placerita Canyon Road, Newhall, California, USA"]	34.3798765	-118.5291917
+['"Beverly Hills, 90210" (1990) {The Right Thing (#8.6)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Right Thing (#8.6)}', 'San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Things We Do for Love (#7.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Time Has Come Today (#4.25)}', '4535 Carpenter Ave, North Hollywood, Los Angeles, California, USA']	34.1812261	-118.3910272
+['"Beverly Hills, 90210" (1990) {The Time Has Come Today (#4.25)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Time Has Come Today (#4.25)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Twins, the Trustee, and the Very Big Trip (#3.2)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0113479	-118.4952424
+['"Beverly Hills, 90210" (1990) {The Twins, the Trustee, and the Very Big Trip (#3.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Way We Weren\'t (#8.4)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {The Way We Weren\'t (#8.4)}', 'Ocean Front Walk, Marina del Rey, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {The Wedding: Part 1 (#8.31)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Wedding: Part 2 (#8.32)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {The Wedding: Part 2 (#8.32)}', 'First Baptist Church - 10438 Oro Vista Ave, Sunland, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Thicker Than Water (#4.17)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Thicker Than Water (#4.17)}', 'Santa Monica Beach, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Thicker Than Water (#4.17)}', 'Joslyn Park - 633 Kensington Rd, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Things That Go Bang in the Night (#5.8)}', '1815 Campus Rd, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Things That Go Bang in the Night (#5.8)}', 'Club Ed Film Set - 150th Street E, Lancaster, California, USA']	34.6981064	-118.1366153
+['"Beverly Hills, 90210" (1990) {Things That Go Bang in the Night (#5.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Things to Do on a Rainy Day (#2.26)}', 'London West Hollywood Hotel, former Bel Age Hotel - 1020 N San Vicente Blvd., West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Things to Do on a Rainy Day (#2.26)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Ticket to Ride (#6.29)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Toil and Trouble (#8.8)}', 'Hollywood Roosevelt Hotel - 7000 Hollywood Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Toil and Trouble (#8.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Toil and Trouble (#8.8)}', 'The Bistro Garden - 12950 Ventura Boulevard, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Too Little, Too Late/Paris 75001 (#3.3)}', '415 Pacific Coast Highway, Santa Monica, California, USA']	34.0113479	-118.4952424
+['"Beverly Hills, 90210" (1990) {Too Little, Too Late/Paris 75001 (#3.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Beverly Hills, 90210" (1990) {Too Little, Too Late/Paris 75001 (#3.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Too Little, Too Late/Paris 75001 (#3.3)}', '8284 Melrose Avenue, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Beverly Hills, 90210" (1990) {Trials and Tribulations (#9.12)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Truth and Consequences (#4.29)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Truth and Consequences (#4.29)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.1273342	-118.21052019264451
+['"Beverly Hills, 90210" (1990) {Turn Back the Clock (#6.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Twenty Years Ago Today (#4.8)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Twenty Years Ago Today (#4.8)}', '1605 E. Altadena Drive, Altadena, California, USA']	34.1907487	-118.1173946
+['"Beverly Hills, 90210" (1990) {Twenty Years Ago Today (#4.8)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Twenty Years Ago Today (#4.8)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Twenty Years Ago Today (#4.8)}', "Pat's Liquor & Junior Market - 6020 Kester Ave, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {U4EA (#2.15)}', '', "Pat's Liquor & Junior Market - 6020 Kester Ave, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {U4EA (#2.15)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Under the Influence (#5.2)}', '18515 Wells Drive, Tarzana, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Under the Influence (#5.2)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Unnecessary Roughness (#7.16)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Unreal World (#5.24)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Up in Flames (#5.13)}', 'Blondie Street, Columbia/Warner Bros. Ranch - 411 North Hollywood Way, Burbank, California, USA']	34.1816482	-118.3258554
+['"Beverly Hills, 90210" (1990) {Up in Flames (#5.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Violated (#6.7)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Vital Signs (#4.30)}', 'Humana West Hills Hospital, Canoga Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Vital Signs (#4.30)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Vital Signs (#4.30)}', 'Occidental College -1600 Campus Road, Eagle Rock, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {We Interrupt This Program (#7.18)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Wedding Bell Blues (#2.28)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beverly Hills, 90210" (1990) {Wedding Bell Blues (#2.28)}', '3959 Longridge Ave, Sherman Oaks, Los Angeles, California, USA']	34.1418009402905	-118.42068445743054
+['"Beverly Hills, 90210" (1990) {Wedding Bell Blues (#2.28)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {What I Did on My Summer Vacation and Other Stories (#5.1)}', '1675 E. Altadena Drive, Altadena, California, USA']	34.1909574	-118.1161272
+['"Beverly Hills, 90210" (1990) {What I Did on My Summer Vacation and Other Stories (#5.1)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {What\'s in a Name (#10.10)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Who\'s Zoomin\' Who? (#5.7)}', 'Corner of Halzetine and Moorpark, Sherman Oaks, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beverly Hills, 90210" (1990) {Who\'s Zoomin\' Who? (#5.7)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Wild Horses (#3.14)}', 'Sandstone Horse Sales - 1666 Hidden Valley Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"Beverly Hills, 90210" (1990) {Wild Horses (#3.14)}', 'Notre Dame High School - 13645 Riverside Drive, Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Wild Horses (#3.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Wildfire (#2.8)}', '', 'Torrance High School - 2200 W. Carson Street, Torrance, California, USA']	33.8358492	-118.3406288
+['"Beverly Hills, 90210" (1990) {Wildfire (#2.8)}', '', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {Wildfire (#2.8)}', '', 'Nancy Hoover Pohl Overlook, 8401 Mulholland Dr, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {Windstruck (#4.14)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {With This Ring (#7.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {With This Ring (#7.20)}', 'Santa Monica Beach, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beverly Hills, 90210" (1990) {Withdrawal (#9.13)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {You Better Work (#10.3)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {You Gotta Have Heart (#5.20)}', 'Alverno High School - 200 North Michillinda Avenue, Sierra Madre, California, USA']	34.1616729	-118.0528456
+['"Beverly Hills, 90210" (1990) {You Gotta Have Heart (#5.20)}', 'Inter-Continental Hotel - 2151 Avenue of the Stars, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {You Gotta Have Heart (#5.20)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {You Say Goodbye, I Say Hello (#9.7)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 1 (#6.31)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 1 (#6.31)}', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 1 (#6.31)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 1 (#6.31)}', 'RMS Queen Mary - 1126 Queens Highway, Long Beach, California, USA']	33.7690164	-118.1916048
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 1 (#6.31)}', 'Sepulveda Boulevard, Van Nuys, Los Angeles, California, USA']	34.2057329	-118.4659494
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 1 (#6.31)}', 'Will Rogers State Historic Park - 1501 Will Rogers State Park Road, Pacific Palisades, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 2 (#6.32)}', '15001 Calvert Street, Van Nuys, Los Angeles, California, USA']	34.18127847474747	-118.45940008080808
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 2 (#6.32)}', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 2 (#6.32)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills, 90210" (1990) {You Say It\'s Your Birthday: Part 2 (#6.32)}', 'RMS Queen Mary - 1126 Queens Highway, Long Beach, California, USA']	33.7690164	-118.1916048
+['"Big Break" (1990)', '', '', '', '', 'Stage 28, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364

@@ -1,0 +1,90 @@
+['"1960 Presidential Debates" (1960) {(#1.1)}', '', 'WBBM-TV - 630 N. McClurg Court, Near North Side, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"1960 Presidential Debates" (1960) {(#1.2)}', '', 'WRC-TV - 4001 Nebraska Avenue NW, Washington, District of Columbia, USA']	38.94023	-77.08081600475768
+['"1960 Presidential Debates" (1960) {(#1.3)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1960 Presidential Debates" (1960) {(#1.3)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"1960 Presidential Debates" (1960) {(#1.4)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"1960 World Series" (1960) {Game 1}', '', '', 'Forbes Field - Boquet and Sennott Streets, Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"1960 World Series" (1960) {Game 1}', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"1960 World Series" (1960) {Game 2}', '', '', 'Forbes Field - Boquet and Sennott Streets, Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"1960 World Series" (1960) {Game 2}', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"1960 World Series" (1960) {Game 2}', '', '', 'University of Pittsburgh, Pittsburgh, Pennsylvania, USA']	40.44415295	-79.96243992762707
+['"1960 World Series" (1960) {Game 6}', '', '', 'Forbes Field - Boquet and Sennott Streets, Pittsburgh, Pennsylvania, USA']	39.7837304	-100.4458825
+['"1960 World Series" (1960) {Game 6}', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"1960 World Series" (1960) {Game 6}', '', '', 'University of Pittsburgh, Pittsburgh, Pennsylvania, USA']	40.44415295	-79.96243992762707
+['"1960 World Series" (1960) {Game 7}', '', '', 'Forbes Field - Boquet and Sennott Streets, Pittsburgh, Pennsylvania, USA']	39.7837304	-100.4458825
+['"1960 World Series" (1960) {Game 7}', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"1960 World Series" (1960) {Game 7}', '', '', 'University of Pittsburgh, Pittsburgh, Pennsylvania, USA']	40.44415295	-79.96243992762707
+['"ABC Close-Up!" (1960) {Back to Bhowani}', '', 'Lahore, Pakistan']	30.3308401	71.247499
+['"ABC Close-Up!" (1960) {Smog: The Silent Killer}', 'London, England, UK']	51.5073219	-0.1276474
+['"ABC Close-Up!" (1960) {The Children Were Watching}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"ABC Close-Up!" (1960) {The Lost Neighborhood}', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"ABC Close-Up!" (1960) {The Unpaid and the Unsung}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"ABC Close-Up!" (1960) {The Vanishing Breed: Portrait of a Country Editor}', 'Calhoun, Kentucky, USA']	37.5389351	-87.2583316
+['"ABC Close-Up!" (1960) {Yanki, No!}', '', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"ABC Close-Up!" (1960) {Yanki, No!}', '', '', 'Cuba']	23.0131338	-80.8328748
+['"AWA All-Star Wrestling" (1960)', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"AWA All-Star Wrestling" (1960) {(1984-08-25)}', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"About Faces" (1960)', '', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(#1.16)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(#1.7)}', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(1960-03-22)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(1960-04-13)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(1960-04-22)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(1960-06-13)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(1960-06-28)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(1960-07-15)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(1960-08-16)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"About Faces" (1960) {(1960-08-26)}', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Al caer la noche" (1960)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Al caer la noche" (1960) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar fue su pecado" (1960)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Angel" (1960)', '', '', '', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Angel of Mercy (#1.31)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Angel\'s Temper (#1.5)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Call Me Mother (#1.17)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Democracy (#1.6)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Goodbye, Young Lovers (#1.30)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Happy Marriage (#1.15)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {House Guests (#1.21)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Little White Lies (#1.20)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Phone Fun (#1.22)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Promise to a Friend (#1.33)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Contest (#1.8)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Dentist (#1.24)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Dowry (#1.14)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Driving Lesson (#1.9)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Easy Touch: Angel and the Con Men (#1.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The French Lesson (#1.19)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The French Touch (#1.1)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Goat Dog (#1.13)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Guided Tour (#1.27)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Honest Man (#1.25)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Insurance Policy (#1.23)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Joint Bank Account (#1.16)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Littlest Leaguer (#1.28)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Maid (#1.4)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Museum (#1.11)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Second Marriage (#1.18)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Trailer (#1.29)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Trusting Wife (#1.7)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Valedictorian (#1.10)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {The Wedding (#1.32)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Togetherness (#1.12)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Unpopular Mechanics (#1.26)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1960) {Voting Can Be Fun (#1.2)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"BBC Sunday-Night Play" (1960)', '', '', '', 'BBC Studio, London, England, UK']	51.5073219	-0.1276474
+['"BBC Sunday-Night Play" (1960) {Summer Theatre: You\'re a Long Time Dead (#1.29)}', 'BBC Bristol, Whiteladies Road, Clifton, Bristol, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"BBC Sunday-Night Play" (1960) {Twentieth Century Theatre: Love on the Dole (#1.17)}', 'BBC North, TV Studio A, Dickenson Road, Rusholme, Manchester, England, Uk']	54.7023545	-3.2765753

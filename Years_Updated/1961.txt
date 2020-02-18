@@ -1,0 +1,318 @@
+['"\'Way Out" (1961)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {20/20 (#1.14)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {Button, Button (#1.4)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {Death Wish (#1.9)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {Dissolve to Black (#1.8)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {False Face (#1.7)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {Hush-Hush (#1.11)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {I Heard You Calling Me (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {Side Show (#1.12)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {Soft Focus (#1.13)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {The Croaker (#1.6)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {The Down Car (#1.2)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {The Overnight Case (#1.10)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {The Sisters (#1.3)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"\'Way Out" (1961) {William and Mary (#1.1)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"1, 2, 3 Go" (1961) {(1961-11-26)}', '', '', 'Sussex, England, UK']	50.944680649999995	-0.06192935288128998
+['"87th Precinct" (1961)', '', '', '', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {A Bullet for Katie (#1.20)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Empty Hours (#1.9)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Feel of the Trigger (#1.22)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Girl in the Case (#1.30)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Give the Boys a Great Big Hand (#1.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Idol in the Dust (#1.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Killer\'s Choice (#1.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Killer\'s Payoff (#1.7)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {King\'s Ransom (#1.21)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Lady Killer (#1.3)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Lady in Waiting (#1.2)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Line of Duty (#1.5)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Main Event (#1.15)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Man in a Jam (#1.16)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {My Friend, My Enemy (#1.10)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {New Man in the Precinct (#1.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Occupation, Citizen (#1.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Out of Order (#1.18)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Ramon (#1.27)}', '', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Run, Rabbit, Run (#1.14)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Square Cop (#1.24)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Step Forward (#1.25)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {The Floater (#1.1)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {The Guilt (#1.8)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {The Heckler (#1.13)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {The Last Stop (#1.29)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {The Modus Man (#1.4)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {The Pigeon (#1.19)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {The Very Hard Sell (#1.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"87th Precinct" (1961) {Til Death (#1.12)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"ABC\'s Wide World of Sports" (1961) {(1961-05-06)}', 'Syracuse University, Syracuse, New York, USA']	43.03830645	-76.1333088275183
+['"ABC\'s Wide World of Sports" (1961) {(1961-05-06)}', 'University of Oklahoma, Norman, Oklahoma, USA']	35.2107272	-97.44732295
+['"ABC\'s Wide World of Sports" (1961) {(1962-02-25)}', 'St. Paul, Minnesota, USA']	44.9504037	-93.1015026
+['"ABC\'s Wide World of Sports" (1961) {(1963-05-04)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"ABC\'s Wide World of Sports" (1961) {(1964-06-20)}', 'Indianapolis, Indiana, USA']	39.7683331	-86.1583502
+['"ABC\'s Wide World of Sports" (1961) {(1964-06-20)}', 'Ireland']	52.865196	-7.9794599
+['"ABC\'s Wide World of Sports" (1961) {(1964-08-01)}', 'Cheyenne, Wyoming, USA']	41.139981	-104.820246
+['"ABC\'s Wide World of Sports" (1961) {(1964-08-08)}', 'Los Altos, California, USA']	37.3790629	-122.116578
+['"ABC\'s Wide World of Sports" (1961) {(1964-08-08)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"ABC\'s Wide World of Sports" (1961) {(1964-10-17)}', 'Pendleton, Oregon, USA']	45.672075	-118.7885967
+['"ABC\'s Wide World of Sports" (1961) {(1964-10-17)}', 'Bonneville Salt Flats, Utah, USA']	40.740006	-113.6815662
+['"ABC\'s Wide World of Sports" (1961) {(1966-02-19)}', 'Madison Square Garden - 50th Street and Eighth Avenue, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC\'s Wide World of Sports" (1961) {(1966-03-26)}', 'Sun Valley, Idaho, USA']	43.696215	-114.353097
+['"ABC\'s Wide World of Sports" (1961) {(1966-07-09)}', 'Daytona Beach, Florida, USA']	29.2108147	-81.0228331
+['"ABC\'s Wide World of Sports" (1961) {(1966-07-09)}', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"ABC\'s Wide World of Sports" (1961) {(1966-09-10)}', 'Williamsport, Pennsylvania, USA']	41.2493292	-77.0027671
+['"ABC\'s Wide World of Sports" (1961) {(1967-05-06)}', 'Fairview Park, Ohio, USA']	41.4461727	-81.8526519
+['"ABC\'s Wide World of Sports" (1961) {(1968-06-15)}', 'Indianapolis, Indiana, USA']	39.7683331	-86.1583502
+['"ABC\'s Wide World of Sports" (1961) {(1968-12-07)}', 'Riverside, California, USA']	33.7219991	-116.0372472
+['"ABC\'s Wide World of Sports" (1961) {(1968-12-07)}', 'Mitterndorf, Austria']	47.9974719	16.4703767
+['"ABC\'s Wide World of Sports" (1961) {(1969-04-12)}', 'Puerto Rico']	18.22141715	-66.4132818505648
+['"ABC\'s Wide World of Sports" (1961) {(1969-04-12)}', 'Hollywood, Florida, USA']	26.0112014	-80.1494901
+['"ABC\'s Wide World of Sports" (1961) {(1969-04-12)}', 'Reno, Nevada, USA']	39.5261206	-119.8126581
+['"ABC\'s Wide World of Sports" (1961) {(1969-11-15)}', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"ABC\'s Wide World of Sports" (1961) {(1969-11-22)}', 'Rome, Italy']	41.8933203	12.4829321
+['"ABC\'s Wide World of Sports" (1961) {(1972-06-24)}', 'Des Plaines, Illinois, USA']	42.0415823	-87.8873916
+['"ABC\'s Wide World of Sports" (1961) {(1973-10-20)}', 'Jakarta, Indonesia']	-2.4833826	117.8902853
+['"ABC\'s Wide World of Sports" (1961) {(1973-10-20)}', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"ABC\'s Wide World of Sports" (1961) {(1976-09-18)}', 'Darlington, South Carolina, USA']	34.3609331	-79.9438572
+['"ABC\'s Wide World of Sports" (1961) {(1976-09-18)}', 'Silver Springs, Florida, USA']	29.2166172	-82.0575797
+['"ABC\'s Wide World of Sports" (1961) {(1979-07-14)}', 'Silverstone Racetrack, Northamptonshire, England, UK']	52.25	-0.833333
+['"Abismos de amor" (1961)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Adventure" (1961) {Disciples of the Sword}', '', 'Punjab, India']	30.9293211	75.5004841
+['"Adventure" (1961) {Treasure of the Great Reef}', '', 'Great Basses Reef, Sri Lanka']	7.5554942	80.7137847
+['"Adventure" (1961) {Wings in the Malayan Desert (#1.4)}', 'Malaysia']	4.5693754	102.2656823
+['"Age tendre et t�te de bois" (1961)', '', '', 'Golf Drouot, Rue Drouot, Paris 9, Paris, France']	46.603354	1.8883335
+['"Al dar las 10" (1961)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alcoa Premiere" (1961)', '', '', '', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {A Place to Hide (#1.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {All My Clients Are Innocent (#1.22)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Blow High, Blow Clear (#2.20)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Blues for a Hanging (#2.13)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Chain Reaction (#2.21)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Cry Out in Silence (#1.25)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Delbert, Texas (#1.8)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Family Outing (#1.5)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Five, Six, Pick Up Sticks (#2.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Flashing Spikes (#2.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Guest in the House (#2.2)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Hornblower (#2.22)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Impact of an Execution (#2.14)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {It Takes a Thief (#1.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Jenny Ray (#2.24)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Lollipop Louie (#2.15)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Million Dollar Hospital (#2.29)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Moment of Decision (#1.4)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Mr. Easy (#1.14)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Mr. Lucifer (#2.5)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Of Struggle and Flight (#2.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Of This Time, of This Place (#1.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Once a Bachelor (#1.24)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Ordeal in Darkness (#2.7)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Pattern of Guilt (#1.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {People Need People (#1.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Second Chance (#1.18)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Seven Against the Sea (#1.20)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Best Years (#2.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Boy Who Wasn\'t Wanted (#1.27)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Broken Year (#2.27)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Cake Baker (#1.10)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Dark Labyrinth (#2.25)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Doctor (#1.16)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The End of a World (#1.9)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Fortress (#1.3)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Fugitive Eye (#1.2)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Glass Palace (#2.16)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Hands of Danofrio (#2.9)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Hat of Sergeant Martin (#2.19)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Hour of the Bath (#1.12)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Jail (#1.13)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Long Walk Home (#2.3)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Man with the Shine on His Shoes (#1.15)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Masked Marine (#2.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Potentate (#2.12)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Rules of the Game (#1.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Tiger (#1.19)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Time of the Tonsils (#1.29)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Town That Died (#2.30)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Very Custom Special (#1.21)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Voice of Charlie Pont (#2.4)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Way from Darkness (#2.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {The Witch Next Door (#1.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {This Will Kill You (#2.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alcoa Premiere" (1961) {Whatever Happened to Miss Illinois? (#2.8)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amor a toda hora" (1961)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio Lupin" (1961) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bajo la sombra de los almendros" (1961)', '', 'Mexico']	19.4326296	-99.1331785
+['"Beat the Odds" (1961)', '', '', '', '', 'KTLA Studios - 5858 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ben Casey" (1961)', '', '', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	39.7837304	-100.4458825
+['"Ben Casey" (1961)', '', '', '', '', 'Los Angeles County/USC Medical Center - 1200 N. State Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ben Casey" (1961)', '', '', '', '', 'RKO Studios - 780 Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ben Casey" (1961) {A Bird in the Solitude Singing (#4.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Boy Is Standing Outside the Door (#4.14)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Cardinal Act of Mercy: Part 1 (#2.15)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Cardinal Act of Mercy: Part 2 (#2.16)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Certain Time, a Certain Darkness (#1.11)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Dark Night for Billy Harris (#1.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Dipperful of Water from a Poisoned Well (#4.21)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Disease of the Heart Called Love (#4.10)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Falcon\'s Eye, a Lion\'s Heart, a Girl\'s Hand (#3.25)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Few Brief Lines for Dave (#1.7)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Horse Named Stravinsky (#4.31)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Hundred More Pipers (#2.20)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Little Fun to Match the Sorrow (#4.22)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Man, a Maid, and a Marionette (#4.20)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Memory of Candy Stripes (#1.14)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Nightingale Named Nathan (#5.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Pleasant Thing for the Eyes (#1.27)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Rambling Discourse on Egyptian Water Clocks (#4.18)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Short Biographical Sketch of James Tuttle Peabody, M.D. (#2.19)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Slave Is on the Throne (#4.26)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Story to Be Softly Told (#1.16)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Thousand Words Are Mute (#4.8)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {A Woods Full of Question Marks (#4.7)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {All the Clocks Are Ticking (#1.25)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Allie (#3.4)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Among Others, a Girl Named Abilene (#1.26)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {An Expensive Glass of Water (#1.5)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {An Uncommonly Innocent Killing (#1.30)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {And Eve Wore a Veil of Tears (#1.28)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {And Even Death Shall Die (#2.8)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {And If I Die (#1.13)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {August Is the Month Before Christmas (#4.1)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Autumn Without Red Leaves (#4.4)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Because of the Needle, the Haystack Was Lost (#5.5)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Behold a Pale Horse (#1.21)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Behold! They Walk an Ancient Road (#2.6)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Between Summer and Winter, the Glorious Season (#2.10)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {But Linda Only Smiled (#1.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {But Who Shall Beat the Drums? (#4.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Courage at 3:00 A.M. (#4.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Did Your Mother Come from Ireland, Ben Casey? (#4.29)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Dispel the Black Cyclone That Shakes the Throne (#3.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Dress My Doll Pretty (#3.28)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Eulogy in Four Flats (#4.24)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Every Other Minute, It\'s the End of the World (#4.17)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Father Was an Intern (#2.26)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Fire in a Sacred Fruit Tree (#3.11)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {For I Will Plait thy Hair with Gold (#2.25)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {For Jimmy, the Best of Everything (#4.6)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {For San Diego, You Need a Different Bus (#5.18)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {For This Relief, Much Thanks (#3.1)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {For a Just Man Falleth Seven Times (#3.32)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {For the Ladybug, One Dozen Roses (#1.22)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Francini? Who Is Francini? (#5.7)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {From Sutter\'s Crick... And Beyond Farewell (#4.30)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {From Too Much Love of Living (#3.14)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Fun and Games and Other Tragic Things (#5.20)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Give My Hands an Epitaph (#1.18)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Go Not Gently Into the Night (#2.5)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Goodbye to Blue Elephants and Such (#3.22)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Hang No Hats on Dreams (#2.31)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {He Thought He Saw an Albatross (#2.18)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Heap Logs and Let the Blaze Laugh Out (#3.31)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {I Hear America Singing (#2.11)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {I Remember a Lemon Tree (#1.4)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {I\'ll Be Alright in the Morning (#2.14)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {I\'ll Get on My Ice Floe and Wave Goodbye (#3.18)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {If There Were Dreams to Sell (#3.5)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {If You Play Your Cards Right, You Too Can Be a Loser (#5.15)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Imagine a Long Bright Corridor (#1.15)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {In Case of Emergency, Cry Havoc (#5.16)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {In the Name of Love, a Small Corruption (#2.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {It Is Getting Dark... And We Are Lost (#3.15)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Journeys End in Lovers Meeting (#4.27)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Justice to a Microbe (#3.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Keep Out of Reach of Adults (#3.27)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Kill the Dream, But Spare the Dreamer (#4.11)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {La Vie, La Vie Interieure (#2.28)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Legacy from a Stranger (#2.4)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Light Up the Dark Corners (#3.9)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Little Drops of Water, Little Grains of Sand (#3.8)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Lullaby for Billy Dignan (#2.30)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Lullaby for a Wind-Up Toy (#5.22)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Make Me the First American (#3.30)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Meantime, We Shall Express Our Darker Purpose (#5.17)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Minus That Rusty Old Hacksaw (#4.23)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Money, a Horse and a Knowledge of Latin (#4.9)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Monument to an Aged Hunter (#1.24)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Mrs McBroom and the Cloud Watcher (#2.1)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {My Enemy Is a Bright Green Sparrow (#2.29)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {My Good Friend Krikor (#1.9)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {My Love, My Love (#3.13)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {No More, Cried the Rooster - There Will Be Truth (#5.9)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {O\' the Big Wheel Turns by Faith, by Faith (#5.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Odyssey of a Proud Suitcase (#1.20)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Of All Save Pain Bereft (#2.7)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {One Nation Indivisible (#3.21)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Onions and Mustard Seed Will Make Her Weep (#3.29)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Pack Up All My Cares and Woes (#2.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Pas De Deux (#4.16)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Pavane for a Gentle Lady (#1.8)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Preferably, the Less-Used Arm (#1.29)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Pull the Wool Over Your Eyes, Here Comes the Cold Wind of Truth (#5.25)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Rage Against the Dying Light (#2.27)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Rigadoon for Three Pianos (#2.22)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Run for Your Lives, Dr. Galanos Practices Here! (#5.4)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Saturday, Surgery, and Stanley Schultz (#2.13)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Six Impossible Things Before Breakfast (#3.10)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Smile, Baby, Smile, It\'s Only Twenty Dols of Pain (#5.19)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {So Oft It Chances in Particular Men (#1.31)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Suffer the Little Children (#2.21)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Bark of a Three-Headed Hound (#3.23)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Big Trouble with Charlie (#1.17)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Day They Stole County General (#4.28)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Echo of a Silent Cheer: Part 1 (#3.6)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Echo of a Silent Cheer: Part 2 (#3.7)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Evidence of Things Not Seen (#3.33)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Fireman Who Raised Rabbits (#2.9)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Importance of Being 65937 (#5.10)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Insolent Heart (#1.3)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Last Splintered Spoke of the Old Burlesque Wheel (#3.16)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Light That Loses, the Night That Wins (#3.17)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Lonely Ones (#3.26)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Man from Quasilia (#5.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Night That Nothing Happened (#2.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Only Place Where They Know My Name (#3.19)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Sound of Laughter (#1.6)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Sound of One Hand Clapping (#3.24)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The Sweet Kiss of Madness (#1.10)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {The White Ones Are Dolphins (#2.23)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Then I, and You, and All of Us Fell Down (#5.8)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Then, Suddenly, Panic (#5.26)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {There Was Once a Man in the Land of Uz (#3.20)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {This Wild, Wild, Wild Waltzing World (#4.13)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Three Li\'l Lambs (#4.25)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {To a Grand and Natural Finale (#1.23)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {To the Pure (#1.1)}', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Twenty Six Ways to Spell Heartbreak: A, B, C, D... (#5.24)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Use Neon for My Epitaph (#2.17)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Victory Wears a Cruel Smile (#1.19)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {War of Nerves (#5.1)}', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Weave Nets to Catch the Wind (#5.21)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {What to Her Is Plato? (#5.6)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {When Givers Prove Unkind (#5.11)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {When I Am Grown to Man\'s Estate (#4.19)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {When You See an Evil Man (#1.32)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Where Did All the Roses Go? (#5.23)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Where Does the Boomerang Go? (#4.15)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Why Did the Day Go Backwards? (#5.13)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {Will Everyone Who Believes in Terry Dunne Please Applaud (#2.24)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {With the Rich and Mighty, Always a Little Patience (#3.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {You Fish or You Cut Bait (#4.5)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Ben Casey" (1961) {You Wanna Know What Really Goes on in a Hospital? (#5.14)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665

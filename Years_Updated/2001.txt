@@ -1,0 +1,883 @@
+['"100 Centre Street" (2001)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"100 mexicanos dijeron" (2001)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"20 Years on MTV" (2001)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"22, el loco" (2001)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.40)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.41)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.42)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.43)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.44)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.45)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.46)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.47)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.48)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.49)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.50)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.51)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.52)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.53)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.54)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.55)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.56)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.57)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.58)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.59)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.60)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.61)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.62)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.63)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.64)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.65)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.66)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.67)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.68)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.69)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.70)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.71)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.72)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.73)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.74)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.75)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.76)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.77)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.78)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.79)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.80)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.81)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.82)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.83)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.84)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.85)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.86)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.87)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.88)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.89)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.90)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.91)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.92)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.93)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.94)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.95)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"22, el loco" (2001) {(#1.96)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"24" (2001)', '', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"24" (2001)', '', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"24" (2001)', '', '', '', '', '', 'Chatsworth, Los Angeles, California, USA']	34.2595715	-118.6023247
+['"24" (2001)', '', '', '', '', '', 'Fort MacArthur, San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001)', '', '', '', '', '', 'Kuala Lumpur, Malaysia']	3.1516964	101.6942371
+['"24" (2001)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001)', '', '', '', '', '', 'Malibu City Hall - 23815 Stuart Ranch Road, Malibu, California, USA']	34.035591	-118.689423
+['"24" (2001)', '', '', '', '', '', 'Malibu, California, USA']	34.035591	-118.689423
+['"24" (2001)', '', '', '', '', '', 'Ontario International Airport - 2900 E. Airport Drive, Ontario, California, USA']	34.065846	-117.6484304
+['"24" (2001)', '', '', '', '', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"24" (2001)', '', '', '', '', '', 'Union Station - 800 N. Alameda Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {11:00 a.m.-12:00 p.m. (#1.12)}', '', 'Sable Ranch - 25933 Sand Canyon Road, Santa Clarita, California, USA']	34.3916641	-118.542586
+['"24" (2001) {12:00 p.m.-1:00 p.m. (#1.13)}', '', 'Sable Ranch - 25933 Sand Canyon Road, Santa Clarita, California, USA']	34.3916641	-118.542586
+['"24" (2001) {3:00 a.m.-4:00 a.m. (#1.4)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"24" (2001) {3:00 p.m.-4:00 p.m. (#1.16)}', '', 'Griffith Observatory, 2800 E Observatory Rd, Los Angeles, California, USA']	34.11821875	-118.30029332196601
+['"24" (2001) {5:00 a.m.-6:00 a.m. (#1.6)}', '', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {7:00 a.m.-8:00 a.m. (#1.8)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 10:00 a.m.-11:00 a.m. (#2.3)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 10:00 p.m.-11:00 p.m. (#2.15)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 11:00 p.m.-12:00 a.m. (#2.16)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 12:00 a.m.-1:00 a.m. (#2.17)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 1:00 a.m.-2:00 a.m. (#2.18)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 2:00 a.m.-3:00 a.m. (#2.19)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 3:00 a.m.-4:00 a.m. (#2.20)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 3:00 a.m.-4:00 a.m. (#2.20)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"24" (2001) {Day 2: 3:00 p.m.-4:00 p.m. (#2.8)}', '', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 4:00 a.m.-5:00 a.m. (#2.21)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 4:00 p.m.-5:00 p.m. (#2.9)}', '', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 5:00 a.m.-6:00 a.m. (#2.22)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 5:00 p.m.-6:00 p.m. (#2.10)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 6:00 p.m.-7:00 p.m. (#2.11)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 2: 7:00 p.m.-8:00 p.m. (#2.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"24" (2001) {Day 3: 10:00 p.m.-11:00 p.m. (#3.10)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 3: 6:00 a.m.-7:00 a.m. (#3.18)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 3: 7:00 a.m.-8:00 a.m. (#3.19)}', 'De Soto Pharmacy, Canoga Park, California, USA']	34.2010776	-118.5978259
+['"24" (2001) {Day 4: 10:00 p.m.-11:00 p.m. (#4.16)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 11:00 a.m.-12:00 p.m. (#4.5)}', 'USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 4: 11:00 p.m.-12:00 a.m. (#4.17)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 12:00 a.m.-1:00 a.m. (#4.18)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 1:00 a.m.-2:00 a.m. (#4.19)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 2:00 a.m.-3:00 a.m. (#4.20)}', 'The Ebell of Los Angeles - 743 South Lucerne Bouelvard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 2:00 a.m.-3:00 a.m. (#4.20)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 3:00 a.m.-4:00 a.m. (#4.21)}', 'The Ebell of Los Angeles - 743 South Lucerne Bouelvard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 3:00 a.m.-4:00 a.m. (#4.21)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 4:00 a.m.-5:00 a.m. (#4.22)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 4:00 p.m.-5:00 p.m. (#4.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 5:00 a.m.-6:00 a.m. (#4.23)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 5:00 p.m.-6:00 p.m. (#4.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 6:00 a.m.-7:00 a.m. (#4.24)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 6:00 p.m.-7:00 p.m. (#4.12)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 7:00 p.m.-8:00 p.m. (#4.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 8:00 p.m.-9:00 p.m. (#4.14)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 4: 9:00 p.m.-10:00 p.m. (#4.15)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 5: 10:00 a.m.-11:00 a.m. (#5.4)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 5: 10:00 a.m.-11:00 a.m. (#5.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 5: 12:00 a.m.-1:00 a.m. (#5.18)}', 'Long Beach Airport - 4101 E. Donald Douglas Drive, Long Beach, California, USA']	33.816832950000006	-118.15341241193414
+['"24" (2001) {Day 5: 12:00 p.m.-1:00 p.m. (#5.6)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 5: 3:00 p.m.-4:00 p.m. (#5.9)}', '', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 5: 4:00 a.m.-5:00 a.m. (#5.22)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 5: 5:00 a.m.-6:00 a.m. (#5.23)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 5: 5:00 p.m.-6:00 p.m. (#5.11)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 5: 6:00 a.m.-7:00 a.m. (#5.24)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 5: 6:00 p.m.-7:00 p.m. (#5.12)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 5: 7:00 a.m.-8:00 a.m. (#5.1)}', '', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 5: 7:00 a.m.-8:00 a.m. (#5.1)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 5: 8:00 a.m.-9:00 a.m. (#5.2)}', '', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 5: 8:00 a.m.-9:00 a.m. (#5.2)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 5: 9:00 a.m.-10:00 a.m. (#5.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 6: 4:00 p.m.-5:00 p.m. (#6.11)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 6: 5:00 p.m.-6:00 p.m. (#6.12)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"24" (2001) {Day 6: 5:00 p.m.-6:00 p.m. (#6.12)}', 'Craven Estate - 430 Madeline Avenue, Pasadena, California, USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 6: 6:00 p.m.-7:00 p.m. (#6.13)}', 'Craven Estate - 430 Madeline Avenue, Pasadena, California, USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 6: 7:00 a.m.-8:00 a.m. (#6.2)}', '', 'Manchester Square neighborhood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 6: 7:00 p.m.-8:00 p.m. (#6.14)}', 'Craven Estate - 430 Madeline Avenue, Pasadena, California, USA']	34.1476452	-118.1444779
+['"24" (2001) {Day 7: 11:00 a.m.-12:00 p.m. (#7.4)}', 'Ahmanson Mansion - 401 South Hudson Place, Hancock Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 7: 12:00 p.m.-1:00 p.m. (#7.5)}', 'Ahmanson Mansion - 401 South Hudson Place, Hancock Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 7: 3:00 p.m.-4:00 p.m. (#7.8)}', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"24" (2001) {Day 7: 4:00 p.m.-5:00 p.m. (#7.9)}', '', 'Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 7: 4:00 p.m.-5:00 p.m. (#7.9)}', '', 'Gallery Bar and Cognac Room, Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24" (2001) {Day 7: 5:00 p.m.-6:00 p.m. (#7.10)}', 'New York Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"24" (2001) {Day 8: 3:00 p.m.-4:00 p.m. (#8.24)}', '590 South Santa Fe Avenue, Los Angeles, California, USA']	33.8246103	-118.2154668
+['"30x30: Kid Flicks" (2001)', '', '', '', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"7 Lives Xposed" (2001) {(#1.2)}', '', '', 'Silver Lake, Los Angeles, California, USA']	34.0896518	-118.2693735
+['"A Ganar con Omar" (2001)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"A Grande Fam�lia" (2001)', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Senhora das �guas" (2001)', '', '', '', 'Viseu, Viseu, Portugal']	40.6574713	-7.9138664
+['"A War Diary" (2001)', '', '', '', '', 'Singapore']	1.357107	103.8194992
+['"Abogados" (2001)', '', '', '', '', 'Madrid, Spain']	39.3262345	-4.8380649
+['"Abogados" (2001)', '', '', '', '', 'Sese�a, Madrid, Spain']	39.3262345	-4.8380649
+['"Abschnitt 40" (2001)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Abschnitt 40" (2001) {Berlin - Abschnitt 40 (#1.0)}', 'Berlin, Germany']	52.5170365	13.3888599
+['"According to Jim" (2001)', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {A Crying Shame (#4.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {A Hole in One (#4.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {A Vast Difference (#3.29)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {ABCs and 123s (#3.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {About a Girl (#2.25)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {All Dolled Up (#7.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {All the Rage (#6.6)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {An According to Jiminy Christmas (#1.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Andy\'s Girlfriend (#1.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Andy\'s Proposal (#8.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Anec-Dont\'s (#5.6)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Anniversary (#1.4)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Any Man of Mine (#6.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Bad Word (#1.11)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Belaboring the Point (#5.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Birthday Boys (#1.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Blow-Up (#1.14)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Bo Diddley (#2.21)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Cabin Boys (#8.6)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Cars & Chicks (#2.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Charity Begins at Hef\'s (#5.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Cheryl Goes to Florida (#7.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Cheryl Gone Wild (#6.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Cheryl Sings (#3.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Cheryl\'s Day Off (#1.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Cheryl\'s Old Flame (#1.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Coach Jim (#6.12)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Crush (#1.6)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Daddy Dearest (#5.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Dana Dates Jim (#3.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Dana Dates the Reverend (#3.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Dana Gets Fired (#2.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Date Night (#1.17)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Deal with the Devlins (#2.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Deliverance (#6.8)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Devlin in Disguise (#6.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Diamonds Are a Ghoul\'s Best Friend (#8.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Dino-Mite (#6.9)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Dress to Kill Me (#4.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Everyone Gets Dumped (#3.27)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Father Disfigure (#2.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Father-Daughter Dance (#4.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Foul Ball (#5.1)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Geronimo Jim (#4.25)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Get Your Freak On (#5.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Getting to Know You (#3.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Good Grief (#6.5)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Goodwill Hunting (#7.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Guess Who\'s Cooking Your Dinner? (#4.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Guinea Pygmalion (#6.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Happy Jim (#8.14)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Heaven Opposed to Hell (#8.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Hoosier Daddy (#6.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {House for Sale (#3.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {I Drink Your Milkshake (#7.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {I Hate the High Road (#8.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Imaginary Friend (#3.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {In Case of Jimergency (#6.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {James & the Annoying Peach (#5.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Jami McFame (#8.3)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Jim Almighty (#7.1)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Jim\'s Best Friend (#5.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Jim\'s Birthday (#6.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Kentucky Fried Beltzman (#4.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {King of the Nerds (#8.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Kyle\'s Crush (#8.9)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Lean on Me (#5.10)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Model Behavior (#1.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Mom\'s Boyfriend (#2.26)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Moral Dilemma (#2.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Mr. Right (#5.15)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {No Bedrest for the Wicked (#7.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {No Crime, But Punishment (#3.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {No Harm, No Fowl (#2.24)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {No Nookie (#1.2)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {No Surprises (#1.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Old Friends (#1.20)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Paintball (#3.10)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Period Peace (#7.7)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Physical Therapy (#8.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Pilot (#1.1)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Pizza Boy (#2.4)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Plot Twist (#4.7)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Poking the Bear (#4.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Polite Jim (#5.18)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Pregnancy Brain (#7.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Punch and Ruby (#2.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Racquetball (#1.15)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Renewing Vows (#5.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Ruby\'s First Date (#7.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Rules of Engagement (#3.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Safety Last (#7.3)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Scary Movie (#3.8)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Secret Santa (#3.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Separate Ways (#6.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Sex Ed Fred (#5.12)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Shall We Dance? (#4.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Slumber Party (#2.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Spelling Bee (#4.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Stalking Santa (#4.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Sympathy from the Devlins (#4.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Take My Wife, Please (#4.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Thanksgiving Confidential (#2.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The At-Bat (#6.13)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Baby (#3.21)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Baby Monitor (#2.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Bachelor (#2.7)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Bachelorette Party (#4.24)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Best Man (#3.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Blankie (#8.1)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Brother-in-Law (#2.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Cat Came Back (#1.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Chaperone (#7.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Cheater (#7.16)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Chick Whisperer (#5.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Christmas Party (#2.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Clock (#4.22)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Closet (#2.5)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Competition (#4.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Cooler One (#8.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Daddy Way (#8.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Devil Went Down to Oak Park (#7.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Dream (#5.9)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Effort (#4.2)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Ego Boost (#8.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Empty Gesture (#3.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Errand (#3.1)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Flannelsexual (#6.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Garage Door (#4.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Gift Certificate (#7.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Gift of Maggie (#5.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Grill (#4.3)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Grill II (#6.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Grumpy Guy (#5.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Helmet (#2.23)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Hot Wife (#7.2)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Hunters (#4.8)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Importance of Being Jim (#2.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Jealous Husband (#4.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Lemonade Stand (#3.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Marriage Bank (#3.26)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Meaningful Gift (#8.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Money (#1.13)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Mustache (#4.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Nanny-Cam (#4.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The New Best Friend (#8.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Packer Ball (#3.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Pass (#2.19)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Perfect Fight (#7.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Punch (#6.1)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Race (#5.5)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Receipt (#1.19)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Rendezvous (#7.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Ring (#2.17)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Scrapbook (#4.26)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Six-Week Curse (#7.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Smell of Success (#2.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Stick (#5.14)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Swimming Pool (#3.28)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Tale of the Tape: Part 1 (#5.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Tale of the Tape: Part 2 (#5.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Thin Green Line (#5.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Toilet (#3.24)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Truck (#3.23)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Turkey Bowl (#1.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Wedding Dress (#4.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {The Yoga Bear (#8.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Trashed (#3.25)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Two for the Money (#8.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Under Pressure (#1.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Unruly Spirits (#1.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Vegas, Baby: Part 1 (#2.27)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Vegas, Baby: Part 2 (#2.28)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {We Have a Bingo (#3.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Wedding Bell Blues (#4.27)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {What Lies Beneath (#6.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {When You Wish to Be a Star: Part 1 (#3.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {When You Wish to Be a Star: Part 2 (#3.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Who\'s the Boss? (#3.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {Wonder Woman (#2.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {You Gotta Love Somebody: Part 1 (#2.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"According to Jim" (2001) {You Gotta Love Somebody: Part 2 (#2.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adults Only: The Secret History of the Other Hollywood" (2001)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adults Only: The Secret History of the Other Hollywood" (2001)', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"Adults Only: The Secret History of the Other Hollywood" (2001)', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Adults Only: The Secret History of the Other Hollywood" (2001)', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adults Only: The Secret History of the Other Hollywood" (2001)', 'Van Nuys, Los Angeles, California, USA']	34.1866581	-118.448729
+['"Adventure Divas" (2001) {India: Holy Cow (#1.2)}', 'India']	22.3511148	78.6677428
+['"Adventure Divas" (2001) {New Zealand: Stroppy Sheilas & Mana Wahines (#1.3)}', 'New Zealand']	-41.5000831	172.8344077
+['"Africa" (2001)', '', '', '', '', '', 'Accra, Ghana']	5.5600141	-0.2057437
+['"Africa" (2001)', '', '', '', '', '', 'Arusha, Tanzania']	-3.427534	36.70858481848994
+['"Africa" (2001)', '', '', '', '', '', 'Bilma, Niger']	18.69293	12.91872
+['"Africa" (2001)', '', '', '', '', '', 'Cameroon']	4.6125522	13.1535811
+['"Africa" (2001)', '', '', '', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"Africa" (2001)', '', '', '', '', '', 'Lake Victoria, Uganda']	-0.5184152	32.7415883
+['"Africa" (2001)', '', '', '', '', '', 'Lalibela, Ethiopia']	12.035561	39.046203
+['"Africa" (2001)', '', '', '', '', '', 'Lesotho']	-29.6039267	28.3350193
+['"Africa" (2001)', '', '', '', '', '', 'Mali']	16.3700359	-2.2900239
+['"Africa" (2001)', '', '', '', '', '', 'Sahara Desert, Niger']	17.7356214	9.3238432
+['"Africa" (2001)', '', '', '', '', '', 'Serengeti, Tanzania']	-1.9966258999999997	34.74254365165897
+['"Africa" (2001)', '', '', '', '', '', 'Zanzibar, Tanzania']	-6.09994425	39.32094431715264
+['"After Midnight" (2001)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Aftershock" (2001)', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Alias" (2001)', '', '', '', '', '', 'U.S. Bank Tower - 633 W. Fifth Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001)', '', '', '', '', '', 'Spring Street Towers - 650 S. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001)', '', '', '', '', '', 'Il Capriccio - 1757 North Vermont Avenue, Los Angeles, California, USA']	34.1030302	-118.2919284
+['"Alias" (2001)', '', '', '', '', '', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001)', '', '', '', '', '', '444 S. Flower Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001)', '', '', '', '', '', '1731 N. Sycamore Avenue, Hollywood, Los Angeles, California, USA']	34.102310225806455	-118.3434269032258
+['"Alias" (2001)', '', '', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001)', '', '', '', '', '', 'Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001)', '', '', '', '', '', 'Dumont Dunes, California, USA']	35.6833036	-116.2194652
+['"Alias" (2001)', '', '', '', '', '', 'El Mirage Dry Lake, California, USA']	34.642436599999996	-117.59821798766575
+['"Alias" (2001)', '', '', '', '', '', 'Los Angeles Center Studios - 450 S. Bixel Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001)', '', '', '', '', '', 'Pickwick Ice Center - 1001 Riverside Drive, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001)', '', '', '', '', '', 'San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001)', '', '', '', '', '', 'Westwood, Los Angeles, California, USA']	34.0561207	-118.4306347
+['"Alias" (2001) {... 1... (#5.2)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {30 Seconds (#5.13)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {A Broken Heart (#1.4)}', '', '', 'Angeles Abbey Memorial Park - 1515 E. Compton Blvd., Compton, California, USA']	33.897944	-118.20609527829023
+['"Alias" (2001) {A Broken Heart (#1.4)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {A Broken Heart (#1.4)}', '', '', 'Mission San Fernando Rey - 15151 San Fernando Mission Boulevard, Mission Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {A Broken Heart (#1.4)}', '', '', 'Santa Monica Pier, Santa Monica, California, USA']	34.00889605	-118.49740225045329
+['"Alias" (2001) {A Clean Conscience (#4.17)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {A Dark Turn (#2.17)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {A Free Agent (#2.15)}', '', '', 'Spring Street Towers - 650 S. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {A Free Agent (#2.15)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {A Higher Echelon (#2.11)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {A Man of His Word (#4.9)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {A Missing Link (#3.4)}', '', '', 'Figueroa Hotel - 939 S. Figueroa Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {A Missing Link (#3.4)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {After Six (#3.13)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {All the Time in the World (#5.17)}', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Almost Thirty Years (#1.22)}', '', 'Union Station - 800 N. Alameda Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Almost Thirty Years (#1.22)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Another Mister Sloane (#4.16)}', '', 'Los Angeles Downtown Marriott Hotel - 333 South Figueroa Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Another Mister Sloane (#4.16)}', '', 'Westin Bonaventure Hotel & Suites - 404 S. Figueroa Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Another Mister Sloane (#4.16)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Authorized Personnel Only: Part 1 (#4.1)}', 'Los Angeles County Metro Red Line, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Authorized Personnel Only: Part 1 (#4.1)}', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Authorized Personnel Only: Part 2 (#4.2)}', 'Paradise Cove Pier, Paradise Cove - 28128 Pacific Coast Highway, Malibu, California, USA']	34.035591	-118.689423
+['"Alias" (2001) {Authorized Personnel Only: Part 2 (#4.2)}', 'Los Angeles County Metro Red Line, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Authorized Personnel Only: Part 2 (#4.2)}', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Authorized Personnel Only: Part 2 (#4.2)}', '380 South San Rafael Avenue, Pasadena, California, USA']	34.136524178859	-118.1706399607389
+['"Alias" (2001) {Before the Flood (#4.22)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Blood Ties (#3.20)}', '', '', 'Natural History Museum of Los Angeles County - 900 Exposition Boulevard, Exposition Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Blood Ties (#3.20)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Blowback (#3.14)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Bob (#5.8)}', '', '', '', '4839 Louise Avenue, Encino, Los Angeles, California, USA']	34.15730324324325	-118.50989956756757
+['"Alias" (2001) {Bob (#5.8)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Breaking Point (#3.8)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Cipher (#2.3)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Color Blind (#1.7)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Conscious (#3.9)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Conscious (#3.9)}', '', '', 'Vasquez Rocks Natural Area Park - 10700 W. Escondido Canyon Rd., Agua Dulce, California, USA']	36.773557	-121.737165
+['"Alias" (2001) {Countdown (#2.20)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Crossings (#3.12)}', '', '', 'California Science Center, Exposition Park, Los Angeles, California, USA']	34.0159757	-118.28628697056743
+['"Alias" (2001) {Crossings (#3.12)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Dead Drop (#2.4)}', '', '', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Dead Drop (#2.4)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Detente (#4.7)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Doppelg�nger (#1.5)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Double Agent (#2.14)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Double Agent (#2.14)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Echoes (#4.8)}', '', '', '', 'Gallery Bar and Cognac Room, Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Echoes (#4.8)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Endgame (#2.19)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Facade (#3.15)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Fait Accompli (#5.7)}', '', '', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Fait Accompli (#5.7)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Firebomb (#2.16)}', '', '', 'St. Vincent Catholic Church - 621 W. Adams Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Firebomb (#2.16)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Full Disclosure (#3.11)}', '', 'Saint Vibiana Cathedral - 114 East 2nd Street, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Full Disclosure (#3.11)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Hourglass (#3.19)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {I See Dead People (#5.14)}', '', 'St. Vincent Catholic Church - 621 W. Adams Blvd., Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {I See Dead People (#5.14)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Ice (#4.4)}', '', '', '', 'Angeles Abbey Memorial Park - 1515 E. Compton Blvd., Compton, California, USA']	33.897944	-118.20609527829023
+['"Alias" (2001) {Ice (#4.4)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {In Dreams... (#4.19)}', '', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {In Dreams... (#4.19)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Legacy (#3.21)}', '', '', '', "Angel's Gate Park - 3601 Gaffey Street, San Pedro, Los Angeles, California, USA"]	39.7837304	-100.4458825
+['"Alias" (2001) {Legacy (#3.21)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Masquerade (#1.18)}', '', '', "Mount St. Mary's College, Doheny Mansion - 10 Chester Pl, Los Angeles, California, USA"]	39.7837304	-100.4458825
+['"Alias" (2001) {Masquerade (#1.18)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Maternal Instinct (#5.11)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Mea Culpa (#1.9)}', '', '', 'Sisters of the Immaculate Heart of Mary - 3431 Waverly Drive, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Mea Culpa (#1.9)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Mirage (#4.18)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Mockingbird (#5.4)}', '', '', 'Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Mockingbird (#5.4)}', '', '', 'Gold Ballroom, Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Mockingbird (#5.4)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Nightingale (#4.14)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {No Hard Feelings (#5.15)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Nocturne (#4.6)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Out of the Box (#5.5)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Page 47 (#1.15)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Pandora (#4.15)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Parity (#1.3)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Passage: Part 1 (#2.8)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Passage: Part 2 (#2.9)}', '', '', 'Los Angeles Theatre - 615 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Passage: Part 2 (#2.9)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Phase One (#2.13)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Prelude (#3.7)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Prophet Five (#5.1)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Prophet Five (#5.1)}', '', '', 'First United Methodist Church of North Hollywood - 4832 Tujunga Ave, North Hollywood, Los Angeles, California, USA']	34.1591731	-118.3784126
+['"Alias" (2001) {Q & A (#1.17)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Q & A (#1.17)}', '', '', '', 'Sunkist Growers Corporate Offices, 14130 Riverside Dr., Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Reckoning (#1.6)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Remnants (#3.10)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Rendezvous (#1.21)}', '', '', 'Los Angeles Theatre - 615 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Rendezvous (#1.21)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Repercussions (#3.5)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Reprisal (#5.16)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Resurrection (#3.22)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Reunion (#3.3)}', '', '', '', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Reunion (#3.3)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {S.O.S. (#5.10)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Salvation (#2.6)}', '', '', "St. John's Episcopal Cathedral - 514 West Adams Boulevard, Los Angeles, California, USA"]	39.7837304	-100.4458825
+['"Alias" (2001) {Salvation (#2.6)}', '', '', 'Veterans Hospital - 1611 Plummer Street, North Hills, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Salvation (#2.6)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Search and Rescue (#4.21)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Second Double (#2.21)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Snowman (#1.19)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {So It Begins (#1.2)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {So It Begins (#1.2)}', '', '', 'Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {So It Begins (#1.2)}', '', '', 'Indoor Pool, Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Solo (#5.6)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Spirit (#1.10)}', '', '', '', 'Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Spirit (#1.10)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Succession (#3.2)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Taken (#3.16)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Abduction (#2.10)}', '', '', 'Orpheum Theater - 842 S. Broadway, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {The Abduction (#2.10)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Awful Truth (#4.3)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Box: Part 1 (#1.12)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Box: Part 2 (#1.13)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Confession (#1.11)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Counteragent (#2.7)}', '', 'Veterans Hospital - 1611 Plummer Street, North Hills, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {The Counteragent (#2.7)}', '', 'Japanese Garden, Donald C. Tillman Water Reclamation Plant - 6100 Woodley Avenue, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {The Counteragent (#2.7)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Coup (#1.14)}', '', '', 'Aladdin Casino & Resort - 3667 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Alias" (2001) {The Coup (#1.14)}', '', '', 'Merry-Go-Round, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {The Coup (#1.14)}', '', '', 'Griffith Observatory, 2800 E Observatory Rd, Los Angeles, California, USA']	34.11821875	-118.30029332196601
+['"Alias" (2001) {The Coup (#1.14)}', '', '', 'ABC Building - 2300 Riverside Drive, Burbank, California, USA']	34.15486675	-118.32444765842203
+['"Alias" (2001) {The Coup (#1.14)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Coup (#1.14)}', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Alias" (2001) {The Descent (#4.20)}', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Alias" (2001) {The Descent (#4.20)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Enemy Walks In (#2.1)}', '', 'Hollywood Forever Cemetery - 6000 Santa Monica Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {The Enemy Walks In (#2.1)}', '', '20181 Northridge Rd, Chatsworth, Los Angeles, California, USA']	34.26272788057631	-118.57356160873546
+['"Alias" (2001) {The Enemy Walks In (#2.1)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Frame (#3.17)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Getaway (#2.12)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Horizon (#5.9)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Index (#4.10)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Indicator (#2.5)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Nemesis (#3.6)}', '', '', 'Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {The Nemesis (#3.6)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Orphan (#4.12)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Prophecy (#1.16)}', '', '', 'Los Angeles Theatre - 615 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {The Prophecy (#1.16)}', '', '', 'Sisters of the Immaculate Heart of Mary - 3431 Waverly Drive, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {The Prophecy (#1.16)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Road Home (#4.11)}', '', '', 'Sable Ranch - 25933 Sand Canyon Road, Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Alias" (2001) {The Road Home (#4.11)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Shed (#5.3)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Solution (#1.20)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Telling (#2.22)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {The Two (#3.1)}', '', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {There\'s Only One Sydney Bristow (#5.12)}', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Alias" (2001) {There\'s Only One Sydney Bristow (#5.12)}', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Time Will Tell (#1.8)}', '', '', 'Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Time Will Tell (#1.8)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Time Will Tell (#1.8)}', '', '', 'Castle Green Apartments - 99 S. Raymond, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Alias" (2001) {Trust Me (#2.2)}', '', '', 'Los Angeles Theatre - 615 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Trust Me (#2.2)}', '', '', 'Figueroa Hotel - 939 S. Figueroa Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Trust Me (#2.2)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Truth Be Told (#1.1)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Truth Be Told (#1.1)}', '', '', 'Royce Hall - 340 Royce Drive, UCLA, Westwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Truth Be Told (#1.1)}', '', '', 'UCLA, Westwood, Los Angeles, California, USA']	34.0664646	-118.44650679402692
+['"Alias" (2001) {Truth Be Told (#1.1)}', '', '', 'Bradley International Terminal, Los Angeles International Airport - 1 World Way, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alias" (2001) {Truth Be Told (#1.1)}', '', '', 'Pasadena Civic Auditorium - 300 E. Green Street, Pasadena, California, USA']	34.143846350000004	-118.14426536498465
+['"Alias" (2001) {Truth Takes Time (#2.18)}', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Truth Takes Time (#2.18)}', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Tuesday (#4.13)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"Alias" (2001) {Tuesday (#4.13)}', '', '', 'Union Station - 800 N. Alameda Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Unveiled (#3.18)}', '', '', 'Max Busch House, 160 South San Rafael Street, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Alias" (2001) {Unveiled (#3.18)}', '', '', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alias" (2001) {Welcome to Liberty Village (#4.5)}', 'Stage 4, Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	39.7837304	-100.4458825
+['"Alien Hunter" (2001)', '', '', '', '', 'Vasquez Rocks Natural Area Park - 10700 W. Escondido Canyon Rd., Agua Dulce, California, USA']	36.773557	-121.737165
+['"All About Us" (2001)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"All About Us" (2001)', '', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"All About Us" (2001) {Basic Black (#1.9)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {Behind the Music (#1.11)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {First Snow (#1.8)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {Flawed Logic (#1.3)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {New Girl in Town (#1.13)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {No Means No (#1.7)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {No Questions Asked (#1.5)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {Sierra Meets Her Match (#1.6)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {Sweet Little Lies (#1.4)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {The Grass Is Always Pinker (#1.2)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {The Making Of... (#1.12)}', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {The Scare (#1.10)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All About Us" (2001) {Truth or Dare (#1.1)}', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Allies at War" (2001)', '', '', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Always Greener" (2001)', '', '', '', '', 'ATN-7 Studios - 61 Mobbs Lane, Epping, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Always Greener" (2001)', '', '', '', '', 'Glebe High School, Glebe, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Always Greener" (2001)', '', '', '', '', 'Glebe, Sydney, New South Wales, Australia']	-33.8844188	151.1929386
+['"Always Greener" (2001)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Always Greener" (2001)', '', '', '', '', 'Thirlmere, New South Wales, Australia']	-34.2069432	150.5717673
+['"Amigas y rivales" (2001)', '', '', '', 'Acapulco, Guerrero, Mexico']	16.8680495	-99.8940182
+['"Amigas y rivales" (2001)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amigas y rivales" (2001)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amigo Zoo" (2001)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigo Zoo" (2001)', '', '', '', '', 'Lima, Peru']	-12.0621065	-77.0365256
+['"Amigo Zoo" (2001)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amigo Zoo" (2001)', '', '', '', '', 'Santiago, Chile']	-33.4377968	-70.6504451
+['"Amor de conuco" (2001)', '', '', '', '', 'Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"An Indian Affair" (2001)', '', '', '', 'India']	22.3511148	78.6677428
+['"Anderssons �lskarinna" (2001)', '', '', '', 'Hunnebostrand, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Angling Unlimited" (2001)', '', '', '', "Lowe's Resort, Pender Harbour, British Columbia, Canada"]	49.632373650000005	-123.99608515579422
+['"Angling Unlimited" (2001)', '', '', '', 'Pender Harbour, British Columbia, Canada']	49.632373650000005	-123.99608515579422
+['"Angling Unlimited" (2001)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Animal Miracles" (2001)', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Animal Miracles" (2001)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Animal Miracles" (2001)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Animal Precinct" (2001)', '', '', '', 'Bedford-Stuyvesant, Brooklyn, New York City, New York, USA']	40.6834364	-73.9412488
+['"Animal Precinct" (2001)', '', '', '', 'Bronx, New York City, New York, USA']	40.7127281	-74.0060152
+['"Animal Precinct" (2001)', '', '', '', 'Brooklyn Bridge, New York City, New York, USA']	40.7127281	-74.0060152
+['"Animal Precinct" (2001)', '', '', '', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"Animal Precinct" (2001)', '', '', '', 'Central Park, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Animal Precinct" (2001)', '', '', '', 'Clay Pit Ponds, Staten Island, New York City, New York, USA']	40.7127281	-74.0060152
+['"Animal Precinct" (2001)', '', '', '', 'Coney Island, Brooklyn, New York City, New York, USA']	40.57592745	-73.99219674341339
+['"Animal Precinct" (2001)', '', '', '', 'Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Animal Precinct" (2001)', '', '', '', 'New York, USA']	39.7837304	-100.4458825
+['"Animal Precinct" (2001)', '', '', '', 'Queens, New York City, New York, USA']	40.7498243	-73.7976337
+['"Animal Precinct" (2001)', '', '', '', 'Roosevelt Island, New York City, New York, USA']	40.7127281	-74.0060152
+['"Animal Precinct" (2001)', '', '', '', 'Staten Island, New York City, New York, USA']	40.7127281	-74.0060152
+['"Anja & BS p� afveje" (2001)', '', '', '', 'Death Valley National Park, California, USA']	36.4914385	-117.10229360771876
+['"Anja & BS p� afveje" (2001)', '', '', '', 'Rude Skov, Sj�lland, Denmark']	55.670249	10.3333283
+['"Anja & BS p� afveje" (2001)', '', '', '', 'Sonoran Desert, Arizona, USA']	32.2598642	-112.9262583
+['"Anjo Selvagem" (2001)', '', '', '', '', 'Pal�cio de Rio Frio, Pinhal Novo, Set�bal, Portugal']	40.0332629	-7.8896263
+['"Anjo Selvagem" (2001)', '', '', '', '', 'Estudios Contra Campo, Portugal']	40.0332629	-7.8896263
+['"Anne Frank: The Whole Story" (2001)', '', '', 'Czech Republic']	49.8167003	15.4749544
+['"Anne Frank: The Whole Story" (2001)', '', '', 'Prague, Czech Republic']	49.8167003	15.4749544
+['"Anne Frank: The Whole Story" (2001) {(#1.1)}', '', 'Prague, Czech Republic']	49.8167003	15.4749544
+['"Anne Frank: The Whole Story" (2001) {(#1.1)}', '', 'Czech Republic']	49.8167003	15.4749544
+['"Anne Frank: The Whole Story" (2001) {(#1.2)}', '', 'Prague, Czech Republic']	49.8167003	15.4749544
+['"Anne Frank: The Whole Story" (2001) {(#1.2)}', '', 'Czech Republic']	49.8167003	15.4749544
+['"Aprieta y gana" (2001)', '', '', '', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"Aqu� y ahora" (2001)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Areumdawoon naldeul" (2001)', '', '', '', 'Yonsei University - 262 Seongsanno, Seodaemun-gu, Seoul, South Korea']	36.5581914	127.9408564
+['"Armadillo" (2001)', '', '', '', '', 'Pimlico, London, England, UK']	51.4889993	-0.1398817
+['"Around Space" (2001)', '', '', '', '', 'Fairfax, Virginia, USA']	38.8462236	-77.3063733
+['"Array�n" (2001)', '', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-05-12)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-05-13)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-05-14)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-05-15)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-05-16)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-05-17)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-05-18)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-05-19)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-06-01)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-06-02)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-06-03)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-06-04)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-06-16)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-06-17)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Array�n" (2001) {(2009-06-18)}', '', '', '', 'Co�n, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Art That Shook the World" (2001) {Eisenstein\'s Battleship Potemkin (#1.4)}', 'Latvia']	56.8406494	24.7537645
+['"Art That Shook the World" (2001) {Eisenstein\'s Battleship Potemkin (#1.4)}', 'Russia']	64.6863136	97.7453061
+['"Art in the Twenty-First Century" (2001)', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Art in the Twenty-First Century" (2001)', '', 'Cambridge, Massachusetts, USA']	42.3750997	-71.1056157
+['"Art in the Twenty-First Century" (2001)', '', 'Hiroshima, Japan']	34.3916058	132.4518156
+['"Art in the Twenty-First Century" (2001)', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Art in the Twenty-First Century" (2001)', '', 'North Adams, Massachusetts, USA']	42.700915	-73.1087148
+['"Art in the Twenty-First Century" (2001)', '', 'S�o Paulo, Brazil']	-10.3333333	-53.2
+['"Art in the Twenty-First Century" (2001)', '', 'Tijuana, Baja California Norte, Mexico']	32.5010188	-116.9646629
+['"Art in the Twenty-First Century" (2001)', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Art in the Twenty-First Century" (2001)', '', 'Williamstown, Massachusetts, USA']	42.712207	-73.2035986
+['"Art�ria 33" (2001)', '', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	39.3262345	-4.8380649
+['"As If" (2001)', '', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Askim askim" (2001)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"At Home with... Fann Wong" (2001)', '', '', 'Chinatown, Singapore']	1.2837372	103.8437976
+['"At Home with... Fann Wong" (2001)', '', '', 'Pierce Reservoir, Singapore']	1.3790506	103.8276094
+['"Attila" (2001)', '', '', '', '', '', 'Lithuania']	55.3500003	23.7499997
+['"Auction House" (2001)', '', '', '', '', 'Bedford, Bedfordshire, England, UK']	52.1363806	-0.4675041
+['"Auction House" (2001)', '', '', '', '', 'Putney, London, England, UK']	51.4625524	-0.2167462
+['"Auction House" (2001)', '', '', '', '', 'Queen Street, Godalming, Surrey, England, UK']	51.18507	-0.6112013
+['"Auction House" (2001)', '', '', '', '', "Sotheby's, New Bond Street, Mayfair, London, England, UK"]	51.5073219	-0.1276474
+['"Automotive Morning" (2001)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Avci" (2001)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Aventuras en el tiempo" (2001)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Ay caramba!" (2001)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Az emberi kaland" (2001)', '', '', '', 'Lake Balaton, Hungary']	46.8836527	17.846663499449168
+['"BBC London News" (2001)', '', '', '', 'Marylebone High Street, Marylebone, London, England, UK']	51.5073219	-0.1276474
+['"BBC London News" (2001) {(2012-12-19)}', '', '', 'Embankment, Wandsworth, London, England, UK']	51.4665377	-0.2152446
+['"BBC London News" (2001) {01/04/2015 10:30pm}', '', 'Holborne, London, England, UK']	51.5073219	-0.1276474
+['"BBC London News" (2001) {More Power for London? A BBC London Special}', 'Stratford Circus, Newham, East London, England, UK']	51.5145651	-0.1979357039473676
+['"BCN Magazine" (2001)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Bachelors Walk" (2001)', '', '', '', '', 'Dublin, County Dublin, Ireland']	53.3497645	-6.2602732
+['"Ballar�" (2001)', '', '', '', '', 'Milan, Lombardia, Italy']	45.4668	9.1905
+['"Band of Brothers" (2001)', '', '', '', 'Ashdown Forest, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Band of Brothers" (2001)', '', '', '', 'Giessbach Hotel, Brienz, Kanton Bern, Switzerland']	46.73496445	8.02320035258483
+['"Band of Brothers" (2001)', '', '', '', 'Goldings, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Band of Brothers" (2001)', '', '', '', 'Hambleden, Buckinghamshire, England, UK']	51.5719351	-0.8691036
+['"Band of Brothers" (2001)', '', '', '', 'Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Band of Brothers" (2001) {Bastogne (#1.6)}', '', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	54.7023545	-3.2765753
+['"Band of Brothers" (2001) {Carentan (#1.3)}', '', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	54.7023545	-3.2765753
+['"Band of Brothers" (2001) {Crossroads (#1.5)}', '', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	54.7023545	-3.2765753
+['"Band of Brothers" (2001) {Currahee (#1.1)}', '', 'Bourne Woods, Farnham, Surrey, England, UK']	51.18759835	-0.7728128836885921
+['"Band of Brothers" (2001) {Currahee (#1.1)}', '', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Band of Brothers" (2001) {Day of Days (#1.2)}', '', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Band of Brothers" (2001) {Points (#1.10)}', '', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Band of Brothers" (2001) {Replacements (#1.4)}', '', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Band of Brothers" (2001) {The Breaking Point (#1.7)}', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Band of Brothers" (2001) {The Last Patrol (#1.8)}', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Band of Brothers" (2001) {Why We Fight (#1.9)}', '', 'Former British Aerospace factory, Hatfield, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Bastidores" (2001)', '', '', '', '', 'Estudios Contra Campo, Portugal']	40.0332629	-7.8896263
+['"Bastidores" (2001)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Baukunst" (2001) {Das Bauhaus in Dessau (#1.1)}', 'Bauhaus Dessau, Dessau, Saxony-Anhalt, Germany']	51.839337549999996	12.227441590426544
+['"Baukunst" (2001) {Das Centre Georges Pompidou (#1.5)}', 'Centre Georges Pompidou, Paris 4, Paris, France']	48.8598612	2.3525854
+['"Baukunst" (2001) {Das Familist�re von Guise (#1.3)}', 'Familist�re, Guise, Aisne, France']	46.603354	1.8883335
+['"Baukunst" (2001) {Die Architekurfakult�t Porto (#1.2)}', 'Faculdade de Arquitectura da Universidade do Porto, Porto, Portugal']	40.0332629	-7.8896263
+['"Baukunst" (2001) {Die Frauen-Universit�t Seoul (#10.2)}', 'Seoul, South Korea']	36.5581914	127.9408564
+['"Baukunst" (2001) {Die Postsparkasse Wien (#1.6)}', 'Postsparkasse Wien, Vienna, Austria']	48.2099779	16.380647654848957
+['"Beach Diaries" (2001)', '', '', '', '', 'Venice Beach, Venice, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"Beachcomber Bay" (2001)', '', '', '', 'Brixham, Devon, England, UK']	50.3952404	-3.514544
+['"Beat the Geeks" (2001)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Beech Is Back" (2001)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Being Eve" (2001)', '', '', '', '', 'Auckland, New Zealand']	-36.852095	174.7631803
+['"Bember�" (2001)', '', '', '', '', 'Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"Benim i�in aglama" (2001)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Benimle evlenir misin" (2001)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Bes Dakikalik Bir Mesele" (2001/I)', '', '', 'Ankara, Turkey']	39.7160439	32.7059948
+['"Bes Dakikalik Bir Mesele" (2001/I)', '', '', 'Antalya, Turkey']	38.9597594	34.9249653
+['"Bes Dakikalik Bir Mesele" (2001/II)', '', '', 'Ankara, Turkey']	39.7160439	32.7059948
+['"Bes Dakikalik Bir Mesele" (2001/II)', '', '', 'Antalya, Turkey']	38.9597594	34.9249653
+['"Best of Late Night TV" (2001)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Better Sex" (2001)', '', '', '', '', 'Halifax, West Yorkshire, England, UK']	53.7229229	-1.8604874
+['"Better Sex" (2001)', '', '', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"Beyond Babel" (2001)', '', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Beyond Babel" (2001)', '', '', '', '', 'India']	22.3511148	78.6677428
+['"Beyond Babel" (2001)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"Beyond Babel" (2001)', '', '', '', '', 'China']	35.000074	104.999927
+['"Big Brother Danmark" (2001)', '', '', '', 'Copenhagen, Denmark']	55.670249	10.3333283
+['"Big Brother Uncut" (2001)', '', '', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Adults Only 1 (#6.6)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {BB05: Eviction 1 (#5.2)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {BB05: Nomination 1 (#5.1)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {BIg Brother Live: Eviction 9 (#1.20)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 1 (#1.3)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 10 (#1.22)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 11 (#1.24)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 2 (#1.5)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 3 (#1.7)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 4 (#1.9)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 5 (#1.12)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 6 (#1.14)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 7 (#1.16)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Big Brother Live: Eviction 8 (#1.18)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Eviction 1 (#3.3)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Eviction 2 (#3.6)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Eviction 3 (#3.9)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Eviction 4 (#3.12)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Live Nominations 1 (#3.1)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Live Nominations 2 (#3.4)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Live Nominations 3 (#3.7)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Live Nominations 4 (#3.10)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Special Intruder Eviction (#1.11)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Surprise Eviction (#6.1)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Uncut 1 (#3.2)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Uncut 2 (#3.5)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Uncut 3 (#3.8)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Uncut 4 (#3.11)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother Uncut" (2001) {Unforgettable (#6.3)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother" (2001/V)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Big Brother" (2001/V)', '', '', '', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V)', '', '', '', '', 'Gold Coast, Queensland, Australia']	-28.0023731	153.4145987
+['"Big Brother" (2001/V) {2001 Daily Show: Day 2 (#1.2)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2001 Daily Show: Day 3 (#1.3)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2001 Launch (#1.1)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 1 (#3.4)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 10 (#3.28)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 11 (#3.31)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 12 (#3.33)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 13 (#3.35)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 14 (#3.37)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 15 (#3.40)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 16 (#3.43)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 17 (#3.45)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 18 (#3.47)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 19 (#3.49)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 2 (#3.7)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 20 (#3.52)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 21 (#3.55)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 22 (#3.57)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 23 (#3.59)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 3 (#3.10)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 4 (#3.13)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 5 (#3.16)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 6 (#3.19)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 7 (#3.21)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 8 (#3.23)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {2003: Uplate 9 (#3.25)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05 Daily Show: Day 10 (#5.18)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05 Daily Show: Day 11 (#5.20)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05 Daily Show: Day 12 (#5.22)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05 Daily Show: Day 8 (#5.14)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05 Daily Show: Days 13 and 14 (#5.25)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05 Opening Night (#5.1)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05: Uplate 1 (#5.3)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05: Uplate 10 (#5.24)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05: Uplate 6 (#5.15)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05: Uplate 7 (#5.17)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05: Uplate 8 (#5.19)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB05: Uplate 9 (#5.21)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Day 10 (#6.18)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Day 11 (#6.20)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Day 12 (#6.22)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Day 2 (#6.4)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Day 3 (#6.6)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Day 4 (#6.8)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Day 5 (#6.10)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Day 8 (#6.14)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Days 13 and 14 (#6.25)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Daily Show: Days 6 and 7 (#6.13)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06 Launch (#6.1)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 1 (#6.3)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 10 (#6.24)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 2 (#6.5)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 3 (#6.7)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 4 (#6.9)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 5 (#6.12)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 6 (#6.15)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 7 (#6.17)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 8 (#6.19)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {BB06: Uplate 9 (#6.21)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 1 (#3.2)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 10 (#3.22)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 11 (#3.24)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 12 (#3.26)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 15 (#3.30)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 16 (#3.32)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 17 (#3.34)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 18 (#3.36)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 19 (#3.38)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 2 (#2.3)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 2 (#3.5)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 22 (#3.42)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 23 (#3.44)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 24 (#3.46)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 25 (#3.48)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 26 (#3.50)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 29 (#3.54)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 3 (#3.8)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 30 (#3.56)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 31 (#3.58)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 4 (#3.11)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 5 (#3.14)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 8 (#3.18)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Day 9 (#3.20)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Days 13 and 14 (#3.29)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Days 20 and 21 (#3.41)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Daily Show: Days 27 and 28 (#3.53)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Day One (#2.1)}', '', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Friday Night Live - 50\'s Bowl-a-Rama (#5.23)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Friday Night Live - On the Farm (#6.23)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Friday Night Live - The New Beginning (#6.11)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {In They Go (#3.1)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Lies Exposed (#5.13)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Live Surprise (#3.3)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Live Surprise (#5.2)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Revenge Room Return (#6.16)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Round House Surprise Live (#3.9)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {The Final Housemates - Live (#3.12)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {The Insider (#6.2)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {The Insider 1 (#3.15)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {The Insider 2 (#3.27)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {The Insider 3 (#3.39)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {The Insider 4 (#3.51)}', '', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {The New Housemates Live (#3.6)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {The Party\'s Over (#3.17)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother" (2001/V) {Viewers\' Verdict (#5.16)}', 'Dreamworld - Dreamworld Parkway, Coomera, Gold Coast, Queensland, Australia']	-27.86258385	153.31703888623
+['"Big Brother\'s Little Brother" (2001)', '', '', 'Elstree Studios, Borehamwood, Hertfordshire, England, UK']	51.6582116	-0.2708065
+['"Big Diet" (2001/II)', '', '', '', '', 'Valkenburg, Limburg, Netherlands']	50.860885550000006	5.8359795164125945

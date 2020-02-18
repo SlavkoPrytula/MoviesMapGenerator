@@ -1,0 +1,62 @@
+['"ABC News" (1956)', '', '', '', '', 'ABC Centre, Hobart, Tasmania, Australia']	-42.8825088	147.3281233
+['"ABC News" (1956)', '', '', '', '', 'ABC Ripponlea Studios, Elsternwick, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"ABC News" (1956)', '', '', '', '', 'ABC Southbank Centre, Southbank, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"ABC News" (1956)', '', '', '', '', 'ABC Ultimo Centre, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"ABC News" (1956)', '', '', '', '', 'Adelaide, South Australia, Australia']	-34.9281805	138.5999312
+['"ABC News" (1956)', '', '', '', '', 'Brisbane, Queensland, Australia']	-27.4689682	153.0234991
+['"ABC News" (1956)', '', '', '', '', 'Canberra, Australian Capital Territory, Australia']	-35.2975906	149.1012676
+['"ABC News" (1956)', '', '', '', '', 'Darwin, Northern Territory, Australia']	-12.46044	130.8410469
+['"ABC News" (1956)', '', '', '', '', 'Perth, Western Australia, Australia']	-31.9527121	115.8604796
+['"ABC News" (1956) {(#1.1)}', '', '', '', 'ABC ABN2 Studios, 221 Pacific Highway, Gore Hill, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Adventure Theater" (1956)', '', '', '', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {Falstaff\'s Fur Coat (#1.9)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {The Javanese Dagger (#1.2)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {The Marriage Trap (#1.6)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {The Missing Passenger (#1.11)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {The Sable Scarf (#1.7)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {The Stranger on the Sea (#1.8)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {The Thief of London (#1.5)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {The Wedding Gift (#1.10)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {The Wilful Widow (#1.4)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure Theater" (1956) {Thirty Days to Die (#1.1)}', 'Riverside Studios, Hammersmith, London, England, UK']	51.48860355	-0.22746502822660472
+['"Adventure in Dairyland" (1956)', '', '', '', 'Verona, Wisconsin, USA']	42.9905492	-89.5335575
+['"Airs de France" (1956) {La Mascotte (#1.16)}', '', 'Th��tre de la Porte-Saint-Martin, Paris 10, Paris, France']	48.8566969	2.3514616
+['"Airs de France" (1956) {Le jour et la nuit (#1.17)}', "Th��tre de l'�toile, Paris 17, Paris, France"]	48.8566969	2.3514616
+['"Airs de France" (1956) {Madame Favart (#1.15)}', '', 'Th��tre de la Porte-Saint-Martin, Paris 10, Paris, France']	48.8566969	2.3514616
+['"Alan Melville Takes You from A-Z" (1956)', '', 'BBC Studio, London, England, UK']	52.949768	-1.1398745498768668
+['"Alan Melville Takes You from A-Z" (1956) {Q (#2.17)}', 'BBC Studio, London, England, UK']	52.949768	-1.1398745498768668
+['"Alan Melville Takes You from A-Z" (1956) {U (#2.21)}', 'BBC Studio, London, England, UK']	52.949768	-1.1398745498768668
+['"Alan Melville Takes You from A-Z" (1956) {W (#2.23)}', 'BBC Studio, London, England, UK']	52.949768	-1.1398745498768668
+['"Alias Mike Hercules" (1956)', '', '', '', 'Hal Roach Studios - 8822 Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Armchair Theatre" (1956) {A Bit of a Lift (#15.3)}', 'Thistle Westminster Hotel, Buckingham Palace Road, London, England, UK']	51.5073219	-0.1276474
+['"Armchair Theatre" (1956) {A Young Man in Trouble (#10.5)}', 'Bermondsey, London, England, UK']	51.5073219	-0.1276474
+['"Armchair Theatre" (1956) {Invitation to Murder (#3.51)}', 'Associated British Elstree Studios, Shenley Road, Borehamwood, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Armchair Theatre" (1956) {Now Let Him Go (#2.2)}', 'ABC, Ardwick, Manchester, Greater Manchester, England, UK']	53.4676745	-2.2160104
+['"Armchair Theatre" (1956) {The Right Thing (#1.11)}', 'ABC, Ardwick, Manchester, Greater Manchester, England, UK']	53.4676745	-2.2160104
+['"Armchair Theatre" (1956) {Wagger (#4.74)}', '', 'ABC Studios, Broom Road, Teddington, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Armchair Theatre" (1956) {You\'ll Never See Me Again (#3.49)}', 'Associated British Elstree Studios, Shenley Road, Borehamwood, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"As the World Turns" (1956)', '', '', '', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"As the World Turns" (1956)', '', '', '', 'CBS Broadcast Center, Manhattan, New York City, New York, USA']	40.76953315	-73.99067563237543
+['"As the World Turns" (1956)', '', '', '', 'CBS/Himan Brown Studios - 221 West 26th Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"As the World Turns" (1956)', '', '', '', 'Clinton, New Jersey, USA']	40.6362878	-74.9116603
+['"As the World Turns" (1956)', '', '', '', 'JC Studios, Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"As the World Turns" (1956)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"As the World Turns" (1956) {(#1.13642)}', '', 'Philadelphia City Hall - 1450 John F. Kennedy Blvd., Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"As the World Turns" (1956) {(#1.13642)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"As the World Turns" (1956) {(#1.2802)}', '', '', 'CBS/Himan Brown Studios - 221 West 26th Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"As the World Turns" (1956) {(1964-12-15)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"As the World Turns" (1956) {(1965-07-16)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"As the World Turns" (1956) {(1966-09-12)}', '', 'CBS/Himan Brown Studios - 221 West 26th Street, Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"As the World Turns" (1956) {(1966-09-13)}', '', 'CBS/Himan Brown Studios - 221 West 26th Street, Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"As the World Turns" (1956) {(1966-09-14)}', '', 'CBS/Himan Brown Studios - 221 West 26th Street, Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"As the World Turns" (1956) {(1966-09-15)}', '', 'CBS/Himan Brown Studios - 221 West 26th Street, Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"As the World Turns" (1956) {(1966-09-27)}', '', 'CBS/Himan Brown Studios - 221 West 26th Street, Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"As the World Turns" (1956) {Another Time, Another Life (#26.49)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Assignment Foreign Legion" (1956)', '', '', 'Algeria']	28.0000272	2.9999825
+['"Assignment Foreign Legion" (1956)', '', '', 'Beaconsfield Studios, Beaconsfield, Buckinghamshire, England, UK']	51.75	-0.75
+['"Assignment Foreign Legion" (1956)', '', '', 'Morocco']	31.1728205	-7.3362482
+['"Assignment Foreign Legion" (1956) {The Anaya (#1.12)}', 'Beaconsfield Studios, Beaconsfield, Buckinghamshire, England, UK']	54.7023545	-3.2765753
+['"Assignment Foreign Legion" (1956) {The Anaya (#1.12)}', "Sand and Gravel Quarry, Wapseys Wood, Gerrard's Cross, Buckinghamshire, England, UK"]	51.75	-0.75
+['"Assignment Foreign Legion" (1956) {The Stool Pigeon (#1.7)}', 'Beaconsfield Studios, Beaconsfield, Buckinghamshire, England, UK']	54.7023545	-3.2765753
+['"At Seven on 7" (1956)', '', '', '', '', 'ATN-7 Studios - 61 Mobbs Lane, Epping, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Badminton Horse Trials" (1956)', '', '', '', 'Badminton Park, Gloucestershire, UK']	51.5442374	-2.2854442

@@ -1,0 +1,533 @@
+['"1922" (1984)', '', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"1984 Presidential Debates" (1984) {(#1.1)}', '', 'Kentucky Center for the Performing Arts - 501 W. Main Street, Louisville, Kentucky, USA']	38.2542376	-85.759407
+['"1984 Presidential Debates" (1984) {(#1.2)}', '', 'Municipal Auditorium - 301 West 13th Street, Kansas City, Missouri, USA']	39.0979007	-94.58640034136957
+['"1984 World Series" (1984)', '', '', '', 'Qualcomm Stadium - 9449 Friars Road, San Diego, California, USA']	32.7174209	-117.1627714
+['"1984 World Series" (1984)', '', '', '', 'Tiger Stadium - 2121 Trumbull Avenue, Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"1st & Ten" (1984)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"30 minuts" (1984) {El dinar de La Camarga}', '', 'Parlament de Catalunya, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"30 minuts" (1984) {El dinar de La Camarga}', '', 'Teatre Tantarantana, Barcelona, Catalonia, Spain']	41.3759426	2.1678212
+['"30 minuts" (1984) {El dinar de La Camarga}', '', 'La Camarga, Barcelona, Catalonia, Spain']	41.391002	2.155619
+['"30 minuts" (1984) {L\'�ltim reducte feudal}', '', 'Sark, Channel Islands, The Isles, UK']	54.7023545	-3.2765753
+['"30 minuts" (1984) {Silenci..., es roda?}', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"30 minuts" (1984) {Silenci..., es roda?}', '', 'M�laga, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"30 minuts" (1984) {Silenci..., es roda?}', '', 'Cinema Urgell, Barcelona, Catalonia, Spain']	41.38185465	2.162333907608696
+['"A Vez e a Voz" (1984)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Woman of Substance" (1984)', '', '', '', 'Harrods, Brompton Road, Knightsbridge, London, England, UK']	51.499185749999995	-0.16292654872706636
+['"A Woman of Substance" (1984)', '', '', '', 'Civic Theatre, Darlington, County Durham, England, UK']	54.666667	-1.75
+['"A Woman of Substance" (1984)', '', '', '', 'Brimham Rocks, Harrogate, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Woman of Substance" (1984)', '', '', '', 'Market Place, Middleham, Wensleydale, North Yorkshire, England, UK']	54.286721	-1.8049483
+['"A Woman of Substance" (1984)', '', '', '', 'Ritz Hotel London, England, UK']	51.5071842	-0.14142514195162625
+['"A Woman of Substance" (1984)', '', '', '', 'Marylebone Station, Marylebone, London, England, UK']	51.5212936	-0.161461
+['"A Woman of Substance" (1984)', '', '', '', 'Rosemary Lane, Richmond , North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Woman of Substance" (1984)', '', '', '', 'Finkle Street, Richmond North Yorkshire, England, UK']	54.4037198	-1.7390956
+['"A Woman of Substance" (1984)', '', '', '', 'Newbiggin, Richmond North Yorkshire, England, UK']	54.4037415	-1.741018
+['"A Woman of Substance" (1984)', '', '', '', 'The Batts, Richmond North Yorkshire, England, UK']	54.4034776	-1.7331508045709254
+['"A Woman of Substance" (1984)', '', '', '', 'indoor market, Market Place, Richmond, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Woman of Substance" (1984)', '', '', '', 'Kirkgate, Middleham Wensleydale, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Woman of Substance" (1984)', '', '', '', 'Broughton Hall, Broughton, Skipton, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Woman of Substance" (1984)', '', '', '', 'Road Bridge, Aysgarth Falls, Aysgarth, Wensleydale, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Woman of Substance" (1984)', '', '', '', 'Yore Mill, Aysgarth Falls, Aysgarth, Wensleydale, North Yorkshire, England, UK']	54.7023545	-3.2765753
+['"A Woman of Substance" (1984) {(#1.2)}', '', '', 'Road Bridge, Aysgarth Falls, Aysgarth, Wensleydale, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Woman of Substance" (1984) {(#1.3)}', '', '', 'Road Bridge, Aysgarth Falls, Aysgarth, Wensleydale, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"A Woman of Substance" (1984) {(#1.3)}', '', '', 'The Ritz London Hotel, 150 Piccadilly, London, England, UK']	51.5071842	-0.14142514195162625
+['"A Woman of Substance" (1984) {Seires (#1.1)}', '', 'Road Bridge, Aysgarth Falls, Aysgarth, Wensleydale, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"ARD Wunschkonzert" (1984) {(1984-02-11)}', '', 'Hannover, Lower Saxony, Germany']	52.3744779	9.7385532
+['"ARD Wunschkonzert" (1984) {(1984-05-31)}', '', 'Freiheitshalle, Hof, Bavaria, Germany']	50.320174449999996	11.902923005218838
+['"ARD Wunschkonzert" (1984) {(1985-02-07)}', '', 'Siegerland, North Rhine-Westphalia, Germany']	50.7845975	8.1208181
+['"Airwolf" (1984)', '', '', '', '', 'Monument Valley, Arizona, USA']	36.9820026	-110.1108327
+['"Airwolf" (1984)', '', '', '', '', 'Baxter Pharmaceutical - 1 Baxter Way, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"Airwolf" (1984)', '', '', '', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984)', '', '', '', '', 'Denver Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984)', '', '', '', '', 'Monument Valley, Utah, USA']	40.7143227	-112.1045506
+['"Airwolf" (1984)', '', '', '', '', 'New York Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984)', '', '', '', '', 'Six Points Texas, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984)', '', '', '', '', 'Square of Warriors, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984)', '', '', '', '', 'Tower of London, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984)', '', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984)', '', '', '', '', 'Van Nuys Airport - 6590 Hayvenhurst Avenue, Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Airwolf" (1984) {Airwolf II (#3.2)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Airwolf II (#3.2)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {And They Are Us (#1.9)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {And They Are Us (#1.9)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {And a Child Shall Lead (#3.3)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Airwolf" (1984) {And a Child Shall Lead (#3.3)}', 'Malibu Lake, California, USA']	34.1077371	-118.75450598677298
+['"Airwolf" (1984) {And a Child Shall Lead (#3.3)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {And a Child Shall Lead (#3.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Annie Oakley (#3.8)}', '', '', 'Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Annie Oakley (#3.8)}', '', '', 'Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Airwolf" (1984) {Annie Oakley (#3.8)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Annie Oakley (#3.8)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Birds of Paradise (#3.22)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Birds of Paradise (#3.22)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Bite of the Jackal (#1.3)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Bite of the Jackal (#1.3)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Break-In at Santa Paula (#3.19)}', 'Mexican Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Break-In at Santa Paula (#3.19)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Break-In at Santa Paula (#3.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Condemned (#2.12)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Condemned (#2.12)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Crossover (#3.5)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Crossover (#3.5)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Daddy\'s Gone a Hunt\'n (#1.2)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Daddy\'s Gone a Hunt\'n (#1.2)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Dambreakers (#2.19)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Dambreakers (#2.19)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Day of Jeopardy (#3.15)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Day of Jeopardy (#3.15)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Desperate Monday (#3.17)}', '', 'RMS Queen Mary - 1126 Queens Highway, Long Beach, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Desperate Monday (#3.17)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Desperate Monday (#3.17)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Discovery (#3.14)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Discovery (#3.14)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Eagles (#3.7)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Eagles (#3.7)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Echoes from the Past (#1.6)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Echoes from the Past (#1.6)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Eruption (#2.21)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Eruption (#2.21)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Fallen Angel (#2.7)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Fallen Angel (#2.7)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Fight Like a Dove (#1.7)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Fight Like a Dove (#1.7)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Firestorm (#2.2)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Firestorm (#2.2)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Flight #093 Is Missing (#2.9)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Flight #093 Is Missing (#2.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Fortune Teller (#3.4)}', '', 'Arches National Park, Utah, USA']	38.7315573	-109.56302781715105
+['"Airwolf" (1984) {Fortune Teller (#3.4)}', '', 'Castle Ranch - 44901 Fairmont Road, Lancaster, California, USA']	34.6981064	-118.1366153
+['"Airwolf" (1984) {Fortune Teller (#3.4)}', '', 'Lancaster, California, USA']	34.6981064	-118.1366153
+['"Airwolf" (1984) {Fortune Teller (#3.4)}', '', 'Palmdale, California, USA']	34.5793131	-118.1171108
+['"Airwolf" (1984) {Fortune Teller (#3.4)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Airwolf" (1984) {Fortune Teller (#3.4)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Fortune Teller (#3.4)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {HX-1 (#2.8)}', '', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {HX-1 (#2.8)}', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Half-Pint (#3.12)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Half-Pint (#3.12)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Hawke\'s Run (#3.18)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Hawke\'s Run (#3.18)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Hawke\'s Run (#3.18)}', '', '', 'Vanowen Street, Reseda, Los Angeles, California, USA']	34.1939018	-118.4989503
+['"Airwolf" (1984) {Inn at the End of the Road (#2.14)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Inn at the End of the Road (#2.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Jennie (#3.9)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Jennie (#3.9)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Kingdom Come (#3.6)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Kingdom Come (#3.6)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Little Wolf (#3.16)}', '', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Airwolf" (1984) {Little Wolf (#3.16)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Little Wolf (#3.16)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Mad Over Miami (#1.8)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Mad Over Miami (#1.8)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Mind of the Machine (#1.10)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Mind of the Machine (#1.10)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Moffett\'s Ghost (#2.3)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Moffett\'s Ghost (#2.3)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Natural Born (#2.17)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Natural Born (#2.17)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Once a Hero (#2.10)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Once a Hero (#2.10)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {One Way Express (#1.5)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {One Way Express (#1.5)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Out of the Sky (#2.18)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Out of the Sky (#2.18)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Prisoner of Yesterday (#2.16)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Prisoner of Yesterday (#2.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Proof Through the Night (#1.4)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Proof Through the Night (#1.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Random Target (#2.11)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Random Target (#2.11)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Santini\'s Millions (#2.15)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Santini\'s Millions (#2.15)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Severance Pay (#2.20)}', '', '11370 W Magnolia Blvd., LA, California, USA']	34.1732529	-118.3309154
+['"Airwolf" (1984) {Severance Pay (#2.20)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Severance Pay (#2.20)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Shadow of the Hawke (#1.1)}', '', 'Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Shadow of the Hawke (#1.1)}', '', 'Casa Blanca Poolhouse - 851 Sand Point Road, Carpinteria, California, USA']	34.3988838	-119.5184564
+['"Airwolf" (1984) {Shadow of the Hawke (#1.1)}', '', 'Lake Hemet, Santa Rosa Mountains, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Shadow of the Hawke (#1.1)}', '', 'Red Rock Canyon State Park - Highway 14, Cantil, California, USA']	35.3088502	-117.9684031
+['"Airwolf" (1984) {Shadow of the Hawke (#1.1)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Shadow of the Hawke (#1.1)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Shadow of the Hawke (#1.1)}', '', 'Vasquez Rocks Natural Area Park - 10700 W. Escondido Canyon Rd., Agua Dulce, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Short Walk to Freedom (#2.22)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Short Walk to Freedom (#2.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Sins of the Past (#2.6)}', '', 'Avalon, Santa Catalina Island, Channel Islands, California, USA']	34.1848815	-118.575941
+['"Airwolf" (1984) {Sins of the Past (#2.6)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Sins of the Past (#2.6)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Sweet Britches (#2.1)}', '', 'Desert Center, California, USA']	33.7131763	-115.4003235
+['"Airwolf" (1984) {Sweet Britches (#2.1)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Sweet Britches (#2.1)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The American Dream (#2.13)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {The American Dream (#2.13)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The Deadly Circle (#3.10)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The Deadly Circle (#3.10)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The Girl Who Fell from the Sky (#3.20)}', 'Riverside Drive, Toluca Lake, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Airwolf" (1984) {The Girl Who Fell from the Sky (#3.20)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The Girl Who Fell from the Sky (#3.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The Horn of Plenty (#3.1)}', '', 'Center Bank - 3435 Wilshire Blvd, Ste 700. Los Angeles, California, USA']	34.0745997	-118.0534304
+['"Airwolf" (1984) {The Horn of Plenty (#3.1)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {The Horn of Plenty (#3.1)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The Horn of Plenty (#3.1)}', '', 'Vasquez Rocks Natural Area Park - 10700 W. Escondido Canyon Rd., Agua Dulce, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {The Hunted (#2.5)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The Hunted (#2.5)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {The Truth About Holly (#2.4)}', '', 'Sisters of the Immaculate Heart of Mary - 3431 Waverly Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Airwolf" (1984) {The Truth About Holly (#2.4)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {The Truth About Holly (#2.4)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {To Snare a Wolf (#1.11)}', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {To Snare a Wolf (#1.11)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Tracks (#3.21)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Tracks (#3.21)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Airwolf" (1984) {Where Have All the Children Gone? (#3.11)}', 'Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Where Have All the Children Gone? (#3.11)}', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Where Have All the Children Gone? (#3.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Wildfire (#3.13)}', '', '', 'Stage 24, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Airwolf" (1984) {Wildfire (#3.13)}', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alegr�a de mediod�a" (1984)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Algo m�s que so�ar" (1984)', '', '', '', 'Camag�ey, Cuba']	23.0131338	-80.8328748
+['"Algo m�s que so�ar" (1984)', '', '', '', 'Havana, Cuba']	23.135305	-82.3589631
+['"Algo m�s que so�ar" (1984)', '', '', '', 'Pinar del R�o, Cuba']	23.0131338	-80.8328748
+['"Alguien como usted" (1984)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1984) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almost Live!" (1984)', '', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Amazon" (1984)', '', '', '', '', '', 'Amazonas, Brazil']	-4.479925	-63.5185396
+['"Amazon" (1984)', '', '', '', '', '', 'Belem, Para, Brazil']	-1.45056	-48.4682453
+['"Amazon" (1984)', '', '', '', '', '', 'Manaus, Amazonas, Brazil']	-3.1316333	-59.9825041
+['"Amazon" (1984)', '', '', '', '', '', 'Porto Velho, Rond�nia, Brazil']	-10.3333333	-53.2
+['"Amazon" (1984)', '', '', '', '', '', 'Lima, Lima, Peru']	-12.0621065	-77.0365256
+['"Amazon" (1984) {Snowstorm in the Jungle (#5.0)}', 'Tingo Maria, Peru']	-9.2983713	-76.0003034
+['"Amo y se�or" (1984)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.100)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.101)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.102)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.103)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.104)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.105)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.106)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.107)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.108)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.109)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.110)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.111)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.112)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.113)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.114)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.115)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.116)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.117)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.118)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.119)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.120)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.121)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.122)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.123)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.124)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.125)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.126)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.127)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.128)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.129)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.130)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.131)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.132)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.133)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.134)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.135)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.136)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.137)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.138)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.139)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.140)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.141)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.142)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.143)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.144)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.145)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.146)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.147)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.148)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.149)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.150)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.151)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.152)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.153)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.154)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.155)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.156)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.157)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.158)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.159)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.160)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.161)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.162)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.163)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.164)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.165)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.166)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.167)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.168)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.169)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.170)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.171)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.172)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.173)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.174)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.175)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.40)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.41)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.42)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.43)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.44)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.45)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.46)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.47)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.48)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.49)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.50)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.51)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.52)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.53)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.54)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.55)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.56)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.57)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.58)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.59)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.60)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.61)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.62)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.63)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.64)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.65)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.66)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.67)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.68)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.69)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.70)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.71)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.72)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.73)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.74)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.75)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.76)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.77)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.78)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.79)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.80)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.81)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.82)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.83)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.84)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.85)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.86)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.87)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.88)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.89)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.90)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.91)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.92)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.93)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.94)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.95)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.96)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.97)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.98)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amo y se�or" (1984) {(#1.99)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andrea, justicia de mujer" (1984)', '', '', 'La Serena, Chile']	-29.902631	-71.2520253
+['"Aoi hitomi no seiraifu" (1984)', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Aprendiendo a vivir" (1984)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Ashita tenki ni naare" (1984)', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Aspel & Company" (1984) {(#1.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#1.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#1.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#1.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#1.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#1.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#1.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.11)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.12)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#10.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.11)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#2.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.11)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#3.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#4.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.11)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.12)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#5.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.11)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.12)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.13)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.14)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#6.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.11)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.12)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.13)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.14)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#7.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.11)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.12)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#8.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.1)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.10)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.11)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.12)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.2)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.3)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.4)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.5)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.6)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.7)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.8)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Aspel & Company" (1984) {(#9.9)}', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Autorretrato" (1984) {Ana Bel�n: aquella ni�a de Lavapi�s}', 'Teatro Espa�ol, Madrid, Spain']	39.3262345	-4.8380649
+['"BBC North West Tonight" (1984) {1 June 2017: Evening Bulletin}', 'Southport, Merseyside, England, UK']	53.6475988	-3.0041751
+['"BBC North West Tonight" (1984) {19 June 2017: Evening Bulletin}', 'Orrell Water Park, Orrell, Wigan, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {19 June 2017: Nightly Bulletin}', 'Orrell Water Park, Orrell, Wigan, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {20 June 2017: Evening Bulletin}', 'Greenbooth Reservoir, Rochdale, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {20 June 2017: Evening Bulletin}', 'Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"BBC North West Tonight" (1984) {20 June 2017: Evening Bulletin}', 'Cheshire County Show, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC North West Tonight" (1984) {20 June 2017: Nightly Bulletin}', 'Greenbooth Reservoir, Rochdale, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {21 June 2017: Evening Bulletin}', 'Manchester Piccadilly Train Station, Manchester, Lancashire, England, UK']	54.7023545	-3.2765753
+['"BBC North West Tonight" (1984) {21 June 2017: Evening Bulletin}', 'Deansgate Train Station, Manchester, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {21 June 2017: Evening Bulletin}', 'Wigan, Lancashire, England, UK']	53.6324923	-2.6147461
+['"BBC North West Tonight" (1984) {21 June 2017: Evening Bulletin}', 'Lytham St. Annes, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {22 June 2017: Evening Bulletin}', "St. Ann's Square, Manchester, Greater Manchester, England, UK"]	53.4821188	-2.2456544176545297
+['"BBC North West Tonight" (1984) {25 May 2017: Nightly Bulletin}', "St. Ann's Square, Manchester, Greater Manchester, England, UK"]	53.4821188	-2.2456544176545297
+['"BBC North West Tonight" (1984) {25 May 2017: Nightly Bulletin}', 'Springfield Street, Wigan, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {25 May 2017: Nightly Bulletin}', 'Leyland, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {26 May 2017: Evening Bulletin}', "St. Ann's Square, Manchester, Greater Manchester, England, UK"]	53.4821188	-2.2456544176545297
+['"BBC North West Tonight" (1984) {30 May 2017: Evening Bulletin}', "St. Ann's Square, Manchester, Greater Manchester, England, UK"]	53.4821188	-2.2456544176545297
+['"BBC North West Tonight" (1984) {31 May 2017: Evening Bulletin}', 'Lancashire County Cricket Club, Old Trafford Cricket Ground, Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"BBC North West Tonight" (1984) {4 June 2017: Nightly Bulletin}', 'Lancashire County Cricket Club, Old Trafford Cricket Ground, Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"BBC North West Tonight" (1984) {7 June 2017: Evening Bulletin}', 'Bolton, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"BBC North West Tonight" (1984) {7 June 2017: Evening Bulletin}', 'Bury, Greater Manchester, England, UK']	53.5927543	-2.2972827
+['"Berenar a Sant Cugat" (1984)', '', '', '', 'Sant Cugat, Barcelona, Catalonia, Spain']	41.467969	2.0782386
+['"Bik hyu sai ngan cheung" (1984)', '', '', 'Hong Kong, China']	22.2793278	114.1628131

@@ -1,0 +1,2 @@
+['"2020 Summer Olympics" (2020)', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"2020 Summer Paralympics" (2020)', '', '', 'Tokyo, Japan']	35.6828387	139.7594549

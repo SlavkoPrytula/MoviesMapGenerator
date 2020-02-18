@@ -1,0 +1,43 @@
+['"ABC News Reports" (1963) {1963: Transition and Tragedy}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC News Reports" (1963) {Cyprus: Island of Fear}', 'Cyprus']	34.9823018	33.1451285
+['"Adorable juventud" (1963)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Adorable juventud" (1963) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Adorable juventud" (1963) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Adorable juventud" (1963) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Agonia de amor" (1963)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Alumni Fun" (1963)', '', '', '', '', 'CBS Studio 52, New York City, New York, USA']	40.7127281	-74.0060152
+['"Arena sobre la piel" (1963)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arena" (1963)', '', '', '', '', '', 'BBC Bristol, Broadcasting House, Whiteladies Road, Clifton, Bristol, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Arrest and Trial" (1963)', '', '', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Arrest and Trial" (1963) {A Circle of Strangers (#1.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Arrest and Trial" (1963) {A Flame in the Dark (#1.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Arrest and Trial" (1963) {A Roll of the Dice (#1.22)}', 'The Dunes Hotel, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Arrest and Trial" (1963) {A Roll of the Dice (#1.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {A Shield Is for Hiding Behind (#1.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {An Echo of Conscience (#1.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Birds of a Feather (#1.30)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Call It a Lifetime (#1.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Funny Man with a Monkey (#1.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {He Ran for His Life (#1.28)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Inquest Into a Bleeding Heart (#1.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Isn\'t It a Lovely View (#1.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Journey into Darkness (#1.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Modus Operandi (#1.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {My Name Is Martin Burnham (#1.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Onward and Upward (#1.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {People in Glass Houses (#1.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Signals of an Ancient Flame (#1.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Some Weeks Are All Mondays (#1.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Somewhat Lower Than the Angels (#1.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {Tears from a Silver Dipper (#1.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {The Best There Is (#1.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {The Black Flower (#1.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {The Quality of Justice (#1.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {The Revenge of the Worm (#1.27)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	39.7837304	-100.4458825
+['"Arrest and Trial" (1963) {The Witnesses (#1.8)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrest and Trial" (1963) {Those Which Love Has Made (#1.29)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Arrest and Trial" (1963) {Tigers Are for Jungles (#1.26)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Arrest and Trial" (1963) {We May Be Better Strangers (#1.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Arrest and Trial" (1963) {Whose Little Girl Are You? (#1.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Avenida de Mayo 1063" (1963)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Balamicina" (1963)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817

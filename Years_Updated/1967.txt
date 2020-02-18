@@ -1,0 +1,56 @@
+['"1967 World Series" (1967)', '', '', '', 'Busch Stadium - 250 Stadium Plaza, St. Louis, Missouri, USA']	39.7837304	-100.4458825
+['"1967 World Series" (1967)', '', '', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"1967 World Series" (1967) {Game 1 (#1.1)}', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"1967 World Series" (1967) {Game 2 (#1.2)}', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"1967 World Series" (1967) {Game 3 (#1.3)}', '', 'Busch Stadium - 250 Stadium Plaza, St. Louis, Missouri, USA']	39.7837304	-100.4458825
+['"1967 World Series" (1967) {Game 4 (#1.4)}', '', 'Busch Stadium - 250 Stadium Plaza, St. Louis, Missouri, USA']	39.7837304	-100.4458825
+['"1967 World Series" (1967) {Game 5 (#1.5)}', '', 'Busch Stadium - 250 Stadium Plaza, St. Louis, Missouri, USA']	39.7837304	-100.4458825
+['"1967 World Series" (1967) {Game 6 (#1.6)}', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"1967 World Series" (1967) {Game 7 (#1.7)}', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"24 no hitomi" (1967)', '', '', '', '', 'Kagawa, Japan']	34.2480104	134.0586579
+['"Accidental Family" (1967)', '', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967)', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Accidental Family" (1967) {A Funny Thing Happened on the Way to the Playground (#1.9)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {Everywhere a Chick Chick (#1.1)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {Halloween\'s on Us (#1.6)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {Hot Kid in a Cold Town (#1.2)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {If You Knew Martha (#1.3)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {It Hurts Me More Than It Hurts You (#1.5)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {Minnesota Tracy (#1.4)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {Sandy Gets Tough (#1.15)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {The Lush Life (#1.13)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {The Making of a Vegetarian (#1.7)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {The Return of Mr. Ex (#1.12)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {The Secret Life of Jerry Webster (#1.8)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {The Treasure of San Fernando Valley (#1.14)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {The Woodsman (#1.11)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {What Is This - Thanksgiving or a Nightmare? (#1.10)}', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Accidental Family" (1967) {Who\'s Been Sleeping in Daddy\'s Bed (#1.16)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Acting in the Sixties" (1967) {John Neville (#1.4)}', 'Nottingham Playhouse, Wellington Circus, Nottingham, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Acting in the Sixties" (1967) {Maggie Smith (#1.5)}', 'National Theatre, Old Vic, Waterloo Road, Lambeth, London, England, UK']	51.5073219	-0.1276474
+['"Acting in the Sixties" (1967) {Richard Burton (#1.6)}', 'De Laurentiis Studio, Rome, Italy']	42.6384261	12.674297
+['"Acting in the Sixties" (1967) {Robert Stephens (#1.2)}', 'National Theatre, Old Vic, Waterloo Road, Lambeth, London, England, UK']	51.5073219	-0.1276474
+['"Acting in the Sixties" (1967) {Vanessa Redgrave (#1.1)}', "Wyndham's Theatre, Charing Cross Rd, Soho, London, England, UK"]	51.5111463	-0.1280408779258086
+['"Adriana" (1967)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aktenzeichen XY ungel�st" (1967)', '', '', 'FSM, Unterf�hring, Bavaria, Germany']	51.0834196	10.4234469
+['"Aktenzeichen XY ungel�st" (1967) {(#1.24)}', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Aktenzeichen XY ungel�st" (1967) {(#1.52)}', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Aktenzeichen XY ungel�st" (1967) {(2015-05-20)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Aktenzeichen XY ungel�st" (1967) {(2015-05-20)}', 'Marbach am Neckar, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Aktenzeichen XY ungel�st" (1967) {(2015-05-20)}', 'Stendal, Saxony-Anhalt, Germany']	52.6051341	11.8593217
+['"Aktenzeichen XY ungel�st" (1967) {(2015-05-20)}', 'Uchtspringe, Stendal, Sachsen-Anhalt, Germany']	52.6051341	11.8593217
+['"Aktenzeichen XY ungel�st" (1967) {(2015-05-20)}', 'Wilhelmsdorf, Sachsen-Anhalt, Germany']	51.0834196	10.4234469
+['"Aktenzeichen XY ungel�st" (1967) {(2015-05-20)}', 'Stuttgart, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Aktenzeichen XY ungel�st" (1967) {(2015-05-20)}', 'Unterhausen, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Aktenzeichen XY ungel�st" (1967) {(2015-05-20)}', 'L�neburg, Lower Saxony, Germany']	51.0834196	10.4234469
+['"Amor en el desierto" (1967)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Amor sublime" (1967)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Angustia del pasado" (1967)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Anita de Montemar" (1967)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Atormentada" (1967)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Bd8" (1967) {The Enclosed World of the Blind (#1.1)}', 'BBC Birmingham, Gosta Green, Birmingham, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"Bd8" (1967) {The Enclosed World of the Blind (#1.1)}', 'The Midlands, England, UK']	50.5988926	-4.1006857
+['"Bd8" (1967) {The Independence of the Blind (#1.2)}', 'BBC Birmingham, Gosta Green, Birmingham, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"Bd8" (1967) {The Independence of the Blind (#1.2)}', 'The Midlands, England, UK']	50.5988926	-4.1006857
+['"Bellbird" (1967)', '', '', '', '', 'ABC Ripponlea Studios, Elsternwick, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Bellbird" (1967) {Love Finds a Way: The Marriage of Ginny Campbell and Leo Hill}', 'Caulfield, Melbourne, Victoria, Australia']	-37.8142176	144.9631608

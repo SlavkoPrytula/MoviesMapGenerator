@@ -1,0 +1,562 @@
+['"1945" (1983)', '', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['":20 Minute Workout" (1983)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"A Festa Continua" (1983)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Floresta Portuguesa" (1983)', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"A Floresta Portuguesa" (1983) {A Floresta e a Arte (#1.3)}', 'Portugal']	40.0332629	-7.8896263
+['"A Floresta Portuguesa" (1983) {A Floresta e a Historia (#1.1)}', 'Gerez, Portugal']	41.839297	-7.95918
+['"A Floresta Portuguesa" (1983) {A Floresta e a Historia (#1.1)}', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Floresta Portuguesa" (1983) {A Floresta e a Historia (#1.1)}', 'Portugal']	40.0332629	-7.8896263
+['"A Floresta Portuguesa" (1983) {A Floresta e a Industria (#1.4)}', 'Portugal']	40.0332629	-7.8896263
+['"A Floresta Portuguesa" (1983) {A Floresta e a Industria (#1.4)}', 'Gerez, Portugal']	41.839297	-7.95918
+['"A Floresta Portuguesa" (1983) {A Floresta e a Industria (#1.4)}', 'Alentejo, Portugal']	38.0551003	-7.8605799
+['"A Floresta Portuguesa" (1983) {A Floresta e a Industria (#1.4)}', 'Amarante, Portugal']	40.0332629	-7.8896263
+['"A Floresta Portuguesa" (1983) {A Floresta e a Industria (#1.4)}', 'Pombal, Portugal']	39.9161947	-8.6282264
+['"A Floresta Portuguesa" (1983) {A Floresta e o Lazer (#1.5)}', 'Gerez, Portugal']	41.839297	-7.95918
+['"A Floresta Portuguesa" (1983) {A Vida Na Floresta (#1.2)}', 'Portugal']	40.0332629	-7.8896263
+['"A Floresta Portuguesa" (1983) {A Vida Na Floresta (#1.2)}', 'Gerez, Portugal']	41.839297	-7.95918
+['"A Floresta Portuguesa" (1983) {A Vida Na Floresta (#1.2)}', 'Alentejo, Portugal']	40.0332629	-7.8896263
+['"A Floresta Portuguesa" (1983) {A Vida Na Floresta (#1.2)}', 'Mafra, Portugal']	38.9369782	-9.3282374
+['"After MASH" (1983)', '', '', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {All About Christmas Eve (#1.12)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Another Saturday Night (#1.18)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Bladder Day Saints (#1.11)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {By the Book (#1.20)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {C.Y.A. (#1.14)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Calling Doctor Habibi (#2.2)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Chief of Staff (#1.13)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Fallout (#1.10)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Fever Pitch (#1.19)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {It Had to Be You (#1.16)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Klinger vs. Klinger (#1.2)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Less Miserables (#2.1)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Little Broadcast of \'53 (#1.7)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Madness to His Method (#2.5)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Night Shift (#1.5)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Odds and Ends (#1.17)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Saturday\'s Heroes (#2.8)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {September of \'53/Together Again (#1.1)}', 'St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"After MASH" (1983) {September of \'53/Together Again (#1.1)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Shall We Dance (#1.6)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Snap, Crackle, Plop (#1.3)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Staph Inspection (#1.4)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Strangers and Other Lovers (#2.3)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Sunday, Cruddy Sunday (#1.8)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Thanksgiving of \'53 (#1.9)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {The Recovery Room (#2.6)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Trials (#2.4)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Ward Is Hell (#2.7)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Wet Feet (#2.9)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"After MASH" (1983) {Yours Truly, Max Klinger (#1.15)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Against the Odds" (1983)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All the Rivers Run" (1983)', '', '', '', 'Old Melbourne Gaol, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"All the Rivers Run" (1983)', '', '', '', 'Echuca, Victoria, Australia']	-36.1281405	144.7516955
+['"All the Rivers Run" (1983)', '', '', '', 'Riverland, South Australia, Australia']	-34.0238625	140.77468455914368
+['"All the Rivers Run" (1983)', '', '', '', 'South Australia, Australia']	-30.5343665	135.6301212
+['"All the Rivers Run" (1983)', '', '', '', 'Murraylands, South Australia, Australia']	-34.347841	139.6022958
+['"All the Rivers Run" (1983)', '', '', '', 'Murray River, South Australia, Australia']	-32.7969818	116.4585424
+['"All the Rivers Run" (1983)', '', '', '', 'Victoria, Australia']	-36.5986096	144.6780052
+['"All the Rivers Run" (1983)', '', '', '', 'Riverland, Victoria, Australia']	-37.818726	144.96849
+['"All the Rivers Run" (1983)', '', '', '', 'Murray River, Victoria, Australia']	-36.1021877	146.9256672
+['"All the Rivers Run" (1983)', '', '', '', 'Port of Echuca, Echuca, Victoria, Australia']	-36.1208319	144.7470325
+['"All the Rivers Run" (1983)', '', '', '', 'Southern Ocean, Victoria, Australia']	-35.9967513	137.1890523
+['"All the Rivers Run" (1983) {Das neue Land (#1.1)}', 'Echuca, Victoria, Australia']	-36.1281405	144.7516955
+['"All the Rivers Run" (1983) {Die erste Fahrt - 4-10-1983 - 48 M. (#1.3)}', 'Echuca, Victoria, Australia']	-36.1281405	144.7516955
+['"All the Rivers Run" (1983) {Eifersucht - 4-10-1983 - 48 M. - (#1.2)}', 'Echuca, Victoria, Australia']	-36.1281405	144.7516955
+['"All the Rivers Run" (1983) {Zwiebelomelett 4-10-1983 - 48 M. (#1.4)}', 'Echuca, Victoria, Australia']	-36.1281405	144.7516955
+['"Alternatywy 4" (1983)', '', '', '', '', 'Pultusk, Mazowieckie, Poland']	52.7051109	21.0840274
+['"Alternatywy 4" (1983)', '', '', '', '', 'Grzegorzewskiej 3, Ursyn�w, Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Alternatywy 4" (1983)', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Alternatywy 4" (1983) {Wesele (#1.8)}', '', '', 'Palace of Culture and Science, Plac Defilad, Sr�dmiescie, Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Amada" (1983)', '', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.1)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.2)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.3)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.4)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.5)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.6)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.7)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.8)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amada" (1983) {(#1.9)}', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amalia Batista" (1983)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Amanda\'s" (1983)', '', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {All in a Day\'s Work (#1.1)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {Amanda\'s Number One Son (#1.7)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {Aunt Sonia (#1.6)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {I Ain\'t Got Nobody (#1.4)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {I Was Wild About Harry (#1.8)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {I\'m Dancing as Close as I Can (#1.10)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {Last of the Red Hot Brothers (#1.9)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {My Cheatin\' Staff (#1.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {Oh, Promise Me (#1.13)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {One Passionate Night: Part 1 (#1.11)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {One Passionate Night: Part 2 (#1.12)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {The Man Who Came on Wednesday (#1.3)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amanda\'s" (1983) {You Were Meant for Me (#1.2)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amar... al salvaje" (1983)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.100)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.101)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.102)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.103)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.104)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.105)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.106)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.107)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.108)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.109)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.110)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.111)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.112)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.113)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.114)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.115)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.116)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.117)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.118)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.119)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.120)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.121)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.122)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.123)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.124)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.125)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.126)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.127)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.128)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.129)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.130)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.131)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.132)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.133)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.134)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.135)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.136)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.137)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.138)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.139)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.140)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.141)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.20)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.30)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.31)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.32)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.33)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.34)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.35)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.36)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.37)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.38)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.39)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.40)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.41)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.42)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.43)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.44)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.45)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.46)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.47)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.48)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.49)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.50)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.51)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.52)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.53)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.54)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.55)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.56)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.57)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.58)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.59)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.60)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.61)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.62)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.63)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.64)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.65)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.66)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.67)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.68)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.69)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.70)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.71)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.72)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.73)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.74)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.75)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.76)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.77)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.78)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.79)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.80)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.81)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.82)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.83)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.84)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.85)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.86)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.87)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.88)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.89)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.90)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.91)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.92)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.93)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.94)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.95)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.96)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.97)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.98)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amar... al salvaje" (1983) {(#1.99)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"America Undercover" (1983) {Left of the Dial}', '', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"America Undercover" (1983) {Left of the Dial}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America Undercover" (1983) {Looking for Fidel}', '', 'Cuba']	23.0131338	-80.8328748
+['"America Undercover" (1983) {The Iceman Tapes: Conversations with a Killer}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"Amor gitano" (1983)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.40)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.41)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.42)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.43)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.44)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.45)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.46)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.47)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.48)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.49)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.50)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.51)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.52)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.53)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.54)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.55)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.56)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.57)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.58)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.59)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.60)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.61)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.62)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.63)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.64)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.65)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.66)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.67)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.68)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.69)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.70)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.71)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.72)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor gitano" (1983) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"An Age Apart" (1983)', '', '', '', '', 'Auckland, New Zealand']	-36.852095	174.7631803
+['"Anillos de oro" (1983) {A coraz�n abierto (#1.3)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {A pescar y a ver al duque (#1.7)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Cuando se dan mal las cartas (#1.8)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Cuesti�n de principios (#1.1)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Dejad que vuelen los p�jaros (#1.12)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Dejad que vuelen los p�jaros (#1.12)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Anillos de oro" (1983) {El pa�s de las maravillas (#1.6)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Retrato en sepia (#1.9)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Sorprendente y m�gico (#1.10)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Tiempo feliz de caramelo (#1.5)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Todo un caballero (#1.11)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Una hermosa fachada (#1.4)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {Una pareja (#1.2)}', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anillos de oro" (1983) {�Por qu� has tenido que hacerme esto? (#1.13)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Anna Pavlova" (1983)', '', '', '', '', 'Ivy House, North End Road, Golders Green, London, England, UK']	51.569131	-0.1853472
+['"Anna Pavlova" (1983)', '', '', '', '', 'Gramercy Park Hotel, New York City, New York, USA']	40.738566649999996	-73.98577239206193
+['"Anna palaa" (1983) {(1987-09-07)}', '', '', 'Riutanharjun tanssilava, Riihim�ki, Finland']	63.2467777	25.9209164
+['"Antojitos mexicanos" (1983)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aprender a vivir... 83" (1983)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.20)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.21)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.22)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.23)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.24)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.25)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.26)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.27)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.28)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.29)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.4)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.5)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.6)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.7)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.8)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir... 83" (1983) {(#1.9)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Au th��tre ce soir" (1966) {Et l\'enfer Isabelle? (1983)}', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Angel of the North, Gateshead, Tyne & Wear, England, UK']	54.914112450000005	-1.5894774828994322
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Arizona, USA']	39.7837304	-100.4458825
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Beesthorpe Hall, Caunton, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Benalm�dena, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Byker Bridge, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9756926	-1.591874
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Caunton, Nottinghamshire, England, UK']	53.1326492	-0.8861326
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Danby, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Denton Manor, Denton, Lincolnshire, England, UK']	52.8828941	-0.7211401
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Dominican Republic']	19.0974031	-70.3028026
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Gateshead, Tyne & Wear, England, UK']	54.9625789	-1.6019294
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Grounds of Elstree Studios, Borehamwood, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Havana, Cuba']	23.135305	-82.3589631
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Leicestershire, England, UK']	52.666667	-1.0
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Marble Canyon, Arizona, USA']	36.8155432	-111.6376612
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Middlehaven, Middlesbrough, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Middlesbrough, North Yorkshire, England, UK']	54.482322	-0.6225233
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Newcastle International Airport, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	55.03725795	-1.709906777250662
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9738474	-1.6131572
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Nijmegen, Gelderland, Netherlands']	51.8427385	5.8634696
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Nottingham, Nottinghamshire, England, UK']	52.9534193	-1.1496461
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Page, Arizona, USA']	36.9148305	-111.4572942
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Percy Main, Tyne & Wear, England, UK']	54.9996211	-1.4744436
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Puerto Ban�s, Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Redmile, Leicestershire, England, UK']	52.666667	-1.0
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Scotswood, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9721605	-1.6913742
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Soho, London, England, UK']	51.5131628	-0.1311754
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'South Bank, Middlesbrough, North Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', "St. Anthony's, Newcastle-upon-Tyne, Tyne & Wear, England, UK"]	54.9674048	-1.5569995
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'The Hop Pole, High Road, Beeston, Nottingham, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'The Star, Middle Street, Beeston, Nottingham, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'The Windmill Inn, Main Street, Redmile, Leicestershire, England, UK']	52.91067	-0.8145794
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Villa la Quinta, Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Walkerdene, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"Auf Wiedersehen, Pet" (1983)', '', '', '', 'Windsor, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Auf Wiedersehen, Pet" (1983) {A Home from Home (#2.5)}', 'Beesthorpe Hall, Caunton, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {A Home from Home (#2.5)}', 'Denton Manor, Denton, Lincolnshire, England, UK']	52.8828941	-0.7211401
+['"Auf Wiedersehen, Pet" (1983) {A Home from Home (#2.5)}', 'Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Auf Wiedersehen, Pet" (1983) {A Home from Home (#2.5)}', 'Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {A Home from Home (#2.5)}', 'The Windmill Inn, Main Street, Redmile, Leicestershire, England, UK']	52.91067	-0.8145794
+['"Auf Wiedersehen, Pet" (1983) {A Home from Home (#2.5)}', 'Villa la Quinta, Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {A Law for the Rich (#2.3)}', 'Beesthorpe Hall, Caunton, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {A Law for the Rich (#2.3)}', 'Caunton, Nottinghamshire, England, UK']	53.1326492	-0.8861326
+['"Auf Wiedersehen, Pet" (1983) {A Law for the Rich (#2.3)}', 'Denton Manor, Denton, Lincolnshire, England, UK']	52.8828941	-0.7211401
+['"Auf Wiedersehen, Pet" (1983) {A Law for the Rich (#2.3)}', 'Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Auf Wiedersehen, Pet" (1983) {A Law for the Rich (#2.3)}', 'Newcastle International Airport, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	55.03725795	-1.709906777250662
+['"Auf Wiedersehen, Pet" (1983) {A Law for the Rich (#2.3)}', 'Nottingham, Nottinghamshire, England, UK']	52.9534193	-1.1496461
+['"Auf Wiedersehen, Pet" (1983) {A Law for the Rich (#2.3)}', 'Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {Another Country (#2.4)}', 'Beesthorpe Hall, Caunton, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {Another Country (#2.4)}', 'Denton Manor, Denton, Lincolnshire, England, UK']	52.8828941	-0.7211401
+['"Auf Wiedersehen, Pet" (1983) {Another Country (#2.4)}', 'Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Auf Wiedersehen, Pet" (1983) {Another Country (#2.4)}', 'Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Another Country (#2.4)}', 'The Windmill Inn, Main Street, Redmile, Leicestershire, England, UK']	52.91067	-0.8145794
+['"Auf Wiedersehen, Pet" (1983) {Another Country (#2.4)}', 'Villa la Quinta, Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Au Revoir: Part 1 (#5.1)}', 'Thailand']	14.8971921	100.83273
+['"Auf Wiedersehen, Pet" (1983) {Au Revoir: Part 1 (#5.1)}', 'UK']	54.7023545	-3.2765753
+['"Auf Wiedersehen, Pet" (1983) {Cowboys (#2.6)}', '', 'Beesthorpe Hall, Caunton, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {Cowboys (#2.6)}', '', 'Caunton, Nottinghamshire, England, UK']	53.1326492	-0.8861326
+['"Auf Wiedersehen, Pet" (1983) {Cowboys (#2.6)}', '', 'Danby, North Yorkshire, England, UK']	54.4661475	-0.9109238
+['"Auf Wiedersehen, Pet" (1983) {Cowboys (#2.6)}', '', 'Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Auf Wiedersehen, Pet" (1983) {Cowboys (#2.6)}', '', 'Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Cowboys (#2.6)}', '', 'Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9738474	-1.6131572
+['"Auf Wiedersehen, Pet" (1983) {Cowboys (#2.6)}', '', 'The Windmill Inn, Main Street, Redmile, Leicestershire, England, UK']	52.666667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {Cowboys (#2.6)}', '', 'Villa la Quinta, Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {For Better or Worse (#2.12)}', 'Fuengirola, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {For Better or Worse (#2.12)}', 'M�laga, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Hasta La Vista (#2.9)}', 'Gateshead, Tyne & Wear, England, UK']	54.9625789	-1.6019294
+['"Auf Wiedersehen, Pet" (1983) {Hasta La Vista (#2.9)}', 'Newcastle International Airport, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	55.03725795	-1.709906777250662
+['"Auf Wiedersehen, Pet" (1983) {Hasta La Vista (#2.9)}', 'Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9738474	-1.6131572
+['"Auf Wiedersehen, Pet" (1983) {If I Were a Carpenter (#1.1)}', 'D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Auf Wiedersehen, Pet" (1983) {If I Were a Carpenter (#1.1)}', 'Grounds of Elstree Studios, Borehamwood, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Auf Wiedersehen, Pet" (1983) {If I Were a Carpenter (#1.1)}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Auf Wiedersehen, Pet" (1983) {If I Were a Carpenter (#1.1)}', 'Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9738474	-1.6131572
+['"Auf Wiedersehen, Pet" (1983) {If I Were a Carpenter (#1.1)}', 'Nijmegen, Gelderland, Netherlands']	51.8427385	5.8634696
+['"Auf Wiedersehen, Pet" (1983) {Law and Disorder (#2.11)}', 'Fuengirola, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Law and Disorder (#2.11)}', 'Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Law and Disorder (#2.11)}', 'M�laga, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Marjorie Doesn\'t Live Here Anymore (#2.8)}', 'Beeston, Nottingham, Nottinghamshire, England, UK']	52.9207938	-1.2075065
+['"Auf Wiedersehen, Pet" (1983) {Marjorie Doesn\'t Live Here Anymore (#2.8)}', 'Byker Bridge, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9756926	-1.591874
+['"Auf Wiedersehen, Pet" (1983) {Marjorie Doesn\'t Live Here Anymore (#2.8)}', 'Gateshead, Tyne & Wear, England, UK']	54.9625789	-1.6019294
+['"Auf Wiedersehen, Pet" (1983) {Marjorie Doesn\'t Live Here Anymore (#2.8)}', 'Newcastle Railway Station, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9683766	-1.6170427
+['"Auf Wiedersehen, Pet" (1983) {Marjorie Doesn\'t Live Here Anymore (#2.8)}', 'Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Beesthorpe Hall, Caunton, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Byker, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Caunton, Nottinghamshire, England, UK']	53.1326492	-0.8861326
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Gateshead, Tyne & Wear, England, UK']	54.9625789	-1.6019294
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Leicestershire, England, UK']	52.666667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"Auf Wiedersehen, Pet" (1983) {No Sex Please, We\'re Brickies (#2.7)}', 'Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {Quo Vadis, Pet (#2.13)}', 'Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Quo Vadis, Pet (#2.13)}', 'M�laga, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Scoop (#2.10)}', '', 'Fuengirola, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Scoop (#2.10)}', '', 'Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {Scoop (#2.10)}', '', 'M�laga, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 1 (#2.1)}', 'D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 1 (#2.1)}', 'Grounds of Elstree Studios, Borehamwood, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 1 (#2.1)}', 'Newcastle International Airport, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	55.03725795	-1.709906777250662
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 1 (#2.1)}', 'The Star, Middle Street, Beeston, Nottingham, Nottinghamshire, England, UK']	52.9248462	-1.2131975
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 1 (#2.1)}', 'Villa la Quinta, Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 2 (#2.2)}', 'Newcastle International Airport, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	55.03725795	-1.709906777250662
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 2 (#2.2)}', 'Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9738474	-1.6131572
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 2 (#2.2)}', 'Nottingham, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 2 (#2.2)}', 'Nottinghamshire, England, UK']	53.166667	-1.0
+['"Auf Wiedersehen, Pet" (1983) {The Return of the Seven: Part 2 (#2.2)}', 'Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"Ausflug zum Vater" (1983)', '', '', '', 'Bavaria Studios, Bavariafilmplatz 7, Geiselgasteig, Gr�nwald, Bavaria, Germany']	51.0834196	10.4234469
+['"Australia You\'re Standing in It" (1983)', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Automan" (1983)', '', '', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Automan (#1.1)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Death by Design (#1.12)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Flashes and Ashes (#1.6)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Murder MTV (#1.9)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Murder, Take One (#1.10)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Renegade Run (#1.8)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Ships in the Night (#1.4)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Staying Alive While Running a High Flashdance Fever (#1.2)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {The Biggest Game in Town (#1.7)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {The Great Pretender (#1.3)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Unreasonable Facsimile (#1.5)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Automan" (1983) {Zippers (#1.11)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bad�a y Cia" (1983)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Astor Piazzolla}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Charly Garc�a}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {David Leb�n}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Los Fabulosos Cadillacs III}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Los abuelos de la nada}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Luis Alberto Spinetta II}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Luis Alberto Spinetta}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Riff}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Soda Stereo II}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Soda Stereo}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Spinetta Jade}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Virus III}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Virus II}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bad�a y Cia" (1983) {Virus}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bare Essence" (1983)', '', '', '', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bare Essence" (1983)', '', '', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Eight (#1.8)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Eight (#1.8)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bare Essence" (1983) {Hour Eleven (#1.11)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Eleven (#1.11)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bare Essence" (1983) {Hour Five (#1.5)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Five (#1.5)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bare Essence" (1983) {Hour Four (#1.4)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Four (#1.4)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bare Essence" (1983) {Hour Nine (#1.9)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Nine (#1.9)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bare Essence" (1983) {Hour One (#1.1)}', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour One (#1.1)}', '', '', 'Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bare Essence" (1983) {Hour One (#1.1)}', '', '', 'Crystal Ballroom, Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bare Essence" (1983) {Hour One (#1.1)}', '', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bare Essence" (1983) {Hour Seven (#1.7)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Seven (#1.7)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bare Essence" (1983) {Hour Six (#1.6)}', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Bare Essence" (1983) {Hour Six (#1.6)}', '', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	39.7837304	-100.4458825
+['"Bare Essence" (1983) {Hour Ten (#1.10)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Ten (#1.10)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	39.7837304	-100.4458825
+['"Bare Essence" (1983) {Hour Three (#1.3)}', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	39.7837304	-100.4458825
+['"Bare Essence" (1983) {Hour Three (#1.3)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Two (#1.2)}', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bare Essence" (1983) {Hour Two (#1.2)}', '', '', 'Greystone Park & Mansion - 905 Loma Vista Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Behind the Bike Sheds" (1983) {(#1.2)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#1.3)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#1.4)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#1.5)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#1.6)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#1.7)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#1.8)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.1)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.2)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.3)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.4)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.5)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.6)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.7)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.8)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {(#2.9)}', '', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Behind the Bike Sheds" (1983) {Animals (#1.1)}', '', 'Yorkshire Television Studios, Studio Road, Kirkstall, Leeds, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Benji, Zax & the Alien Prince" (1983)', '', '', "Building One, Studios at Las Colinas - 6301 North O'Connor Road, Irving, Texas, USA"]	32.8295183	-96.9442177
+['"Benji, Zax & the Alien Prince" (1983)', '', '', 'Plano, Texas, USA']	33.0136764	-96.6925096

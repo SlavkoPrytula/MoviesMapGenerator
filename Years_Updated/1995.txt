@@ -1,0 +1,218 @@
+['"\'Sang linggo nAPO sila" (1995)', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"10-07: L\'affaire Zeus" (1995)', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"1001 Tardes" (1995)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"18:30" (1995)', '', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A Film �s... I.-XIV" (1995)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"A Film �s... I.-XIV" (1995)', '', '', '', 'France']	46.603354	1.8883335
+['"A Film �s... I.-XIV" (1995)', '', '', '', 'Israel']	31.5313113	34.8667654
+['"A Film �s... I.-XIV" (1995)', '', '', '', 'Poland']	52.215933	19.134422
+['"A Film �s... I.-XIV" (1995)', '', '', '', 'Italy']	42.6384261	12.674297
+['"A Film �s... I.-XIV" (1995)', '', '', '', 'Czech Republic']	49.8167003	15.4749544
+['"A Taste of Shakespeare" (1995)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Taste of Shakespeare" (1995)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"A Whole New Ballgame" (1995)', '', '', '', 'Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"A Woman of Independent Means" (1995)', '', '', 'Galveston, Texas, USA']	29.299328	-94.7945882
+['"A Woman of Independent Means" (1995)', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"A.S." (1995)', '', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Auf eigene Faust (#1.20)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Bitte t�te ihn (#1.15)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Daniela (#3.4)}', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Der Schein tr�gt (#1.14)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Der Serienkiller - Klinge des Todes (#2.2)}', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Der b�se Bruder (#1.19)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Der kleine Bruder (#1.1)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Ein rabenschwarzer Tag (#1.13)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Ich bin unschuldig (#1.22)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Letzter Bluff (#3.3)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Liebe macht blind (#1.21)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Mord ist kein Zufall (#3.1)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"A.S." (1995) {Unter der G�rtellinie (#3.2)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"ASAP" (1995) {ASAP Road to Toronto}', '', '', 'Quezon City, Metro Manila, Philippines']	14.6509905	121.0486155
+['"Academy Live" (1995)', '', '', '', '', 'The Golf Channel Studios - 7580 Commerce Center Drive, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Acapulco Bay" (1995)', '', '', '', '', 'Acapulco, Guerrero, Mexico']	16.8680495	-99.8940182
+['"Acapulco Bay" (1995)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Acapulco Bay" (1995)', '', '', '', '', 'Televisa San Angel, Mexico City, Distrito Federal, Mexico']	19.34476565	-99.20394733773142
+['"Acapulco, cuerpo y alma" (1995)', '', '', 'Acapulco, Guerrero, Mexico']	16.8680495	-99.8940182
+['"Acapulco, cuerpo y alma" (1995)', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Acapulco, cuerpo y alma" (1995)', '', '', 'Zihuatanejo, Guerrero, Mexico']	17.6467874	-101.5519746
+['"Al son del amor" (1995) {(#2.5)}', '', '', 'Hacienda Carabali, Puerto Rico']	18.22141715	-66.4132818505648
+['"Al son del amor" (1995) {(#2.5)}', '', '', 'Hotel Rio Mar, Puerto Rico']	18.22141715	-66.4132818505648
+['"Al son del amor" (1995) {(#2.5)}', '', '', 'San Juan, Puerto Rico']	18.465299	-66.116666
+['"Al son del amor" (1995) {(#2.5)}', '', '', 'Rio Grande, Puerto Rico']	18.0976281	-66.9391004
+['"Alle meine T�chter" (1995)', '', '', '', 'Bavaria Studios, Bavariafilmplatz 7, Geiselgasteig, Gr�nwald, Bavaria, Germany']	51.0834196	10.4234469
+['"Almost Perfect" (1995)', '', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {A Dog Day Afternoon (#1.3)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {A Midseason Night\'s Sex Comedy (#1.17)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Auto Neurotic (#1.16)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Being Fired Means Never Having to Say You\'re Sorry (#1.19)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Dating for Ratings (#2.5)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {El Pollo Loco (#1.15)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Gimme Shelter (#2.7)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Good Grief (#2.3)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Heaven\'s Helper (#2.4)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {I\'m Gregory Peck (#1.1)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {It\'s a Wrap! (#1.24)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {K.I.S.S. (#2.8)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Lights, Camera, Mike?! (#1.20)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Love Hurts (#1.11)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Mind Games (#1.13)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Moving In: Part 1 (#1.22)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Moving In: Part 2 (#1.23)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {My Way (#1.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Now, Where Were We? (#1.2)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Overly Meditated (#1.14)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Presumed Impotent (#1.10)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Risky Christmas (#1.12)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Shelf Doubt (#2.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Suites for the Sweet (#1.18)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {The Break-Up (#2.1)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {The Ex-Files (#1.7)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {The Hunted House (#1.21)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {The Laws (#2.9)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {The Lost Weekend: Part 1 (#1.8)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {The Lost Weekend: Part 2 (#1.9)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {This Is What Happens When You Don\'t Watch PBS (#2.10)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Where No Woman Has Gone Before (#2.6)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {You Like Me, You Really Like Me (#1.6)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Perfect" (1995) {Your Place or Mine? (#1.5)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alondra" (1995)', '', '', '', '', 'Durango, Mexico']	24.833333	-104.833333
+['"Alondra" (1995)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Alys Robi" (1995) {(#1.1)}', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Alys Robi" (1995) {(#1.2)}', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Alys Robi" (1995) {(#1.2)}', '', '', '', 'Havana, Cuba']	23.135305	-82.3589631
+['"Alys Robi" (1995) {(#1.3)}', '', '', '', 'Havana, Cuba']	23.135305	-82.3589631
+['"Alys Robi" (1995) {(#1.4)}', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Alys Robi" (1995) {(#1.4)}', '', '', '', 'Havana, Cuba']	23.135305	-82.3589631
+['"Alys Robi" (1995) {Making of the Series "Alys Robi"}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Am I Nuts?" (1995)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Am Schauplatz" (1995) {Nachgefragt: Sch�ner fremder Mann}', 'Kenya']	1.4419683	38.4313975
+['"Am Schauplatz" (1995) {Nachgefragt: Sch�ner fremder Mann}', 'Nieder�sterreich, Austria']	47.2000338	13.199959
+['"Amazing Grace" (1995)', '', '', '', '', "Coeur d'Alene, Idaho, USA"]	47.6742994	-116.7811531
+['"Amb el cor a la m�" (1995)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"American Cinema" (1995) {Film in the Television Age (#1.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Cinema" (1995) {Film in the Television Age (#1.8)}', 'New York, USA']	40.7127281	-74.0060152
+['"American Gothic" (1995)', '', '', '', 'Wilmington, North Carolina, USA']	34.2257282	-77.9447107
+['"Amigovios" (1995)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigovios" (1995)', '', '', '', '', 'Colegio Marin, San Isidro, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigovios" (1995)', '', '', '', '', 'Moreno, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amigovios" (1995)', '', '', '', '', 'San Isidro, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amma and Family" (1995)', '', '', '', 'Himachal Pradesh, India']	22.3511148	78.6677428
+['"Amma and Family" (1995)', '', '', '', 'New Delhi, Delhi, India']	28.6141793	77.2022662
+['"An Independent Man" (1995) {Alice\'s Tale (#1.2)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"An Independent Man" (1995) {And So to Bed (#1.7)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"An Independent Man" (1995) {Horse Power Politics (#1.3)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"An Independent Man" (1995) {Market Forces (#1.6)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"An Independent Man" (1995) {No Man Is an Island (#1.4)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"An Independent Man" (1995) {The First Loser (#1.1)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"An Independent Man" (1995) {The Italian Connection (#1.5)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Andaz" (1995)', '', '', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Apache Goes Indian" (1995)', '', '', '', 'India']	22.3511148	78.6677428
+['"Apanhados" (1995)', '', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"Aphrodisia" (1995)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aphrodisia" (1995)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Aphrodisia" (1995)', '', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Aquela Cativa Que Me Tem Cativo" (1995)', '', 'Capuchos Convent, Serra da Arr�bida, Set�bal, Portugal']	40.0332629	-7.8896263
+['"Aquela Cativa Que Me Tem Cativo" (1995)', '', 'Coimbra, Portugal']	40.0332629	-7.8896263
+['"Around Scotland" (1995) {Bruce\'s Scotland 1 (#1.1)}', 'Dunfermline Abbey, Dunfermline, Fife, Scotland, UK']	56.0699085	-3.4635633052631576
+['"Around Scotland" (1995) {Bruce\'s Scotland Part 1}', 'Dunfermline Abbey, Dunfermline, Fife, Scotland, UK']	56.0699085	-3.4635633052631576
+['"Around Scotland" (1995) {Bruce\'s Scotland Part 2}', 'Caerlaverock Castle, Dumfries, Dumfries & Galloway, Scotland, UK']	54.9756503	-3.524108361247918
+['"Around Scotland" (1995) {Bruce\'s Scotland Part 2}', 'Pluscarden Abbey, Elgin, Morayshire, Scotland, UK']	57.3099996	-3.6334668
+['"Atr�vete!" (1995)', '', '', '', '', 'Telecentro, Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"Atr�vete!" (1995)', '', '', '', '', 'Teleantillas, Santo Domingo, Dominican Republic']	18.481039199999998	-69.95515115
+['"Auntie\'s Sporting Bloomers" (1995)', '', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#1.1)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#1.2)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#1.3)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#1.4)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#1.5)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#1.6)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#2.1)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#2.2)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#2.3)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#2.4)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#2.5)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#2.6)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#2.7)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#2.8)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#3.1)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#3.2)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#3.3)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#3.4)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#3.5)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#3.6)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#4.1)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#4.2)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#4.3)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#4.4)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#4.5)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Sporting Bloomers" (1995) {(#4.6)}', '', 'England, UK']	54.7023545	-3.2765753
+['"Aus heiterem Himmel" (1995)', '', '', '', 'Starnberg, Bavaria, Germany']	48.0001038	11.3508972
+['"Ayri D�nyalar" (1995)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Azmi" (1995)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Baantjer" (1995)', '', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Baantjer" (1995)', '', '', '', '', 'Kattenburg, Amsterdam, Noord-Holland, Netherlands']	52.372902100000005	4.917997151422905
+['"Baantjer" (1995)', '', '', '', '', 'Molenwijk, Amsterdam, Noord-Holland, Netherlands']	52.4163071	4.8927278
+['"Baantjer" (1995) {De Cock en de wraak zonder einde (#5.0)}', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Backup" (1995)', '', '', '', '', '', 'London & the Home Counties, England, UK']	54.7023545	-3.2765753
+['"Bad Boys" (1995)', '', '', '', '', 'Glasgow, Strathclyde, Scotland, UK']	55.8317061	-4.0333295
+['"Bad Boys" (1995)', '', '', '', '', 'Loch Lomond, Argyll and Bute, Scotland, UK']	56.15619625	-4.656210521106075
+['"Band of Gold" (1995) {Betrayal (#2.3)}', '', '', 'Ashton-under-Lyne, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"Band of Gold" (1995) {Betrayal (#2.3)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Caught (#1.2)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Clean (#1.6)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Damaged (#1.3)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Hurt (#2.4)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Hustling (#2.1)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Kiss (#2.2)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Love (#2.5)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Release (#2.6)}', '', '', 'Ashton-under-Lyne, Greater Manchester, England, UK']	53.4854941	-2.1120849
+['"Band of Gold" (1995) {Release (#2.6)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Revenge (#1.4)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {She\'s Back: Part One (#3.1)}', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {She\'s Back: Part Two (#3.2)}', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Sold (#1.1)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Tainted Love: Part One (#3.5)}', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Tainted Love: Part Two (#3.6)}', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {The Catch: Part One (#3.3)}', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {The Catch: Part Two (#3.4)}', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Band of Gold" (1995) {Told (#1.5)}', '', '', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"Barbara" (1995)', '', '', '', '', 'Sandford Road, Mapperley, Nottingham, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Barbara" (1995)', '', '', '', '', 'West Oak Surgery, Westdale Lane, Mapperley, Nottingham, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Barbara" (1995)', '', '', '', '', 'Central TV Studios, Lenton Lane, Nottingham, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Barbara" (1995) {Armour (#1.3)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Baby (#3.6)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Birthday (#1.1)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Christening (#2.4)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Coffee (#1.5)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Cottage (#4.5)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Crime (#3.4)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Flood (#3.2)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Fox (#2.6)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Friends (#1.4)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Guy Fawkes (#4.3)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Honeymoon (#4.1)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Job (#1.0)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Kids (#2.1)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Kirsty (#4.4)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Massage (#2.2)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Mate (#2.8)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Mum (#2.3)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Mum (#2.3)}', '', '', '', 'Bingham, Nottingham, Nottinghamshire, England, UK']	52.9510826	-0.9576586864516128
+['"Barbara" (1995) {Neighbours (#4.2)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Queenie (#3.1)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Rivals (#1.2)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Scattering (#1.6)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Sheep (#2.10)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Sisters (#2.7)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Tyres (#2.5)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Valentine (#3.3)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Wedding (#2.9)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Weekend (#3.5)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Barbara" (1995) {Who Shot Barbara? (#4.6)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Bat Yam - New York" (1995)', '', '', '', 'Bat-Yam, Israel']	32.0154565	34.7505283
+['"Bat Yam - New York" (1995)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bat Yam - New York" (1995)', '', '', '', 'Tel Aviv-Yafo, Israel']	31.5313113	34.8667654
+['"Bat Yam - New York" (1995) {Seret Ba-Kibbutz (#2.5)}', 'Bat-Yam, Israel']	32.0154565	34.7505283
+['"Bat Yam - New York" (1995) {Seret Ba-Kibbutz (#2.5)}', 'Kibbutz Ramat Ha-Kovesh, Israel']	31.5313113	34.8667654
+['"Bat Yam - New York" (1995) {Seret Ba-Kibbutz (#2.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Begam Dish Antenna" (1995)', '', '', '', 'Lahore, Pakistan']	31.5656079	74.3141775

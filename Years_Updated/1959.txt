@@ -1,0 +1,161 @@
+['"13 Demon Street" (1959)', '', '', '', 'Nordisk Tonefilm, Kungsholmen, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"13 Demon Street" (1959) {Fever}', '', '', 'Nordisk Tonefilm, Kungsholmen, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"13 Demon Street" (1959) {The Black Hand}', '', 'Nordisk Tonefilm, Kungsholmen, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"13 Demon Street" (1959) {The Photograph}', '', 'Nordisk Tonefilm, Kungsholmen, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"200.000 voor Antwerpen" (1959)', '', '', '', 'Antwerp, Flanders, Belgium']	51.2211097	4.3997081
+['"53. Internationale Tennismeisterschaften von Deutschland" (1959)', 'Rothenbaum Hamburg, Hamburg, Germany']	53.5686202	9.989184925773193
+['"Across the Board" (1959)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adelaide Tonight" (1959)', '', '', '', 'NWS 9, Tynte Street, North Adelaide, Adelaide, South Australia, Australia']	-24.7761086	134.755
+['"Adventures in Paradise" (1959)', '', '', '', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959)', '', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {A Bride for the Captain (#3.23)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {A Bride for the Captain (#3.23)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {A Penny a Day (#2.27)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {A Penny a Day (#2.27)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {A Touch of Genius (#2.25)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {A Touch of Genius (#2.25)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {A Whale of a Tale (#2.6)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {A Whale of a Tale (#2.6)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Act of Piracy (#2.18)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Act of Piracy (#2.18)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Adam San (#2.29)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Adam San (#2.29)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Angel of Death (#2.21)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Angel of Death (#2.21)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Appointment at Tara-Bi (#3.1)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Appointment at Tara-Bi (#3.1)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Away from It All (#2.4)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Away from It All (#2.4)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Beached (#1.29)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Beached (#1.29)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Beachhead (#2.34)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Beachhead (#2.34)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Blueprint for Paradise (#3.26)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Blueprint for Paradise (#3.26)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Build My Gallows Low (#3.20)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Build My Gallows Low (#3.20)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Captain Butcher (#2.19)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Captain Butcher (#2.19)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Castaways (#1.13)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Castaways (#1.13)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Command at Sea (#2.33)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Command at Sea (#2.33)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Command at Sea (#2.33)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Daughter of Illusion (#2.10)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Daughter of Illusion (#2.10)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Errand of Mercy (#2.32)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Errand of Mercy (#2.32)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Flamin\' Lady (#2.31)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Flamin\' Lady (#2.31)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Hangman\'s Island (#2.7)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Hangman\'s Island (#2.7)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Haunted (#1.11)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Haunted (#1.11)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Heads, You Lose (#1.27)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Heads, You Lose (#1.27)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Hill of Ghosts (#2.30)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Hill of Ghosts (#2.30)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Hill of Ghosts (#2.30)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Hurricane Audrey (#3.14)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Hurricane Audrey (#3.14)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Incident in Suva (#2.12)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Incident in Suva (#2.12)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Isle of Eden (#1.19)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Isle of Eden (#1.19)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Judith (#1.17)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Judith (#1.17)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Man Eater (#2.17)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Man Eater (#2.17)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Mission to Manila (#1.7)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Mission to Manila (#1.7)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Mr. Flotsam (#2.15)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Assassins (#3.9)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Assassins (#3.9)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Baby Sitters (#3.25)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Baby Sitters (#3.25)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Bamboo Curtain (#1.10)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Bamboo Curtain (#1.10)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Beach at Belle Anse (#3.22)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Beach at Belle Anse (#3.22)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Big Surf (#2.9)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Big Surf (#2.9)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Black Pearl (#1.2)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Black Pearl (#1.2)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Closing Circle (#3.5)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Closing Circle (#3.5)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Closing Circle (#3.5)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Color of Venom (#1.18)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Color of Venom (#1.18)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Death-Divers (#1.28)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Death-Divers (#1.28)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Derelict (#1.5)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Derelict (#1.5)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Derelict (#1.5)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Dream Merchant (#3.24)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Dream Merchant (#3.24)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Feather Cloak (#2.20)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Feather Cloak (#2.20)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Fires of Kanua (#3.8)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Fires of Kanua (#3.8)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Forbidden Sea (#1.25)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Forbidden Sea (#1.25)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Good Killing (#2.16)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Good Killing (#2.16)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Inheritance (#3.12)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Inheritance (#3.12)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Inheritance (#3.12)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Intruders (#2.2)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Intruders (#2.2)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Jonah Stone (#2.24)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Jonah Stone (#2.24)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {The Jonah Stone (#2.24)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Krismen (#2.5)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Krismen (#2.5)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {The Lady from South Chicago (#1.4)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Lady from South Chicago (#1.4)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Lady from South Chicago (#1.4)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Perils of Penrose (#2.14)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {The Perils of Penrose (#2.14)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Pit of Silence (#1.1)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Pit of Silence (#1.1)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Pretender (#3.7)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Pretender (#3.7)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Quest of Ambrose Feather (#3.19)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Quest of Ambrose Feather (#3.19)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Raft (#1.8)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Raft (#1.8)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Reluctant Hero (#3.2)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Reluctant Hero (#3.2)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Reluctant Hero (#3.2)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Secret Place (#3.21)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Secret Place (#3.21)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Serpent in the Garden (#2.26)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Serpent in the Garden (#2.26)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Siege of Troy (#1.21)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Siege of Troy (#1.21)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Trial of Adam Troy (#3.11)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Trial of Adam Troy (#3.11)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {The Velvet Trap (#3.16)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Velvet Trap (#3.16)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Violent Journey (#1.24)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Violent Journey (#1.24)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Wonderful Nightingale (#2.23)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {The Wonderful Nightingale (#2.23)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {There Is an Island (#1.22)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {There Is an Island (#1.22)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Treasure Hunt (#2.13)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Treasure Hunt (#2.13)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Vendetta (#3.3)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Vendetta (#3.3)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Vendetta (#3.3)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Walk Through the Night (#1.16)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Walk Through the Night (#1.16)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Whip-Fight! (#1.30)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Whip-Fight! (#1.30)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Who Is Sylvia? (#2.22)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Who Is Sylvia? (#2.22)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Adventures in Paradise" (1959) {Wild Mangoes (#2.28)}', 'Stage 3, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adventures in Paradise" (1959) {Wild Mangoes (#2.28)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amor en si bemol" (1959)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"An der Reling" (1959)', '', '', '', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Assignment: The World" (1959)', '', '', '', 'Rochester, New York, USA']	43.157285	-77.615214

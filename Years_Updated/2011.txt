@@ -1,0 +1,1355 @@
+['"\' Horse Trials \'" (2011)', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"10 O\'Clock Live" (2011)', '', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.1)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.10)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.11)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.12)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.13)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.14)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.15)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.2)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.3)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.4)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.5)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.6)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.7)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.8)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#1.9)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.1)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.10)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.2)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.3)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.4)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.5)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.6)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.7)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.8)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"10 O\'Clock Live" (2011) {(#2.9)}', '', '', "Studio TC 6, BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"100 Calabazas" (2011)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"111 Emergency" (2011)', '', '', '', '', 'Auckland, New Zealand']	-36.852095	174.7631803
+['"13th IAAF World Championships in Athletics Daegu 2011" (2011)', 'Daegu Stadium, Daegu, Yeongnam, South Korea']	36.5581914	127.9408564
+['"180 Degree" (2011)', '', '', '', '', 'Tirana, Albania']	41.31588575	19.900912164461147
+['"180 Degree" (2011)', '', '', '', '', 'Toronto Film Studios, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"19-2" (2011)', '', '', '', '', '', '2800 Rue Gilford, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011)', '', '', '', '', '', 'VV Tavern� - 195 Rue de Bellechasse, Rosemont-La Petite-Patrie, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011)', '', '', '', '', '', '810 Rue St-Antoine E, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011)', '', '', '', '', '', '1998 Rue du Chevreuil, Longueuil, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011)', '', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#1.2)}', '', '', '', '', 'Tim Hortons - 2700 Rue Ontario E, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#1.3)}', '', '', '', '', 'Rue Bourget & Rue Ste-�milie, St-Henri, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#1.7)}', '', '', '', '', 'Motel Falcon - 6225 Boul Taschereau, Brossard, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#2.1)}', '', '', '', '', '�cole secondaire Monseigneur-Richard - 3000 Boul Ga�tan Laberge, Verdun, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#2.4)}', '', '', '', '', 'Rue Adam & Avenue Letourneux, Maisonneuve, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#2.5)}', '', '', '', '', 'Caf� Cl�op�tre - 1230 Boul St-Laurent, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#3.1)}', '', '', '', '', 'Avenue Lalonde & Rue Dufresne, Ste-Marie, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#3.1)}', '', '', '', '', "March� Zhong - 1748 Rue d'Iberville, Ste-Marie, Montr�al, Qu�bec, Canada"]	61.0666922	-107.9917071
+['"19-2" (2011) {(#3.6)}', '', '', '', '', 'Nettoyeur Daoust/Forget - 6472 Rue Beaubien E, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"19-2" (2011) {(#3.6)}', '', '', '', '', 'D�panneur Danny - 1340 Boul de Maisonneuve E, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Jaroslaw, Podkarpackie, Poland']	50.0159029	22.6796573
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Joselewicza, Rzesz�w, Podkarpackie, Poland']	52.215933	19.134422
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Market Square, Jaroslaw, Podkarpackie, Poland']	50.0159029	22.6796573
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Przesmyk, Rzesz�w, Podkarpackie, Poland']	52.215933	19.134422
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Rzesz�w, Podkarpackie, Poland']	52.215933	19.134422
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Sanok, Podkarpackie, Poland']	49.5609053	22.207028
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Swilcza, Podkarpackie, Poland']	50.0714236	21.8998941
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Tatarska, Jaroslaw, Podkarpackie, Poland']	50.0196475	22.684509
+['"1920. Wojna i milosc" (2011)', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"1LIVE Talk mit Frau Heinrich" (2011)', '', '', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {(#1.1)}', '', 'WDR 1LIVE Salon, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {(#1.10)}', '', 'WDR 1LIVE Salon, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {(#1.2)}', '', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {(#1.3)}', '', 'WDR 1LIVE Salon, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {(#1.4)}', '', 'WDR 1LIVE Salon, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Bis zur Unkenntlichkeit (#2.3)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Boss Porno (#3.12)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Bremen, Boys und Poetry (#1.5)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Brennpunkt G�tersloh (#2.13)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Das Telefonat (#3.10)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Der Lutz hinter Jimmy (#1.9)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Der b�se Pommes-K�nig (#2.10)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Ein Herz aus Hack (#2.15)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Einsamkeit 2.0 (#3.5)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Fetter Fisch (#3.6)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"1LIVE Talk mit Frau Heinrich" (2011) {Freestyle Deluxe (#1.13)}', 'WDR 1LIVE Salon, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Geschlechtertausch (#1.11)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Ghana-Spezial (#2.11)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Guckt ihr! (#2.1)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Helden und Beginner (#2.12)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Humor und Tabus (#2.14)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Immer auf Tour (#2.6)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Kampfsport vs. Bauchtanz (#2.9)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Kochen ohne Knochen (#3.4)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Love Is Everywhere (#3.2)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Muffensausen (#1.12)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Nach dem Trip (#3.1)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Nackte Burschen (#3.7)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Nase auf und rein damit (#3.15)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Nicht lustig? (#3.13)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Noch 94 Tage? (#3.3)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Nur ne doofe Band (#3.14)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Original-Ossi-Orgel (#1.6)}', 'WDR 1LIVE Salon, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Outet euch! (#2.7)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Sch�ner Wohnen (#3.8)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Stars & Stripes (#3.9)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Talk\'s Out for Summer (#2.16)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Talk, Talk, Talk (#3.11)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Testosteron-Abend (#1.7)}', 'WDR 1LIVE Salon, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Tiefsinnig (#2.5)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {T�rkisch f�r Anf�nger (#2.8)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Wake The Donots (#2.2)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Weihnachtscheck Deluxe (#3.16)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Who Let the Dogs Out? (#2.4)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1LIVE Talk mit Frau Heinrich" (2011) {Wigge im Tauschrausch (#1.8)}', 'WDR 1LIVE Saal 1, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"1Love 1House TV Show" (2011)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"2 Broke Girls" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2 Broke Girls" (2011)', '', '', '', '', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And 2 Broke Girls: The Movie (#6.22)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And Hoarder Culture (#1.8)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And Just Plane Magic (#2.16)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And Martha Stewart Have a Ball: Part 1 (#1.23)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And Martha Stewart Have a Ball: Part 2 (#1.24)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And Not-So-Sweet Charity (#2.18)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And Strokes of Goodwill (#1.3)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And Too Little Sleep (#2.14)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And You Bet Your Ass (#5.14)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And a Loan for Christmas (#4.7)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the \'90s Horse Party (#1.5)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the \'It\' Hole (#3.8)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the 80\'s Movie (#6.3)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the ATM (#3.16)}', '', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the About FaceTime (#6.9)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Alley-Oops (#6.20)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Attack of the Killer Apartment (#5.19)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Baby and Other Things (#6.19)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Basketball Jones (#5.8)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Bear Truth (#2.13)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Big But (#3.13)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Big Buttercream Breakthrough (#1.22)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Big Gamble (#5.22)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Big Hole (#2.20)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Big Opening (#2.10)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Blind Spot (#1.15)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Booth Babes (#5.11)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Brand Job (#4.5)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Break-Up Scene (#1.2)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Broken Hearts (#1.16)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Broken Hip (#2.17)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Candy Manwich (#2.6)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Childhood Not Included (#4.3)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the College Experience (#6.5)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Coming Out Party (#5.7)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Crime Ring (#4.11)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Cronuts (#3.5)}', '', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Cupcake Captives (#4.14)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Cupcake War (#2.4)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the DJ Face (#4.2)}', '', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Dad Day Afternoon (#6.18)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Disappearing Bed (#1.6)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Disappointing Unit (#4.22)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Drug Money (#1.20)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Duck Stamp (#6.8)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Dumpster Sex (#3.14)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Egg Special (#2.8)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Emergency Contractor (#6.14)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Escape Room (#5.5)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Extra Work (#2.22)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Fat Cat (#4.15)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the First Day of School (#3.10)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the First Degree (#3.24)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Free Money (#3.23)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the French Kiss (#3.12)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Fun Factory (#4.8)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Girlfriend Experience (#3.7)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Godmama Drama (#6.4)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Grate Expectations (#4.21)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Great Escape (#5.15)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Great Unwashed (#4.13)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Group Head (#3.4)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Gym and Juice (#5.2)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Hidden Stash (#2.1)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the High Holidays (#2.12)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the High Hook-Up (#4.17)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Himmicane (#6.10)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Hold-Up (#2.3)}', '', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Icing on the Cake (#3.15)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Inside-Outside Situation (#5.4)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Jessica Shmessica (#6.17)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Kickstarter (#3.2)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Kilt Trip (#3.19)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Kitty Kitty Spank Spank (#3.3)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Knock-Off Knockout (#4.12)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Kosher Cupcakes (#1.17)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Life After Death (#3.11)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Look of the Irish (#4.19)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Loophole (#5.18)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Lost Baggage (#5.13)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Married Man Sleepover (#3.17)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Maybe Baby (#5.3)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Messy Purse Smackdown (#1.21)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Minor Problem (#4.20)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Model Apartment (#4.6)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Move-In Meltdown (#4.10)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Near Death Experience (#3.18)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the New Boss (#2.9)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the New Lease on Life (#3.22)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the No New Friends (#5.10)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Not Broke Parents (#3.20)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Not Regular Down There (#5.6)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Old Bike Yarn (#4.4)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the One-Night Stands (#1.18)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Partnership Hits the Fan (#5.20)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Past and the Furious (#4.9)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Pastry Porn (#3.9)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Pearl Necklace (#2.2)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Piece of Sheet (#3.6)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Pity Party Bus (#5.16)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Planes, Fingers and Automobiles (#6.11)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Pop-Up Sale (#1.12)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Pre-Approved Credit Card (#2.5)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Pretty Problem (#1.7)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Psychic Shakedown (#2.15)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Reality Check (#1.11)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Reality Problem (#4.1)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Really Petty Cash (#1.9)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Rich People Problems (#1.4)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Riverboat Runs Through It (#6.12)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Rock Me on the Dais (#6.21)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Rom-Commie (#6.6)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Sax Problem (#5.9)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Secret Ingredient (#1.13)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Show and Don\'t Tell (#5.17)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Silent Partner (#2.11)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Soft Opening (#3.1)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Sophie Doll (#6.7)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Spring Break (#1.19)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Stalking Dead (#6.13)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Story Telling Show (#5.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Taste Test (#4.18)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Tease Time (#6.16)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Temporary Distraction (#2.19)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Ten Inches (#5.21)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Three Boys with Wood (#2.7)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Tip Slip (#2.23)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Turtle Sense (#6.15)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Two Openings: Parts One & Two (#6.1)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Upstairs Neighbor (#1.14)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Very Christmas Thanksgiving (#1.10)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Wedding Cake Cake Cake (#3.21)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Window of Opportunity (#2.24)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Worst Selfie Ever (#2.21)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Wrecking Ball (#5.1)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {And the Zero Tolerance (#4.16)}', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Broke Girls" (2011) {Pilot (#1.1)}', '', '', 'Stage 18, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"2 Hollywood" (2011)', '', '', '', '', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"2 Hollywood" (2011)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"20 Dollar" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"20 Years of Independence" (2011)', '', '', 'Skopje, Macedonia']	41.9960924	21.4316495
+['"2011 Stanley Cup Finals" (2011)', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2011 Stanley Cup Finals" (2011)', '', '', 'Rogers Arena - 800 Griffiths Way, Vancouver, British Columbia, Canada']	49.2779085	-123.10894170979472
+['"2011 Stanley Cup Finals" (2011)', '', '', 'TD Banknorth Garden - 100 Legends Way, Boston, Suffolk, Massachusetts, USA']	42.3544455	-70.9788771
+['"2011 Stanley Cup Finals" (2011)', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"2011 Stanley Cup Finals" (2011) {Game 1: Boston vs. Vancouver (#1.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"2011 Stanley Cup Finals" (2011) {Game 2: Boston vs. Vancouver (#1.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"2011 Stanley Cup Finals" (2011) {Game 3: Vancouver vs. Boston (#1.3)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2011 Stanley Cup Finals" (2011) {Game 4: Vancouver vs. Boston (#1.4)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2011 Stanley Cup Finals" (2011) {Game 5: Boston vs. Vancouver (#1.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"2011 Stanley Cup Finals" (2011) {Game 6: Vancouver vs. Boston (#1.6)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2011 Stanley Cup Finals" (2011) {Game 7: Boston vs. Vancouver (#1.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"2011 World Series" (2011)', '', '', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2011 World Series" (2011)', '', '', '', 'Globe Life Park in Arlington - 1000 Ballpark Way, Arlington, Texas, USA']	32.7513904	-97.08347649984134
+['"2011 World Series" (2011) {Game 1 (#1.1)}', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2011 World Series" (2011) {Game 2 (#1.2)}', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2011 World Series" (2011) {Game 3 (#1.3)}', '', 'Globe Life Park in Arlington - 1000 Ballpark Way, Arlington, Texas, USA']	32.7513904	-97.08347649984134
+['"2011 World Series" (2011) {Game 4 (#1.4)}', '', 'Globe Life Park in Arlington - 1000 Ballpark Way, Arlington, Texas, USA']	32.7513904	-97.08347649984134
+['"2011 World Series" (2011) {Game 5 (#1.5)}', '', 'Globe Life Park in Arlington - 1000 Ballpark Way, Arlington, Texas, USA']	32.7513904	-97.08347649984134
+['"2011 World Series" (2011) {Game 6 (#1.6)}', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2011 World Series" (2011) {Game 7 (#1.7)}', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2012 the Webseries" (2011)', '', '', '', 'Guatemala City, Guatemala']	15.6356088	-89.8988087
+['"2012 the Webseries" (2011)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"2012 the Webseries" (2011) {Treachery (#2.3)}', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"2012 the Webseries" (2011) {Treachery (#2.3)}', '', 'Trieste, Friuli-Venezia Giulia, Italy']	45.6500335	13.7706559
+['"2012 the Webseries" (2011) {Venezia (#2.4)}', '', 'Venice, Veneto, Italy']	45.4371908	12.3345898
+['"2012 the Webseries" (2011) {Venezia (#2.4)}', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"220 Volts" (2011)', '', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"24 Hours in the ER" (2011)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"3 Gun Nation" (2011) {3GN Pro Series Event #4, Part I (#4.9)}', 'Tulsa, Oklahoma, USA']	36.1556805	-95.9929113
+['"3 Guys in a Booth" (2011)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"3 MInutes in Hell" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3 Rounds With" (2011)', '', '', '', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"30 Days of Dice Living" (2011)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"31" (2011)', '', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"32 Brinkburn Street" (2011)', '', '', '', 'Droylsden, Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"32 Brinkburn Street" (2011)', '', '', '', 'Fairfield Square, Droylsden, Greater Manchester, England, UK']	53.4759994	-2.1498995
+['"32 Brinkburn Street" (2011)', '', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"36 Hour Challenge" (2011)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"3D Tourist" (2011)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"3D Tourist" (2011)', '', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"3D Tourist" (2011)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"3D Tourist" (2011)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"3D Tourist" (2011)', '', '', '', '', 'Florida Keys, Florida, USA']	24.6670875	-81.5831421
+['"4 Ambientes" (2011)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"4 Ambientes" (2011) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"4 Ambientes" (2011) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"4 Ambientes" (2011) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"4-H at the Minnesota State Fair" (2011)', '', 'St. Paul, Minnesota, USA']	44.9504037	-93.1015026
+['"48 Hours: Best of the Fest" (2011)', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"48, el muerto que habla" (2011)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"50 Documentaries to See Before You Die" (2011)', '', 'London, England, UK']	51.5073219	-0.1276474
+['"50 Documentaries to See Before You Die" (2011)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"50 Documentaries to See Before You Die" (2011)', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"50 Documentaries to See Before You Die" (2011)', '', 'Paris, France']	48.8566969	2.3514616
+['"6PM with George Negus" (2011)', '', '', '', 'Channel Ten Studios, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"7 Cities" (2011)', '', '', '', '', 'Norfolk, Virginia, USA']	36.8889933	-76.2481624
+['"7 Cities" (2011)', '', '', '', '', 'Hampton, Virginia, USA']	37.0520315	-76.2856365
+['"7 Cities" (2011)', '', '', '', '', 'Virginia Beach, Virginia, USA']	36.795302500000005	-76.05092512258113
+['"7 Minutes in Heaven" (2011)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"7.30" (2011) {(2012-02-08)}', '', '', '', 'Montsalvat, Eltham, Victoria, Australia']	-37.717870000000005	145.15669012917934
+['"7live" (2011)', '', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"8 Days a Week" (2011) {Can\'t Hold Me Down (#1.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {Can\'t Knock the Hustle (#1.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {Don\'t Call It a Comeback (#1.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {Game Change (#1.9)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {On to the Next One (#1.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {Paper Dreams (#1.10)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {Reality Check (#1.5)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {Rock, Paper, Scissors (#1.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {The World Is Mine (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Days a Week" (2011) {Touch the Sky (#1.3)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 for Vegas" (2011)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"86\'d" (2011)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9ine" (2011)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Change in Degree" (2011)', '', '', '', 'University of North Texas, Denton, Texas, USA']	33.2098879	-97.15147474975808
+['"A Dancing Dream" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Day in the Life" (2011)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"A Day in the Life" (2011)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Day in the Life" (2011)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"A Fertile Alternative" (2011)', '', '', '', 'Nigeria']	9.6000359	7.9999721
+['"A Football Life" (2011) {Jerry Rice (#3.22)}', '', 'Crawford, Missisipi, USA']	33.3015121	-88.6147687
+['"A Football Life" (2011) {Jerry Rice (#3.22)}', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"A Football Life" (2011) {Jerry Rice (#3.22)}', '', 'Redwood City, California, USA']	37.4863239	-122.2325233
+['"A Football Life" (2011) {Jerry Rice (#3.22)}', '', 'Santa Clara, California, USA']	37.2333253	-121.6846349
+['"A Football Life" (2011) {Jerry Rice (#3.22)}', '', 'Rocklin, California, USA']	38.7907339	-121.2357828
+['"A Football Life" (2011) {Jerry Rice (#3.22)}', '', 'Stockton, California, USA']	37.9577016	-121.2907796
+['"A Football Life" (2011) {Jerry Rice (#3.22)}', '', 'White House - 1600 Pennsylvania Avenue NW, Washington, District of Columbia, USA']	38.8976998	-77.03655348862276
+['"A Football Life" (2011) {Jerry Rice (#3.22)}', '', 'Pro Football Hall of Fame, Canton, Ohio, USA']	40.7989522	-81.3784445
+['"A Fortune Teller Told Me" (2011)', '', '', 'Burma']	17.1750495	95.9999652
+['"A Fortune Teller Told Me" (2011)', '', '', 'Cambodia']	13.5066394	104.869423
+['"A Fortune Teller Told Me" (2011)', '', '', 'India']	22.3511148	78.6677428
+['"A Fortune Teller Told Me" (2011)', '', '', 'Laos']	20.0171109	103.378253
+['"A Fortune Teller Told Me" (2011)', '', '', 'Malaysia']	4.5693754	102.2656823
+['"A Fortune Teller Told Me" (2011)', '', '', 'Thailand']	14.8971921	100.83273
+['"A Fortune Teller Told Me" (2011)', '', '', 'Vietnam']	13.2904027	108.4265113
+['"A Gifted Man" (2011)', '', '', '', '', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of (Re)Birth (#1.11)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Abnormal Rhythm (#1.9)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of All Hell Breaking Loose (#1.2)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Blind Spots (#1.12)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Co-Dependants (#1.14)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Complications (#1.13)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Discomfort (#1.3)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Exposure (#1.7)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Heart Failure (#1.16)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Letting Go (#1.15)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Loss of Control (#1.5)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Memory Loss (#1.6)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Missed Communication (#1.8)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of Separation Anxiety (#1.4)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {In Case of a Bolt from the Blue (#1.10)}', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Gifted Man" (2011) {Pilot (#1.1)}', '', '', 'Silvercup Studios East, Long Island City, Queens, New York City, New York, USA']	40.7513513	-73.94424267969767
+['"A Healthier Charlotte" (2011)', '', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"A History of Celtic Britain" (2011) {Age of Invasion (#1.3)}', 'Hengistbury Head, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"A History of Celtic Britain" (2011) {Age of Invasion (#1.3)}', 'Walmer Beach, Walmer, Kent, England, UK']	51.2041118	1.3944359866263374
+['"A History of Celtic Britain" (2011) {Age of Invasion (#1.3)}', 'Silchester, Hampshire, England, UK']	51.083333	-1.166667
+['"A History of Celtic Britain" (2011) {Age of Invasion (#1.3)}', 'Hod Hill, Dorset, England, UK']	50.8953944	-2.2048095098549956
+['"A History of Celtic Britain" (2011) {Age of Invasion (#1.3)}', 'Colchester, Essex, England, UK']	51.8896903	0.8994651
+['"A History of Celtic Britain" (2011) {Age of Invasion (#1.3)}', 'Charterhouse, Somerset, England, UK']	51.2983382	-2.7209278
+['"A History of Celtic Britain" (2011) {Age of Invasion (#1.3)}', 'Dolaucothi Gold Mine, Carmarthenshire, Wales, UK']	51.893536600000004	-4.2164870160555195
+['"A Path to Honor" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Place in the Sun" (2011)', '', '', '', 'Fiji Islands, Fiji']	-18.1239696	179.0122737
+['"A Place in the Sun" (2011)', '', '', '', 'Mendoza, Argentina']	-34.78719615	-68.43807123826872
+['"A Place in the Sun" (2011)', '', '', '', 'Sicily, Italy']	37.587794	14.155048
+['"A Place in the Sun" (2011)', '', '', '', 'Ambergris Caye, Belize']	17.9520667	-87.9709092
+['"A Place in the Sun" (2011)', '', '', '', 'Nelson, New Zealand']	-41.5000831	172.8344077
+['"A Place in the Sun" (2011)', '', '', '', 'Riviera Maya, Mexico']	20.621933	-87.0757075
+['"A Place in the Sun" (2011)', '', '', '', 'Dubrovnik, Croatia']	42.6499651	18.093652
+['"A Place in the Sun" (2011)', '', '', '', 'Crete, Greece']	38.9953683	21.9877132
+['"A Place in the Sun" (2011)', '', '', '', 'Belize']	16.8259793	-88.7600927
+['"A Place in the Sun" (2011)', '', '', '', 'Okanagan, British Columbia, Canada']	50.4164846	-118.7147708
+['"A Sagrada Fam�lia" (2011)', '', '', '', 'Pal�cio de Rio Frio, Pinhal Novo, Set�bal, Portugal']	40.0332629	-7.8896263
+['"A Sagrada Fam�lia" (2011)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Series of Unfortunate People" (2011)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Stand Up Mother" (2011)', '', '', '', 'Meadville, Pennsylvania, USA']	41.641445	-80.151449
+['"A Word from Our Sponsors" (2011)', '', '', 'Fitzroy, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"A\'dam - E.V.A." (2011)', '', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"A.N.T. Farm" (2011)', '', '', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ANTswers (#2.5)}', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {America Needs TalANT (#1.18)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {AmusemANT Park (#2.8)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Angus\' First MovemANT (#3.6)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Animal HusbANTry (#3.3)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Bad RomANTs (#1.6)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Ballet DANTser (#1.24)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Body of EvidANTs (#1.25)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {CANTonese Style Cuisine (#1.15)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ChANTs of a Lifetime (#2.16)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ClairvoyANT (#1.9)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ConfinemANT (#2.10)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ContestANTs (#2.9)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Creative ConsultANT (#2.1)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Detective AgANTcy (#2.14)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Early RetiremANT (#2.17)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {EndurANTs (#2.7)}', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {FANTasy Girl (#2.3)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Feature PresANTation (#3.12)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {FinANTial Crisis (#3.13)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {FraudulANT (#1.12)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {IdANTity Crisis (#2.19)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {IgnorANTs Is Bliss (#1.16)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {IndependANTs (#3.2)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {InfANT (#2.2)}', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {InfluANTces (#2.18)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {IntelligANT (#2.11)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ManagemANT (#1.10)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {MeANT to Be? (#3.16)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {MisrepresANTation (#2.4)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {MutANT Farm (#1.14)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {MutANT Farm 3 (#3.11)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {MutANT Farm II (#2.13)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {PANTs on Fire (#3.8)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ParticipANTs (#1.2)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Past, PresANT, and Future (#3.5)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {PatANT Pending (#1.23)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {PerformANTs (#1.22)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {PhilANThropy (#1.11)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Product MisplacemANT (#3.9)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ReplicANT (#1.8)}', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {RestaurANTeur (#2.20)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {SANTa\'s Little Helpers (#1.19)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {ScavANTger Hunt (#2.15)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {SciANTs Fair (#1.4)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Secret AgANT (#3.4)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {SignificANT Other (#2.12)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {SilANT Night (#3.14)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Slumber Party ANTics (#1.17)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Some EnchANTed Evening (#1.20)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {StudANT Council (#1.5)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {The ANTagonist (#2.6)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {The InformANT (#1.7)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {The New York ExperiANTs (#3.17)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {The PhANTom Locker (#1.3)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {The ReplacemANT (#1.13)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {TrANTsferred (#3.1)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {TransplANTed (#1.1)}', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Uncanny ResemblANTs (#3.10)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {Unforseen CircumstANTs (#3.7)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {UnwANTed (#3.15)}', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A.N.T. Farm" (2011) {You\'re the One That I WANT (#1.21)}', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"AKA Shaman" (2011)', '', '', '', '', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"AN 2012: Quiero Cine" (2011)', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"ARGE Talkshow" (2011)', '', '', '', '', 'Vienna, Austria']	48.2083537	16.3725042
+['"ATSN TV: American Trigger Sports Network Television" (2011) {"The Armed Citizen" with Mark Walters (#1.8)}', 'Ventura, California, USA']	34.4458248	-119.0779359
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2010 NSCA National Champion Brad Kidd, Jr. (#1.1)}', 'Ventura, California, USA']	34.4458248	-119.0779359
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2010 NSCA National Champion Brad Kidd, Jr. (#1.1)}', 'National Shooting Complex, San Antonio, Texas, USA']	29.500833749999998	-98.74476815550334
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 14th Annual ICORE Southwest Regional Revolver Championship (#2.10)}', 'Wes Thompson Rifle Range, Piru, California, USA']	34.4156137	-118.7927456
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 14th Annual ICORE Southwest Regional Revolver Championship (#2.6)}', 'Wes Thompson Rifle Range, Piru, California, USA']	34.4156137	-118.7927456
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 28th Western Trail Classic & 17th Annual NFAA Marked 3D Championships (#1.7)}', 'Straight Arrow Bowhunters, Redding, California, USA']	40.5863563	-122.3916754
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 3-Gun Winter Classic with Taran Butler (#1.2)}', 'Ventura, California, USA']	34.4458248	-119.0779359
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 3-Gun Winter Classic with Taran Butler (#1.2)}', '5 Dogs Range, Bakersfield, California, USA']	35.3738712	-119.0194639
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 4th Annual Mammoth Winter Biathlon with Lanny Barnes (#1.4)}', 'Ventura, California, USA']	34.4458248	-119.0779359
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 4th Annual Mammoth Winter Biathlon with Lanny Barnes (#1.4)}', 'Tamarack Lodge, Mammoth Lakes, California, USA']	37.61964025	-119.00622379244851
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 4th Annual Mammoth Winter Biathlon with Lanny Barnes (#1.4)}', 'Mammoth Mountain, California, USA']	37.6307692	-119.0326342
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 4th Annual Mammoth Winter Biathlon with Lanny Barnes (#1.4)}', 'Mammoth Lakes, California, USA']	37.6268015	-118.84674999730211
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 Briley West Coast Steel Challenge (#1.10)}', 'Wes Thompson Rifle Range, Piru, California, USA']	39.7837304	-100.4458825
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 California State Sporting Clays Championship (#1.9)}', 'Triple B Clays Shotgun Sports Park, El Monte, California, USA']	34.0751571	-118.036849
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 International Revolver Championship and Taran Butler\'s Training Course (#1.13)}', 'Hogue Action Pistol Range, San Luis Obispo, California, USA']	39.7837304	-100.4458825
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 International Revolver Championship and Taran Butler\'s Training Course (#1.13)}', "Taran Butler's Private Ranch, California, USA"]	39.7837304	-100.4458825
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 JP Rocky Mountain 3 Gun (#1.12)}', 'NRA Whittington Center, Raton, New Mexico, USA']	36.9035983	-104.4391002
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 NSCA World English Sporting Clays Championship (#1.6)}', 'National Shooting Complex, San Antonio, Texas, USA']	29.500833749999998	-98.74476815550334
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 Ruger Rimfire West Coast Championship (#1.5)}', 'Wes Thompson Rifle Range, Piru, California, USA']	34.4156137	-118.7927456
+['"ATSN TV: American Trigger Sports Network Television" (2011) {2011 TargetLine Cup at Fossil Pointe Sporting Grounds, Decatur, Texas (#2.1)}', 'Fossil Pointe Sporting Grounds, Decatur, Texas, USA']	33.2342834	-97.5861393
+['"ATSN TV: American Trigger Sports Network Television" (2011) {5th Houston Liberty Festival: Sporting Clays Tournament Benefitting "Homes for Our Troops" (#2.11)}', 'American Shooting Centers, Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN TV: American Trigger Sports Network Television" (2011) {Highlights from Houston Liberty Festival - Civil and Vietnam War Re-enactments, Jousting and More! (#2.12)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN TV: American Trigger Sports Network Television" (2011) {Long Range Rifle Training - Texas State Pistol & Rifle Academy (#2.5)}', 'Texas Pistol and Rifle Academy, Whitewright, Texas, USA']	33.5122594	-96.3946785
+['"ATSN TV: American Trigger Sports Network Television" (2011) {Shriners Shoot-Out Benefitting the Shriners Hospitals for Children (#2.4)}', 'American Shooting Centers, Houston, Texas, USA']	29.7589382	-95.3676974
+['"ATSN TV: American Trigger Sports Network Television" (2011) {Strong Hand/Weak Hand/Malfunction Pistol Training with Thunder Tactical Shooters (#2.13)}', 'Thunder Gun Range, Conroe, Texas, USA']	39.7837304	-100.4458825
+['"ATSN TV: American Trigger Sports Network Television" (2011) {Texas Pistol and Rifle Academy "Carbine Run" (#2.2)}', 'Texas Pistol and Rifle Academy, Whitewright, Texas, USA']	33.5122594	-96.3946785
+['"ATSN TV: American Trigger Sports Network Television" (2011) {Texas State FITASC, Rock Creek Clays, Grandview, TX (#2.3)}', 'Beaumont Ranch, Rock Creek Clays, Grandview, Texas, USA']	39.7837304	-100.4458825
+['"ATSN TV: American Trigger Sports Network Television" (2011) {The 14th Annual ICORE Southwest Regional Revolver Championship (#1.3)}', 'Ventura, California, USA']	34.4458248	-119.0779359
+['"ATSN TV: American Trigger Sports Network Television" (2011) {The 14th Annual ICORE Southwest Regional Revolver Championship (#1.3)}', 'Wes Thompson Rifle Range, Piru, California, USA']	34.4156137	-118.7927456
+['"ATSN TV: American Trigger Sports Network Television" (2011) {The Hunting Report and NRA Special Report (#1.11)}', 'Ventura, California, USA']	34.4458248	-119.0779359
+['"Aao Kahani Buntay Hain" (2011)', '', '', '', 'Lahore, Pakistan']	31.5656079	74.3141775
+['"Aaron Loves NY" (2011)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Abby\'s Groovy Getaways" (2011) {California (#1.1)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Abby\'s Groovy Getaways" (2011) {California (#1.1)}', 'Hollywood Boulevard & Vine Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Abby\'s Groovy Getaways" (2011) {California (#1.1)}', 'Sunset Strip, West Hollywood, California, USA']	34.0938564	-118.3767660046168
+['"Abby\'s Groovy Getaways" (2011) {Hollywood Boulevard (#1.2)}', 'Redbury Hotel, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Abby\'s Groovy Getaways" (2011) {Hollywood Boulevard (#1.2)}', 'Walk of Fame - Hollywood Boulevard & Vine Street, Hollywood, Los Angeles, California, USA']	34.0981366	-118.3266788
+['"Abducted" (2011)', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"Academia" (2011)', '', '', '', '', 'Oakville, Ontario, Canada']	43.447436	-79.666672
+['"Accessibility in Action" (2011)', '', '', 'Mississauga, Ontario, Canada']	43.590338	-79.645729
+['"Achat Efes Efes" (2011)', '', '', '', 'Ramat Gan, Israel']	32.0686867	34.8246812
+['"Acoustic Corner" (2011)', '', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Action Filmmaking" (2011)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Action Sports Plus" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Actrices" (2011)', '', '', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Actrices" (2011)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Actrices" (2011)', '', '', '', '', 'M�laga, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Actrices" (2011)', '', '', '', '', 'Valencia, Comunidad Valenciana, Spain']	39.4699014	-0.3759513
+['"Adam Hills in Gordon St Tonight" (2011)', '', 'ABC Studios - 8 Gordon Street, Elsternwick, Victoria, Australia']	-37.8858425	145.0070152
+['"Adam Hills in Gordon St Tonight" (2011)', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Ade in Britain" (2011) {Cheshire (#1.11)}', '', 'Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"Ade in Britain" (2011) {Cornwall (#1.7)}', '', 'Cornwall, England, UK']	50.416667	-4.75
+['"Ade in Britain" (2011) {Cumbria (#1.5)}', '', 'Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"Ade in Britain" (2011) {Derbyshire (#1.8)}', '', 'Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Ade in Britain" (2011) {Devon (#1.14)}', '', '', 'Devon, England, UK']	50.75	-3.75
+['"Ade in Britain" (2011) {Dorset (#1.12)}', '', 'Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"Ade in Britain" (2011) {Dorset 2 (#2.28)}', '', 'Kingston Lacy, Wimborne Minster, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"Ade in Britain" (2011) {Kent (#1.20)}', '', '', 'The Red Lion Pub, Crockham Lane, Hernhill, Faversham, Kent, England, UK']	51.2474823	0.7105077
+['"Ade in Britain" (2011) {Kent (#1.20)}', '', '', 'Shepherd Neame, 11 Court Street, Faversham, Kent. England, UK']	51.3144088	0.8911894
+['"Ade in Britain" (2011) {Kent (#1.20)}', '', '', 'Kent, England, UK']	51.2474823	0.7105077
+['"Ade in Britain" (2011) {Lancashire 2 (#1.6)}', '', 'Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"Ade in Britain" (2011) {Leicestershire (#1.16)}', 'Leicestershire, England, UK']	52.666667	-1.0
+['"Ade in Britain" (2011) {Norfolk (#1.13)}', '', 'Norfolk, England, UK']	52.666667	1.0
+['"Ade in Britain" (2011) {North Yorkshire (#1.15)}', 'North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"Ade in Britain" (2011) {Northumberland (#1.19)}', 'Northumberland, England, UK']	55.25	-2.000559
+['"Ade in Britain" (2011) {Peak District (#2.2)}', '', 'Staffordshire Moorlands, Staffordshire, England, UK']	53.07155675	-1.9742007118455929
+['"Ade in Britain" (2011) {Peak District (#2.2)}', '', 'Hartington, Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Ade in Britain" (2011) {Peak District (#2.2)}', '', 'Leek, Staffordshire, England, UK']	53.1057636	-2.0242837
+['"Ade in Britain" (2011) {Peak District (#2.2)}', '', 'Peak District National Park, Derbyshire, England, UK']	53.3060573	-1.9767331
+['"Ade in Britain" (2011) {Peak District (#2.2)}', '', 'Ashbourne, Derbyshire, England, UK']	53.0173327	-1.7342725
+['"Ade in Britain" (2011) {Scotland (#1.9)}', '', 'Scotland, UK']	54.7023545	-3.2765753
+['"Ade in Britain" (2011) {Somerset (#1.18)}', '', 'Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"Ade in Britain" (2011) {South Wales (#1.10)}', '', 'South Wales, Wales, UK']	51.602821399999996	-3.3335011887178068
+['"Ade in Britain" (2011) {South Yorkshire (#1.17)}', 'South Yorkshire, England, UK']	53.48153335	-1.3810422066149592
+['"Ade in Britain" (2011) {Staffordshire (#2.12)}', '', 'Staffordshire, England, UK']	52.824694199999996	-2.0074546723348115
+['"Ade in Britain" (2011) {Staffordshire (#2.12)}', '', 'Abbots Bromley, Staffordshire, England, UK']	52.8191473	-1.8808933
+['"Ade in Britain" (2011) {Staffordshire (#2.12)}', '', 'Stoke-on-Trent, Staffordshire, England, UK']	53.01066415	-2.2275790160229243
+['"Adicciones" (2011)', '', '', '', '', 'Montevideo, Uruguay']	-34.9059039	-56.1913569
+['"Adini Feriha Koydum" (2011) {(#1.1)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.10)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.11)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.12)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.13)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.14)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.15)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.16)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.17)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.18)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.19)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.2)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.20)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.21)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.22)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.23)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.3)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.4)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.5)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.6)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.7)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.8)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#1.9)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.1)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.10)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.11)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.12)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.13)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.14)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.15)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.16)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.17)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.18)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.19)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.2)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.20)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.21)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.22)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.23)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.24)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.25)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.26)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.27)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.28)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.29)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.3)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.4)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.5)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.6)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.7)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.8)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {(#2.9)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Feriha Koydum" (2011) {Sezon Finalli (#1.24)}', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adventure Toyota" (2011)', '', '', '', 'Banff, Banff National Park, Alberta, Canada']	51.1777781	-115.5682504
+['"Adventure Toyota" (2011)', '', '', '', 'Cariboo, British Columbia, Canada']	52.3550873	-122.9927906
+['"Adventure Toyota" (2011)', '', '', '', 'Fort Langley National Historic Site, Fort Langley, Langley Township, British Columbia, Canada']	49.1202942	-122.6593311
+['"Adventure Toyota" (2011)', '', '', '', 'Victoria, British Columbia, Canada']	48.4283182	-123.3649533
+['"Adventures of the Hunky Pipe-Fitter" (2011)', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Africa Investigates" (2011) {Echoes of Apartheid (#3.1)}', 'South Africa']	-28.8166236	24.991639
+['"Africa Investigates" (2011) {Fools Gold (#1.6)}', 'Ghana']	8.0300284	-1.0800271
+['"Africa Investigates" (2011) {Ghana: Cancer Ward (#3.5)}', 'Ghana']	8.0300284	-1.0800271
+['"Africa Investigates" (2011) {Kenya Lighting Up (#3.6)}', 'Kenya']	1.4419683	38.4313975
+['"Africa Investigates" (2011) {Mozambique\'s Gem Wars (#3.4)}', 'Mozambique']	-19.302233	34.9144977
+['"Africa Investigates" (2011) {Nigeria\'s Baby Farmers (#3.3)}', 'Nigeria']	9.6000359	7.9999721
+['"Africa Investigates" (2011) {Spell of the Albino (#1.1)}', 'Tanzania']	-6.5247123	35.7878438
+['"Africa Investigates" (2011) {Uganda: Living in Fear (#3.2)}', 'Uganda']	1.5333554	32.2166578
+['"Africa Investigates" (2011) {Zimbabwe: Stealing Lives (#1.2)}', 'Zimbabwe']	-18.4554963	29.7468414
+['"Against the Wall" (2011) {(2011-08-07)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {A Good Cop (#1.2)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Baby, Did a Bad Thing (#1.5)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Boys Are Back (#1.10)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Countdown to Meltdown (#1.7)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Lean on Me or Die (#1.9)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Memories We Fear (#1.8)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Obsessed and Unwanted (#1.6)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Pilot (#1.1)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Second Chances (#1.12)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {The Fifth Body (#1.4)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {We Have a Cop in Trouble (#1.3)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {We Protect Our Own (#1.13)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Against the Wall" (2011) {Wonder What God\'s Up To (#1.11)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Agenda Washington" (2011)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Agnes & Harold" (2011)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Agnes & Harold" (2011) {First Coitus (#1.3)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Agnes & Harold" (2011) {The Blind Date (#1.4)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Agnes & Harold" (2011) {The Break Up (#1.1)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Ai Qing Shui Xing Le" (2011)', '', '', '', 'Sanya, China']	18.2534658	109.5034392
+['"Ai hui lai" (2011)', '', '', '', '', 'Taroko National Park, Hualien, Taiwan']	24.213439049999998	121.49030464604513
+['"Ai hui lai" (2011)', '', '', '', '', "Cingsio Temple, Ji'an, Hualien, Taiwan"]	23.97293	121.5633797
+['"Ai hui lai" (2011)', '', '', '', '', 'Hemingway B&B, Shoufeng, Hualien, Taiwan']	23.8706675	121.508943
+['"Ai hui lai" (2011)', '', '', '', '', 'Chihsingtan Beach, Xincheng, Hualien, Taiwan']	24.039092	121.604246
+['"Ai hui lai" (2011)', '', '', '', '', 'Lintiensan Forest, Fenglin, Hualien, Taiwan']	23.9739374	120.9820179
+['"Ai hui lai" (2011)', '', '', '', '', 'Flower Sea, Fenglin, Hualien, Taiwan']	23.744648	121.451687
+['"Ai hui lai" (2011)', '', '', '', '', "Fata'an, Guangfu, Hualien, Taiwan"]	23.6663827	121.4210004
+['"Ai hui lai" (2011)', '', '', '', '', 'Lily Flowers Plantation, Fuli, Hualien, Taiwan']	23.9739374	120.9820179
+['"Ai hui lai" (2011)', '', '', '', '', 'Shiti Bay 118, Tidaan, Fengbin, Hualien, Taiwan']	23.602342	121.518947
+['"Ai hui lai" (2011)', '', '', '', '', 'Time Second-Hand Bookstore, Hualien, Taiwan']	23.9739374	120.9820179
+['"Air" (2011)', '', '', '', '', '', 'Lachute, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Aircrash Confidential" (2011)', '', '', '', 'Farnborough, Hampshire, England, UK']	51.2918693	-0.7539836
+['"Aircrash Confidential" (2011)', '', '', '', 'Bournemouth, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"Akbari Asghari" (2011)', '', '', '', '', 'Pakistan']	30.3308401	71.247499
+['"Al Yazmalim" (2011)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Al khorba" (2011)', '', '', '', '', 'Al-Suwayda, Syria']	32.7093878	36.5687496
+['"Alamaailma Trilogia: Kytt�" (2011)', '', '', 'Finland']	63.2467777	25.9209164
+['"Alamaailma Trilogia: Kytt�" (2011)', '', '', 'Russia']	64.6863136	97.7453061
+['"Alamaailma Trilogia: Kytt�" (2011)', '', '', 'Sweden']	59.6749712	14.5208584
+['"Alaska Filmmakers" (2011)', '', '', '', 'Anchorage, Alaska, USA']	61.2163129	-149.8948523
+['"Alaska y Mario" (2011)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Alaska y Mario" (2011) {�Qu� maravilla Barcelona! (#3.5)}', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Alaska: The Last Frontier" (2011)', '', '', 'Homer, Alaska, USA']	59.6440876	-151.5401477
+['"Alaska: The Last Frontier" (2011) {To Live And Die In AK (#7.0)}', 'Homer, Alaska, USA']	59.6440876	-151.5401477
+['"Alcatel One Touch 908" (2011)', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Alex en Floride" (2011)', '', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"Alexx Alexxander Illusions" (2011)', '', '', 'Oslo, Norway']	59.9133301	10.7389701
+['"All Cats Are Grey" (2011)', '', '', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"All Cats Are Grey" (2011)', '', '', '', 'Newport, Oregon, USA']	44.636755	-124.053442
+['"All Night with Joey Reynolds" (2011)', '', '', 'NASDAQ Marketsite, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All Over the Map" (2011)', '', '', '', 'Cambodia']	13.5066394	104.869423
+['"All Over the Map" (2011)', '', '', '', 'France']	46.603354	1.8883335
+['"All Over the Map" (2011)', '', '', '', 'Italy']	42.6384261	12.674297
+['"All Over the Map" (2011)', '', '', '', 'Spain']	39.3262345	-4.8380649
+['"All Over the Map" (2011)', '', '', '', 'Thailand']	14.8971921	100.83273
+['"All Over the Place" (2011) {Bond Cars, Boxing Squirrels and Air Guitar! (#1.3)}', 'Ayrshire, Scotland, UK']	55.5	-4.5
+['"All Over the Place" (2011) {Bond Cars, Boxing Squirrels and Air Guitar! (#1.3)}', 'Torquay, Devon, England, UK']	50.4652392	-3.5211361
+['"All Over the Place" (2011) {Bond Cars, Boxing Squirrels and Air Guitar! (#1.3)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Bond Cars, Boxing Squirrels and Air Guitar! (#1.3)}', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"All Over the Place" (2011) {Bond Cars, Boxing Squirrels and Air Guitar! (#1.3)}', 'Keswick, Lake District, Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"All Over the Place" (2011) {Bond Cars, Boxing Squirrels and Air Guitar! (#1.3)}', 'County Down, Northern Ireland, UK']	54.3517857	-5.961567692639536
+['"All Over the Place" (2011) {Bond Cars, Boxing Squirrels and Air Guitar! (#1.3)}', 'Devon, England, UK']	50.75	-3.75
+['"All Over the Place" (2011) {Camels, Cones and Racing Mascots! (#1.1)}', 'Oxfordshire, England, UK']	51.833333	-1.25
+['"All Over the Place" (2011) {Camels, Cones and Racing Mascots! (#1.1)}', 'Stirling, Scotland, UK']	56.1181242	-3.9360012
+['"All Over the Place" (2011) {Camels, Cones and Racing Mascots! (#1.1)}', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All Over the Place" (2011) {Camels, Cones and Racing Mascots! (#1.1)}', 'Cornwall, England, UK']	50.416667	-4.75
+['"All Over the Place" (2011) {Camels, Cones and Racing Mascots! (#1.1)}', 'County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"All Over the Place" (2011) {Camels, Cones and Racing Mascots! (#1.1)}', 'Inverness, Highland, Scotland, UK']	57.5066357	-5.0038367
+['"All Over the Place" (2011) {Camels, Cones and Racing Mascots! (#1.1)}', 'Cambridge, Cambridgeshire, England, UK']	52.2034823	0.1235817
+['"All Over the Place" (2011) {Cuckoo Clocks, Chimps, Pantomime Horses! (#1.2)}', 'Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"All Over the Place" (2011) {Cuckoo Clocks, Chimps, Pantomime Horses! (#1.2)}', 'Birmingham, West Midlands, England, UK']	52.4796992	-1.9026911
+['"All Over the Place" (2011) {Cuckoo Clocks, Chimps, Pantomime Horses! (#1.2)}', 'Stirling, Scotland, UK']	56.1181242	-3.9360012
+['"All Over the Place" (2011) {Cuckoo Clocks, Chimps, Pantomime Horses! (#1.2)}', 'Isle of Wight, England, UK']	50.6710482	-1.3327111133199459
+['"All Over the Place" (2011) {Cuckoo Clocks, Chimps, Pantomime Horses! (#1.2)}', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"All Over the Place" (2011) {Cuckoo Clocks, Chimps, Pantomime Horses! (#1.2)}', 'Blackpool, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"All Over the Place" (2011) {Cuckoo Clocks, Chimps, Pantomime Horses! (#1.2)}', 'Aviemore, Highland, Scotland, UK']	57.1937528	-3.8287496
+['"All Over the Place" (2011) {Dog Collars, Horseshoes and Racing Waiters (#2.7)}', 'Poole, Dorset, England, UK']	50.74020055	-1.9537512539581008
+['"All Over the Place" (2011) {Dog Collars, Horseshoes and Racing Waiters (#2.7)}', 'Maidstone, Kent, England, UK']	51.2748258	0.5231646
+['"All Over the Place" (2011) {Dog Collars, Horseshoes and Racing Waiters (#2.7)}', 'Chalfont St Giles, Buckinghamshire, England, UK']	51.75	-0.75
+['"All Over the Place" (2011) {Dog Collars, Horseshoes and Racing Waiters (#2.7)}', 'Dartmouth, Devon, England, UK']	50.3514839	-3.583844
+['"All Over the Place" (2011) {Dog Collars, Horseshoes and Racing Waiters (#2.7)}', 'Ayot St Lawrence, Hertfordshire, England, UK']	51.8368909	-0.2661514
+['"All Over the Place" (2011) {Dog Collars, Horseshoes and Racing Waiters (#2.7)}', 'Oakham, Rutland, England, UK']	52.66666035	-0.7499676404569892
+['"All Over the Place" (2011) {Gargoyles, Elephants and Woolsacks (#2.12)}', 'Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"All Over the Place" (2011) {Gargoyles, Elephants and Woolsacks (#2.12)}', 'Tetbury, Gloucestershire, England, UK']	51.639272	-2.1594783
+['"All Over the Place" (2011) {Gargoyles, Elephants and Woolsacks (#2.12)}', 'Bridgnorth, Shropshire, England, UK']	52.5345626	-2.4194132
+['"All Over the Place" (2011) {Gargoyles, Elephants and Woolsacks (#2.12)}', 'Avebury, Wiltshire, England, UK']	51.421870049999995	-1.8679942440640183
+['"All Over the Place" (2011) {Gargoyles, Elephants and Woolsacks (#2.12)}', 'Stoke Row, Oxfordshire, England, UK']	51.833333	-1.25
+['"All Over the Place" (2011) {Gargoyles, Elephants and Woolsacks (#2.12)}', 'Newtownards, County Down, Northern Ireland, UK']	54.5933771	-5.6961136
+['"All Over the Place" (2011) {Marbles, Diggers and Tin Baths! (#2.5)}', 'Dover, Kent, England, UK']	51.1251275	1.3134228
+['"All Over the Place" (2011) {Marbles, Diggers and Tin Baths! (#2.5)}', 'Warwick, Warwickshire, England, UK']	52.27952705	-1.584482701902178
+['"All Over the Place" (2011) {Marbles, Diggers and Tin Baths! (#2.5)}', 'Lyme Regis, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"All Over the Place" (2011) {Marbles, Diggers and Tin Baths! (#2.5)}', 'Castletown, Isle of Man']	54.0735192	-4.6538304
+['"All Over the Place" (2011) {Marbles, Diggers and Tin Baths! (#2.5)}', 'Strood, Kent, England, UK']	51.0586069	0.6470163
+['"All Over the Place" (2011) {Marbles, Diggers and Tin Baths! (#2.5)}', 'Bovey Tracey, Devon, England, UK']	50.75	-3.75
+['"All Over the Place" (2011) {Milk bottles, Old Football Clubs and Road Bowling (#1.5)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Milk bottles, Old Football Clubs and Road Bowling (#1.5)}', 'Essex, England, UK']	51.79669945	0.5793370437222831
+['"All Over the Place" (2011) {Milk bottles, Old Football Clubs and Road Bowling (#1.5)}', 'Liverpool, Merseyside, England, UK']	54.7023545	-3.2765753
+['"All Over the Place" (2011) {Milk bottles, Old Football Clubs and Road Bowling (#1.5)}', 'Falkirk, West Lothian, Scotland, UK']	55.9757951	-3.6130241
+['"All Over the Place" (2011) {Milk bottles, Old Football Clubs and Road Bowling (#1.5)}', 'Sheffield, South Yorkshire, England, UK']	53.3806626	-1.4702278
+['"All Over the Place" (2011) {Milk bottles, Old Football Clubs and Road Bowling (#1.5)}', 'Chesterfield, Derbyshire, England, UK']	53.2352134	-1.4264097
+['"All Over the Place" (2011) {Milk bottles, Old Football Clubs and Road Bowling (#1.5)}', 'Armagh, County Armagh, Northern Ireland, UK']	54.30201135	-6.612426774999999
+['"All Over the Place" (2011) {Mud, Pigeons and Pedal Cars! (#2.2)}', 'Carnlough, County Antrim, Northern Ireland, UK']	54.9929248	-5.9899592
+['"All Over the Place" (2011) {Mud, Pigeons and Pedal Cars! (#2.2)}', 'Waterbeach, Cambridgeshire, England, UK']	52.265783	0.1909788
+['"All Over the Place" (2011) {Mud, Pigeons and Pedal Cars! (#2.2)}', 'New Milton, Hampshire, England, UK']	50.760385	-1.6569039026327772
+['"All Over the Place" (2011) {Mud, Pigeons and Pedal Cars! (#2.2)}', 'Warwick, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"All Over the Place" (2011) {Mud, Pigeons and Pedal Cars! (#2.2)}', 'Beaconsfield, Buckinghamshire, England, UK']	51.6082881	-0.6571233
+['"All Over the Place" (2011) {Planes, Pits and Coracles! (#2.10)}', 'Kingussie, Highland, Scotland, UK']	57.0802761	-4.051164
+['"All Over the Place" (2011) {Planes, Pits and Coracles! (#2.10)}', 'Loddiswell, Devon, England, UK']	50.3224829	-3.7982321
+['"All Over the Place" (2011) {Planes, Pits and Coracles! (#2.10)}', 'Blaenavon, Torfaen, Gwent, Wales, UK']	51.6666717	-3.000007
+['"All Over the Place" (2011) {Planes, Pits and Coracles! (#2.10)}', 'Machynlleth, Powys, Wales, UK']	52.5954249	-3.8543901
+['"All Over the Place" (2011) {Planes, Pits and Coracles! (#2.10)}', 'Coalbrookdale, Shropshire, England, UK']	54.7023545	-3.2765753
+['"All Over the Place" (2011) {Planes, Pits and Coracles! (#2.10)}', 'Weybridge, Surrey, England, UK']	51.3727175	-0.4549297
+['"All Over the Place" (2011) {Punting, Gold and Raft Racing! (#2.1)}', 'Isle of Man']	54.2358167	-4.514598745698255
+['"All Over the Place" (2011) {Punting, Gold and Raft Racing! (#2.1)}', 'Wanlockhead, Dumfries & Galloway, Scotland, UK']	55.3975257	-3.7795919
+['"All Over the Place" (2011) {Punting, Gold and Raft Racing! (#2.1)}', 'Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"All Over the Place" (2011) {Punting, Gold and Raft Racing! (#2.1)}', 'Wellesbourne, Warwickshire, England, UK']	52.1947964	-1.5911203
+['"All Over the Place" (2011) {Punting, Gold and Raft Racing! (#2.1)}', 'Llanberis, Gwynedd, Wales, UK']	53.1212762	-4.1277481
+['"All Over the Place" (2011) {Punting, Gold and Raft Racing! (#2.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Ravens, Time Machines and Shirt Racing! (#2.3)}', 'Alcester, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"All Over the Place" (2011) {Ravens, Time Machines and Shirt Racing! (#2.3)}', 'Llandudno, Conwy, Wales, UK']	53.322475	-3.8243251
+['"All Over the Place" (2011) {Ravens, Time Machines and Shirt Racing! (#2.3)}', 'Eynsham, Oxfordshire, England, UK']	51.7841161	-1.3755251
+['"All Over the Place" (2011) {Ravens, Time Machines and Shirt Racing! (#2.3)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Ravens, Time Machines and Shirt Racing! (#2.3)}', 'Armagh, County Armagh, Northern Ireland, UK']	54.30201135	-6.612426774999999
+['"All Over the Place" (2011) {Ravens, Time Machines and Shirt Racing! (#2.3)}', 'Burntisland, Fife, Scotland, UK']	56.0593631	-3.2330993
+['"All Over the Place" (2011) {Robin Hood, Meercats and Bird Men! (#1.8)}', 'Halifax, West Yorkshire, England, UK']	53.7229229	-1.8604874
+['"All Over the Place" (2011) {Robin Hood, Meercats and Bird Men! (#1.8)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Robin Hood, Meercats and Bird Men! (#1.8)}', 'Newcastle upon Tyne, Tyne and Wear, England, UK']	54.9738474	-1.6131572
+['"All Over the Place" (2011) {Robin Hood, Meercats and Bird Men! (#1.8)}', 'Worthing, West Sussex, England, UK']	50.8116902	-0.3703948
+['"All Over the Place" (2011) {Robin Hood, Meercats and Bird Men! (#1.8)}', 'Nottingham, Nottinghamshire, England, UK']	52.9534193	-1.1496461
+['"All Over the Place" (2011) {Robin Hood, Meercats and Bird Men! (#1.8)}', 'Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"All Over the Place" (2011) {Robin Hood, Meercats and Bird Men! (#1.8)}', 'Mansfield, Nottinghamshire, England, UK']	53.1447678	-1.1973365
+['"All Over the Place" (2011) {Scary Castles, Teapots and Onion Eating! (#1.4)}', 'Alnwick, Northumberland, England, UK']	55.4134875	-1.7073105
+['"All Over the Place" (2011) {Scary Castles, Teapots and Onion Eating! (#1.4)}', 'Oxford, Oxfordshire, England, UK']	51.7520131	-1.2578499
+['"All Over the Place" (2011) {Scary Castles, Teapots and Onion Eating! (#1.4)}', 'Southend-on-Sea, Essex, England, UK']	51.79669945	0.5793370437222831
+['"All Over the Place" (2011) {Scary Castles, Teapots and Onion Eating! (#1.4)}', 'Malvern, Worcestershire, England, UK']	52.1159559	-2.3258985
+['"All Over the Place" (2011) {Scary Castles, Teapots and Onion Eating! (#1.4)}', 'Isle of Wight, England, UK']	50.6710482	-1.3327111133199459
+['"All Over the Place" (2011) {Scary Castles, Teapots and Onion Eating! (#1.4)}', 'Gloucester, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"All Over the Place" (2011) {Scary Castles, Teapots and Onion Eating! (#1.4)}', 'Kent, England, UK']	51.2474823	0.7105077
+['"All Over the Place" (2011) {Sheep, Shakespeare and Bog Snorkelling! (#2.4)}', 'Abbotsham, Devon, England, UK']	51.0164676	-4.2479135
+['"All Over the Place" (2011) {Sheep, Shakespeare and Bog Snorkelling! (#2.4)}', 'Maidstone, Kent, England, UK']	51.2748258	0.5231646
+['"All Over the Place" (2011) {Sheep, Shakespeare and Bog Snorkelling! (#2.4)}', 'Clydebank, West Dunbartonshire, Scotland, UK']	55.966667	-4.533333
+['"All Over the Place" (2011) {Sheep, Shakespeare and Bog Snorkelling! (#2.4)}', 'Dungannon, County Tyrone, Northern Ireland, UK']	54.5039088	-6.7703622
+['"All Over the Place" (2011) {Sheep, Shakespeare and Bog Snorkelling! (#2.4)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Sheep, Shakespeare and Bog Snorkelling! (#2.4)}', 'Stratford-upon-Avon, Warwickshire, England, UK']	52.1927885	-1.7063668
+['"All Over the Place" (2011) {Snowmen, Bagpipes and Custard Pie Fights! (#2.11)}', 'Stroud, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"All Over the Place" (2011) {Snowmen, Bagpipes and Custard Pie Fights! (#2.11)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Snowmen, Bagpipes and Custard Pie Fights! (#2.11)}', 'Coxheath, Kent, England, UK']	51.2334732	0.4969381
+['"All Over the Place" (2011) {Snowmen, Bagpipes and Custard Pie Fights! (#2.11)}', 'Portmeirion, Gwynedd, Wales, UK']	52.9134555	-4.0993672
+['"All Over the Place" (2011) {Snowmen, Bagpipes and Custard Pie Fights! (#2.11)}', 'Chatham, Kent, England, UK']	51.2474823	0.7105077
+['"All Over the Place" (2011) {Snowmen, Bagpipes and Custard Pie Fights! (#2.11)}', 'Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"All Over the Place" (2011) {Space, Lawnmowers and Sumo Championships! (#1.6)}', 'Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"All Over the Place" (2011) {Space, Lawnmowers and Sumo Championships! (#1.6)}', 'Stockport, Cheshire, England, UK']	53.364136	-2.0711439
+['"All Over the Place" (2011) {Space, Lawnmowers and Sumo Championships! (#1.6)}', 'County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"All Over the Place" (2011) {Space, Lawnmowers and Sumo Championships! (#1.6)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Space, Lawnmowers and Sumo Championships! (#1.6)}', 'Inverness, Highland, Scotland, UK']	57.4790124	-4.225739
+['"All Over the Place" (2011) {Space, Lawnmowers and Sumo Championships! (#1.6)}', 'Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"All Over the Place" (2011) {Space, Lawnmowers and Sumo Championships! (#1.6)}', 'Southport, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"All Over the Place" (2011) {Tanks, Rugby and Sandcastles (#2.9)}', 'Kenilworth, Warwickshire, England, UK']	52.3450526	-1.5816028
+['"All Over the Place" (2011) {Tanks, Rugby and Sandcastles (#2.9)}', 'London, England, UK']	51.5073219	-0.1276474
+['"All Over the Place" (2011) {Tanks, Rugby and Sandcastles (#2.9)}', 'Rugby, Warwickshire, England, UK']	52.3726682	-1.2620038
+['"All Over the Place" (2011) {Tanks, Rugby and Sandcastles (#2.9)}', 'Woolacombe, Devon, England, UK']	50.75	-3.75
+['"All Over the Place" (2011) {Tanks, Rugby and Sandcastles (#2.9)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.5964411	-5.9302761
+['"All Over the Place" (2011) {Tanks, Rugby and Sandcastles (#2.9)}', 'Bovington, Dorset, England, UK']	50.6997724	-2.2447365
+['"All Over the Place" (2011) {Teddies, Penguins and Shooting Peas (#2.8)}', 'Dorchester, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"All Over the Place" (2011) {Teddies, Penguins and Shooting Peas (#2.8)}', 'Conwy, Wales, UK']	53.14642505	-3.7591346422172895
+['"All Over the Place" (2011) {Teddies, Penguins and Shooting Peas (#2.8)}', 'Rutland, England, UK']	52.6423036	-0.6632643077026672
+['"All Over the Place" (2011) {Teddies, Penguins and Shooting Peas (#2.8)}', 'Torquay, Devon, England, UK']	50.4652392	-3.5211361
+['"All Over the Place" (2011) {Teddies, Penguins and Shooting Peas (#2.8)}', 'Witcham, Cambridgeshire, England, UK']	52.333333	0.083333
+['"All Over the Place" (2011) {Teddies, Penguins and Shooting Peas (#2.8)}', 'New Romney, Kent, England, UK']	50.9851198	0.9426566
+['"All Over the Place" (2011) {Teddies, Penguins and Shooting Peas (#2.8)}', 'Hythe, Kent, England, UK']	51.0691421	1.0841634
+['"All Over the Place" (2011) {Teddies, Penguins and Shooting Peas (#2.8)}', 'Dymchurch, Kent, England, UK']	51.0263293	0.9936502
+['"All Over the Place" (2011) {Tennis, Windmills and Orange Racing! (#2.6)}', 'Leamington Spa, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"All Over the Place" (2011) {Tennis, Windmills and Orange Racing! (#2.6)}', 'Chesterton, Warwickshire, England, UK']	52.2312621	-1.4909258764808362
+['"All Over the Place" (2011) {Tennis, Windmills and Orange Racing! (#2.6)}', 'Folkestone, Kent, England, UK']	51.0791335	1.1794073
+['"All Over the Place" (2011) {Tennis, Windmills and Orange Racing! (#2.6)}', 'West Wycombe, Buckinghamshire, England, UK']	51.6448823	-0.8022534
+['"All Over the Place" (2011) {Tennis, Windmills and Orange Racing! (#2.6)}', 'Totnes, Devon, England, UK']	50.75	-3.75
+['"All Over the Place" (2011) {Tennis, Windmills and Orange Racing! (#2.6)}', 'Northleach, Gloucestershire, England, UK']	51.8299662	-1.8371843
+['"All Over the Place" (2011) {The Songs! (#2.13)}', 'Aberdeen, Aberdeenshire, Scotland, UK']	57.3104596	-2.2672868
+['"All Over the Place" (2011) {The Songs! (#2.13)}', 'Preston, Lancashire, England, UK']	53.861171549999995	-2.547111540310474
+['"All Over the Place" (2011) {The Songs! (#2.13)}', 'Machynlleth, Powys, Wales, UK']	52.5954249	-3.8543901
+['"All Over the Place" (2011) {The Songs! (#2.13)}', 'West Wycombe, Buckinghamshire, England, UK']	51.6448823	-0.8022534
+['"All Over the Place" (2011) {The Songs! (#2.13)}', 'Stratford-upon-Avon, Warwickshire, England, UK']	52.1927885	-1.7063668
+['"All Over the Place" (2011) {The Songs! (#2.13)}', 'Chesterfield, Derbyshire, England, UK']	53.2352134	-1.4264097
+['"All Over the Place" (2011) {The Songs! (#2.13)}', 'Wanlockhead, Dumfries & Galloway, Scotland, UK']	55.3975257	-3.7795919
+['"All Over the Place" (2011) {The Songs! (#2.13)}', 'Blackpool, Lancashire, England, UK']	53.77493495	-3.047551917868039
+['"All Over the Place" (2011) {Tree Houses, Buses and Pie Eating! (#1.7)}', 'Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"All Over the Place" (2011) {Tree Houses, Buses and Pie Eating! (#1.7)}', 'Nottingham, Nottinghamshire, England, UK']	52.9534193	-1.1496461
+['"All Over the Place" (2011) {Tree Houses, Buses and Pie Eating! (#1.7)}', 'Cornwall, England, UK']	50.416667	-4.75
+['"All Over the Place" (2011) {Tree Houses, Buses and Pie Eating! (#1.7)}', 'Alnwick, Northumberland, England, UK']	55.4134875	-1.7073105
+['"All Over the Place" (2011) {Tree Houses, Buses and Pie Eating! (#1.7)}', 'Bradford, West Yorkshire, England, UK']	53.7944229	-1.7519186
+['"All Over the Place" (2011) {Tree Houses, Buses and Pie Eating! (#1.7)}', 'Preston, Lancashire, England, UK']	53.7593363	-2.6992717
+['"All Over the Place" (2011) {Tree Houses, Buses and Pie Eating! (#1.7)}', 'Wigan, Greater Manchester, England, UK']	53.5457188	-2.6264624
+['"All the Pretty Fishes" (2011)', '', '', '', 'Boulder Bay, Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA']	34.18055525	-116.96850289553923
+['"All the Pretty Fishes" (2011) {Cabin Fever (#1.5)}', 'Boulder Bay, Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA']	34.18055525	-116.96850289553923
+['"All-American Muslim" (2011)', '', '', '', 'Dearborn, Michigan, USA']	42.3222599	-83.1763145
+['"All-American Muslim" (2011) {Muslims Moving On (#1.5)}', 'Detroit Metropolitan Wayne County Airport, Michigan, USA']	42.205699100000004	-83.35297537621658
+['"Allt f�r Sverige" (2011)', '', '', '', 'Sweden']	59.6749712	14.5208584
+['"Alphas" (2011)', '', '', '', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Alphas" (2011)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {A Short Time in Paradise (#1.8)}', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {A Short Time in Paradise (#1.8)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Anger Management (#1.3)}', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Anger Management (#1.3)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Bill and Gary\'s Excellent Adventure (#1.6)}', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Bill and Gary\'s Excellent Adventure (#1.6)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Blind Spot (#1.9)}', '', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Blind Spot (#1.9)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Catch and Release (#1.7)}', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Catch and Release (#1.7)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Cause and Effect (#1.2)}', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Cause and Effect (#1.2)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Never Let Me Go (#1.5)}', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Never Let Me Go (#1.5)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Original Sin (#1.11)}', '', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Original Sin (#1.11)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Pilot (#1.1)}', '', '', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Pilot (#1.1)}', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {Rosetta (#1.4)}', '', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.63405997817982	-79.54185659156049
+['"Alphas" (2011) {Rosetta (#1.4)}', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alphas" (2011) {The Unusual Suspects (#1.10)}', '', '5429 Dundas St W, Etobicoke, Ontario, Canada']	43.671459150000004	-79.55249206611668
+['"Alphas" (2011) {The Unusual Suspects (#1.10)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alter-Ego" (2011)', '', '', '', '', 'New Mexico, USA']	34.5708167	-105.993007
+['"Altin Elbiseli Adam" (2011)', '', '', '', 'California, USA']	39.7837304	-100.4458825
+['"Altin Elbiseli Adam" (2011)', '', '', '', 'Turkey']	38.9597594	34.9249653
+['"Altin Elbiseli Adam" (2011)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Alys" (2011)', '', '', '', '', '', 'Brecon, Powys, Wales, UK']	51.9472048	-3.391696
+['"Am I Beautiful?" (2011)', '', '', '', 'Uganda']	1.5333554	32.2166578
+['"Am I Beautiful?" (2011)', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Am Sgula" (2011)', '', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Am Sgula" (2011)', '', '', '', '', 'Thailand']	14.8971921	100.83273
+['"Am Sgula" (2011)', '', '', '', '', 'India']	22.3511148	78.6677428
+['"Amar y Temer" (2011)', '', '', '', '', 'Estudios Caracol Televisi�n, Bogot�, Colombia']	2.8894434	-73.783892
+['"Amar y Temer" (2011)', '', '', '', '', 'La Calera, Cundinamarca, Colombia']	4.707288950000001	-73.9397466925299
+['"Amar y Temer" (2011)', '', '', '', '', 'Museo de la Polic�a Nacional, Bogot�, Colombia']	2.8894434	-73.783892
+['"Amar y Temer" (2011)', '', '', '', '', 'Palacio de San Carlos, Bogot�, Colombia']	2.8894434	-73.783892
+['"Amar y Temer" (2011)', '', '', '', '', 'Zipaquir�, Cundinamarca, Colombia']	2.8894434	-73.783892
+['"Amateur Millionaires Club" (2011)', '', '', 'USA']	39.7837304	-100.4458825
+['"America\'s Greatest Otaku" (2011)', '', '', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"America\'s Greatest Otaku" (2011)', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America\'s Greatest Otaku" (2011)', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"America\'s Greatest Otaku" (2011)', '', '', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"America\'s Greatest Otaku" (2011)', '', '', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"America\'s Greatest Otaku" (2011)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Greatest Otaku" (2011)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Greatest Otaku" (2011)', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"America\'s Greatest Otaku" (2011)', '', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"America\'s Greatest Otaku" (2011)', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"America\'s Greatest Otaku" (2011)', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"America\'s Greatest Otaku" (2011)', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"America\'s Greatest Otaku" (2011) {Big Easy Otaku (#1.7)}', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"America\'s Greatest Otaku" (2011) {Big Easy Otaku (#1.7)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"America\'s Greatest Otaku" (2011) {Big Easy Otaku (#1.7)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"America\'s Greatest Otaku" (2011) {Bighorn Otaku (#1.2)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"America\'s Greatest Otaku" (2011) {Bighorn Otaku (#1.2)}', 'Denver, Colorado, USA']	39.7348381	-104.9653271
+['"America\'s Greatest Otaku" (2011) {Bighorn Otaku (#1.2)}', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"America\'s Greatest Otaku" (2011) {Bright Lights, Big Otaku (#1.5)}', 'Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"America\'s Greatest Otaku" (2011) {Bright Lights, Big Otaku (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Greatest Otaku" (2011) {Bright Lights, Big Otaku (#1.5)}', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America\'s Greatest Otaku" (2011) {Down Home Otaku (#1.6)}', 'Indianapolis, Indiana, USA']	39.7683331	-86.1583502
+['"America\'s Greatest Otaku" (2011) {Down Home Otaku (#1.6)}', 'Louisville, Kentucky, USA']	38.2542376	-85.759407
+['"America\'s Greatest Otaku" (2011) {Down Home Otaku (#1.6)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"America\'s Greatest Otaku" (2011) {Otaku Con Artist (#1.4)}', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"America\'s Greatest Otaku" (2011) {Otaku Con Artist (#1.4)}', 'Oklahoma City, Oklahoma, USA']	35.4729886	-97.5170536
+['"America\'s Greatest Otaku" (2011) {Otaku Con Artist (#1.4)}', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"America\'s Greatest Otaku" (2011) {Otaku Heat (#1.3)}', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"America\'s Greatest Otaku" (2011) {Otaku Heat (#1.3)}', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"America\'s Greatest Otaku" (2011) {Otaku Quest Revs Up! (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Greatest Otaku" (2011) {Otaku Quest Revs Up! (#1.1)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"America\'s Next Great Restaurant" (2011) {(#1.2)}', 'Universal CityWalk, Universal Studios Theme Park, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"America\'s Next Great Restaurant" (2011) {(#1.4)}', 'Amko Restaurant Furniture - 5833 Avalon Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Great Restaurant" (2011) {(#1.4)}', "Charlie's Fixtures - 2251 Venice Boulevard, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"America\'s Next Great Restaurant" (2011) {(#1.5)}', 'House of Props - 1117 North Gower Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Great Restaurant" (2011) {(#1.5)}', 'Pershing Square, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Great Restaurant" (2011) {(#1.6)}', 'Hollywood Boulevard, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Great Restaurant" (2011) {(#1.6)}', 'Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0981552	-118.2871076
+['"America\'s Next Great Restaurant" (2011) {(#1.8)}', 'Caesars Palace - 3570 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"America\'s Next Great Restaurant" (2011) {Opening Night (#1.9)}', "Charlie's Fixtures - 2251 Venice Boulevard, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"America\'s Supernanny" (2011) {The Zurlinden Family (#2.2)}', 'Liberty Township, Butler County, Ohio, USA']	39.4233043	-84.5936897
+['"American Cagefighter" (2011)', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"American Cagefighter" (2011)', '', '', '', 'Nevada, USA']	39.7837304	-100.4458825
+['"American Heroes for Hire" (2011)', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"American Heroine" (2011)', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"American Heroine" (2011)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"American Heroine" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011)', '', '', '', 'Hidden Valley, Thousand Oaks, California, USA']	34.142515	-118.914078
+['"American Horror Story" (2011)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Horror Story" (2011)', '', '', '', 'Santa Ana Courthouse 909 N Main St, Santa Ana, CA 92701']	33.74942431969148	-117.85624162173885
+['"American Horror Story" (2011)', '', '', '', 'Fawnskin, California, USA']	34.2680621	-116.9425342
+['"American Horror Story" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011)', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Afterbirth (#1.12)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Birth (#1.11)}', '', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Bitchcraft (#3.1)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {Boy Parts (#3.2)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Horror Story" (2011) {Boy Parts (#3.2)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {Burn, Witch. Burn! (#3.5)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {Chapter 1 (#6.1)}', 'Fenton Building, 833 S. Spring Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Charles (Manson) in Charge (#7.10)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"American Horror Story" (2011) {Checking In (#5.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Checking In (#5.1)}', 'James Oviatt building - 617 Olive Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Checking In (#5.1)}', 'Santa Monica Pier, Santa Monica, California, USA']	34.00889605	-118.49740225045329
+['"American Horror Story" (2011) {Chutes and Ladders (#5.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Devil\'s Night (#5.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Election Night (#7.1)}', 'Orange Plaza, Orange, California, USA']	33.7872568	-117.8503088
+['"American Horror Story" (2011) {Election Night (#7.1)}', 'Fields Market - 23221 Saticoy St, West Hills, California, USA']	39.7837304	-100.4458825
+['"American Horror Story" (2011) {Fearful Pranks Ensue (#3.4)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Horror Story" (2011) {Fearful Pranks Ensue (#3.4)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {Go to Hell (#3.12)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Horror Story" (2011) {Go to Hell (#3.12)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {Halloween: Part 1 (#1.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Halloween: Part 1 (#1.4)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Halloween: Part 2 (#1.5)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Head (#3.9)}', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Horror Story" (2011) {Head (#3.9)}', '', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {Home Invasion (#1.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Home Invasion (#1.2)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Mommy (#5.3)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Murder House (#1.3)}', 'MacArthur Park, Los Angeles, California, USA']	34.0588566	-118.27769069474978
+['"American Horror Story" (2011) {Murder House (#1.3)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Murder House (#1.3)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Open House (#1.7)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Piggy Piggy (#1.6)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Pilot (#1.1)}', '', '1121 Winchester Place, Country Club Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Pilot (#1.1)}', '', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Pilot (#1.1)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Protect the Coven (#3.11)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Horror Story" (2011) {Protect the Coven (#3.11)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {Room 33 (#5.6)}', '', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Room Service (#5.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Rubber Man (#1.8)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {She Gets Revenge (#5.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Horror Story" (2011) {Smoldering Children (#1.10)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {Spooky Little Girl (#1.9)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"American Horror Story" (2011) {The Axeman Cometh (#3.6)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {The Dead (#3.7)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Horror Story" (2011) {The Dead (#3.7)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {The Magical Delights of Stevie Nicks (#3.10)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {The Replacements (#3.3)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {The Sacred Taking (#3.8)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Horror Story" (2011) {The Sacred Taking (#3.8)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"American Horror Story" (2011) {The Seven Wonders (#3.13)}', '1410 Jackson Avenue New Orleans, Louisiana, USA']	29.9319568	-90.0790925
+['"Ammo & Attitude" (2011) {Browning Long Range Challenge (#4.7)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"Ammo & Attitude" (2011) {Browning Shooting Clays and Smith & Wesson Challenge (#4.2)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"Ammo & Attitude" (2011) {Excalibur Crossbow Challenge (#4.8)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"Ammo & Attitude" (2011) {Hobie Kayak and Ugly Stik Challenge (#4.3)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"Ammo & Attitude" (2011) {Motorola/Kershaw Treasure Hunt and Knife Throwing Challenge (#4.5)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"Ammo & Attitude" (2011) {Ram Rock & Roll Challenge (#4.9)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"Ammo & Attitude" (2011) {Stag Arms Challenge (#4.4)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"Ammo & Attitude" (2011) {Tough One Rodeo Challenge (#4.6)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"Ammo & Attitude" (2011) {Winchester Team Assignment Challenge (#4.1)}', 'River Ranch, Florida, USA']	30.1723685	-92.040778
+['"An Evening at Nossy\'s" (2011)', '', '', '', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Anderson" (2011)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Andy & Chaz Bugger Off to America" (2011)', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Andy & Chaz Bugger Off to America" (2011)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ang utol kong hoodlum" (2011)', '', '', '', 'Antipolo, Rizal, Philippines']	14.5870262	121.1758611
+['"Angeli & diamanti" (2011)', '', '', '', 'Italy']	42.6384261	12.674297
+['"Angeli & diamanti" (2011)', '', '', '', 'Puerto Rico']	18.22141715	-66.4132818505648
+['"Angry Boys" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angry Boys" (2011)', '', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Angry Boys" (2011)', '', '', '', '', 'Little River, Victoria, Australia']	-37.689785	148.9997968
+['"Angry Boys" (2011)', '', '', '', '', 'Former Mont Park Hospital, Bundoora, Victoria, Australia']	-24.7761086	134.755
+['"Angry Boys" (2011)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Angry Boys" (2011)', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011)', '', '', '', '', 'Torquay, Victoria, Australia']	-38.313392300000004	144.3252536786431
+['"Angry Boys" (2011) {(#1.1)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.10)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.11)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.12)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.2)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.3)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.4)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.5)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.6)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.7)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.8)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Boys" (2011) {(#1.9)}', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Angry Young Stan" (2011)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Angry Young Stan" (2011)', '', '', '', 'Pickering, Ontario, Canada']	43.835765	-79.090576
+['"Angry Young Stan" (2011) {A Blind Woman (#1.2)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Angry Young Stan" (2011) {A Place to Relax (#1.6)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Angry Young Stan" (2011) {A Place to Relax (#1.6)}', 'Pickering, Ontario, Canada']	43.835765	-79.090576
+['"Angry Young Stan" (2011) {Door to Door (#1.5)}', '', 'Four Points by Sheraton Toronto Lakeshore, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Angry Young Stan" (2011) {On the Slopes (#1.1)}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Angry Young Stan" (2011) {On the Slopes (#1.1)}', 'Pickering, Ontario, Canada']	43.835765	-79.090576
+['"Angry Young Stan" (2011) {The Artist (#1.3)}', '', 'Zelski Art Studio, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Angry Young Stan" (2011) {The Gallery Custodian (#1.4)}', 'Propeller Centre for the Visual Arts, Toronto, Ontario, Canada']	61.0666922	-107.9917071
+['"Anima Nera" (2011)', '', '', '', '', 'Bracciano, Rome, Lazio, Italy']	42.1010951	12.1738573
+['"Anima Nera" (2011)', '', '', '', '', 'Roma, Lazio, Italy']	41.8933203	12.4829321
+['"Anime Abandon" (2011) {The Guyver (#3.22)}', '', 'De Montfort University, Leicester, England, UK']	52.6361398	-1.1330789
+['"Anjo Meu" (2011)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Anno 1790" (2011)', '', '', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Anno 1790" (2011) {De d�das r�ster (#1.9)}', '', 'Gustavianum, Uppsala, Uppala l�n, Sweden']	59.6749712	14.5208584
+['"Anno 1790" (2011) {Mellan blod och syr�n (#1.1)}', 'Br�nda tomten, Gamla stan, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Anstalten" (2011) {M�ske de ka\' s�lges i Bangkok (#1.2)}', 'K�benhavn Zoo, Frederiksberg, Denmark']	55.670249	10.3333283
+['"Anthony Bourdain: No Reservations Holiday Special" (2011)', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Apartment 157" (2011)', '', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Apartment 157" (2011)', '', '', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Apollo\'s Pad" (2011)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"AppTV" (2011)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"AppTV" (2011)', '', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Appropriate Adult" (2011)', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Appropriate Adult" (2011) {(#1.1)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Appropriate Adult" (2011) {(#1.2)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"April\'12th, 1961. 24 hours" (2011)', '', '', 'Moscow City, Moscow, Russia']	55.7628614	37.6532293
+['"Apt" (2011)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Aranypart" (2011)', '', '', '', '', 'Si�fok, Hungary']	47.1817585	19.5060937
+['"Arctic" (2011) {Alaska (#1.3)}', '', '', '', 'Kaktovik, Alaska, USA']	70.1263327	-143.6134021
+['"Arctic" (2011) {Alaska (#1.3)}', '', '', '', 'Nome, Alaska, USA']	64.5011111	-165.4063889
+['"Arctic" (2011) {Alaska (#1.3)}', '', '', '', 'Prince William Sound, Alaska, USA']	60.615	-147.1680556
+['"Arctic" (2011) {Canada (#1.4)}', '', '', '', 'Athabasca River, Alberta, Canada']	55.1705421	-113.996434
+['"Arctic" (2011) {Canada (#1.4)}', '', '', '', 'Fort Chipewyan, Alberta, Canada']	58.7166428	-111.1500187
+['"Arctic" (2011) {Canada (#1.4)}', '', '', '', 'Fort MacKay, Alberta, Canada']	57.1825744	-111.6378436
+['"Arctic" (2011) {Canada (#1.4)}', '', '', '', 'Fort McMurray, Alberta, Canada']	56.7291997	-111.3885221
+['"Arctic" (2011) {Canada (#1.4)}', '', '', '', 'Old Crow, Yukon, Canada']	67.571002	-139.825745
+['"Arctic" (2011) {Greenland (#1.2)}', '', '', 'Disko Bugt, Greenland']	69.0	-52.0
+['"Arctic" (2011) {Greenland (#1.2)}', '', '', 'Qaanaaq, Greenland']	77.6192349	-42.8125967
+['"Arctic" (2011) {Norway (#1.5)}', '', '', '', 'Malangen, Troms, Norway']	69.3608836	18.588969133462214
+['"Arctic" (2011) {Norway (#1.5)}', '', '', '', 'Ny-�lesund, Svalbard, Norway']	60.5000209	9.0999715
+['"Arctic" (2011) {Norway (#1.5)}', '', '', '', 'Nyukhcha, Karelia, Russia']	63.92374	36.253109
+['"Arctic" (2011) {Norway (#1.5)}', '', '', '', 'T�nsneset, Troms, Norway']	60.5000209	9.0999715
+['"Arctic" (2011) {Siberia (#1.1)}', '', '', 'Sakkyryr, Sakha Republic, Russia']	67.799362	130.403229
+['"Arctic" (2011) {Siberia (#1.1)}', '', '', 'Yakutsk, Russia']	62.027287	129.732086
+['"Ari og Per" (2011)', '', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Arise & Shine" (2011) {He is Risen: Easter 2011 (#1.9)}', 'TheChurch, Salem, Oregon, USA']	39.7837304	-100.4458825
+['"Arise & Shine" (2011) {Legends of the Bible: David (#1.10)}', 'TheChurch, Salem, Oregon, USA']	39.7837304	-100.4458825
+['"Arise & Shine" (2011) {Legends of the Bible: Gideon (#1.7)}', 'TheChurch, Salem, Oregon, USA']	39.7837304	-100.4458825
+['"Arise & Shine" (2011) {Legends of the Bible: Samuel (#1.8)}', 'TheChurch, Salem, Oregon, USA']	39.7837304	-100.4458825
+['"Arise & Shine" (2011) {Vision: Take 2 (#1.6)}', '', 'TheChurch, Salem, Oregon, USA']	39.7837304	-100.4458825
+['"Aristocracy TV" (2011)', '', '', '', '', 'Corpus Christi, Texas, USA']	27.7477253	-97.4014129
+['"Arne Dahl: Misterioso" (2011)', '', '', '', 'Kvarnholmen, Nacka, Stockholm, Sweden']	59.3157233	18.1385701
+['"Arne Dahl: Misterioso" (2011)', '', '', '', 'Tallinn, Estonia']	59.4372155	24.7453688
+['"Arrasa con Todo" (2011)', '', '', '', 'Univision Network Miami - 9405 41st Street, Miami, Florida, USA']	39.7837304	-100.4458825
+['"Art Attack Revived Series Latin America" (2011)', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.16)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.18)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.22)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.23)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.4)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.7)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art Attack Revived Series Latin America" (2011) {(#3.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art in the Streets" (2011)', '', '', '', 'Downtown, Los Angeles, California, USA']	34.4987133	-118.5843067
+['"Artefact or Fiction" (2011)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Asesinato" (2011)', '', '', '', '', 'Santander, Cantabria, Spain']	43.4620412	-3.8099719
+['"Ask JackWagon" (2011)', '', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Ask Oprah\'s All-Stars" (2011) {(#1.1)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {(#1.1)}', '', '', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {(#1.2)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {(#1.2)}', '', '', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {(#1.3)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {(#1.3)}', '', '', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {(#1.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Ask Oprah\'s All-Stars" (2011) {(#1.4)}', '', '', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {20 Questions for 20-Somethings (#2.5)}', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {Is This Normal? (#2.4)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {Is This Normal? (#2.4)}', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Ask Oprah\'s All-Stars" (2011) {Love & Sex (#2.2)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {Love & Sex (#2.2)}', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {Myths, Secrets & Confessions (#2.3)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Ask Oprah\'s All-Stars" (2011) {Myths, Secrets & Confessions (#2.3)}', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {Ultimate Checklists (#2.1)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Oprah\'s All-Stars" (2011) {Ultimate Checklists (#2.1)}', 'Stage 29, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask Slm" (2011)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Aspiring Hollywood" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Asst: The Webseries" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.10)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.11)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.2)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.3)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.5)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.6)}', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Astrid in Wonderland" (2011) {(#1.6)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.7)}', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Astrid in Wonderland" (2011) {(#1.7)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.8)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.8)}', '', '', 'Belgium']	50.6402809	4.6667145
+['"Astrid in Wonderland" (2011) {(#1.8)}', '', '', 'France']	46.603354	1.8883335
+['"Astrid in Wonderland" (2011) {(#1.9)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#1.9)}', '', '', 'Belgium']	50.6402809	4.6667145
+['"Astrid in Wonderland" (2011) {(#2.1)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.10)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.2)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.3)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.5)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.6)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.7)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.8)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#2.9)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.1)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.10)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.2)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.3)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.5)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.6)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.7)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.8)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#3.9)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#4.1)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#4.2)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#4.3)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#4.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#4.5)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#4.6)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#4.7)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#4.8)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#5.1)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#5.2)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#5.3)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#5.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#5.5)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#5.6)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#5.7)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {(#5.8)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Astrid in Wonderland" (2011) {It-bags, Louboutins and Anna Wintour-Cookies (#1.1)}', 'Belgium']	50.6402809	4.6667145
+['"Astrid in Wonderland" (2011) {It-bags, Louboutins and Anna Wintour-Cookies (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"At Home with Julia" (2011)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"At the Movies: Lamar and Darnell" (2011)', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"At the Movies: Lamar and Darnell" (2011) {Legal Movie Review (#1.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Atrapa un mill�n" (2011)', '', '', '', 'Sant Just Desvern, Barcelona, Catalonia, Spain']	41.3815832	2.0750677
+['"Atrapados" (2011)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapados" (2011) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"AudioRama: Web Series" (2011)', '', '', '', 'Kokusaimura, Nagano, Japan']	36.5748441	139.2394179
+['"Austin & Ally" (2011)', '', '', '', '', 'Irvine, California, USA']	33.6856969	-117.8259819
+['"Austin & Ally" (2011)', '', '', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Austin & Ally" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Autoexplora Drivestyle" (2011)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Autoexplora Drivestyle" (2011)', '', '', '', 'Ajusco, Mexico City, Distrito Federal, Mexico']	19.2072772	-99.2580852
+['"Autoexplora Drivestyle" (2011)', '', '', '', 'Nevado de Toluca, Estado de M�xico, Mexico']	19.4326296	-99.1331785
+['"Autoexplora Drivestyle" (2011)', '', '', '', 'La Marquesa, Mexico City, Distrito Federal, Mexico']	19.3107779	-99.1288299
+['"Autoexplora Drivestyle" (2011)', '', '', '', 'Aut�dromo Mois�s Solana, Pachuca, Hidalgo, Mexico']	20.1165413	-98.7413535
+['"Avanti un altro!" (2011)', '', '', '', 'Studio 1, Centro Titanus Elios, Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Averity TV" (2011)', '', '', '', '', 'De Studio TV studios, Clonskeagh, Dublin, Ireland']	53.317439449999995	-6.240869712240528
+['"Awesome Games Done Quick" (2011)', '', '', 'Chevy Chase, Maryland, USA']	38.9932072	-77.0743833
+['"Awesome Games Done Quick" (2011)', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Awesome Games Done Quick" (2011)', '', '', 'Herndon, Virginia, USA']	38.9695316	-77.3859479
+['"Awkward." (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Axe Lords" (2011)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"BMW:Activate the Future" (2011)', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"BMW:Activate the Future" (2011)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BMW:Activate the Future" (2011)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"BMW:Activate the Future" (2011) {How We\'ll Learn to Stop Worrying and Love the Future (#1.4)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"BMW:Activate the Future" (2011) {How We\'ll Learn to Stop Worrying and Love the Future (#1.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BMW:Activate the Future" (2011) {How We\'ll Learn to Stop Worrying and Love the Future (#1.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"BMW:Activate the Future" (2011) {Reinventing Mobility (#1.3)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"BMW:Activate the Future" (2011) {Reinventing Mobility (#1.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BMW:Activate the Future" (2011) {Reinventing Mobility (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"BMW:Activate the Future" (2011) {The Future Just Isn\'t What It Used to Be (#1.2)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"BMW:Activate the Future" (2011) {The Future Just Isn\'t What It Used to Be (#1.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BMW:Activate the Future" (2011) {The Future Just Isn\'t What It Used to Be (#1.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"BMW:Activate the Future" (2011) {The New City (#1.1)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"BMW:Activate the Future" (2011) {The New City (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"BMW:Activate the Future" (2011) {The New City (#1.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Baby Hospital" (2011)', '', '', '', '', 'Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"Baby Jake" (2011)', '', '', '', '', 'Sibsey Trader Windmill, Lincolnshire, England, UK']	53.0390739	0.0041205
+['"Baby\'s First Day" (2011)', '', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"Baciati dall\'amore" (2011)', '', '', '', 'Naples, Campania, Italy']	40.8359336	14.2487826
+['"Baciati dall\'amore" (2011)', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Back Space" (2011)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Back from the Dead" (2011) {Nelson\'s Navy: Back from the Dead (#1.1)}', 'Historic Quay, Hartlepool, County Durham, England, UK']	54.666667	-1.75
+['"Backstage Drama" (2011)', '', '', '', 'Grand Rapids, Michigan, USA']	42.9632405	-85.6678639
+['"Backyard Games: Powered by Husqvarna" (2011)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bad Arnie" (2011)', '', '', '', '', 'Ogden, Utah, USA']	41.2230048	-111.9738429
+['"Bad Camera" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bad Lunch" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bade Achhe Lagte Hain" (2011)', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"Bag of Bones" (2011)', '', '', '', '', 'Brooklyn, Nova Scotia Canada']	45.0063821	-64.0108109
+['"Bag of Bones" (2011)', '', '', '', '', 'Grand Lake, Nova Scotia, Canada']	45.562267399999996	-61.031788791327955
+['"Bag of Bones" (2011)', '', '', '', '', 'Halifax, Nova Scotia, Canada']	44.648618	-63.5859487
+['"Bag of Bones" (2011)', '', '', '', '', 'Milford, Nova Scotia, Canada']	45.0526406	-63.4344833
+['"Bag of Bones" (2011)', '', '', '', '', 'Nova Scotia, Canada']	45.1960403	-63.1653789
+['"Bai jin nu wang" (2011)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Bai jin nu wang" (2011)', '', '', '', 'Taipei City, Taiwan']	23.9739374	120.9820179
+['"Bait Car" (2011)', '', '', '', '', 'Surrey, British Columbia, Canada']	49.1913033	-122.8491439
+['"Baker Boys" (2011)', '', '', '', '', 'South Wales, Wales, UK']	51.602821399999996	-3.3335011887178068
+['"Baker Boys" (2011)', '', '', '', '', 'Wales, UK']	52.2928116	-3.73893
+['"Baking Made Easy" (2011)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Bandanonce" (2011)', '', '', '', '', 'Paris 9, Paris, France']	48.8566969	2.3514616
+['"Bandanonce" (2011)', '', '', '', '', 'Barbizon, Seine-et-Marne, France']	48.4447386	2.6064391
+['"Bar Rescue" (2011)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bar Rescue" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bar Rescue" (2011) {A Horse Walks Into a Bar (#3.9)}', 'Black Canyon City, Arizona, USA']	34.0708665	-112.1507149
+['"Bar Rescue" (2011) {Bad to the Bone (#1.7)}', '', 'Framingham, Massachusetts, USA']	42.2792625	-71.416172
+['"Bar Rescue" (2011) {Bikini Bust (#2.10)}', '', 'Orange, California, USA']	33.7500378	-117.8704931
+['"Bar Rescue" (2011) {Bottomless Pit (#2.5)}', '', 'Orange, California, USA']	33.7500378	-117.8704931
+['"Bar Rescue" (2011) {Brawlin\' Babes (#3.28)}', '', 'Grain Valley, Missouri, USA']	39.0187651	-94.1976452
+['"Bar Rescue" (2011) {Chumps (#1.8)}', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Bar Rescue" (2011) {Downey\'s and Out (#1.2)}', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Bar Rescue" (2011) {Fallen Angels (#1.1)}', '', 'Corona, California, USA']	33.8752945	-117.5664449
+['"Bar Rescue" (2011) {Jon T, He Don\'t Like It (#3.6)}', 'Aurora, Colorado, USA']	39.729432	-104.8319196
+['"Bar Rescue" (2011) {Karaoke Katastrophe (#3.8)}', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"Bar Rescue" (2011) {Mystique or Murder (#2.4)}', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"Bar Rescue" (2011) {Owner Ousted (#2.8)}', '', 'Fairfield, Ohio, USA']	39.7886111	-82.6418883
+['"Bar Rescue" (2011) {Rock N Roaches (#3.2)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Bar Rescue" (2011) {Shabby Abbey (#1.3)}', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bar Rescue" (2011) {The Blue Frog Sings the Blues (#1.6)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bar Rescue" (2011) {Tiki Curse (#2.2)}', '', '', 'Fort Lauderdale, Florida, USA']	26.1223084	-80.1433786
+['"Barcelona, ciutat neutral" (2011)', '', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Barcelona, ciutat neutral" (2011)', '', '', 'Matar�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Barcelona, ciutat neutral" (2011)', '', '', 'Santa Coloma de Cervell�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Barcelona, ciutat neutral" (2011)', '', '', 'Bigues i Riells, Barcelona, Catalonia, Spain']	41.68296785	2.2083885790461197
+['"Barcelona, ciutat neutral" (2011)', '', '', 'Caldes de Montbui, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Barcelona, ciutat neutral" (2011)', '', '', 'El Masnou, Barcelona, Catalonia, Spain']	41.4796899	2.3118347
+['"Baron Von Ghoulstein\'s Movie Crypt" (2011)', '', 'Decatur, Illinois, USA']	39.8454163	-88.9524151
+['"Based on a Couple of True Stories" (2011)', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Battle Lords" (2011)', '', '', '', '', 'Barnsboro, Pennsylvania, USA']	40.8901944	-77.7943098
+['"Battle Lords" (2011)', '', '', '', '', 'Indiana, Pennsylvania, USA']	40.6424116	-79.1262839
+['"Battle Lords" (2011)', '', '', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"Battle Lords" (2011) {Counsel (#1.7)}', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"Battle Lords" (2011) {Counsel (#1.7)}', '', '', 'Saltsburg, Pennsylvania, USA']	40.4864553	-79.4514299
+['"Bay Media Magazine" (2011)', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Bayou Billionaires" (2011) {(#2.1)}', '', '', 'Shreveport, Louisiana, USA']	32.5221828	-93.7651944
+['"Bayou Billionaires" (2011) {(#2.1)}', '', '', "Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Bayou Billionaires" (2011) {(#2.1)}', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Be Damned" (2011) {Rising Tide (#1.1)}', '', '', 'Shreveport, Louisiana, USA']	32.5221828	-93.7651944
+['"Be Damned" (2011) {Water Hits the Banks (#1.2)}', 'Shreveport, Louisiana, USA']	32.5221828	-93.7651944
+['"Bear Grylls Wild Weekends" (2011)', '', '', 'Swiss Alps, Switzerland']	46.944056950000004	7.448177773518942
+['"Beasty Training!" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beauties & the Boss" (2011)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beauty & The Bear" (2011)', '', '', '', 'Adelaide, South Australia, Australia']	-34.9281805	138.5999312
+['"Beauty & The Bear" (2011)', '', '', '', 'Hobart, Tasmania, Australia']	-42.8825088	147.3281233
+['"Beauty & The Bear" (2011)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Beauty and Fashion Photography" (2011)', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Beauty on a Budget NYC" (2011)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beaver Falls" (2011)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"Because We\'re Here" (2011)', '', '', '', 'Missoula, Montana, USA']	46.8701049	-113.9952672
+['"Becky & Barry #theactorslife" (2011)', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Becoming Famous" (2011)', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Becoming Famous" (2011)', '', '', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Bee Keeper Bands" (2011)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Beginnings" (2011)', '', '', '', '', 'Hastings, Minnesota, USA']	44.7426933	-92.8518697
+['"Beginnings" (2011)', '', '', '', '', 'Hingham, Massachusetts, USA']	42.2417669	-70.8897676
+['"Beginnings" (2011)', '', '', '', '', 'Rochester, New York, USA']	43.157285	-77.615214
+['"Beginnings" (2011)', '', '', '', '', 'Thunder Bay, Ontario, Canada']	48.406414	-89.259796
+['"Behind the Doc Lens" (2011)', '', '', '', 'Saugus, Massachusetts, USA']	42.4648183	-71.010051
+['"Behind the Scenes with Melissa Leo" (2011)', '', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Behind the Scenes: The Adventures of an Indie Filmmaker" (2011)', 'New Jersey, USA']	40.0757384	-74.4041622
+['"Being Human" (2011)', '', '', '', '', 'Montreal, Quebec, Canada']	45.4972159	-73.6103642
+['"Beirut, I Love You" (2011)', '', '', '', 'Lebanon']	33.8750629	35.843409
+['"Belinda: Un Reality Sobre Mi Vida" (2011)', '', 'Monterrey, Nuevo Le�n, Mexico']	19.4326296	-99.1331785
+['"Belinda: Un Reality Sobre Mi Vida" (2011)', '', 'Mexico']	19.4326296	-99.1331785
+['"Belonging in Boulder: Unexpected Stories from Your Neighbors" (2011)', 'Boulder, Colorado, USA']	40.0149856	-105.2705456
+['"Ben & Greg in the Office" (2011)', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Ben 10: Ultimate Challenge" (2011)', '', '', 'Three Mills Studios, Three Mill Lane, Bow, London, England, UK']	51.5073219	-0.1276474
+['"Ben and Burman" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beograd veciti grad" (2011)', '', '', '', 'Hungary']	47.1817585	19.5060937
+['"Beograd veciti grad" (2011)', '', '', '', 'Serbia']	44.1534121	20.55144
+['"Beograd veciti grad" (2011)', '', '', '', 'Turkey']	38.9597594	34.9249653
+['"Berlin - Tag & Nacht" (2011)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin Live" (2011) {Albert Hammond in Symphony}', 'Admiralspalast, Friedrichstra�e, Mitte, Berlin, Germany']	52.5176896	13.4023757
+['"Best Buds" (2011)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Betsy vs. New York" (2011)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Betsy vs. New York" (2011)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Betsy vs. New York" (2011)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Betsy vs. New York" (2011)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Better Than Life" (2011)', '', '', '', 'Essex, England, UK']	51.79669945	0.5793370437222831
+['"Bettina i Stockholm" (2011)', '', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Bettina i Stockholm" (2011)', '', '', '', 'Malm�, Sk�ne l�n, Sweden']	59.6749712	14.5208584
+['"Bettina i Stockholm" (2011)', '', '', '', 'G�teborg, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Bettina i Stockholm" (2011)', '', '', '', 'Bor�s, V�stra G�talands l�n, Sweden']	59.6749712	14.5208584
+['"Bettina i Stockholm" (2011)', '', '', '', 'V�xj�, Kronobergs l�n, Sweden']	59.6749712	14.5208584
+['"Bettina i Stockholm" (2011)', '', '', '', 'Ume�, V�sterbottens l�n, Sweden']	59.6749712	14.5208584
+['"Bettina i Stockholm" (2011)', '', '', '', 'Nacka, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Bettina i Stockholm" (2011)', '', '', '', 'Tumba, Botkyrka, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beyond Scared Straight" (2011) {Suffolk County, MA: Boys (#3.16)}', 'Milford, Massachusetts, USA']	42.1398188	-71.516174
+['"Beyond Scared Straight" (2011) {Suffolk County, MA: Boys (#3.16)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Beyond the Light Switch" (2011) {(#1.1)}', '', 'New Haven, West Virginia, USA']	38.986468	-81.9734718
+['"Beyond the Light Switch" (2011) {(#1.1)}', '', 'Dish, Texas, USA']	33.1334086	-97.301297
+['"Beyond the Light Switch" (2011) {(#1.1)}', '', 'Houston, Pennsylvania, USA']	40.2464593	-80.2114472
+['"Beyond the Light Switch" (2011) {(#1.2)}', '', 'Oak Harbor, Ohio, USA']	41.512773	-83.146578
+['"Beyond the Marquee" (2011)', '', '', '', 'California, USA']	39.7837304	-100.4458825
+['"Beyond the Search" (2011)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Beyond the Search" (2011)', '', '', '', 'Cambodia']	13.5066394	104.869423
+['"Beyond the Search" (2011)', '', '', '', 'France']	46.603354	1.8883335
+['"Beyond the Search" (2011)', '', '', '', 'Germany']	51.0834196	10.4234469
+['"Beyond the Search" (2011)', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Beyond the Search" (2011)', '', '', '', 'Italy']	42.6384261	12.674297
+['"Beyond the Search" (2011)', '', '', '', 'Romania']	45.9852129	24.6859225
+['"Beyond the Search" (2011)', '', '', '', 'Sweden']	59.6749712	14.5208584
+['"Beyond the Search" (2011)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Beyond the Search" (2011)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Bez tajemnic" (2011)', '', '', '', '', 'Poland']	52.215933	19.134422
+['"Bible\'s Buried Secrets" (2011) {Did King David\'s Empire Exist? (#1.1)}', 'Israel Museum, Jerusalem, Israel']	31.77188795	35.20338670700488
+['"Bible\'s Buried Secrets" (2011) {Did King David\'s Empire Exist? (#1.1)}', 'Mus�e du Louvre, Paris 1, Paris, France']	48.8566969	2.3514616
+['"Bible\'s Buried Secrets" (2011) {Did King David\'s Empire Exist? (#1.1)}', 'National Library of Israel, Jerusalem, Israel']	31.77586175	35.196701591316156
+['"Bible\'s Buried Secrets" (2011) {Did King David\'s Empire Exist? (#1.1)}', 'Samaria, West Bank, Palestine']	31.94696655	35.27386547291496
+['"Bible\'s Buried Secrets" (2011) {Did King David\'s Empire Exist? (#1.1)}', 'Tell es-Safi, Hebron, Israel']	31.5313113	34.8667654
+['"Bible\'s Buried Secrets" (2011) {Did King David\'s Empire Exist? (#1.1)}', 'The City of David Archaeological Park, Jerusalem, Israel']	31.77234815	35.23558136323293
+['"Bibliotekstjuven" (2011)', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Bibliotekstjuven" (2011)', '', '', '', 'Liding�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Bibliotekstjuven" (2011)', '', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Bien Simple" (2011)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Bienvenida Realidad" (2011)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Big Break Indian Wells" (2011)', '', '', '', 'Indian Wells, California, USA']	33.7217965	-116.3383034
+['"Big Break Ireland" (2011)', '', '', '', 'Ireland']	52.865196	-7.9794599
+['"Big Brother Suomi" (2011)', '', '', '', 'Espoo, Finland']	60.2241869	24.6603626
+['"Big Country Blues" (2011)', '', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"Big Country Blues" (2011)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Hair Alaska" (2011)', '', '', '', 'Wasilla, Alaska, USA']	61.5824216	-149.4425638
+['"Big Morning Buzz Live" (2011)', '', '', '', 'VH1 Headquarters, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Morning Buzz Live" (2011) {Adam Scott/Lorde (#8.5)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Angela \'Big Ang\' Raiola/The 1975 (#8.9)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Brooke Burns/Fitz and the Tantrums (#8.17)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Callie Thorne/Drew Brees/Train (#7.11)}', 'French Quarter, New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Big Morning Buzz Live" (2011) {Criss Angel/Al Sharpton/St. Lucia (#8.8)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Dr. Oz/David Arquette/Betty Who (#8.2)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Giada De Laurentiis/Daughtry/LaJune Grant (#8.13)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Grant Bowler/Haylie Duff/Lorde (#8.11)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Guy Fieri/Soleil Moon Frye/Kodaline (#8.14)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Ja Rule/The Lone Bellow (#8.15)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Jenna Dewan-Tatum/Deborah Norville/American Authors (#8.19)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Jennifer Tilly/Cash Bar Wedding (#8.10)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Kim Coles/John Legend (#8.7)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Lisa Hochstein/Diane Birch (#8.12)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Mario Lopez/New Politics (#8.1)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Melissa Gorga/Cassadee Pope (#8.6)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Natalie Dormer/Capital Cities (#8.20)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Nelly/Edi & the Wolf (#8.4)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Nigel Barker/Sam Calagione/Fifth Harmony (#8.18)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Rachael Ray/Jim James (#7.40)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Big Morning Buzz Live" (2011) {Rocco DiSpirito/TLC/Gavin DeGraw (#8.16)}', 'Times Square Studios, New York, USA']	39.7837304	-100.4458825
+['"Big Morning Buzz Live" (2011) {Sammi \'Sweetheart\' Giancola/Ronnie Ortiz-Magro/MTV Movie Awards Special (#7.60)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big Shrimpin\'" (2011)', '', '', '', '', 'Bayou La Batre, Alabama, USA']	30.425652499999998	-88.23779128864422
+['"Big Shrimpin\'" (2011)', '', '', '', '', 'Gulf of Mexico, Alabama, USA']	39.7837304	-100.4458825

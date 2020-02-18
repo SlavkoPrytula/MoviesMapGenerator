@@ -1,0 +1,149 @@
+['"24 horas" (1970/II)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"A.M. Los Angeles" (1970)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ace of Wands" (1970)', '', '', '', '', 'Watney Street Market, Commercial Road, London, England, UK']	54.7023545	-3.2765753
+['"Ace of Wands" (1970) {Now You See It, Now You Don\'t: Part 2 (#1.9)}', 'Battersea Power Station, London, England, UK']	51.482030699999996	-0.1444930732237843
+['"Across the Great Divide" (1970)', '', '', 'Bathurst Inlet, Nunavut, Canada']	66.83645609999999	-108.02157113134388
+['"Across the Great Divide" (1970)', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Across the Great Divide" (1970) {Take a Pryde in the Arctic (#1.1)}', 'Yellowknife, Northwest Territories, Canada']	62.4710386	-114.4467513
+['"Alegre teatro del domingo" (1970)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alegre teatro del domingo" (1970) {(#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alegre teatro del domingo" (1970) {(#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alegre teatro del domingo" (1970) {(#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"All My Children" (1970)', '', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970)', '', '', '', 'ABC Television Center - 4151 Prospect Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All My Children" (1970)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"All My Children" (1970)', '', '', '', 'Budapest, Hungary']	47.1817585	19.5060937
+['"All My Children" (1970)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"All My Children" (1970)', '', '', '', 'Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"All My Children" (1970) {(#1.9782)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970) {(#1.9783)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970) {(#1.9784)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970) {(#1.9785)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970) {(#1.9786)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970) {(1979-10-09)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970) {(1987-12-18)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"All My Children" (1970) {(1996-10-23)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Angelitos negros" (1970)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aquarius" (1970) {Hello Dali!}', '', '', '', 'Museo del Prado, Madrid, Spain']	40.41379945	-3.692005340690069
+['"Aquarius" (1970) {Hello Dali!}', '', '', '', 'Port Lligat, Cadaqu�s, Girona, Catalonia, Spain']	41.9793006	2.8199439
+['"Aquarius" (1970) {Reggae}', '', '', '', 'Brixton, London, England, UK']	51.4568044	-0.1167959
+['"Aquarius" (1970) {Reggae}', '', '', '', 'Notting Hill, London, England, UK']	51.5109995	-0.2055267
+['"Aquarius" (1970) {Reggae}', '', '', '', 'Stoke Newington, London, England, UK']	51.5576971	-0.0772816
+['"Aqu� Nosotros" (1970)', '', '', '', '', 'Radio Televisi�n Dominicana, Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"Arnie" (1970)', '', '', '', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {A Poem from \'Guess Who\' (#2.7)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {An Urge to Splurge (#1.2)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Boom or Bust (#2.14)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Change of a Lifetime (#1.3)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Change of a Lifetime (#1.3)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Citizen Pain (#1.20)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Citizen Pain (#1.20)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Et Tu, Arnie (#2.9)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Father Meets Daughter (#1.18)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Feud for Thought (#1.21)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {For Whom the Whistle Blows (#1.10)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Guess Who\'s Coming to Our House? (#2.16)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Hair Today, Gone Tomorrow (#1.8)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Hello, Holly (#1.17)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Honey, I\'m Sorry, But... (#2.3)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Let Ham Put You in the Driver\'s Seat (#2.12)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Let Them Eat Cookies (#1.13)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {My Sister\'s Keeper (#1.23)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arnie" (1970) {My Sister\'s Keeper (#1.23)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {No Harmony in Trying (#1.24)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Now You Take Teddy Roosevelt (#2.23)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Nuvo Riche (#2.1)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {One Strike and You\'re Out (#1.11)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {One Strike and You\'re Out (#1.11)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Pilot (#1.1)}', '', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Pushing Pinky Out of the Treehouse (#2.10)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arnie" (1970) {Pushing Pinky Out of the Treehouse (#2.10)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Room at the Top (#2.19)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Second Honeymoon (#1.15)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Sell Mates (#1.12)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Something Old, Something New, Something Borrowed, Something Blew (#2.6)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Stand Up for Julius (#1.19)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Star Trekking (#2.24)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Star Trekking (#2.24)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arnie" (1970) {Strangeness in the Night (#1.22)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arnie" (1970) {Surprise, Surprise (#2.20)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arnie" (1970) {Swinging Sixties (#1.6)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arnie" (1970) {The Friendship Gap (#1.5)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arnie" (1970) {The Gift of the Majors (#2.13)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {The Gift of the Majors (#2.13)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {The Maid (#2.4)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {The Only Way to Go (#2.15)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {The Return of \'Fingers\' Ferguson (#2.8)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Arnie" (1970) {The Return of \'Fingers\' Ferguson (#2.8)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {The Truth, the Whole Truth, and Nothing But the Truth (#2.18)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {This Land Is My Land (#2.11)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {To Buy or Not to Buy? (#1.14)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Trouble in the Air (#1.7)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Uncle Nikko (#2.21)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Welcome to the Club (#2.5)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Well, There Goes the Neighborhood (#2.2)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {What\'s Up, Doc? (#2.17)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Why Spy? (#1.9)}', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Wife vs. Secretary (#1.4)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Wife vs. Secretary (#1.4)}', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Wilson Tastes Like a Good Candidate Should (#2.22)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {Wilson Tastes Like a Good Candidate Should (#2.22)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arnie" (1970) {You Can\'t Lose for Winning (#1.16)}', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Atr�s en la v�a" (1970)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atr�s en la v�a" (1970) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Au th��tre ce soir" (1966) {Et l\'enfer Isabelle? (1970)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Aventura" (1970)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"A�os de amor y coraje" (1970)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"A�os de amor y coraje" (1970) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barefoot in the Park" (1970)', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {Corie\'s Rear Window (#1.9)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {Disorder in the Court (#1.10)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {Down with the Landlord (#1.7)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {In Sickness and in Health (#1.4)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {No Fancy Fixtures (#1.11)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {Nothin\' But the Truth (#1.12)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {Pilot (#1.1)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {Somethin\' Fishy (#1.8)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {The Bed (#1.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {The Marriage Proposal (#1.6)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {You Gotta Have Soul (#1.5)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barefoot in the Park" (1970) {You\'ll Never Walk Alone (#1.3)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Baron Von Crypt" (1970)', '', '', '', 'St. Louis, Montana, USA']	38.6268039	-90.1994097
+['"Beat the Clock" (1970)', '', '', '', '', 'Little Theatre, New York City, New York, USA']	43.15617435	-77.5979169961232

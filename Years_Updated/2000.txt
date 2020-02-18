@@ -1,0 +1,1343 @@
+['"\'More strasti\'" (2000)', '', '', '', '', 'Montenegro']	42.9868853	19.5180992
+['"100 Greatest Artists of Hard Rock" (2000)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"100 Greatest Artists of Hard Rock" (2000)', '', 'New York, USA']	40.7127281	-74.0060152
+['"106 & Park Top 10 Live" (2000)', '', '', '', 'Park Avenue and East 106th Street, Harlem, New York City, New York, USA']	40.7127281	-74.0060152
+['"106 & Park Top 10 Live" (2000)', '', '', '', 'CBS Broadcast Center, Manhattan, New York City, New York, USA']	40.76953315	-73.99067563237543
+['"18 Wheels of Justice" (2000)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"2000 Jahre Christentum" (2000) {Neue Welten - Hinter dem europ�ischen Horizont (#1.9)}', 'Antigua, Guatemala']	14.5589875	-90.7333258
+['"2000 Jahre Christentum" (2000) {Neue Welten - Hinter dem europ�ischen Horizont (#1.9)}', 'Guatemala']	15.6356088	-89.8988087
+['"2000 Jahre Christentum" (2000) {Neue Welten - Hinter dem europ�ischen Horizont (#1.9)}', 'San Andr�s Itzapa, Guatemala']	15.6356088	-89.8988087
+['"2000 Presidential Debates" (2000) {(#1.1)}', '', 'Clark Athletic Center - 100 Morrisey Blvd., University of Massachusetts, Dorchester, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2000 Presidential Debates" (2000) {(#1.2)}', '', 'Wait Chapel, Wake Forest University - 1834 Wake Forest Road, Winston-Salem, North Carolina, USA']	36.0998131	-80.2440518
+['"2000 Presidential Debates" (2000) {(#1.3)}', '', 'Field House, Washington University - 330 North Big Bend Boulevard, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2gether: The Series" (2000)', '', '', '', 'Lougheed Mall, Burnaby, British Columbia, Canada']	49.25109285	-122.89561845230483
+['"2gether: The Series" (2000)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"2gether: The Series" (2000)', '', '', '', 'Virgin MegaStore, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"7 Numara" (2000)', '', '', '', '', 'Kandilli, �sk�dar, Istanbul, Turkey']	38.9597594	34.9249653
+['"7 Numara" (2000)', '', '', '', '', 'Arnavutk�y, Istanbul, Turkey']	38.9597594	34.9249653
+['"70 m�n�tur" (2000)', '', '', '', '', 'Reykjav�k, Iceland']	64.9841821	-18.1059013
+['"A Dinner of Herbs" (2000)', '', '', '', 'Belsay Hall, Belsay, Northumberland, England, UK']	55.09961135	-1.8630407
+['"A Dinner of Herbs" (2000)', '', '', '', 'Hulne Park, Northumberland, England, UK']	55.432218000000006	-1.7493925484752704
+['"A Dinner of Herbs" (2000)', '', '', '', 'Nenthead Mine Heritage Centre, Nenthead, Alston, Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"A Dinner of Herbs" (2000)', '', '', '', 'Tyne Tees Studios, Newcastle-upon-Tyne, Tyne & Wear, England, UK']	54.9391774	-1.5948711848097146
+['"A History of Britain" (2000)', '', '', '', 'Abbaye-aux-Dames, Caen, Calvados, France']	49.18654545	-0.3526498293128191
+['"A History of Britain" (2000)', '', '', '', 'Abbey of Jumi�ges, Jumi�ges, Seine-Maritime, France']	46.603354	1.8883335
+['"A History of Britain" (2000)', '', '', '', 'Apsley House, Hyde Park Corner, Hyde Park, London, England, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Arbroath, Angus, Scotland, UK']	56.5586729	-2.5815669
+['"A History of Britain" (2000)', '', '', '', 'Bannockburn, Stirling, Scotland, UK']	56.0908921	-3.9132272
+['"A History of Britain" (2000)', '', '', '', 'Banqueting House, Whitehall, Westminster, London, England, UK']	51.50455425	-0.12591397129997825
+['"A History of Britain" (2000)', '', '', '', 'Battle Abbey, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"A History of Britain" (2000)', '', '', '', 'Beaumaris Castle, Beaumaris, Anglesey, Wales, UK']	53.264834199999996	-4.090545597557474
+['"A History of Britain" (2000)', '', '', '', 'Berkeley Castle, Berkeley, Gloucestershire, England, UK']	51.688859550000004	-2.456937044412867
+['"A History of Britain" (2000)', '', '', '', 'Berwick upon Tweed, Northumberland, England, UK']	55.774760900000004	-2.0380734299210173
+['"A History of Britain" (2000)', '', '', '', 'Bevis Marks Synagogue, Bevis Marks, London, England, UK']	51.5073219	-0.1276474
+['"A History of Britain" (2000)', '', '', '', 'Binham Priory, Binham, Norfolk, England, UK']	52.9201851	0.9464760777836205
+['"A History of Britain" (2000)', '', '', '', 'Birkenhead, Merseyside, England, UK']	53.3943509	-3.0191569
+['"A History of Britain" (2000)', '', '', '', 'Blackheath, London, England, UK']	51.4663175	0.0085624
+['"A History of Britain" (2000)', '', '', '', 'Blenheim Palace, Woodstock, Oxfordshire, England, UK']	51.833333	-1.25
+['"A History of Britain" (2000)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"A History of Britain" (2000)', '', '', '', 'Bothwell, South Lanarkshire, Scotland, UK']	55.8024749	-4.0677833
+['"A History of Britain" (2000)', '', '', '', 'Bradwell-On-Sea, Essex, England, UK']	51.7256209	0.9042368
+['"A History of Britain" (2000)', '', '', '', 'Burford, Oxfordshire, England, UK']	51.833333	-1.25
+['"A History of Britain" (2000)', '', '', '', 'Cabinet War Rooms, Clive Steps, Westminster, London, England, UK']	51.5073219	-0.1276474
+['"A History of Britain" (2000)', '', '', '', 'Caernarfon Castle, Caernarfon, Gwynedd, Wales, UK']	53.139345399999996	-4.276846019370448
+['"A History of Britain" (2000)', '', '', '', 'Caerphilly Castle, Caerphilly, Wales, UK']	51.6723809	-3.178393772876317
+['"A History of Britain" (2000)', '', '', '', 'Calcutta, West Bengal, India']	22.5677459	88.3476023
+['"A History of Britain" (2000)', '', '', '', 'Carlisle, Cumbria, England, UK']	54.8948478	-2.9362311
+['"A History of Britain" (2000)', '', '', '', 'Carrickfergus, County Antrim, Northern Ireland, UK']	54.7136165	-5.8073112
+['"A History of Britain" (2000)', '', '', '', 'Chartley Manor, Staffordshire, England, UK']	52.824694199999996	-2.0074546723348115
+['"A History of Britain" (2000)', '', '', '', 'Chartwell House, Westerham, Kent, England, UK']	51.2443661	0.08329895334931742
+['"A History of Britain" (2000)', '', '', '', 'Chatham Historic Dockyard, Chatham, Kent, England, UK']	51.2474823	0.7105077
+['"A History of Britain" (2000)', '', '', '', 'Chennai, Tamil Nadu, India']	13.0801721	80.2838331
+['"A History of Britain" (2000)', '', '', '', 'Church of St. Giles, Cheadle, Staffordshire, England, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Ch�teau de Chinon, Chinon, Indre-et-Loire, France']	47.1667182	0.2402095
+['"A History of Britain" (2000)', '', '', '', 'Ch�teau de Falaise, Falaise, Calvados, France']	48.8964741	-0.1999129
+['"A History of Britain" (2000)', '', '', '', 'Conciergerie, Paris 1, Paris, France']	48.8566969	2.3514616
+['"A History of Britain" (2000)', '', '', '', 'Conwy, Conwy, Wales, UK']	53.2811822	-3.8287012
+['"A History of Britain" (2000)', '', '', '', 'Corfe Castle, Dorset, England, UK']	50.638888	-2.0572257
+['"A History of Britain" (2000)', '', '', '', 'County Galway, Ireland']	52.865196	-7.9794599
+['"A History of Britain" (2000)', '', '', '', 'Culloden Moor, Highland, Scotland, UK']	57.4798607	-4.08774688666361
+['"A History of Britain" (2000)', '', '', '', 'Delhi, India']	28.6517178	77.2219388
+['"A History of Britain" (2000)', '', '', '', 'Denbigh Castle, Denbigh, Denbighshire, Wales, UK']	53.18073485	-3.42004057085016
+['"A History of Britain" (2000)', '', '', '', 'Dove Cottage, Grasmere, Lake District, Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"A History of Britain" (2000)', '', '', '', 'Dover Castle, Dover, Kent, England, UK']	51.1289759	1.3228764412873386
+['"A History of Britain" (2000)', '', '', '', 'Drogheda, County Louth, Ireland']	53.7149877	-6.3524183
+['"A History of Britain" (2000)', '', '', '', 'Dunbar, East Lothian, Scotland, UK']	56.0021385	-2.5158237
+['"A History of Britain" (2000)', '', '', '', 'Dunfermline Abbey, Dunfermline, Fife, Scotland, UK']	56.3333331	-3.0000001
+['"A History of Britain" (2000)', '', '', '', 'Edgehill, Warwickshire, England, UK']	52.1228634	-1.4553162
+['"A History of Britain" (2000)', '', '', '', 'Edinburgh Castle, Edinburgh, Scotland, UK']	55.94868985	-3.200410205428727
+['"A History of Britain" (2000)', '', '', '', 'Ely Cathedral, Ely, Cambridgeshire, England, UK']	52.398669049999995	0.26345712156168066
+['"A History of Britain" (2000)', '', '', '', 'Eton College, Eton, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"A History of Britain" (2000)', '', '', '', 'Evesham, Worcestershire, England, UK']	52.0940158	-1.9483083
+['"A History of Britain" (2000)', '', '', '', 'Exeter House, Derby, Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"A History of Britain" (2000)', '', '', '', 'Fishbourne Palace, Fishbourne, West Sussex, England, UK']	50.83669175	-0.8100366016558709
+['"A History of Britain" (2000)', '', '', '', 'Fontrevault Abbey, Fontrevault, Maine-et-Loire, France']	46.603354	1.8883335
+['"A History of Britain" (2000)', '', '', '', 'Fort William, Calcutta, West Bengal, India']	22.55449655	88.33801318408831
+['"A History of Britain" (2000)', '', '', '', 'Fotheringay, Northamptonshire, England, UK']	52.25	-0.833333
+['"A History of Britain" (2000)', '', '', '', 'Fountains Abbey, Studley Royal, Ripon, North Yorkshire, England, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Geddington Eleanor Glass, Geddington, Northamptonshire, England, UK']	52.25	-0.833333
+['"A History of Britain" (2000)', '', '', '', 'Girton College, Cambridge University, Cambridge, Cambridgeshire, England, UK']	52.333333	0.083333
+['"A History of Britain" (2000)', '', '', '', 'Glastonbury, Somerset, England, UK']	51.14804	-2.716577
+['"A History of Britain" (2000)', '', '', '', 'Glen Coe, Highland, Scotland, UK']	56.6669243	-5.0228812
+['"A History of Britain" (2000)', '', '', '', 'Glenfinnan, Highland, Scotland, UK']	56.8710714	-5.446437
+['"A History of Britain" (2000)', '', '', '', 'Gloucester Cathedral, Gloucester, Gloucestershire, England, UK']	51.86733875	-2.2467147448216975
+['"A History of Britain" (2000)', '', '', '', 'Grasmere, Lake District, Cumbria, England, UK']	54.6143136	-2.9420983340597866
+['"A History of Britain" (2000)', '', '', '', 'Great Dodford, Worcestershire, England, UK']	52.2109495	-2.156955513242221
+['"A History of Britain" (2000)', '', '', '', 'Great Ormond Street Hospital, 40-41 Queen Square, Bloomsbury, London, England, UK']	51.5073219	-0.1276474
+['"A History of Britain" (2000)', '', '', '', "Hadrian's Wall, Northumberland, England, UK"]	54.9964942	-1.7865646
+['"A History of Britain" (2000)', '', '', '', 'Hampton Court Palace, East Molesey, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"A History of Britain" (2000)', '', '', '', 'Harlech Castle, Harlech, Gwynedd, Wales, UK']	52.8600007	-4.108845531563849
+['"A History of Britain" (2000)', '', '', '', 'Henley-on-Thames, Oxfordshire, England, UK']	51.5375786	-0.9050287
+['"A History of Britain" (2000)', '', '', '', 'Hexham, Northumberland, England, UK']	54.9663377	-2.1195814196552223
+['"A History of Britain" (2000)', '', '', '', 'Holdenby House, Holdenby, Northamptonshire, England, UK']	52.30373015	-0.9854799806845125
+['"A History of Britain" (2000)', '', '', '', 'Holy Trinity Church, Clapham, London, England, UK']	51.4622924	-0.1388561
+['"A History of Britain" (2000)', '', '', '', 'Holyrood Park, Edinburgh, Scotland, UK']	55.9468342	-3.163671485821115
+['"A History of Britain" (2000)', '', '', '', 'Houghton Hall, Norfolk, England, UK']	52.826829200000006	0.6578567114858349
+['"A History of Britain" (2000)', '', '', '', 'Houses of Parliament, Westminster, London, England, UK']	51.499425200000005	-0.12444777279476393
+['"A History of Britain" (2000)', '', '', '', 'Hughenden Manor, Buckinghamshire, England, UK']	51.65029455	-0.7568840602809316
+['"A History of Britain" (2000)', '', '', '', 'Imperial Hotel, Delhi, India']	28.625283	77.2183628
+['"A History of Britain" (2000)', '', '', '', 'Independence National Historical Park, Philadelphia, Pennsylvania, USA']	39.951123949999996	-75.14954866326528
+['"A History of Britain" (2000)', '', '', '', 'India']	22.3511148	78.6677428
+['"A History of Britain" (2000)', '', '', '', 'Jamestown, Virginia, USA']	37.2104434	-76.7738928
+['"A History of Britain" (2000)', '', '', '', 'Jarrow, Tyne & Wear, England, UK']	54.9795929	-1.493592
+['"A History of Britain" (2000)', '', '', '', "Judge's Lodging, Presteigne, Powys, Wales, UK"]	52.326713049999995	-3.356307050877395
+['"A History of Britain" (2000)', '', '', '', 'Jura, Argyll and Bute, Scotland, UK']	55.97078175	-5.946258262026023
+['"A History of Britain" (2000)', '', '', '', 'Kenilworth Castle, Kenilworth, Warwickshire, England, UK']	52.3479445	-1.5924025908055612
+['"A History of Britain" (2000)', '', '', '', 'Kildrummy Castle, Kildrummy, Aberdeenshire, Scotland, UK']	57.166667	-2.666667
+['"A History of Britain" (2000)', '', '', '', 'Kilmainham Jail, Dublin, County Dublin, Ireland']	53.34174585	-6.309578660652412
+['"A History of Britain" (2000)', '', '', '', 'Kingston Lacy, Wimborne Minster, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"A History of Britain" (2000)', '', '', '', 'Knebworth House, Stevenage, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"A History of Britain" (2000)', '', '', '', 'La Martinere College, Lucknow, Uttar Pradesh, India']	26.8381	80.9346001
+['"A History of Britain" (2000)', '', '', '', 'Lincoln Cathedral, Lincoln, Lincolnshire, England, UK']	53.2344127	-0.536708067179123
+['"A History of Britain" (2000)', '', '', '', 'Lindisfarne Priory, Holy Island of Lindisfarne, Northumberland, England, UK']	55.25	-2.000559
+['"A History of Britain" (2000)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A History of Britain" (2000)', '', '', '', 'Long Melford, Suffolk, England, UK']	52.0715603	0.7153823
+['"A History of Britain" (2000)', '', '', '', 'Lucknow, Uttar Pradesh, India']	26.8381	80.9346001
+['"A History of Britain" (2000)', '', '', '', 'Maiden Castle, Dorchester, Dorset, England, UK']	50.6948067	-2.4701654876635057
+['"A History of Britain" (2000)', '', '', '', 'Manchester Town Hall, Albert Square, Manchester, Greater Manchester, England, UK']	53.4792494	-2.2444288376140937
+['"A History of Britain" (2000)', '', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"A History of Britain" (2000)', '', '', '', 'Montacute House, Montacute, Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"A History of Britain" (2000)', '', '', '', 'Moseley Old, Fordhouses, Wolverhampton, West Midlands, England, UK']	52.5050033	-1.964396123331272
+['"A History of Britain" (2000)', '', '', '', 'Museum of London, London Wall, London, England, UK']	51.51782915	-0.09631369681712348
+['"A History of Britain" (2000)', '', '', '', 'Mysore, Karnataka, India']	12.3051828	76.6553609
+['"A History of Britain" (2000)', '', '', '', 'Norham Castle, Norham, Northumberland, England, UK']	55.72142435	-2.1511111515382026
+['"A History of Britain" (2000)', '', '', '', 'North End, Boston, Massachusetts, USA']	42.3650974	-71.0544954
+['"A History of Britain" (2000)', '', '', '', 'Old Sarum, Wiltshire, England, UK']	51.0934539	-1.8047035798281015
+['"A History of Britain" (2000)', '', '', '', 'Old South Meeting House - 310 Washington Street, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"A History of Britain" (2000)', '', '', '', 'Osborne House, Cowes, Isle of Wight, England, UK']	50.75067965	-1.268832840410535
+['"A History of Britain" (2000)', '', '', '', 'Oxford, Oxfordshire, England, UK']	51.7520131	-1.2578499
+['"A History of Britain" (2000)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"A History of Britain" (2000)', '', '', '', 'Park Street Cemetery, Calcutta, West Bengal, India']	22.5677459	88.3476023
+['"A History of Britain" (2000)', '', '', '', 'Pepys Library, Magdalene College, Cambridge University, Cambridge, Cambridgeshire, England, UK']	52.333333	0.083333
+['"A History of Britain" (2000)', '', '', '', 'Pevensey, Kent, England, UK']	51.2756297	0.5159574
+['"A History of Britain" (2000)', '', '', '', 'Poitiers, Vienne, France']	46.5802596	0.340196
+['"A History of Britain" (2000)', '', '', '', 'Pondicherry, India']	11.9340568	79.8306447
+['"A History of Britain" (2000)', '', '', '', 'Pontigny, Yonne, France']	47.9102153	3.7113825
+['"A History of Britain" (2000)', '', '', '', 'Portchester, Kent, England, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Precinct of Canterbury Cathedral, Canterbury, Kent, England, UK']	51.2474823	0.7105077
+['"A History of Britain" (2000)', '', '', '', 'Quarry Bank Mill, Styal, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"A History of Britain" (2000)', '', '', '', 'Qu�bec, Qu�bec, Canada']	61.0666922	-107.9917071
+['"A History of Britain" (2000)', '', '', '', 'Ring Of Brodgar, Stenness, Orkney, Scotland, UK']	59.01329755	-3.2312402933283337
+['"A History of Britain" (2000)', '', '', '', 'River Boyne, Ireland']	53.5705559	-6.7281057
+['"A History of Britain" (2000)', '', '', '', 'River Orwell, Ipswich, Suffolk, England, UK']	52.0461146	1.1619429
+['"A History of Britain" (2000)', '', '', '', 'Rochester Castle, Rochester, Kent, England, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Roman Baths, Bath, Somerset, England, UK']	51.38102825	-2.3596750421489823
+['"A History of Britain" (2000)', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"A History of Britain" (2000)', '', '', '', 'Rouen, Seine-Maritime, France']	49.4404591	1.0939658
+['"A History of Britain" (2000)', '', '', '', 'Royal Naval Hospital, Greenwich, London, England, UK']	51.5073219	-0.1276474
+['"A History of Britain" (2000)', '', '', '', 'Scottish National Portrait Gallery, Edinburgh, Scotland, UK']	55.95546545	-3.1935918930369556
+['"A History of Britain" (2000)', '', '', '', 'Seine-Maritime, France']	49.66323745	0.9401133910609153
+['"A History of Britain" (2000)', '', '', '', 'Sens, Yonne, France']	48.1978559	3.282606
+['"A History of Britain" (2000)', '', '', '', 'Seven Sisters, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"A History of Britain" (2000)', '', '', '', 'Silbury Hill, Wiltshire, England, UK']	51.4157467	-1.8573944
+['"A History of Britain" (2000)', '', '', '', 'Skara Brae, Orkney, Scotland, UK']	59.0489055	-3.335586
+['"A History of Britain" (2000)', '', '', '', 'Smithfield, Holborn, London, England, UK']	51.5177519	-0.1051045
+['"A History of Britain" (2000)', '', '', '', 'Southwold, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"A History of Britain" (2000)', '', '', '', 'St. Nicholas Abbey, Barbados']	13.276483	-59.5876751
+['"A History of Britain" (2000)', '', '', '', "St. Paul's Cathedral, Ludgate Hill, London, England, UK"]	51.5138407	-0.1010349
+['"A History of Britain" (2000)', '', '', '', 'Stirling Castle, Stirling, Scotland, UK']	56.12403075	-3.9480016231672295
+['"A History of Britain" (2000)', '', '', '', 'Stourhead Garden, Warminster, Wiltshire, England, UK']	51.25	-1.916667
+['"A History of Britain" (2000)', '', '', '', 'Strokestown Park Famine Museum, Strokestown, County Roscommon, Ireland']	53.7766267	-8.1022177
+['"A History of Britain" (2000)', '', '', '', 'Sunbury Plantation House, Barbados']	13.1260939	-59.4826542
+['"A History of Britain" (2000)', '', '', '', 'Sutton Hoo, Woodbridge, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"A History of Britain" (2000)', '', '', '', 'Taj Mahal, Agra, Uttar Pradesh, India']	27.175002	78.0421170902921
+['"A History of Britain" (2000)', '', '', '', 'The Chartist Cottage, Great Dodford, Worcestershire, England, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'The Old Operating Theatre Museum, St Thomas Street, Southwark, London, England, UK']	51.505025	-0.08851978880991837
+['"A History of Britain" (2000)', '', '', '', 'Tilbury, Essex, England, UK']	51.4631174	0.3643896
+['"A History of Britain" (2000)', '', '', '', 'Totnes Castle, Totnes, Devon, England, UK']	50.4320126	-3.6906806006691917
+['"A History of Britain" (2000)', '', '', '', 'Tower of London, Whitechapel, London, England, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Trim Castle, Trim, County Meath, Ireland']	53.5542857	-6.789775120801938
+['"A History of Britain" (2000)', '', '', '', 'Ulster History Park, Cullion, Lislap, Omagh, County Tyrone, Northern Ireland, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Victoria Memorial, Maidan, Kolkata, West Bengal, India']	22.544955799999997	88.34255445135342
+['"A History of Britain" (2000)', '', '', '', 'Victoria and Albert Museum, South Kensington, London, England, UK']	51.49683505	-0.171571771757845
+['"A History of Britain" (2000)', '', '', '', "Vindolanda Fort, Hadrian's Wall, Northumberland, England, UK"]	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Walsingham, Norfolk, England, UK']	52.89879005	0.8655270627156423
+['"A History of Britain" (2000)', '', '', '', 'Waterloo, Belgium']	50.7153727	4.396367
+['"A History of Britain" (2000)', '', '', '', 'Weald & Downland Open Air Museum, Singleton, Chichester, West Sussex, England, UK']	50.90719945	-0.7593845176796019
+['"A History of Britain" (2000)', '', '', '', 'Westminster Abbey, Westminster, London, England, UK']	51.5073219	-0.1276474
+['"A History of Britain" (2000)', '', '', '', 'Whitehall, Westminster, London, England, UK']	51.5023278	-0.1260826
+['"A History of Britain" (2000)', '', '', '', 'Wigan Library, Wigan, Greater Manchester, England, UK']	53.5443512	-2.6295372
+['"A History of Britain" (2000)', '', '', '', 'Wingfield Castle, South Wingfield, Derbyshire, England, UK']	54.7023545	-3.2765753
+['"A History of Britain" (2000)', '', '', '', 'Worcester Cathedral, Worcester, Worcestershire, England, UK']	52.188560800000005	-2.2207312942693407
+['"A History of Britain" (2000)', '', '', '', 'York Minster, York, North Yorkshire, England, UK']	53.962362999999996	-1.082089092751479
+['"A History of Britain" (2000)', '', '', '', 'Yorktown Battlefield Park, Yorktown, Virginia, USA']	39.7837304	-100.4458825
+['"A Makeover Story" (2000)', '', '', '', 'USA']	39.7837304	-100.4458825
+['"A Many Splintered Thing" (2000)', '', '', 'Stansted Airport, Essex, England, UK']	51.8899889	0.26150702197225434
+['"A Many Splintered Thing" (2000) {(#1.2)}', '', 'Columbia Road, London, England, UK']	51.5200775	0.0145335
+['"A Many Splintered Thing" (2000) {(#1.6)}', '', 'Stansted Airport, Essex, England, UK']	51.8899889	0.26150702197225434
+['"A Muralha" (2000)', '', '', '', '', 'Ubatuba, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"A Nero Wolfe Mystery" (2000)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Nero Wolfe Mystery" (2000)', '', '', '', 'Parkwood Estate, Oshawa, Ontario, Canada']	43.91768	-78.862953
+['"A Nero Wolfe Mystery" (2000)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"A Nero Wolfe Mystery" (2000) {Door to Death (#1.8)}', 'Spadina House - 285 Spadina Road, Toronto, Ontario, Canada']	43.679018049999996	-79.40811569159052
+['"A Nero Wolfe Mystery" (2000) {Motherhunt: Part 2 (#2.7)}', 'Colborne Lodge, Toronto, Ontario, Canada']	43.6403622	-79.459996
+['"A Nero Wolfe Mystery" (2000) {The Silent Speaker: Part 2 (#2.14)}', 'Canada']	61.0666922	-107.9917071
+['"A Outra Face da Lua" (2000)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Place in the Sun" (2000)', '', '', '', 'Bacolet Beach, Tobago, Trinidad and Tobago']	11.173116749999998	-60.725277654011435
+['"A Place in the Sun" (2000)', '', '', '', 'Charlottesville, Virginia, USA']	38.029306	-78.4766781
+['"A Place in the Sun" (2000)', '', '', '', 'Cocoa Beach, Florida, USA']	28.3298487	-80.62054663871004
+['"A Place in the Sun" (2000)', '', '', '', 'Cocoa Village, Florida, USA']	28.3861159	-80.7419984
+['"A Place in the Sun" (2000)', '', '', '', 'Cocoa, Florida, USA']	28.3861159	-80.7419984
+['"A Place in the Sun" (2000)', '', '', '', 'Cricketers Arms Pub - 8445 International Drive, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"A Place in the Sun" (2000)', '', '', '', 'Florida Space Coast, Florida, USA']	39.7837304	-100.4458825
+['"A Place in the Sun" (2000)', '', '', '', 'France']	46.603354	1.8883335
+['"A Place in the Sun" (2000)', '', '', '', 'Kennedy Space Center, Titusville, Florida, USA']	28.6122187	-80.8075538
+['"A Place in the Sun" (2000)', '', '', '', 'Kissimmee, Florida, USA']	28.2918995	-81.4075838
+['"A Place in the Sun" (2000)', '', '', '', 'Lake Mary, Florida, USA']	28.756618000000003	-81.33888382214167
+['"A Place in the Sun" (2000)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"A Place in the Sun" (2000)', '', '', '', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"A Place in the Sun" (2000)', '', '', '', 'Oklahoma, USA']	34.9550817	-97.2684063
+['"A Place in the Sun" (2000)', '', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"A Place in the Sun" (2000)', '', '', '', 'San Fernando Valley, Los Angeles, California, USA']	34.2148853	-118.4998204
+['"A Place in the Sun" (2000)', '', '', '', 'Tobago, Trinidad and Tobago']	11.24046155	-60.67200597857749
+['"A Place in the Sun" (2000)', '', '', '', 'Trinidad, Trinidad and Tobago']	10.443024300000001	-61.26130538878063
+['"A Raia dos Medos" (2000)', '', '', '', 'Campo Maior, Portugal']	39.0122924	-7.0692642
+['"Aardvark" (2000)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Abeltje" (2000)', '', '', '', '', 'Bant, Noordoostpolder, Flevoland, Netherlands']	52.77706379999999	5.753319648106657
+['"Abeltje" (2000)', '', '', '', '', 'Luxembourg']	49.8158683	6.1296751
+['"Abeltje" (2000)', '', '', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Abeltje" (2000)', '', '', '', '', 'Spain']	39.3262345	-4.8380649
+['"Above the Law" (2000)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Abr�zame muy fuerte" (2000)', '', '', '', 'Chiapas, Mexico']	16.5000001	-92.5000001
+['"Abr�zame muy fuerte" (2000)', '', '', '', 'Tlacotalpan, Veracruz, Mexico']	18.52076065	-95.6230404402794
+['"Abr�zame muy fuerte" (2000)', '', '', '', 'Villahermosa, Tabasco, Mexico']	17.9888123	-92.9801608
+['"Access Granted" (2000) {Nelly: Pimp Juice}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Acemiler is basinda" (2000)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adam i Ewa" (2000)', '', '', '', '', 'Poland']	52.215933	19.134422
+['"Age of E" (2000)', '', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Agent" (2000)', '', '', '', '', '', 'France']	46.603354	1.8883335
+['"Agora � Que S�o Elas" (2000)', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"Agora � que S�o Eles" (2000)', '', '', '', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"Agrandaditos" (2000)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Ah geceler" (2000)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ai qing bai ke" (2000)', '', '', '', '', 'Singapore']	1.357107	103.8194992
+['"Aib�" (2000)', '', '', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Ajuste de Contas" (2000)', '', '', '', 'Bairro de Bel�m, Bel�m, Lisbon, Portugal']	40.0332629	-7.8896263
+['"Ajuste de Contas" (2000)', '', '', '', '�bidos, Leiria, Portugal']	40.0332629	-7.8896263
+['"Allen\'s Soothers Boombastic" (2000)', '', '', 'Hollywood Studios, Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Allen\'s Soothers Boombastic" (2000)', '', '', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Allen\'s Soothers Boombastic" (2000)', '', '', 'Lahore, Pakistan']	30.3308401	71.247499
+['"Almeida Garrett" (2000)', '', '', '', 'Quinta das Lagrimas, Coimbra, Portugal']	40.19926555	-8.433538389467195
+['"Almeida Garrett" (2000)', '', '', '', 'Belgium']	50.6402809	4.6667145
+['"Almeida Garrett" (2000)', '', '', '', 'Coimbra, Portugal']	40.2109801	-8.4292057
+['"Almeida Garrett" (2000)', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Almeida Garrett" (2000)', '', '', '', 'France']	46.603354	1.8883335
+['"Almeida Garrett" (2000)', '', '', '', 'G�is, Portugal']	40.0332629	-7.8896263
+['"Almeida Garrett" (2000)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Almeida Garrett" (2000)', '', '', '', 'Mafra, Portugal']	38.9369782	-9.3282374
+['"Almeida Garrett" (2000)', '', '', '', 'Matosinhos, Portugal']	41.1806814	-8.6821998
+['"Almeida Garrett" (2000)', '', '', '', 'Montemor-o-Velho, Portugal']	40.1726104	-8.6844483
+['"Almeida Garrett" (2000)', '', '', '', 'Porto, Portugal']	41.1494512	-8.6107884
+['"Almeida Garrett" (2000)', '', '', '', 'Sintra, Lisbon, Portugal']	38.8355605	-9.352225245746453
+['"Almeida Garrett" (2000)', '', '', '', 'Tent�gal, Portugal']	40.0332629	-7.8896263
+['"Almeida Garrett" (2000)', '', '', '', 'Terceira Island, Azores, Portugal']	38.72116905	-27.217595256578946
+['"Almeida Garrett" (2000)', '', '', '', 'Verride, Portugal']	40.131072200000006	-8.710021717561887
+['"Almeida Garrett" (2000)', '', '', '', 'Vila Nova de Gaia, Portugal']	41.1300103	-8.6058415
+['"Alternate Routes" (2000)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Alternate Routes" (2000)', '', '', '', 'Bangkok, Thailand']	14.8971921	100.83273
+['"Alternate Routes" (2000)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Alternate Routes" (2000)', '', '', '', 'Costa Rica']	10.2735633	-84.0739102
+['"Alternate Routes" (2000)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Alternate Routes" (2000)', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Alternate Routes" (2000)', '', '', '', 'Netherlands']	52.5001698	5.7480821
+['"Alternate Routes" (2000)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Alternate Routes" (2000)', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Alternate Routes" (2000)', '', '', '', 'Shanghai, China']	31.2322758	121.4692071
+['"Amantes de Luna Llena" (2000) {(#1.1)}', '', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"Amantes de Luna Llena" (2000) {(#1.19)}', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"Amantes de Luna Llena" (2000) {(#1.48)}', '', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"Amantes de Luna Llena" (2000) {(#1.48)}', '', 'Maracaibo, Venezuela']	10.6499149	-71.6396282
+['"America\'s Test Kitchen" (2000)', '', '', '', 'Brookline, Massachusetts, USA']	42.3317642	-71.1211635
+['"American High" (2000)', '', '', '', '', 'Deerfield High School - 1959 Waukegan Road, Deerfield, Illinois, USA']	42.186313600000005	-87.85270154775947
+['"American High" (2000)', '', '', '', '', 'Deerfield, Illinois, USA']	42.1711365	-87.8445119
+['"American High" (2000)', '', '', '', '', 'Highland Park High School - 433 Vine Street, Highland Park, Illinois, USA']	39.7837304	-100.4458825
+['"American High" (2000)', '', '', '', '', 'Highland Park, Illinois, USA']	42.1816919	-87.8003438
+['"Ammattimies" (2000)', '', '', '', '', 'Oulu, Finland']	65.0118734	25.4716809
+['"Amor latino" (2000)', '', '', '', '', 'Bal Harbour, Florida, USA']	29.5490715	-95.5220513
+['"Amor latino" (2000)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000)', '', '', '', '', 'Canary Islands, Spain']	28.2935785	-16.621447121144122
+['"Amor latino" (2000)', '', '', '', '', 'Mart�nez, San Isidro, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Amor latino" (2000) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.40)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.41)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.42)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.43)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.44)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.45)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.46)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.47)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.48)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.49)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.50)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.51)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.52)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.53)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.54)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.55)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.56)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.57)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.58)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.59)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.60)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.61)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.62)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.63)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.64)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.65)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.66)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.67)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.68)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.69)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.70)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.71)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.72)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.73)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.74)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.75)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.76)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.77)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.78)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.79)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.80)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.81)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.82)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.83)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.84)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.85)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.86)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.87)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.88)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.89)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.90)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.91)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.92)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.93)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.94)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.95)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.96)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.97)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.98)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor latino" (2000) {(#1.99)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Ana kuzusu" (2000)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Anda Pa\'l Car�" (2000)', '', '', '', '', 'San Juan, Puerto Rico']	18.22141715	-66.4132818505648
+['"Andere Tijden" (2000) {(#1.1)}', '', '', '', 'Abraham Kuyper-kamer, CDA Partijbureau, The Hague, Zuid-Holland, Netherlands']	52.5001698	5.7480821
+['"Andere Tijden" (2000) {De vergeten James Bond}', '', 'Netherlands']	52.5001698	5.7480821
+['"Andere Tijden" (2000) {De vergeten James Bond}', '', 'The Schilthorn, Piz Gloria, Kanton Bern, Switzerland']	46.7985624	8.2319736
+['"Andere Tijden" (2000) {Joop den Uyl}', '', '', 'Het Binnenhof, The Hague, Zuid-Holland, Netherlands']	52.0799838	4.3113461
+['"Andorra. Entre el torb i la Gestapo" (2000)', '', 'Andorra']	42.5407167	1.5732033
+['"Andorra. Entre el torb i la Gestapo" (2000)', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Andromeda" (2000)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {A Heart for Falsehood Framed (#2.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {A Rose in the Ashes (#1.9)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {A Symmetry of Imperfection (#4.19)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Abridging the Devil\'s Divide (#4.17)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {All Great Neptune\'s Ocean (#1.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {All Too Human (#2.6)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {An Affirming Flame (#1.2)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {And Your Heart Will Fly Away (#3.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Angel Dark, Demon Bright (#1.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Answers Given to Questions Never Asked (#4.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Attempting Screed (#5.7)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Be All My Sins Remembered (#2.14)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Belly of the Beast (#2.19)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Bunker Hill (#2.11)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Chaos and the Stillness of It (#5.20)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Conduit to Destiny (#4.8)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Cui Bono (#3.4)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {D Minus Zero (#1.4)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Dance of the Mayflies (#2.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Day of Judgement, Day of Wrath (#3.21)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Decay of the Angel (#5.4)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Deep Midnight\'s Voice (#3.18)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Delenda Est (#3.11)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Double Helix (#1.5)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Double or Nothingness (#4.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Exalted Reason, Resplendent Daughter (#4.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Exit Strategies (#2.2)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Fear Burns Down to Ashes (#4.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Fear and Loathing in the Milky Way (#1.17)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {For Whom the Bell Tolls (#3.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Forced Perspective (#1.15)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Harper 2.0 (#1.14)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Harper/Delete (#4.5)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Home Fires (#2.8)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {If the Wheel Is Fixed (#3.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Immaculate Perception (#2.21)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {In Heaven Now Are Three (#2.16)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Into the Labyrinth (#2.9)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {It Makes a Lovely Light (#1.21)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Its Hour Come \'Round at Last (#1.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Last Call at the Broken Hammer (#2.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Lava and Rockets (#2.13)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Lost in a Space That Isn\'t There (#4.16)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Machinery of the Mind (#4.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Mad to Be Saved (#3.3)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Moonlight Becomes You (#5.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Music of a Distant Drum (#1.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {One More Day\'s Light (#5.19)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Ouroboros (#2.12)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Past Is Prolix (#5.14)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Phear Phactor Phenom (#5.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Pieces of Eight (#4.2)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Pitiless as the Sun (#2.4)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Point of the Spear (#3.16)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Pride Before the Fall (#5.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Quantum Tractate Delirium (#5.18)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Saving Light from a Black Sun (#5.16)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Shadows Cast by a Final Salute (#3.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Slipfighter the Dogs of War (#3.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {So Burn the Untamed Lands (#5.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Soon the Nearing Vortex (#4.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Star-Crossed (#1.20)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Banks of the Lethe (#1.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Dark Backward (#3.12)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Devil Take the Hindmost (#1.18)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Dissonant Interval: Part One (#4.21)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Dissonant Interval: Part Two (#4.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Eschatology of Our Present (#5.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Fair Unknown (#2.18)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Heart of the Journey: Part 1 (#5.21)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Heart of the Journey: Part 2 (#5.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Honey Offering (#1.19)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Illusion of Majesty (#3.19)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Knight, Death and the Devil (#2.20)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Leper\'s Kiss (#3.7)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Lone and Level Sands (#3.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Mathematics of Tears (#1.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Opposites of Attraction (#5.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Others (#4.14)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Pearls That Were His Eyes (#1.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Prince (#2.10)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Prince (#2.10)}', '', '', 'Simon Fraser University, Burnaby, British Columbia, Canada']	49.2767454	-122.91777374910319
+['"Andromeda" (2000) {The Right Horse (#3.14)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Risk-All Point (#3.13)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Shards of Rimni (#3.2)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Spider\'s Stratagem (#4.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Sum of Its Parts (#1.16)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Test (#5.10)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Things We Cannot Change (#2.17)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Ties That Blind (#1.7)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Torment, the Release (#4.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Unconquerable Man (#3.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Warmth of an Invisible Light (#4.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Weight: Part 1 (#5.1)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Weight: Part 2 (#5.2)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The Widening Gyre (#2.1)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {The World Turns All Around Her (#4.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Through a Glass, Darkly (#5.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Time Out of Mind (#4.20)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {To Loose the Fateful Lightning (#1.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Totaled Recall (#5.17)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Trusting the Gordian Maze (#4.18)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Tunnel at the End of the Light (#2.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Twilight of the Idols (#3.20)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Una Salus Victus (#2.7)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Under the Night (#1.1)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Vault of the Heavens (#3.17)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {Waking the Tyrant\'s Device (#4.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {What Happens to a Rev Deferred? (#3.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {What Will Be Was Not (#5.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Andromeda" (2000) {When Goes Around... (#5.6)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Angelica pecado" (2000)', '', '', '', 'Caracas, Venezuela']	8.0018709	-66.1109318
+['"Animal Park" (2000)', '', '', '', '', 'Longleat House, Wiltshire, England, UK']	51.25	-1.916667
+['"Animal Park" (2000)', '', '', '', '', 'Longleat Safari Park, Longleat, Wiltshire, England, UK']	54.7023545	-3.2765753
+['"Anke" (2000)', '', '', '', '', '', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Anna Karenina" (2000)', '', '', '', '', 'Suomenlinna, Helsinki, Finland']	60.1457064	24.9888603
+['"Anna Karenina" (2000)', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Anne of Green Gables: The Continuing Story" (2000)', 'Parkwood Estate, Oshawa, Ontario, Canada']	43.904216149999996	-78.867903675
+['"Anne of Green Gables: The Continuing Story" (2000)', 'Port Hope, Ontario, Canada']	43.951058	-78.292007
+['"Anne of Green Gables: The Continuing Story" (2000)', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Anne of Green Gables: The Continuing Story" (2000)', 'Uxbridge, Ontario, Canada']	44.107556	-79.127655
+['"Anne of Green Gables: The Continuing Story" (2000) {(#1.1)}', 'Westfield Heritage Village, Rockton, Ontario, Canada']	43.3198088	-80.1428933
+['"Anne of Green Gables: The Continuing Story" (2000) {(#1.2)}', 'Westfield Heritage Village, Rockton, Ontario, Canada']	43.3198088	-80.1428933
+['"Ape-Man" (2000)', '', '', '', '', 'Ngorongoro Crater, Ngorongoro Conservation Area, Ngorongoro, Arusha, Tanzania']	-2.6769531	35.58594639295285
+['"Ape-Man" (2000)', '', '', '', '', 'Olduvai Gorge, Tanzania']	-2.972876	35.3338104
+['"Ape-Man" (2000)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"Arabian Nights" (2000)', '', '', '', '', 'Antalya Studios, Turkey']	38.9597594	34.9249653
+['"Arabian Nights" (2000)', '', '', '', '', 'Antalya, Turkey']	36.9279654	30.7276865
+['"Arabian Nights" (2000)', '', '', '', '', 'Cappadoccia, Turkey']	38.9597594	34.9249653
+['"Arabian Nights" (2000)', '', '', '', '', 'Erfoud, Morocco']	31.434992049999998	-4.232829342957164
+['"Arabian Nights" (2000)', '', '', '', '', 'Jordan']	31.1667049	36.941628
+['"Arabian Nights" (2000)', '', '', '', '', 'Turkey']	38.9597594	34.9249653
+['"Arabian Nights" (2000)', '', '', '', '', 'Yemen']	16.3471243	47.8915271
+['"Ariel Mothers aka Ariel Maa" (2000)', '', '', 'Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000)', '', '', 'Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Abbottabad City (#1.31)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Abbottabad City (#1.31)}', 'Abbottabad, Pakistan']	34.1436589	73.2139122
+['"Ariel Mothers aka Ariel Maa" (2000) {Bahawalpur City (#1.33)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Bahawalpur City (#1.33)}', 'Bahawalpur, Pakistan']	29.394644	71.6638747
+['"Ariel Mothers aka Ariel Maa" (2000) {Besham City (#1.76)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Besham City (#1.76)}', 'Besham, Pakistan']	34.9292487	72.8790291
+['"Ariel Mothers aka Ariel Maa" (2000) {Chakwal City (#1.69)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Chakwal City (#1.69)}', 'Chakwal, Pakistan']	32.9322934	72.8561658
+['"Ariel Mothers aka Ariel Maa" (2000) {Charsadda City (#1.67)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Charsadda City (#1.67)}', 'Charsadda, Pakistan']	34.1442332	71.732374
+['"Ariel Mothers aka Ariel Maa" (2000) {Chenab River, Wazirabad City (#1.58)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Chenab River, Wazirabad City (#1.58)}', 'Wazirabad, Pakistan']	27.860822	68.7095951
+['"Ariel Mothers aka Ariel Maa" (2000) {Darapur Village (#1.89)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Darapur Village (#1.89)}', 'Darapur, Punjab, Pakistan']	31.2844911	72.77380493868704
+['"Ariel Mothers aka Ariel Maa" (2000) {Dera Ghazi Khan City (#1.41)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Dera Ghazi Khan City (#1.41)}', 'Dera Ghazi Khan, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Dera Ismail Khan City (#1.55)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Dera Ismail Khan City (#1.55)}', 'Dera Ismail Khan, Pakistan']	31.827527	70.9090919
+['"Ariel Mothers aka Ariel Maa" (2000) {Dina City (#1.85)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Dina City (#1.85)}', 'Lahore, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Dina City (#1.85)}', 'Dina, Pakistan']	33.0279237	73.6010809
+['"Ariel Mothers aka Ariel Maa" (2000) {Faisalabad City (#1.90)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Faisalabad City (#1.90)}', 'Faisalabad, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Farid Town Bridge, Gujranwala I (#1.57)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Gilgit City (#1.101)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Gilgit City (#1.101)}', 'Gilgit, Pakistan']	35.9208102	74.314044
+['"Ariel Mothers aka Ariel Maa" (2000) {Gujrat City (#1.91)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Gujrat City (#1.91)}', 'Gujrat, Pakistan']	32.5686782	74.071481
+['"Ariel Mothers aka Ariel Maa" (2000) {Hala City (#1.24)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Hala City (#1.24)}', 'Hala, Sindh, Pakistan']	25.8158653	68.4259226
+['"Ariel Mothers aka Ariel Maa" (2000) {Hasan Abdal City (#1.16)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Hasan Abdal City (#1.16)}', 'Hasan Abdal, Pakistan']	33.8218473	72.6873895
+['"Ariel Mothers aka Ariel Maa" (2000) {Hunza Valley (#1.49)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Hunza Valley (#1.49)}', 'Hunza Valley, Pakistan']	36.5	75.5
+['"Ariel Mothers aka Ariel Maa" (2000) {Hyderabad City (#1.47)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Hyderabad City (#1.47)}', 'Hyderabad, Sindh, Pakistan']	25.3801017	68.3750376
+['"Ariel Mothers aka Ariel Maa" (2000) {Hyderi, Karachi (#1.64)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Hyderi, Karachi (#1.64)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Islamabad City (#1.21)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Islamabad City (#1.21)}', 'Islamabad, Pakistan']	33.6938118	73.0651511
+['"Ariel Mothers aka Ariel Maa" (2000) {Jacobabad City (#1.25)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Jacobabad City (#1.25)}', 'Jacobabad, Pakistan']	28.2813094	68.4364361
+['"Ariel Mothers aka Ariel Maa" (2000) {Jehlam City (#1.86)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Jehlam City (#1.86)}', 'Jehlam, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Kala Gujran (#1.28)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Kala Gujran (#1.28)}', 'Kala Gujran, Pakistan']	32.9733591	73.6979373
+['"Ariel Mothers aka Ariel Maa" (2000) {Kallar Kahar Lake (#1.66)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Kallar Kahar Lake (#1.66)}', 'Kallar Kahar, Chakwal, Pakistan']	32.7694656	72.6999962
+['"Ariel Mothers aka Ariel Maa" (2000) {Khairpur City (#1.73)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Khairpur City (#1.73)}', 'Khairpur, Sindh, Pakistan']	27.5295402	68.7634109
+['"Ariel Mothers aka Ariel Maa" (2000) {Kharian City (#1.40)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Kharian City (#1.40)}', 'Kharian, Pakistan']	32.8100237	73.8663245
+['"Ariel Mothers aka Ariel Maa" (2000) {Kohat City (#1.43)}', 'Karachi, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Kohat City (#1.43)}', 'Kohat, Pakistan']	33.5967144	71.4399944
+['"Ariel Mothers aka Ariel Maa" (2000) {Lahore City (#1.100)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Lahore City (#1.100)}', 'Lahore, Pakistan']	31.5656079	74.3141775
+['"Ariel Mothers aka Ariel Maa" (2000) {Lalamusa City (#1.99)}', 'Karachi, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Lalamusa City (#1.99)}', 'Lalamusa, Pakistan']	32.7078451	73.9495557
+['"Ariel Mothers aka Ariel Maa" (2000) {Manghopir Hills (#1.45)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Manghopir Hills (#1.45)}', 'Manghopir, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Mansehra City (#1.18)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Mansehra City (#1.18)}', 'Mansehra, Pakistan']	34.3286855	73.1993125
+['"Ariel Mothers aka Ariel Maa" (2000) {Mardan City (#1.15)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Mardan City (#1.15)}', 'Mardan, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Mazar-e-Quaid, Karachi II (#1.60)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Mazar-e-Quaid, Karachi II (#1.60)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Mingora City (#1.17)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Mingora City (#1.17)}', 'Mingora, Pakistan']	34.7681309	72.3684619
+['"Ariel Mothers aka Ariel Maa" (2000) {Mirpur City (#1.71)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Mirpur City (#1.71)}', 'Mirpur, Kashmir, Pakistan']	33.1486351	73.7482102
+['"Ariel Mothers aka Ariel Maa" (2000) {Mirpur Khas City (#1.94)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Mirpur Khas City (#1.94)}', 'Mirpur Khas, Pakistan']	25.5262817	69.0110617
+['"Ariel Mothers aka Ariel Maa" (2000) {Multan City (#1.35)}', 'Karachi, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Multan City (#1.35)}', 'Multan, Pakistan']	30.1979793	71.4724978
+['"Ariel Mothers aka Ariel Maa" (2000) {Murree Hill (#1.77)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Murree Hill (#1.77)}', 'Murree, Pakistan']	33.9056829	73.392674
+['"Ariel Mothers aka Ariel Maa" (2000) {Muzaffarabad City (#1.97)}', 'Karachi, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Muzaffargarh City (#1.26)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Muzaffargarh City (#1.26)}', 'Muzaffargarh, Pakistan']	30.0778083	71.1888419
+['"Ariel Mothers aka Ariel Maa" (2000) {Nathia Gali Hill Town (#1.19)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Nathia Gali Hill Town (#1.19)}', 'Nathia Gali, Khyber Pakhtunkhwa, Pakistan']	34.0717245	73.3884348
+['"Ariel Mothers aka Ariel Maa" (2000) {Nawabshah City (#1.27)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Nawabshah City (#1.27)}', 'Nawabshah, Pakistan']	26.2452915	68.4040229
+['"Ariel Mothers aka Ariel Maa" (2000) {Nowshera City (#1.79)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Nowshera City (#1.79)}', 'Nowshera, Pakistan']	34.0155606	71.981283
+['"Ariel Mothers aka Ariel Maa" (2000) {Okara City (#1.29)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Okara City (#1.29)}', 'Okara, Pakistan']	30.8091281	73.4493301
+['"Ariel Mothers aka Ariel Maa" (2000) {Peshawar City (#1.50)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Peshawar City (#1.50)}', 'Peshawar, Pakistan']	34.0123846	71.5787458
+['"Ariel Mothers aka Ariel Maa" (2000) {Rahim Yar Khan (#1.37)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Rahim Yar Khan (#1.37)}', 'Rahim Yar Khan, Pakistan']	28.416667	70.5
+['"Ariel Mothers aka Ariel Maa" (2000) {Rakaposhi Peak, Karakoram Mountain (#1.61)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Rakaposhi Peak, Karakoram Mountain (#1.61)}', 'Rakaposhi Peak, Karakoram mountain, Pakistan']	36.2323604	74.5379267
+['"Ariel Mothers aka Ariel Maa" (2000) {Rawalpindi City - I (#1.51)}', 'Rawalpindi, Pakistan']	33.6038766	73.048136
+['"Ariel Mothers aka Ariel Maa" (2000) {Rawalpindi City - I (#1.51)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Rawalpindi City - III (#1.81)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Rawalpindi City - III (#1.81)}', 'Rawalpindi, Pakistan']	33.6038766	73.048136
+['"Ariel Mothers aka Ariel Maa" (2000) {Rawalpindi City II (#1.59)}', 'Rawalpindi, Pakistan']	33.6038766	73.048136
+['"Ariel Mothers aka Ariel Maa" (2000) {Rawalpindi City II (#1.59)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Sahiwal City (#1.75)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Sahiwal City (#1.75)}', 'Sahiwal, Pakistan']	30.6715098	73.1110572
+['"Ariel Mothers aka Ariel Maa" (2000) {Sarai Alamgir (#1.23)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Sarai Alamgir (#1.23)}', 'Sarai Alamgir, Pakistan']	32.9019199	73.7535419
+['"Ariel Mothers aka Ariel Maa" (2000) {Sargodha City (#1.104)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Shahdara Bagh (#1.88)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Shahdara Bagh (#1.88)}', 'Shahdara Bagh, Pakistan']	31.6193373	74.2879839
+['"Ariel Mothers aka Ariel Maa" (2000) {Shikarpur City (#1.78)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Shikarpur City (#1.78)}', 'Shikarpur, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Sialkot City (#1.82)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Sialkot City (#1.82)}', 'Sialkot, Pakistan']	32.4935378	74.5411575
+['"Ariel Mothers aka Ariel Maa" (2000) {Sialkot Phatak, Gujranwala II (#1.34)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Sialkot Phatak, Gujranwala II (#1.34)}', 'Gujranwala, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Skardu City (#1.56)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Skardu City (#1.56)}', 'Skardu, Pakistan']	35.2875284	75.6074375
+['"Ariel Mothers aka Ariel Maa" (2000) {Sukkur City (#1.65)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Sukkur City (#1.65)}', 'Sukkur, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Thatta City (#1.14)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Thatta City (#1.14)}', 'Thatta, Pakistan']	24.7469	67.9240283
+['"Ariel Mothers aka Ariel Maa" (2000) {Umerkot, Sindh (#1.72)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Umerkot, Sindh (#1.72)}', 'Umerkot, Sindh, Pakistan']	30.3308401	71.247499
+['"Ariel Mothers aka Ariel Maa" (2000) {Vehari, Punjab (#1.30)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Vehari, Punjab (#1.30)}', 'Vehari, Punjab, Pakistan']	30.0	72.333333
+['"Ariel Mothers aka Ariel Maa" (2000) {Wah Cantonment City (#1.22)}', 'Karachi, Pakistan']	25.1446897	67.1847767315734
+['"Ariel Mothers aka Ariel Maa" (2000) {Wah Cantonment City (#1.22)}', 'Wah Cantt, Pakistan']	33.737776	72.7977543
+['"Arrest & Trial" (2000) {Miami Blues}', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Arrest & Trial" (2000) {West Hills Bandit}', '', '8470 Hillcroft Ave, Canoga Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Arrest & Trial" (2000) {West Hills Bandit}', '', '12710 Ventura Boulevard, Los Angeles, California, USA']	34.1496674	-118.4411202
+['"Arvokkaasti" (2000)', '', '', '', '', 'Pispala, Tampere, Finland']	61.5038519	23.7105743
+['"Asahi Super Dry: The Live-UK" (2000) {(2001-03-03)}', 'London Astoria, Charing Cross Road, London, England, UK']	51.5073219	-0.1276474
+['"Asian Connections" (2000)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Ask Hirsizi" (2000)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"At Home with the Braithwaites" (2000)', '', '', 'Harrogate, North Yorkshire, England, UK']	53.9921491	-1.5391039
+['"At Home with the Braithwaites" (2000)', '', '', 'Leeds, West Yorkshire, England, UK']	53.7974185	-1.5437941
+['"Audacia" (2000)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"AudioFile" (2000)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Aus gutem Haus" (2000)', '', '', '', '', 'Bremen, Germany']	53.0758196	8.8071646
+['"Aus gutem Haus" (2000)', '', '', '', '', 'Nordwolle, Delmenhorst, Lower Saxony, Germany']	53.0555708	8.6405086
+['"B.R.I.G.A.D." (2000) {La secte des lunes (#1.2)}', "Asni�res-sur-Oise, Val d'Oise, France"]	46.603354	1.8883335
+['"B.R.I.G.A.D." (2000) {Le forcen� (#1.4)}', '', "Asni�res-sur-Oise, Val d'Oise, France"]	46.603354	1.8883335
+['"BBC News at Ten O\'Clock" (2000) {(2001-03-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2002-06-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2002-11-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2005-10-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2006-01-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2006-01-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2006-04-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-01-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-02-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-03-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-04-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-04-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2007-11-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-04-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-04-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-04-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-04-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-05-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-05-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-07-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-07-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-07-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-07-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2008-08-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-01-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-02-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-03-31)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-04-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-05-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-06-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-07-31)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-08-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-09-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-10-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-11-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2009-12-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-01-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-02-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-03-31)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-04-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-05-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-06-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-07-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-08-31)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-09-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-10-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-29)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-11-30)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-15)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-16)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2010-12-23)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-05)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-06)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-07)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-10)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-11)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-12)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-13)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-14)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-17)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-19)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-21)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-27)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-28)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-01-31)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-02-01)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-02-02)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-02-03)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2011-02-04)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2012-03-08)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2012-03-09)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2016-04-20)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News at Ten O\'Clock" (2000) {(2017-05-25)}', '', "St. Ann's Square, Manchester, Greater Manchester, England, UK"]	53.50652485	-2.3374401422576687
+['"BBC News at Ten O\'Clock" (2000) {(2017-05-25)}', '', 'Wigan, Lancashire, England, UK']	53.6324923	-2.6147461
+['"BYU Devotional Address" (2000)', '', '', '', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"Baby Blues" (2000)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Backstage" (2000)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"Banditskiy Peterburg: Advokat" (2000)', '', '', 'Moscow, Russia']	55.4792046	37.3273304
+['"Banditskiy Peterburg: Advokat" (2000)', '', '', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"Banditskiy Peterburg: Baron" (2000)', '', '', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"Barchords" (2000)', '', '', '', '', 'Raleigh, North Carolina, USA']	35.7803977	-78.6390989
+['"Baren" (2000/II)', '', '', '', '', 'Alby V�rdshus, Alby, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Baren" (2000/II)', '', '', '', '', 'Gamla Stans Bryggeri, Gamla Stan, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Bargain Hunt" (2000)', '', '', '', '', 'Ardingly, West Sussex, England, UK']	51.0483535	-0.0789215
+['"Bargain Hunt" (2000)', '', '', '', '', 'Arundel Castle, Arundel, West Sussex, England, UK']	51.0	-0.416667
+['"Bargain Hunt" (2000)', '', '', '', '', 'Bath, Somerset, England, UK']	51.3813864	-2.3596963
+['"Bargain Hunt" (2000)', '', '', '', '', 'Bedford, Bedfordshire, England, UK']	52.1363806	-0.4675041
+['"Bargain Hunt" (2000)', '', '', '', '', 'Belton House, Belton, Lincolnshire, England, UK']	52.943068249999996	-0.6177459653256167
+['"Bargain Hunt" (2000)', '', '', '', '', 'Belvoir Castle, Belvoir, Leicestershire, England, UK']	52.666667	-1.0
+['"Bargain Hunt" (2000)', '', '', '', '', 'Birmingham, West Midlands, England, UK']	52.4796992	-1.9026911
+['"Bargain Hunt" (2000)', '', '', '', '', 'Blickling Hall, Blickling, Norfolk, England, UK']	52.81173495	1.2317081290178533
+['"Bargain Hunt" (2000)', '', '', '', '', 'Brighton, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Bargain Hunt" (2000)', '', '', '', '', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"Bargain Hunt" (2000)', '', '', '', '', 'Builth Wells, Powys, Wales, UK']	52.1493287	-3.4058015
+['"Bargain Hunt" (2000)', '', '', '', '', 'Canterbury, Kent, England, UK']	51.2800275	1.0802533
+['"Bargain Hunt" (2000)', '', '', '', '', 'Cardiff, South Glamorgan, Wales, UK']	51.6076829	-3.4430216
+['"Bargain Hunt" (2000)', '', '', '', '', 'Carmarthen, Carmarthenshire, Wales, UK']	51.8591257	-4.3115907
+['"Bargain Hunt" (2000)', '', '', '', '', 'Castle Howard, Coneysthorpe, North Yorkshire, England, UK']	54.1215627	-0.9066527296629547
+['"Bargain Hunt" (2000)', '', '', '', '', 'Cavern Club, Liverpool, Merseyside, England, UK']	54.7023545	-3.2765753
+['"Bargain Hunt" (2000)', '', '', '', '', 'Chatsworth House, Edensor, Derbyshire, England, UK']	53.227588850000004	-1.611362475457475
+['"Bargain Hunt" (2000)', '', '', '', '', 'Coventry, West Midlands, England, UK']	52.4081812	-1.510477
+['"Bargain Hunt" (2000)', '', '', '', '', 'Deene Park, Deene, Northamptonshire, England, UK']	52.51985105	-0.6209055467260387
+['"Bargain Hunt" (2000)', '', '', '', '', 'Derby, Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Bargain Hunt" (2000)', '', '', '', '', 'Detling, Kent, England, UK']	51.2947575	0.5690836
+['"Bargain Hunt" (2000)', '', '', '', '', 'Doddington Hall, Lincolnshire, England, UK']	53.220110000000005	-0.6536352703679157
+['"Bargain Hunt" (2000)', '', '', '', '', 'Doncaster, South Yorkshire, England, UK']	53.5227681	-1.1335312
+['"Bargain Hunt" (2000)', '', '', '', '', 'Donington Park, Wilson, Leicestershire, England, UK']	52.666667	-1.0
+['"Bargain Hunt" (2000)', '', '', '', '', 'Eastbourne, East Sussex, England, UK']	50.7685761	0.2957854
+['"Bargain Hunt" (2000)', '', '', '', '', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"Bargain Hunt" (2000)', '', '', '', '', 'Elstow, Bedfordshire, England, UK']	52.064003400000004	-0.41111375560310925
+['"Bargain Hunt" (2000)', '', '', '', '', 'Exeter, Devon, England, UK']	50.725562	-3.5269108
+['"Bargain Hunt" (2000)', '', '', '', '', 'Eyam, Derbyshire, England, UK']	53.2837249	-1.6725141
+['"Bargain Hunt" (2000)', '', '', '', '', 'Firle Place, West Firle, East Sussex, England, UK']	50.84493775	0.09133006192724352
+['"Bargain Hunt" (2000)', '', '', '', '', 'Folkestone, Kent, England, UK']	51.2474823	0.7105077
+['"Bargain Hunt" (2000)', '', '', '', '', 'Glynde Place, Glynde, East Sussex, England, UK']	50.865092849999996	0.06807547366648731
+['"Bargain Hunt" (2000)', '', '', '', '', 'Grantham, Lincolnshire, England, UK']	52.9133829	-0.6426582
+['"Bargain Hunt" (2000)', '', '', '', '', 'Great Malvern, Worcestershire, England, UK']	52.1109798	-2.3285836
+['"Bargain Hunt" (2000)', '', '', '', '', 'Grimsthorpe Castle, Grimsthorpe, Lincolnshire, England, UK']	53.166667	-0.25
+['"Bargain Hunt" (2000)', '', '', '', '', 'Guernsey, Channel Islands']	49.580437	-2.484854
+['"Bargain Hunt" (2000)', '', '', '', '', 'Haddon Hall, Bakewell, Derbyshire, England, UK']	53.193825000000004	-1.649561459834844
+['"Bargain Hunt" (2000)', '', '', '', '', 'Hale, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"Bargain Hunt" (2000)', '', '', '', '', 'Harewood House, Harewood, West Yorkshire, England, UK']	53.89692265	-1.5273142926892964
+['"Bargain Hunt" (2000)', '', '', '', '', 'Harrogate, North Yorkshire, England, UK']	53.9921491	-1.5391039
+['"Bargain Hunt" (2000)', '', '', '', '', 'Hever Castle, Hever, Kent, England, UK']	51.1869031	0.1138706874738442
+['"Bargain Hunt" (2000)', '', '', '', '', 'Honiton, Devon, England, UK']	50.75	-3.75
+['"Bargain Hunt" (2000)', '', '', '', '', 'Ightham Mote, Ivy Hatch, Kent, England, UK']	51.258458899999994	0.26984495092441824
+['"Bargain Hunt" (2000)', '', '', '', '', 'Ingliston, Edinburgh, Scotland, UK']	55.9409887	-3.3600787
+['"Bargain Hunt" (2000)', '', '', '', '', 'Jersey, Channel Islands']	49.2291856	-2.2343313
+['"Bargain Hunt" (2000)', '', '', '', '', 'Kedleston Hall, Kedleston, Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Bargain Hunt" (2000)', '', '', '', '', 'Knowle, Solihull, West Midlands, England, UK']	52.3932659	-1.738959
+['"Bargain Hunt" (2000)', '', '', '', '', 'Lacock, Wiltshire, England, UK']	51.413844	-2.1208721
+['"Bargain Hunt" (2000)', '', '', '', '', 'Le Bourget, Seine-Saint-Denis, France']	48.9351403	2.4258354
+['"Bargain Hunt" (2000)', '', '', '', '', 'Leamington Spa, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"Bargain Hunt" (2000)', '', '', '', '', 'Lennoxlove House, Bolton, East Lothian, Scotland, UK']	55.93905465	-2.7778853397945404
+['"Bargain Hunt" (2000)', '', '', '', '', 'Leominster, Herefordshire, England, UK']	52.2273558	-2.7375333
+['"Bargain Hunt" (2000)', '', '', '', '', 'Leyburn, North Yorkshire, England, UK']	54.3105988	-1.8270091
+['"Bargain Hunt" (2000)', '', '', '', '', 'Lichfield, Staffordshire, England, UK']	52.824694199999996	-2.0074546723348115
+['"Bargain Hunt" (2000)', '', '', '', '', 'Macclesfield, Cheshire, England, UK']	53.2606635	-2.1255158
+['"Bargain Hunt" (2000)', '', '', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"Bargain Hunt" (2000)', '', '', '', '', 'Newark-on-Trent, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Bargain Hunt" (2000)', '', '', '', '', 'Newmarket, Suffolk, England, UK']	52.2443103	0.4065503
+['"Bargain Hunt" (2000)', '', '', '', '', 'Newstead Abbey, Newstead Abbey Park, Ravenshead, Nottinghamshire, England, UK']	53.166667	-1.0
+['"Bargain Hunt" (2000)', '', '', '', '', 'Norwich, Norfolk, England, UK']	52.666667	1.0
+['"Bargain Hunt" (2000)', '', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Bargain Hunt" (2000)', '', '', '', '', 'Peterborough, Cambridgeshire, England, UK']	52.5725769	-0.2427336
+['"Bargain Hunt" (2000)', '', '', '', '', 'Plympton, Plymouth, Devon, England, UK']	50.3898235	-4.0585654
+['"Bargain Hunt" (2000)', '', '', '', '', 'Polesden Lacey, Great Bookham, Dorking, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Bargain Hunt" (2000)', '', '', '', '', 'Rockingham Castle, Rockingham, Corby, Northamptonshire, England, UK']	52.5129796	-0.7241896361520657
+['"Bargain Hunt" (2000)', '', '', '', '', "Royal Crown Derby Visitor's Centre, Derby, Derbyshire, England, UK"]	53.1185033	-1.5566179305872212
+['"Bargain Hunt" (2000)', '', '', '', '', 'Sandwich, Kent, England, UK']	51.2474823	0.7105077
+['"Bargain Hunt" (2000)', '', '', '', '', 'Shepton Mallet, Somerset, England, UK']	51.1909451	-2.5461298
+['"Bargain Hunt" (2000)', '', '', '', '', 'Standen, East Grinstead, West Sussex, England, UK']	51.102867700000004	-0.016632227035837645
+['"Bargain Hunt" (2000)', '', '', '', '', 'Stratford-upon-Avon, Warwickshire, England, UK']	52.1927885	-1.7063668
+['"Bargain Hunt" (2000)', '', '', '', '', 'Swinderby, Lincolnshire, England, UK']	53.166667	-0.25
+['"Bargain Hunt" (2000)', '', '', '', '', 'Tatton Park, Knutsford, Cheshire, England, UK']	53.32475975	-2.3770745048593858
+['"Bargain Hunt" (2000)', '', '', '', '', 'Taunton, Somerset, England, UK']	51.014781	-3.1029395
+['"Bargain Hunt" (2000)', '', '', '', '', 'The Lanes, Brighton, East Sussex, England, UK']	54.7023545	-3.2765753
+['"Bargain Hunt" (2000)', '', '', '', '', 'Royal Tunbridge Wells, Kent, England, UK']	51.1371483	0.2673446
+['"Bargain Hunt" (2000)', '', '', '', '', 'University of Derby, Derby, Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Bargain Hunt" (2000)', '', '', '', '', 'Wensleydale, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"Bargain Hunt" (2000)', '', '', '', '', 'Wetherby, West Yorkshire, England, UK']	53.928397	-1.3866664
+['"Bargain Hunt" (2000) {Ardingly (#29.10)}', '', 'Ardingly, West Sussex, England, UK']	51.0483535	-0.0789215
+['"Bargain Hunt" (2000) {Ardingly (#29.10)}', '', 'Portsmouth Historic Dockyard, Portsmouth, Hampshire, England, UK']	51.083333	-1.166667
+['"Bargain Hunt" (2000) {Derby (#26.14)}', '', '', 'Claydon House, Middle Claydon, Buckinghamshire, England, UK']	51.921875549999996	-0.955589140335596
+['"Bargain Hunt" (2000) {Derby (#26.14)}', '', '', 'University of Derby, Derby, Derbyshire, England, UK']	53.1185033	-1.5566179305872212
+['"Bargain Hunt" (2000) {Lincoln 20 (#28.20)}', '', 'Linley Sanbourne house, 18 Stafford Terrace, Kensington, London, England, UK']	51.5073219	-0.1276474
+['"Barnen p� Luna" (2000) {Avsnitt 1 (#1.1)}', '', 'Beckholmen, Djurg�rden, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Barnen p� Luna" (2000) {Avsnitt 4 (#1.4)}', '', 'Vaxholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Barrymore on Broadway" (2000)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Barrymore on Broadway" (2000)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Baska yerde yok" (2000)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Baska yerde yok" (2000) {(2003-12-15)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Baska yerde yok" (2000) {(2004-02-19)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Baska yerde yok" (2000) {(2004-04-30)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Baska yerde yok" (2000) {(2004-11-06)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Baska yerde yok" (2000) {(2004-11-20)}', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Battery Park" (2000)', '', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Battery Park" (2000)', '', '', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Battle of Britain" (2000)', '', '', '', 'Old Warden Aerodrome, Biggleswade, Bedfordshire, England, UK']	52.064003400000004	-0.41111375560310925
+['"BattleBots" (2000)', '', '', '', '', 'Treasure Island, San Francisco Bay, California, USA']	37.71402905	-122.30779415179862
+['"Bayerisches Heimatmuseum" (2000) {Von der Kaiserpfalz zur Kulturpfalz - Pfalzmuseum Forchheim}', 'Forchheim, Bavaria, Germany']	49.7187128	11.059642
+['"Baykuslarin saltanati" (2000)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Bazgasht be khane" (2000)', '', '', '', 'Tehran, Iran']	32.6475314	54.5643516
+['"Beautiful Life" (2000)', '', '', '', '', 'Hasse-cho, Miura-shi, Kanagawa, Japan']	35.1550499	139.6406823
+['"Best of British" (2000)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Best of British" (2000)', '', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"Bette" (2000)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bette" (2000) {Pilot (#1.1)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Brother" (2000/II)', '', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big Brother" (2000/II)', '', '', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Big Brother" (2000/III)', '', '', '', 'Bow, London, England, UK']	51.5283085	-0.0194816
+['"Big Brother" (2000/III)', '', '', '', 'Elstree Studios, Borehamwood, Hertfordshire, England, UK']	51.6582116	-0.2708065
+['"Big Brother" (2000/V)', '', '', '', '', 'V�rtahamnen, Hjorthagen, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Bilder einer Landschaft" (2000) {Das Karwendel - Zwischen Isar und Ri�bach}', 'Karwendel, Bavaria, Germany']	48.0368586	10.716324147020522
+['"Bilder einer Landschaft" (2000) {Das Karwendel - Zwischen Isar und Ri�bach}', 'Karwendel, Tirol, Austria']	47.418397600000006	11.503260379983729
+['"Bilder einer Landschaft" (2000) {Der Hochschwab - Unterwegs im steirischen Gamsgebirg}', 'Hochschwab, Steiermark, Austria']	47.55874445	15.087006250311832
+['"Bilder einer Landschaft" (2000) {Die Wildsch�nau - Idylle hinterm Berg}', 'Wildsch�nau, Tirol, Austria']	47.2000338	13.199959

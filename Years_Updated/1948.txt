@@ -1,0 +1,70 @@
+['"ABC 7 Chicago" (1948)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Actor\'s Studio" (1948)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {A Child Is Born (#2.13)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {A Day in Town (#1.15)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {A Reputation (#1.28)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {A Trip to Czardis (#1.19)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Alison\'s House (#2.27)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {An Ingenue of the Sierras (#2.16)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Clarissa (#2.5)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Concerning a Woman of Sin (#1.26)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Country Full of Swedes (#2.14)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Dead Man (#1.25)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {From Paradise to Butte (#1.30)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Goodbye, Miss Lizzie Borden (#1.9)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Greasy Luck (#1.23)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Hannah (#2.15)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Here Comes Spring (#1.31)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {I Can\'t Breathe (#1.29)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {I\'m No Hero (#1.16)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {It\'s a Free Country (#2.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Jim Pemberton and His Boy Trigger (#1.20)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Joe McSween\'s Atomic Machine (#1.24)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Joe McSween\'s Atomic Machine (#2.19)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Mr. Mummery\'s Suspicion (#2.21)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Night Club (#1.2)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {O\'Halloran\'s Luck (#2.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Portrait of a Madonna (#1.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Ropes (#1.7)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Salt of the Earth (#1.33)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Sanctuary in Paris (#2.25)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Screwball (#2.26)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Somebody Has to Be Nobody (#1.32)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Spreading the News (#1.34)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Telas, the King (#2.20)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Ten Percent (#1.10)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Terror in the Streets (#2.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Apple Tree (#2.22)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Canterville Ghost (#2.1)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Catbird Seat (#1.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Frame-Up (#2.8)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Giant\'s Stair (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Good Companions (#2.30)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Inexperienced Ghost (#1.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Lady on 142 (#1.18)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Little Wife (#1.17)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Little Wife (#2.17)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Man Who Lost Christmas (#1.13)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Man with the Heart in the Highlands (#2.11)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Midway (#2.12)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Night the Ghost Got In (#1.11)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Pink Hussar (#2.23)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Return to Kansas City (#2.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Salt of the Earth (#2.24)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Swan (#2.29)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Tell-Tale Heart (#1.22)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Thousand Dollar Bill (#1.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Thousand Dollar Bill (restaged) (#2.10)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Three Strangers (#2.9)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Timid Guy (#2.18)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Token (#2.28)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {The Widow of Wasdale Head (#1.12)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Three O\'Clock (#1.27)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {To the Lovely Margaret (#1.14)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {We\'ll Never Have a Nickel (#2.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {You\'re Breaking My Heart (#1.35)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Actor\'s Studio" (1948) {Zone of Quiet (#1.21)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Adventures in Music" (1948)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Amanda" (1948)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Town Meeting" (1948)', '', '', '', 'Town Hall - 123 West 43rd Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Apartment 4A" (1948)', '', '', '', '', 'Pasadena, California, USA']	34.1476452	-118.1444779

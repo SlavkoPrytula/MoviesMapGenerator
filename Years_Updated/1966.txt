@@ -1,0 +1,219 @@
+['"1966 World Series" (1966)', '', '', '', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"1966 World Series" (1966)', '', '', '', 'Memorial Stadium - 1000 E. 33rd Street, Baltimore, Maryland, USA']	39.284749399999995	-76.62047463969989
+['"A Tale of Two Rivers" (1966)', '', '', '', 'River Thames, London, England, UK']	51.5601534	-0.7793712
+['"A Tale of Two Rivers" (1966)', '', '', '', 'Neuilly, Seine, France']	48.8558787	2.5319597
+['"A Tale of Two Rivers" (1966)', '', '', '', 'Tour Eiffel, Champ de Mars, Paris 7, Paris, France']	48.8566969	2.3514616
+['"ABC Stage 67" (1966) {David Frost\'s Night Out in London (#1.18)}', 'London, England, UK']	51.5073219	-0.1276474
+['"ABC Stage 67" (1966) {The Canterville Ghost (#1.7)}', 'Allington Castle, Maidstone, Kent, England, UK']	51.2474823	0.7105077
+['"ABC Stage 67" (1966) {The Human Voice (#1.26)}', '', 'Wembley Studios, Wembley, London, England, UK']	51.5073219	-0.1276474
+['"ABC Stage 67" (1966) {The Legend of Marilyn Monroe (#1.11)}', 'Westwood, Los Angeles, California, USA']	34.0561207	-118.4306347
+['"ABC Stage 67" (1966) {The Love Song of Barney Kempinski (#1.1)}', 'Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Stage 67" (1966) {Trilogy: The American Boy - Skaterdater/The River Boy/Reflections) (#1.22)}', 'Louisiana, USA']	30.8703881	-92.007126
+['"ABC Stage 67" (1966) {Trilogy: The American Boy - Skaterdater/The River Boy/Reflections) (#1.22)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"ABC Stage 67" (1966) {Trilogy: The American Boy - Skaterdater/The River Boy/Reflections) (#1.22)}', 'Southern California, California, USA']	34.0218833	-118.28586726915088
+['"Adam Adamant Lives!" (1966) {Death Has a Thousand Faces (#1.2)}', 'Blackpool, Lancashire, England, UK']	53.77493495	-3.047551917868039
+['"Adrian, der Tulpendieb" (1966)', '', '', '', 'Bavaria-Ateliers, Geiselgasteig, Gr�nwald, Bavaria, Germany']	51.0834196	10.4234469
+['"Adrian, der Tulpendieb" (1966)', '', '', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Adrian, der Tulpendieb" (1966)', '', '', '', 'Netherlands']	52.5001698	5.7480821
+['"Algo caliente bajo la piel" (1966)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alias Buen Mozo" (1966)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Angustia que trajo el amor" (1966)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprendiendo a Vivir" (1966)', '', '', '', 'Guadalajara, Jalisco, Mexico']	20.6720375	-103.3383962
+['"Arthur! And the Square Knights of the Round Table" (1966)', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Au th��tre ce soir" (1966) {Acapulco madame}', '', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Ami-ami}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Auguste (#2.16)}', '', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Aza�s}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Bol�ro}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Caroline}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Chat en poche (#10.6)}', 'Th��tre Edouard VII, Paris 9, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Colinette}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Des choses merveilleuses}', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Edm�e}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	46.603354	1.8883335
+['"Au th��tre ce soir" (1966) {Ferraille � vendre}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Fric-Frac (#6.9)}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Herminie}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Histoire d\'un d�tective}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Hold Up (#15.1)}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Il y a longtemps que je t\'aime}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Il �tait une gare}', '', 'Th��tre Edouard VII, Paris 9, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Interdit au public (#1.16)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {J\'y suis... j\'y reste!}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Je l\'aimais trop (#5.13)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Je l\'aimais trop}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {L\'honneur des Cipolino}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {L\'or et la paille}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La Parisienne (#9.18)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La brune que voil�}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La cruche}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La mani�re forte}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La mari�e est trop belle}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La perruche et le poulet (#4.4)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La pomme (#18.10)}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La pr�tentaine 1967}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La toile d\'araign�e}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La t�te des autres}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {La voyante}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Le mari, la femme et la mort (#5.15)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Le million}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Le minotaure}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Le moulin de la galette}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Le rayon des jouets}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Le syst�me Fabrizzi}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Les amants novices}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Les compagnons de la marjolaine}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Les croulants se portent bien}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Les hannetons}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Les quatre v�rit�s}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Les vignes du seigneur}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Lysistrata}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Madame Sans-G�ne (#9.14)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Mademoiselle (#3.15)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Ma�tre Bolbec et son mari}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Peau de vache}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Pour avoir Adrienne (#2.13)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {P�trus}', '', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Tout dans le jardin}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Un ange passe}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Un d�ner intime}', '', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Un fil � la patte (#5.21)}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Au th��tre ce soir" (1966) {Une nuit chez vous Madame}', 'Th��tre Marigny, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Auf der Leseb�hne der Literarischen Illustrierten" (1966)', 'Stuttgart, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Axel Nort" (1966)', '', '', '', '', 'Bouillon, Belgium']	49.7949836	5.0672528
+['"Axel Nort" (1966)', '', '', '', '', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"Axel Nort" (1966)', '', '', '', '', 'Diksmuide, Belgium']	51.0333408	2.8647185
+['"Axel Nort" (1966)', '', '', '', '', 'Poperinge, Belgium']	50.6402809	4.6667145
+['"Axel Nort" (1966)', '', '', '', '', 'Ronse, Belgium']	50.7476192	3.6020465
+['"Axel Nort" (1966) {Moloch (#1.16)}', '', '', 'Conques, Belgium']	49.7689337	5.2376641
+['"Bat Out of Hell" (1966) {(#1.1)}', '', '', 'Chichester, West Sussex, England, UK']	50.8364862	-0.7791721
+['"Bat Out of Hell" (1966) {(#1.2)}', '', '', 'Chichester, West Sussex, England, UK']	50.8364862	-0.7791721
+['"Bat Out of Hell" (1966) {(#1.3)}', '', '', 'Chichester, West Sussex, England, UK']	50.8364862	-0.7791721
+['"Bat Out of Hell" (1966) {(#1.4)}', '', '', 'Chichester, West Sussex, England, UK']	50.8364862	-0.7791721
+['"Bat Out of Hell" (1966) {(#1.5)}', '', '', 'Chichester, West Sussex, England, UK']	50.8364862	-0.7791721
+['"Batman" (1966)', '', '', '', '', '', '380 South San Rafael Avenue, Pasadena, California, USA']	34.136524178859	-118.1706399607389
+['"Batman" (1966)', '', '', '', '', '', 'Backlot, Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Batman" (1966)', '', '', '', '', '', 'Bronson Caves, Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966)', '', '', '', '', '', 'Desilu Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Batman" (1966)', '', '', '', '', '', 'Stage 9, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {A Death Worse Than Fate (#1.10)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {A Horse of Another Color (#3.5)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {A Piece of the Action (#2.51)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {A Riddle a Day Keeps the Riddler Away (#1.11)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {A Riddling Controversy (#2.46)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {An Egg Grows in Gotham (#2.13)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Barbecued Batman? (#2.6)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Batman Displays His Knowledge (#2.50)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Batman Is Riled (#1.6)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Batman Makes the Scenes (#1.34)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Batman Sets the Pace (#1.26)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Batman Stands Pat (#1.14)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Batman\'s Anniversary (#2.45)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Batman\'s Satisfaction (#2.52)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Batman\'s Waterloo (#2.54)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Better Luck Next Time (#1.20)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Black Widow Strikes Again (#2.55)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Catwoman Goes to College (#2.49)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Catwoman\'s Dressed to Kill (#3.14)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Caught in the Spider\'s Den (#2.56)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Come Back, Shame (#2.25)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Death in Slow Motion (#1.31)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Deep Freeze (#2.20)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Dizzoner the Penguin (#2.18)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Enter Batgirl, Exit Penguin (#3.1)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Fine Feathered Finks (#1.3)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Fine Finny Fiends (#1.33)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Flop Goes the Joker (#2.58)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Give \'Em the Axe (#1.24)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Green Ice (#2.19)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {He Meets His Match, the Grisly Ghoul (#1.16)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Hi Diddle Riddle (#1.1)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Hizzonner the Penguin (#2.17)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Holy Rat Race (#1.18)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Hot Off the Griddle (#2.3)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {How to Hatch a Dinosaur (#3.9)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {I\'ll Be a Mummy\'s Uncle (#3.23)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Ice Spy (#2.59)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Instant Freeze (#1.7)}', '', '', '2 Broadway, Manhattan, New York City, New York, USA']	40.70446735	-74.01263158084157
+['"Batman" (1966) {Instant Freeze (#1.7)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {It\'s How You Play the Game (#2.26)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {King Tut\'s Coup (#2.53)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Louie\'s Lethal Lilac Time (#3.18)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Louie, the Lilac (#3.7)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Ma Parker (#2.10)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Marsha\'s Scheme of Diamonds (#2.24)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Marsha, Queen of Diamonds (#2.23)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Minerva, Mayhem and Millionaires (#3.26)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Nora Clavicle and the Ladies\' Crime Club (#3.19)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Not Yet, He Ain\'t (#1.22)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Penguin Is a Girl\'s Best Friend (#2.42)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Penguin Sets a Trend (#2.43)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Penguin\'s Clean Sweep (#3.20)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Penguin\'s Disastrous End (#2.44)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Pop Goes the Joker (#2.57)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Rats Like Cheese (#1.8)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Ring Around the Riddler (#3.2)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Scat! Darn Catwoman (#2.41)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Shoot a Crooked Arrow (#2.1)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Smack in the Middle (#1.2)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Surf\'s Up! Joker\'s Under! (#3.10)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {That Darn Catwoman (#2.40)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Bat\'s Kow Tow (#2.30)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Bird\'s Last Jest (#2.28)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Bloody Tower (#3.13)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Bookworm Turns (#1.29)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Cat and the Fiddle (#2.4)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Cat\'s Meow (#2.29)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Catwoman Goeth (#2.34)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Clock King Gets Crowned (#2.12)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Clock King\'s Crazy Crimes (#2.11)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Contaminated Cowl (#2.35)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Curse of Tut (#1.27)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Dead Ringers (#2.16)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Devil\'s Fingers (#2.15)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Duo Defy (#2.60)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Duo Is Slumming (#2.32)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Entrancing Dr. Cassandra (#3.25)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Foggiest Notion (#3.12)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Funny Feline Felonies (#3.16)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Great Escape (#3.21)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Great Train Robbery (#3.22)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Greatest Mother of Them All (#2.9)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Impractical Joker (#2.21)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joke\'s on Catwoman (#3.17)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joker Goes to School (#1.15)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joker Is Wild (#1.5)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joker Trumps an Ace (#1.25)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joker\'s Epitaph (#2.48)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joker\'s Flying Saucer (#3.24)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joker\'s Hard Times (#2.38)}', 'Rancho Park Golf Course, 10460 West Pico Blvd, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Batman" (1966) {The Joker\'s Hard Times (#2.38)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joker\'s Last Laugh (#2.47)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Joker\'s Provokers (#2.22)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Londinium Larcenies (#3.11)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Mad Hatter Runs Afoul (#2.36)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Minstrel\'s Shakedown (#2.5)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Ogg Couple (#3.15)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Ogg and I (#3.8)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Penguin Declines (#2.39)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Penguin Goes Straight (#1.21)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Penguin\'s Nest (#2.27)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Penguin\'s a Jinx (#1.4)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Pharaoh\'s in a Rut (#1.28)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Purr-fect Crime (#1.19)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Puzzles Are Coming (#2.31)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Riddler\'s False Notion (#1.32)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Ring of Wax (#1.23)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Sandman Cometh (#2.33)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Spell of Tut (#2.7)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Sport of Penguins (#3.4)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Thirteenth Hat (#1.13)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Unkindest Tut of All (#3.6)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Wail of the Siren (#3.3)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Yegg Foes in Gotham (#2.14)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {The Zodiac Crimes (#2.37)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {True or False Face (#1.17)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Tut\'s Case Is Shut (#2.8)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Walk the Straight and Narrow (#2.2)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {When the Rat\'s Away, the Mice Will Play (#1.12)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {While Gotham City Burns (#1.30)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Batman" (1966) {Zelda the Great (#1.9)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666

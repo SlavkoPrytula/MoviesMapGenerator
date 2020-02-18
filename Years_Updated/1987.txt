@@ -1,0 +1,233 @@
+['"01-For London" (1987)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"13 x 13" (1987) {El mateix paisatge (#1.4)}', '', 'El Molino, Barcelona, Catalonia, Spain']	41.3745513	2.1672449
+['"21 Jump Street" (1987)', '', '', '', '', 'New Westminster Secondary School, New Westminster, British Columbia, Canada']	49.205728	-122.9108651
+['"21 Jump Street" (1987)', '', '', '', '', 'Oakridge Shopping Centre, Vancouver, British Columbia, Canada']	49.2308288	-123.1311342
+['"21 Jump Street" (1987)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"21 Jump Street" (1987) {Don\'t Stretch the Rainbow (#2.7)}', 'Point Grey Secondary School, Vancouver, British Columbia, Canada']	49.23726035	-123.15233291029864
+['"21 Jump Street" (1987) {Orpheus 3.3 (#2.16)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"21 Jump Street" (1987) {Out of Control (#4.7)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"21 Jump Street" (1987) {The Dreaded Return of Russell Buckins (#3.12)}', 'Hatley Castle, Royal Roads, Colwood, British Columbia, Canada']	48.4234135	-123.4939645
+['"A Bit of Fry and Laurie" (1987) {(#1.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#1.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#1.3)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#1.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#1.5)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#1.6)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#2.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#2.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#2.3)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#2.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#2.5)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#2.6)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#3.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#3.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#3.3)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#3.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#3.5)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#3.6)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#4.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#4.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#4.3)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#4.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#4.5)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#4.6)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {(#4.7)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Bit of Fry and Laurie" (1987) {Pilot (#1.0)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Different World" (1987)', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {21 Candles (#3.20)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {A Camp Fire Story (#3.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {A Rock, a River, a Lena (#6.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {A Stepping Stone (#2.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {A Word in Edgewise (#4.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {A World Alike (#3.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Advise and Descent (#1.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {All\'s Fair (#2.9)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Almost Working Girl (#5.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Answered Prayers (#3.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Baby, I\'m a Star (#5.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Baby, It\'s Cold Outside (#6.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Bedroom at the Top (#5.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Blues for Nobody\'s Child (#4.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Breaking Up Is Hard to Do (#2.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Cabin in the Sky (#6.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Citizen Wayne (#2.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Clair\'s Last Stand (#1.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {College Kid (#6.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Come Back, Little Eggby (#1.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Conflict of Interest (#5.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Dancing Machines (#6.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Delusions of Daddyhood (#3.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Do You Take This Woman? (#5.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Do the Write Thing (#5.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Does He or Doesn\'t He? (#1.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Don\'t Count Your Chickens Before They\'re Axed (#6.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Dr. Cupid (#1.15)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Dr. War Is Hell (#2.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Dream Lover (#2.4)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Everything Must Change (#4.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Ex-Communication (#4.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Faith, Hope, and Charity: Part 1 (#6.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Faith, Hope, and Charity: Part 2 (#6.10)}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"A Different World" (1987) {Faith, Hope, and Charity: Part 2 (#6.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {For She\'s Only a Bird in a Gilded Cage (#2.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {For Whom the Jingle Bell Tolls (#3.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Forever Hold Your Peace (#3.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Getaway: Part 1 (#3.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Getaway: Part 2 (#3.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Good Help Is Hard to Fire (#4.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Great Expectations (#3.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Great X-Pectations (#6.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Happy Birthday to Moi (#6.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Here\'s to Old Friends (#3.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {High Anxiety (#2.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Hillman Isn\'t Through with You Yet (#3.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Home Is Where the Fire Is (#5.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Homey, Don\'t Ya Know Me? (#6.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Honeymoon in L.A.: Part 1 (#6.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Honeymoon in L.A.: Part 2 (#6.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {How Bittersweet It Is (#4.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {How Great Thou Art (#4.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {I\'m Dreaming of a Wayne Christmas (#4.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {I\'ve Got the Muse in Me (#2.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {If Chosen, I May Not Run (#1.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {If I Should Die Before I Wake (#4.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {If Only for One Night (#1.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {If You Like Pilgrim Coladas (#2.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {In the Eye of the Storm (#5.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Interior Desecration (#6.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {It Happened One Night (#2.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {It\'s Greek to Me (#2.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {It\'s Showtime at Hillman (#4.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Just Another Four-Letter Word (#5.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Kiss You Back (#5.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Lean on Me (#6.18)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Life with Father (#2.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Liza Who-Little (#5.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Love Taps (#5.22)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Love Thy Neighbor (#4.8)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Love, Hillman-Style (#4.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Mammy Dearest (#5.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {May the Best Man Win (#5.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Mind Your Own Business (#6.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Monet Is the Root of All Evil (#4.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Mr. Hillman (#1.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Ms. Understanding (#4.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {My Dinner with Theo (#1.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Never Can Say Goodbye (#4.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {No Means No (#2.20)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Occupational Hazards (#6.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Original Teacher (#6.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Perhaps Love (#3.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Pilot (#1.2)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Porky de Bergerac (#1.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Pride and Prejudice (#3.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Prisoner of Love (#5.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Radio Free Hillman (#2.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Really Gross Anatomy (#6.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Reconcilable Differences (#1.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Risk Around the Dollar (#4.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Risky Business (#2.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Romancing Mr. Stone (#1.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Rudy and the Snow Queen (#1.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Rule Number One (#5.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Save the Best for Last: Part 1 (#5.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Save the Best for Last: Part 2 (#5.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Sellmates (#5.20)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Sister to Sister, Sister (#4.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Soldier Boy (#3.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Some Enchanted Late Afternoon (#2.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Somebody Say Ho! (#6.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Sometimes You Get the Bear, Sometimes the Bear Gets You (#1.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Special Delivery (#5.23)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Speech Therapy (#1.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Strangers on a Plane (#3.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Success, Lies and Videotape (#3.15)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Sweet Charity (#3.21)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Take This Job and Love It (#2.19)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Tales from the Exam Zone (#4.6)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {That\'s the Trouble with You All (#3.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Apple Doesn\'t Fall (#4.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Cash Isn\'t Always Greener (#4.18)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Cat\'s in the Cradle (#5.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Dwayne Mutiny (#5.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Gift of the Magi (#1.10)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Goodwill Games (#4.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Hat Makes the Man (#3.3)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Heat Is On (#3.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Little Mister (#6.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Power of the Pen (#3.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Prime of Miss Lettie Bostic (#1.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Show Must Go On (#1.16)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {The Thing About Women (#2.17)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {There\'s No Place Like Home (#2.22)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Those Who Can\'t... Tutor (#1.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Three Girls Three (#2.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Time Keeps on Slippin\' (#4.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {To Be Continued (#4.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {To Have and Have Not (#3.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {To Tell the Truth (#5.9)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {To Whit, with Love (#6.14)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Twelve Steps of Christmas (#5.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Two Gentlemen of Hillman (#2.2)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Under One Roof (#3.11)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {War and Peace (#4.12)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {War of the Words (#1.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {We\'ve Only Just Begun (#5.1)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Wedding Bells from Hell (#3.7)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {When One Door Closes...: Part 1 (#6.24)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {When One Door Closes...: Part 2 (#6.25)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {White Christmas (#6.13)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Whitley\'s Last Supper (#4.4)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Different World" (1987) {Wild Child (#1.14)}', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"A Dorothy L. Sayers Mystery" (1987) {Have His Carcase: Episode One (#1.4)}', 'Lulworth Cove, Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"A Dorothy L. Sayers Mystery" (1987) {Have His Carcase: Episode One (#1.4)}', 'Sidmouth, Devon, England, UK']	50.6790033	-3.237657
+['"A Dorothy L. Sayers Mystery" (1987) {Strong Poison: Episode One (#1.1)}', 'Corpus Christi College, Merton Street, Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"A Likely Story" (1987)', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"A Weekend in... Marbella die Sch�nen und die Reichen" (1987)', 'Marbella, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"A Year in the Life" (1987)', '', '', '', 'Edmonds, Washington, USA']	47.8105738	-122.3774952
+['"A Year in the Life" (1987)', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"A la misma hora" (1987)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"ABZ" (1987)', '', '', '', '', '', 'Est�dios da RTP do Monte da Virgem, Vila Nova de Gaia, Portugal']	40.0332629	-7.8896263
+['"Adventure" (1987) {Fat Man Goes Gaucho (#4.7)}', '', 'Argentina']	-34.9964963	-64.9672817
+['"Adventure" (1987) {Into the Great Solitude (#3.3)}', 'Northwest Territories, Canada']	65.0000004	-118.0
+['"Adventure" (1987) {Return to the Jade Sea (#4.6)}', 'Lake Turkana, Kenya']	1.4419683	38.4313975
+['"Adventure" (1987) {The Black Pearls of Polynesia (#5.4)}', 'Cook Islands']	-16.0492781	-160.3554851
+['"Adventure" (1987) {The Black Pearls of Polynesia (#5.4)}', 'Fiji']	-18.1239696	179.0122737
+['"Adventure" (1987) {To the Island of the Aye-Aye (#5.7)}', 'Madagascar']	-18.9249604	46.4416422
+['"Adventure" (1987) {Yankee in Kamchatka (#5.2)}', '', 'Kamchatka, Russia']	64.6863136	97.7453061
+['"After Dark" (1987) {Sentencing (#2.26)}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Airwolf" (1987)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Albert Schweitzer" (1987) {(#1.2)}', '', '', 'Lambarene, Gabon']	-0.695844	10.2215963
+['"Amel�n y Picol�n" (1987)', '', '', '', 'Santo Domingo, Dominican Republic']	18.4801972	-69.942111
+['"Amerika" (1987)', '', '', '', '', 'Little Rock, Arkansas, USA']	34.7464809	-92.2895948
+['"Amerika" (1987)', '', '', '', '', 'Cobourg, Ontario, Canada']	43.963909	-78.169098
+['"Amerika" (1987)', '', '', '', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Amerika" (1987)', '', '', '', '', 'Lincoln, Nebraska, USA']	40.8088861	-96.7077751
+['"Amerika" (1987)', '', '', '', '', 'London, Ontario, Canada']	42.9836747	-81.2496068
+['"Amerika" (1987)', '', '', '', '', 'Seward, Nebraska, USA']	40.8695533	-97.1706676
+['"Amerika" (1987)', '', '', '', '', 'Tecumseh, Nebraska, USA']	40.3674048	-96.1949949
+['"Amerika" (1987)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Amor en silencio" (1987)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Amor, salut i feina" (1987)', '', '', '', 'Sant Cugat, Barcelona, Catalonia, Spain']	41.467969	2.0782386
+['"Anne of Green Gables: The Sequel" (1987)', '', 'Dalvay-by-the-Sea, Dalvay, Prince Edward Island, Canada']	46.4146956	-63.073323986454184
+['"Anne of Green Gables: The Sequel" (1987)', '', 'Dundurn Castle, Hamilton, Ontario, Canada']	43.2694696	-79.884192
+['"Anne of Green Gables: The Sequel" (1987)', '', 'Hamilton, Ontario, Canada']	43.255205	-79.868202
+['"Anne of Green Gables: The Sequel" (1987)', '', 'Penryn Park, Port Hope, Ontario, Canada']	43.951058	-78.292007
+['"Anne of Green Gables: The Sequel" (1987)', '', 'Prince Edward Island National Park, Prince Edward Island, Canada']	46.4845619	-63.38246484923853
+['"Anne of Green Gables: The Sequel" (1987)', '', 'Prince Edward Island, Canada']	46.3355508	-63.1466676
+['"Asamade nama TV!" (1987)', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Asamade nama TV!" (1987) {Medical Crisis}', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Asian Variety Show" (1987)', '', '', '', 'New Jersey, USA']	40.0757384	-74.4041622
+['"Australia" (1987) {From Woy Woy to Wagga Wagga (#1.5)}', 'Woy Woy, NSW, Australia']	-33.4880548	151.3274925
+['"Australia" (1987) {From Woy Woy to Wagga Wagga (#1.5)}', 'Canberra, Australian Capital Territory, Australia']	-35.2975906	149.1012676
+['"Ballada o Januszku" (1987)', '', '', '', 'Ciechocinek, Kujawsko-Pomorskie, Poland']	52.882552	18.7906883
+['"Ballada o Januszku" (1987)', '', '', '', 'Palace of Culture and Science, Plac Defilad, Sr�dmiescie, Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Ballada o Januszku" (1987)', '', '', '', 'Royal Lazienki Park, Sr�dmiescie, Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Ballada o Januszku" (1987)', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Bassie en Adriaan en het geheim van de schatkaart" (1987)', 'Verploegh Chasseplein, Vlaardingen, Zuid-Holland, Netherlands']	51.9091055	4.3520484
+['"Beauty and the Beast" (1987)', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beauty and the Beast" (1987)', '', '', '', "Walt Disney's Golden Oak Ranch - 19802 Placerita Canyon Road, Newhall, California, USA"]	34.3798765	-118.5291917
+['"Beauty and the Beast" (1987) {Once Upon a Time (#1.1)}', 'Cicada, former Rex Il Restorante - 617 Olive Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills Buntz" (1987)', '', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"Beverly Hills Buntz" (1987) {Brief Encounter (#1.6)}', 'Culver City, California, USA']	34.0211224	-118.3964665
+['"Beverly Hills Buntz" (1987) {Pilot (#1.1)}', '', 'Cross Roads of The World, Hollywood, California, USA']	34.093214	-118.3196124

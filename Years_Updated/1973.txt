@@ -1,0 +1,388 @@
+['"2nd House" (1973) {(1974-11-16)}', '', '', 'Lyric Theatre, Shaftesbury Avenue, London, England, UK']	51.511321949999996	-0.13369862252741166
+['"2nd House" (1973) {2nd House in Liverpool}', '', 'Everyman Theatre, Liverpool, Merseyside, England, UK']	54.7023545	-3.2765753
+['"7 of 1" (1973) {My Old Man (#1.3)}', '', '', 'Clayponds Lane, Brentford, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"7 of 1" (1973) {My Old Man (#1.3)}', '', '', 'Maudsley House, Green Dragon Lane, Brentford, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"7 of 1" (1973) {Prisoner and Escort (#1.2)}', '', 'Bedlinog, Merthyr Tydfil, Merthyr, Wales, UK']	51.7034478	-3.3105713
+['"8 x 1 in Noten" (1973)', '', '', '', '', 'Bavaria Film- und Fernsehstudios, Unterf�hring, Bavaria, Germany']	51.0834196	10.4234469
+['"8 x 1 in Noten" (1973)', '', '', '', '', 'Studios der Berliner Union Film, Berlin, Germany']	52.464601200000004	13.410424111089968
+['"8 x 1 in Noten" (1973)', '', '', '', '', 'Studio Hamburg, Germany']	53.585338899999996	10.12696066011979
+['"Adam\'s Rib" (1973)', '', '', '', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Danish Pastry (#1.3)}', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Delilah (#1.8)}', '', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {For Richer, for Poorer (#1.9)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Friend of the Family (#1.11)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Illegal Aid (#1.1)}', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Katey at the Bat (#1.7)}', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Murder (#1.10)}', '', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Separate Vacation (#1.4)}', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {The First Hurrah (#1.12)}', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {The Unwritten Law: Part 1 (#1.5)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {The Unwritten Law: Part 2 (#1.6)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Too Many Cooks (#1.13)}', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adam\'s Rib" (1973) {Two Pairs of Pants (#1.2)}', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Adivine mi chamba" (1973)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Alguien como usted" (1973)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como usted" (1973) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien como vos" (1973) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorfando con La Chona" (1973)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorfando con La Chona" (1973) {(#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorfando con La Chona" (1973) {(#1.2)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Almorfando con La Chona" (1973) {(#1.3)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amaras a tu projimo" (1973)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"An American Family" (1973)', '', '', '', 'Bethesda Fountain, Central Park, Manhattan, New York City, New York, USA']	40.774309349999996	-73.9708367973161
+['"An American Family" (1973)', '', '', '', 'Chelsea Hotel - 222 West 23rd Street, Chelsea, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"An American Family" (1973)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"An American Family" (1973)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"An American Family" (1973)', '', '', '', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"An American Family" (1973)', '', '', '', 'Taos, New Mexico, USA']	36.4072377	-105.5732847
+['"Aquellos que fueron" (1973)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aquellos que fueron" (1973) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aquellos que fueron" (1973) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aquellos que fueron" (1973) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aquellos que fueron" (1973) {Don Jos� de San Mart�n}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aquellos que fueron" (1973) {Francisco Narciso de Laprida}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aquellos que fueron" (1973) {Fray Luis Mar�a Beltr�n}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aquellos que fueron" (1973) {Mart�n G�emes}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', '40 Fulham Palace Road, Hammersmith, London, England, UK']	51.49072385	-0.22381227559754954
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Thomas a Becket pub, Old Kent Road, London, England, UK']	51.5073219	-0.1276474
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Leicester Square, Soho, London, England, UK']	51.5105992	-0.1308565
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Hollow Hill Lane, Langley, Buckinghamshire, England, UK']	51.5105117	-0.5285534
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Black Park Lake, Black Park, Iver Heath, Buckinghamshire, England, UK']	51.75	-0.75
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', '25 Downs Road, Slough, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', '19 Glentham Road, Castelnau, London, England, UK']	54.7023545	-3.2765753
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Black Park, Iver Heath, Buckinghamshire, England, UK']	51.542492100000004	-0.5441123704462851
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Broad Sanctuary, Westminster, London, England, UK']	51.5002407	-0.1276537
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Colet Court, Hammersmith Road, Hammersmith, London, England, UK']	51.493871049999996	-0.21684097396112534
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Dawson Heights, Overhill Road, Dulwich, London, England, UK']	51.5073219	-0.1276474
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Great Chertsey Road / Burlington Lane, Chiswick, London, England, UK']	51.5073219	-0.1276474
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Great Chertsey Road / Hartington Road, Chiswick, London, England, UK']	54.7023545	-3.2765753
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Honor Oak Mansions, Underhill Road, Dulwich, London, England, UK']	51.451116850000005	-0.06405016560092806
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Kingly Street, Soho, London, England, UK']	51.5135205	-0.1404167
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Old Justice pub, Bermondsey Wall East, Bermondsey, London, England, UK']	54.7023545	-3.2765753
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Richmond Ice Rink, Clevedon Road, Richmond, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Rowley Farm, Black Park Road, Iver Heath, Buckinghamshire, England, UK']	54.7023545	-3.2765753
+['"Armchair Cinema" (1973) {Regan (#1.2)}', '', '', 'Rydale, Dulwich, London, England, UK']	51.5073219	-0.1276474
+['"Armchair Cinema" (1973) {The Prison (#1.1)}', '', 'Paris, France']	48.8566969	2.3514616
+['"BBC2 Playhouse" (1973) {A Pocketful of Dreams (#8.16)}', 'London, England, UK']	51.5073219	-0.1276474
+['"BBC2 Playhouse" (1973) {Grown-Ups (#7.5)}', '', 'Canterbury, Kent, England, UK']	51.2800275	1.0802533
+['"BBC2 Playhouse" (1973) {Grown-Ups (#7.5)}', '', 'Artillery Street, Canterbury, Kent, England, UK']	51.2822899	1.0858751
+['"BBC2 Playhouse" (1973) {Grown-Ups (#7.5)}', '', 'Military Road, Canterbury, Kent, England, UK']	51.2834481	1.0899389227529412
+['"BBC2 Playhouse" (1973) {Grown-Ups (#7.5)}', '', '82 Oxford Road, Canterbury, Kent, England, UK']	51.2727515	1.0776736
+['"BBC2 Playhouse" (1973) {Grown-Ups (#7.5)}', '', '21 Nunnery Road, Canterbury, Kent, England, UK']	51.271636	1.0808014
+['"BBC2 Playhouse" (1973) {Hallelujah, Mary Plum (#6.23)}', 'Aldeburgh, Suffolk, England, UK']	52.1523617	1.6015476
+['"BBC2 Playhouse" (1973) {How Many Miles to Babylon? (#8.14)}', 'Ballinacor, County Wicklow, Ireland']	52.91383385	-6.349841317710796
+['"BBC2 Playhouse" (1973) {Last Summer\'s Child (#8.2)}', 'Penberth Cove, Penberth, Cornwall, England, UK']	50.416667	-4.75
+['"BBC2 Playhouse" (1973) {Mrs. Reinhardt (#8.1)}', '', 'Buckinghamshire, England, UK']	51.75	-0.75
+['"BBC2 Playhouse" (1973) {Mrs. Reinhardt (#8.1)}', '', 'Brittany, France']	48.16282835	-2.684147344521837
+['"BBC2 Playhouse" (1973) {The Breakthrough (#2.1)}', 'Covehithe, Suffolk, UK']	52.3755902	1.7070087
+['"BBC2 Playhouse" (1973) {The Breakthrough (#2.1)}', 'Orfordness, Suffolk, England, UK']	52.241001350000005	1.0466830312565236
+['"Baffle" (1973)', '', '', '', '', '', 'Stage 1, NBC Studios - 3000 W. Alameda Avenue, Burbank, California, USA']	34.1816482	-118.3258554
+['"Baffle" (1973) {(1973-03-25)}', '', '', '', 'NBC Studios - 3000 W. Alameda Avenue, Burbank, California, USA']	34.1816482	-118.3258554
+['"Baffle" (1973) {(1973-10-15)}', '', '', '', 'NBC Studios - 3000 W. Alameda Avenue, Burbank, California, USA']	34.1816482	-118.3258554
+['"Baffle" (1973) {(1973-11-12)}', '', '', '', 'NBC Studios - 3000 W. Alameda Avenue, Burbank, California, USA']	34.1816482	-118.3258554
+['"Baffle" (1973) {(1974-03-11)}', '', '', '', 'NBC Studios - 3000 W. Alameda Avenue, Burbank, California, USA']	34.1816482	-118.3258554
+['"Barnaby Jones" (1973)', '', '', '', '', '234 E Colorado Blvd, Pasadena, California, USA']	34.146073	-118.1056784
+['"Barnaby Jones" (1973)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973)', '', '', '', '', 'Red Rock Canyon State Park - Highway 14, Cantil, California, USA']	35.3088502	-117.9684031
+['"Barnaby Jones" (1973) {A Dangerous Affair (#7.2)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Desperate Pursuit (#8.4)}', 'Occidental Tower Apartments - 336 S Occidental Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {A Desperate Pursuit (#8.4)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Frame for Murder (#7.7)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Gathering of Thieves (#3.1)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Gold Record for Murder (#2.18)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {A Gold Record for Murder (#2.18)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Little Glory, a Little Death (#1.12)}', '8585 Sunset Blvd, West Hollywood, California, USA']	34.0981514	-118.2912164
+['"Barnaby Jones" (1973) {A Little Glory, a Little Death (#1.12)}', '1000 N San Vicente Blvd, West Hollywood, California, USA']	34.088361641053446	-118.38547746521891
+['"Barnaby Jones" (1973) {A Little Glory, a Little Death (#1.12)}', 'Sunset Blvd & N Cienega Blvd, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Little Glory, a Little Death (#1.12)}', '101 N Hudson Ave, Los Angeles, California, USA']	34.074105	-118.332857
+['"Barnaby Jones" (1973) {A Little Glory, a Little Death (#1.12)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Ransom in Diamonds (#6.16)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Short Happy Life (#7.21)}', 'Hollywood Burbank Airport - 2627 North Hollywood Way, Burbank, California, USA']	34.1816482	-118.3258554
+['"Barnaby Jones" (1973) {A Short Happy Life (#7.21)}', 'Occidental Tower Apartments - 336 S Occidental Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {A Short Happy Life (#7.21)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Simple Case of Terror (#5.15)}', 'Pike Amusement Park - 95 South Pine Avenue, Long Beach, California, USA']	33.7690164	-118.1916048
+['"Barnaby Jones" (1973) {A Simple Case of Terror (#5.15)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {A Taste for Murder (#4.12)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Academy of Evil (#7.12)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Anatomy of Fear (#5.19)}', '365 S June St, Los Angeles, California, USA']	34.067615265306124	-118.3342963877551
+['"Barnaby Jones" (1973) {Anatomy of Fear (#5.19)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Band of Evil (#5.6)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Beware the Dog (#4.10)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Blind Jeopardy (#7.1)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Blind Terror (#2.1)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Blind Terror (#2.1)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Blood Vengeance (#5.1)}', '', 'Hutton Dr & Toppington Dr, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Blood Vengeance (#5.1)}', '', 'N Poinsettia Pl & Santa Monica Blvd, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Blood Vengeance (#5.1)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Blueprint for a Caper (#3.7)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Bond of Fear (#3.24)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Catch Me If You Can (#2.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Catch Me If You Can (#2.6)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Child of Danger (#6.14)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Child of Love, Child of Vengeance: Part 1 (#7.22)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Child of Love, Child of Vengeance: Part 2 (#7.23)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Circle of Treachery (#5.18)}', '10740 Ventura Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Circle of Treachery (#5.18)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Conspiracy of Terror (#3.4)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Copy-Cat Killing (#5.14)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Counterfall (#3.16)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Cry for Vengeance (#8.11)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Dance with Death (#7.17)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Dangerous Gambit (#4.21)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Dangerous Summer (#3.17)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Dark Homecoming (#3.9)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Dark Legacy (#2.21)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Dark Legacy (#2.21)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Daughter of Evil (#6.7)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Day of the Viper (#2.4)}', 'Bronson Canyon, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Day of the Viper (#2.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Day of the Viper (#2.4)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Dead Heat (#4.15)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Dead Man\'s Run (#3.2)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Deadline for Dying (#5.2)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Deadline for Murder (#8.21)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Deadly Homecoming (#6.13)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Deadly Reunion (#4.20)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Deadly Sanctuary (#7.3)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Death Beat (#6.1)}', '', 'Vincent Thomas Bridge, San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Death Beat (#6.1)}', '', 'Safari Inn - 1911 W. Olive Avenue, Burbank, California, USA']	34.1656772	-118.3251822
+['"Barnaby Jones" (1973) {Death Beat (#6.1)}', '', 'Old Zoo, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Death Beat (#6.1)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Death Is the Punchline (#8.18)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Death Leap (#2.2)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Death Leap (#2.2)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Death of a Friendship (#7.6)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Death on Deposit (#3.11)}', '901 E Main St, Santa Paula, California, USA']	34.35351122448979	-119.06162902040816
+['"Barnaby Jones" (1973) {Death on Deposit (#3.11)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Design for Madness (#8.5)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Divorce - Murderer\'s Style (#2.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Divorce - Murderer\'s Style (#2.7)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Doomed Alibi (#3.20)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Double Vengeance (#4.8)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Duet for Danger (#5.22)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Duet for Dying (#5.17)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Echo of a Distant Battle: Part 1 (#7.14)}', 'Warner Villa Apartments - 5807 Topanga Canyon Blvd, Woodland Hills, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Echo of a Distant Battle: Part 1 (#7.14)}', 'Santa Monica Blvd & N Hudson Ave, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Echo of a Distant Battle: Part 1 (#7.14)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Echo of a Distant Battle: Part 2 (#7.15)}', 'Santa Monica Blvd & N Hudson Ave, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Echo of a Distant Battle: Part 2 (#7.15)}', 'Delmonico Motel - 13055 San Fernando Rd, Sylmar, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Echo of a Distant Battle: Part 2 (#7.15)}', 'Los Angeles National Cemetery - 950 S Sepulveda Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Echo of a Distant Battle: Part 2 (#7.15)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Echo of a Murder (#2.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Echo of a Murder (#2.3)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {False Witness (#8.9)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Fantasy of Fear (#3.19)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Fatal Flight (#2.12)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Fatal Flight (#2.12)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Fatal Overture (#7.19)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Fatal Witness (#4.9)}', '', '2141 Trentham Rd, Lake Sherwood, California, USA']	34.13705515	-118.87489587697775
+['"Barnaby Jones" (1973) {Fatal Witness (#4.9)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Final Judgment: Part 1 (#6.18)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Final Judgment: Part 2 (#6.19)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Final Ransom (#5.5)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Flight to Danger (#4.7)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Focus on Fear (#8.15)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Forfeit by Death (#3.6)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Foul Play (#2.24)}', '', 'The Forum - 3900 W. Manchester Boulevard, Inglewood, California, USA']	33.95822585	-118.34198075
+['"Barnaby Jones" (1973) {Foul Play (#2.24)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Foul Play (#2.24)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Fraternity of Thieves (#5.10)}', 'Wilshire Blvd & S St Andrews Pl, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Fraternity of Thieves (#5.10)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Friends Till Death (#2.19)}', 'Sepulveda Dam, Encino, Los Angeles, California, USA']	34.1668922	-118.4735797
+['"Barnaby Jones" (1973) {Friends Till Death (#2.19)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Friends Till Death (#2.19)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Girl on the Road (#8.6)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Hitch-Hike to Terror (#7.4)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Homecoming for a Dead Man (#8.8)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Honeymoon with Death (#4.5)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Hostage (#4.17)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Image in a Cracked Mirror (#2.23)}', 'Los Angeles International Airport - 1 World Way, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Image in a Cracked Mirror (#2.23)}', 'Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Image in a Cracked Mirror (#2.23)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Image in a Cracked Mirror (#2.23)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Image of Evil (#3.18)}', '', 'Castle Ranch - 44901 Fairmont Road, Lancaster, California, USA']	34.6981064	-118.1366153
+['"Barnaby Jones" (1973) {Image of Evil (#3.18)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Indoctrination in Evil (#8.7)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Jeopardy for Two (#3.23)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Killer Without a Name (#8.17)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Man on Fire (#8.1)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Master of Deception (#7.20)}', '13058 Beaver St, Sylmar, Los Angeles, California, USA']	34.324183	-118.416655
+['"Barnaby Jones" (1973) {Master of Deception (#7.20)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Memory of a Nightmare (#7.10)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Murder Once Removed (#3.15)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Murder in the Doll\'s House (#1.7)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Murder in the Key of C (#8.16)}', 'N Cherokee Ave & Leland Way, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Murder in the Key of C (#8.16)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Murder-Go-Round (#1.10)}', 'Piru, California, USA']	34.4156137	-118.7927456
+['"Barnaby Jones" (1973) {Murder-Go-Round (#1.10)}', '3969 Center St, Piru, California, USA']	34.41544975	-118.794022625
+['"Barnaby Jones" (1973) {Murder-Go-Round (#1.10)}', '3962 Center St, Piru, California, USA']	34.4156137	-118.7927456
+['"Barnaby Jones" (1973) {Murder-Go-Round (#1.10)}', '691 Main St, Piru, California, USA']	34.41517391836735	-118.79466216326531
+['"Barnaby Jones" (1973) {Murder-Go-Round (#1.10)}', 'Market St & Orchard St, Piru, California, USA']	34.4156137	-118.7927456
+['"Barnaby Jones" (1973) {Murder-Go-Round (#1.10)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Mystery Cycle (#3.8)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Nest of Scorpions (#7.5)}', 'Malibou Lake Mountain Club - 29033 Lake Vista Drive, Agoura Hills, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Nest of Scorpions (#7.5)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Nightmare in Hawaii: Part 1 (#8.2)}', '898 Lui St, Lahaina, Maui, Hawaii, USA']	20.88314	-156.672311
+['"Barnaby Jones" (1973) {Nightmare in Hawaii: Part 1 (#8.2)}', 'Maui Community Correctional Center - 600 Waiale Dr, Wailuku, Maui, Hawaii, USA']	20.802956799999997	-156.31068331602177
+['"Barnaby Jones" (1973) {Nightmare in Hawaii: Part 1 (#8.2)}', 'Hawaii, USA']	21.2160437	-157.975203
+['"Barnaby Jones" (1973) {Nightmare in Hawaii: Part 1 (#8.2)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Nightmare in Hawaii: Part 2 (#8.3)}', 'Hawaii, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Nightmare in Hawaii: Part 2 (#8.3)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Odd Man Loses (#3.5)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Perchance to Kill (#1.5)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Poisoned Pigeon (#3.22)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Portrait of Evil (#4.14)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Prime Target (#6.17)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Prisoner of Deceit (#6.12)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Programmed for Killing (#2.17)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Programmed for Killing (#2.17)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Rendezvous with Terror (#2.20)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Rendezvous with Terror (#2.20)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Renegade\'s Child (#5.9)}', 'FCI Terminal Island - S Seaside Ave, San Pedro, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Renegade\'s Child (#5.9)}', 'The Old Place - 29983 Mulholland Highway, Cornell, California, USA']	41.7993263	-121.3194317
+['"Barnaby Jones" (1973) {Renegade\'s Child (#5.9)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Requiem for a Son (#1.1)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Run Away to Terror (#5.24)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Run to Death (#8.12)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {School of Terror (#8.10)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Secret of the Dunes (#2.13)}', 'Lancaster, California, USA']	34.6981064	-118.1366153
+['"Barnaby Jones" (1973) {Secret of the Dunes (#2.13)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Secret of the Dunes (#2.13)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {See Some Evil... Do Some Evil (#1.9)}', 'International Tower - 700 E. Ocean Boulevard, Long Beach, California, USA']	33.7690164	-118.1916048
+['"Barnaby Jones" (1973) {See Some Evil... Do Some Evil (#1.9)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Shadow of Fear (#6.10)}', '', '3945 Center St, Piru, California, USA']	34.4156137	-118.7927456
+['"Barnaby Jones" (1973) {Shadow of Fear (#6.10)}', '', '3950 Center St, Piru, California, USA']	34.41545425	-118.79504299999999
+['"Barnaby Jones" (1973) {Shadow of Fear (#6.10)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Shadow of Guilt (#4.19)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Silent Vendetta (#4.18)}', 'Santa Monica Blvd & N Hudson Ave, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Silent Vendetta (#4.18)}', "Farmer's Daughter Hotel - 115 S Fairfax Ave, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Silent Vendetta (#4.18)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Sing a Song of Murder (#1.8)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Sins of Thy Father (#5.3)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Sister of Death (#5.11)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Stages of Fear (#7.8)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Stand-In for Death (#2.9)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Stand-In for Death (#2.9)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Sunday: Doomsday (#1.3)}', '1801 Avenue of the Stars, Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Sunday: Doomsday (#1.3)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Target for a Wedding (#7.24)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Temptation (#7.25)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Terror on a Quiet Afternoon (#6.21)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Testament of Power (#5.13)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Alpha-Bravo War (#4.6)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Black Art of Dying (#2.10)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Black Art of Dying (#2.10)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Bounty Hunter (#5.8)}', 'FCI Terminal Island - S Seaside Ave, San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Bounty Hunter (#5.8)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Captives (#6.8)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Challenge (#3.3)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Coronado Triangle (#6.22)}', 'Venice Beach, Venice, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"Barnaby Jones" (1973) {The Coronado Triangle (#6.22)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Damocles Gun (#6.5)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Deadlier Species (#3.21)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Deadly Charade (#5.12)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Deadly Conspiracy: Part 2 (#4.1)}', '1801 Avenue of the Stars, Century City, Los Angeles, California, USA']	34.06110257070707	-118.41809467171717
+['"Barnaby Jones" (1973) {The Deadly Conspiracy: Part 2 (#4.1)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Deadly Jinx (#2.15)}', 'Piru Mansion - 829 & 837 Park Road, Piru, California, USA']	34.4156137	-118.7927456
+['"Barnaby Jones" (1973) {The Deadly Jinx (#2.15)}', 'Santa Paula, California, USA']	34.3541659	-119.0592705
+['"Barnaby Jones" (1973) {The Deadly Jinx (#2.15)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Deadly Jinx (#2.15)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Deadly Prize (#2.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Deadly Prize (#2.8)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Deadly Prize (#2.8)}', 'San Pedro, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Deadly Valentine (#5.21)}', 'Lafayette Park - 2801 Wilshire Blvd., Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Deadly Valentine (#5.21)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Devil\'s Handmaiden (#6.11)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Enslaved (#7.16)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Eyes of Terror (#4.23)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Fatal Dive (#5.4)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Final Burial (#4.13)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Final Victim (#8.19)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Inside Man (#5.23)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Killer on Campus (#5.20)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Killin\' Cousin (#8.22)}', 'Moonlight Rollerway - 5110 San Fernando Road, Glendale, California, USA']	34.1469416	-118.2478471
+['"Barnaby Jones" (1973) {The Killin\' Cousin (#8.22)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Killing Defense (#2.11)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Killing Defense (#2.11)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Killing Point (#8.14)}', '1050 Arden Road, Pasadena, California, USA']	34.13140773000143	-118.12855402387889
+['"Barnaby Jones" (1973) {The Killing Point (#8.14)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Last Contract (#3.13)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Lonely Victims (#4.16)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Loose Connection (#1.6)}', 'Riverside Dr & Riverton Ave, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Loose Connection (#1.6)}', 'Paradise Cove Pier, Paradise Cove - 28128 Pacific Coast Highway, Malibu, California, USA']	34.035591	-118.689423
+['"Barnaby Jones" (1973) {The Loose Connection (#1.6)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Marathon Murders (#5.16)}', 'Marina del Rey harbor, Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Barnaby Jones" (1973) {The Marathon Murders (#5.16)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Medium (#7.13)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Mercenaries (#6.2)}', '', "Harold Lloyd's Greenacres Estate - 1740 Green Acres Drive, Beverly Hills, California, USA"]	34.0696501	-118.3963062
+['"Barnaby Jones" (1973) {The Mercenaries (#6.2)}', '', 'Aberdeen Ave & N Vermont Ave, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Mercenaries (#6.2)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Murdering Class (#1.4)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Orchid Killer (#4.3)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Picture Pirates (#7.11)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {The Platinum Connection (#2.16)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {The Platinum Connection (#2.16)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Price of Anger (#8.13)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Price of Terror (#4.4)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Protectors (#7.18)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Reincarnation (#6.9)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Scapegoat (#6.15)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Silent Accuser (#8.20)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Stalking Horse (#4.24)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {The Wife Beater (#6.3)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Theater of Fear (#4.2)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Time to Kill (#3.10)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {To Catch a Dead Man (#1.2)}', 'The Rock Store - 30354 Mulholland Highway, Cornell, California, USA']	34.1096535	-118.7881482
+['"Barnaby Jones" (1973) {To Catch a Dead Man (#1.2)}', '1284 S Oakland Avenue, Pasadena, California, USA']	34.123951329658645	-118.1396300308755
+['"Barnaby Jones" (1973) {To Catch a Dead Man (#1.2)}', '2141 Trentham Rd, Lake Sherwood, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {To Catch a Dead Man (#1.2)}', 'Panay Way, Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Barnaby Jones" (1973) {To Catch a Dead Man (#1.2)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {To Denise, with Love and Murder (#1.11)}', '1365 S Oakland Avenue, Pasadena, California, USA']	34.12272138844446	-118.13971600435714
+['"Barnaby Jones" (1973) {To Denise, with Love and Murder (#1.11)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Trap Play (#3.14)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Trial Run for Death (#2.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Trial Run for Death (#2.5)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Twenty Million Alibis (#1.13)}', 'Hollywood Knickerbocker Hotel - 1714 N. Ivar Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Twenty Million Alibis (#1.13)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Uninvited Peril (#6.20)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Venus as in Flytrap (#2.14)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Venus as in Flytrap (#2.14)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Victim of Love (#7.9)}', '', 'Travel Town Museum - 5200 Zoo Drive, Griffith Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Victim of Love (#7.9)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Voice in the Night (#5.7)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Web of Deceit (#3.12)}', '', '4151 Commonwealth Ave, La Ca�ada-Flintridge, California, USA']	39.7837304	-100.4458825
+['"Barnaby Jones" (1973) {Web of Deceit (#3.12)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Wipeout (#4.22)}', '', '23916 Malibu Rd, Malibu, California, USA']	34.03155069488948	-118.70001077800542
+['"Barnaby Jones" (1973) {Wipeout (#4.22)}', '', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Woman in the Shadows (#2.22)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Barnaby Jones" (1973) {Woman in the Shadows (#2.22)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Barnaby Jones" (1973) {Yesterday\'s Terror (#6.4)}', 'Samuel Goldwyn Studios - 7200 Santa Monica Boulevard, West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Between the Wars" (1973)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474

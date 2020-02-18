@@ -1,0 +1,15 @@
+['"8 ji dayo! zen\'in sh�g�" (1969)', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Abelardo Pardales" (1969)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Abelardo Pardales" (1969) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Acri Creature Feature" (1969)', '', '', '', 'Milan, Illinois, USA']	41.453089	-90.5720803
+['"Adventures in Rainbow Country" (1969)', '', '', "Burke's Mountain Fire Tower, Willisville, Ontario, Canada"]	61.0666922	-107.9917071
+['"Adventures in Rainbow Country" (1969)', '', '', 'Espanola, Ontario, Canada']	46.265341	-81.769867
+['"Adventures in Rainbow Country" (1969)', '', '', 'Gore Bay, Ontario, Canada']	45.9167876	-82.4640868
+['"Adventures in Rainbow Country" (1969)', '', '', "McGregor's Bay, Ontario, Canada"]	43.702176	-79.387402
+['"Adventures in Rainbow Country" (1969)', '', '', 'Webbwood, Ontario, Canada']	46.2701321	-81.883919
+['"Adventures in Rainbow Country" (1969)', '', '', 'Whitefish Falls, Ontario, Canada']	48.3568422	-83.6730805
+['"Adventures in Rainbow Country" (1969) {The Tower (#1.2)}', "Burke's Mountain Fire Tower, Willisville, Ontario, Canada"]	46.1302943	-81.7210771
+['"Adventures in Rainbow Country" (1969) {The Tower (#1.2)}', 'Whitefish Falls, Ontario, Canada']	48.3568422	-83.6730805
+['"Ajankohtainen kakkonen" (1969)', '', '', '', 'YLE TV2 Studios, Tohloppi, Tampere, Finland']	61.510891799999996	23.65192450310521
+['"Ajankohtainen kakkonen" (1969)', '', '', '', 'YLE TV2 Studios, Tohloppi, Tampere, Finland']	61.510891799999996	23.65192450310521
+['"Aventuras de Huck" (1969)', '', '', '', 'Mexico']	19.4326296	-99.1331785

@@ -1,0 +1,742 @@
+['"12 Angry Viewers" (1997)', '', '', '', 'MTV Studios, Manhattan, New York City, New York, USA']	39.7837304	-100.4458825
+['"1997 NBA Western Conference Finals" (1997)', '', 'Delta Center - 300 W. South Temple Street, Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"1997 NBA Western Conference Finals" (1997)', '', 'The Summit - 10 Greenwood Plaza, Houston, Texas, USA']	39.7837304	-100.4458825
+['"20,000 Leagues Under the Sea" (1997)', '', '', 'Australia']	-24.7761086	134.755
+['"20,000 Leagues Under the Sea" (1997)', '', '', 'Point Cook, Victoria, Australia']	-37.9064862	144.7533059
+['"20,000 Leagues Under the Sea" (1997)', '', '', 'Village Roadshow Studios, Oxenford, Queensland, Australia']	-27.91054195	153.31264045360678
+['"3000 Segundos" (1997)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"413 Hope St." (1997)', '', '', '', '', 'Canoga Park, Los Angeles, California, USA']	34.2010776	-118.5978259
+['"413 Hope St." (1997)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"413 Hope St." (1997)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"48 timer" (1997)', '', '', '', '', 'Crete, Greece']	35.3084749	24.463320724202934
+['"5\'s Company" (1997)', '', '', '', '', 'Pearson Television - 1 Stephen Street, Fitzrovia, London, England, UK']	51.5073219	-0.1276474
+['"50/50" (1997)', '', '', '', '', '', 'Scottish TV Studios, Renfield Street, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"A Dance to the Music of Time" (1997)', '', '', 'Berkeley Castle, Berkeley, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"A Dance to the Music of Time" (1997)', '', '', 'Eton College, Eton, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"A Dance to the Music of Time" (1997)', '', '', 'Knebworth House, Stevenage, Hertfordshire, England, UK']	51.8670421	-0.187051
+['"A Dance to the Music of Time" (1997)', '', '', 'Luton Hoo Estate, Luton, Bedfordshire, England, UK']	52.064003400000004	-0.41111375560310925
+['"A Dance to the Music of Time" (1997)', '', '', "St. Paul's Cathedral, Ludgate Hill, London, England, UK"]	51.5138407	-0.1010349
+['"A Dance to the Music of Time" (1997)', '', '', 'Wyfold Court, Rotherfield Peppard, Oxfordshire, England, UK']	51.536511149999995	-1.0165965297991697
+['"A Day in the Country" (1997)', '', '', '', 'Hockley Valley, Ontario, Canada']	43.9077853	-79.8245916
+['"A Grande Aposta" (1997)', '', '', '', 'Cascais, Lisbon, Portugal']	38.72240025	-9.396909171649877
+['"A Grande Aposta" (1997)', '', '', '', 'Macau, China']	22.1757605	113.5514142
+['"A Legend to Ride" (1997)', '', '', '', 'Iceland']	64.9841821	-18.1059013
+['"A Perfect State" (1997)', '', '', '', 'Wivenhoe, Essex, England, UK']	51.8674915	0.9627477
+['"A Taste of Life" (1997)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"A Taste of Life" (1997)', '', '', '', 'Singapore']	1.357107	103.8194992
+['"A Taste of Life" (1997)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"A Taste of Life" (1997)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"A Taste of Life" (1997)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"A Taste of Life" (1997)', '', '', '', 'Bali, Indonesia']	-8.3304977	115.0906401
+['"A Taste of Life" (1997)', '', '', '', 'Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"A Taste of Life" (1997)', '', '', '', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"A Taste of Life" (1997)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A la Mexicana" (1997)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"A trav�s del video" (1997)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aamu-TV" (1997)', '', '', '', '', 'Lasipalatsi, Helsinki, Finland']	60.1702947	24.93688773569056
+['"Aamu-TV" (1997)', '', '', '', '', 'YLE TV studios, Pasila, Helsinki, Finland']	60.197873	24.9322653
+['"Aci g�nlerim" (1997)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Addiciones" (1997)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aguamarina" (1997)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Ain\'t Misbehavin\'" (1997)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Ain\'t Misbehavin\'" (1997)', '', '', '', 'Wiltshire, England, UK']	51.25	-1.916667
+['"Al ritmo de la noche" (1997) {Al ritmo de la noche (#1.1)}', 'Epcot Center, Walt Disney World, Lake Buena Vista, Florida, USA']	39.7837304	-100.4458825
+['"Al ritmo de la noche" (1997) {Al ritmo de la noche (#1.1)}', 'Magic Kingdom, Walt Disney World, Lake Buena Vista, Florida, USA']	28.38034955	-81.5297578369267
+['"Al ritmo de la noche" (1997) {Al ritmo de la noche (#1.1)}', 'Downtown Disney, Walt Disney World, Lake Buena Vista, Florida, USA']	28.38034955	-81.5297578369267
+['"Al salir de clase" (1997)', '', '', '', 'Villaviciosa de Od�n, Madrid, Spain']	39.3262345	-4.8380649
+['"Al salir de clase" (1997) {Cualquier cosa por amor (#8.74)}', 'Zoo Aquarium, Madrid, Spain']	40.4088564	-3.7612674
+['"Ally McBeal" (1997)', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Ally McBeal" (1997)', '', '', '', '', 'Brownstone Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Ally McBeal" (1997)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Ally McBeal" (1997)', '', '', '', '', 'New York Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Ally McBeal" (1997)', '', '', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997)', '', '', '', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {A Kick in the Head (#5.11)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {All of Me (#5.21)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Ally McBeal: The Musical, Almost (#3.21)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Alone Again (#1.22)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Angels and Blimps (#2.13)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Another One Bites the Dust (#5.19)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Being There (#1.21)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Blowin\' in the Wind (#5.9)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Blue Christmas (#3.8)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Body Language (#1.14)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Boy Next Door (#3.16)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Boy to the World (#1.10)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Boy\'s Town (#4.14)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Buried Pleasures (#3.2)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Bygones (#5.22)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Car Wash (#3.1)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Changes (#3.6)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Civil War (#2.17)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Cloudy Skies, Chance of Parade (#4.20)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Compromising Positions (#1.2)}', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Cro-Magnon (#1.12)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Do You Wanna Dance? (#3.19)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Drawing the Lines (#1.8)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Falling Up (#4.15)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Fear of Flirting (#5.4)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Fools Night Out (#2.3)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Forbidden Fruits (#1.16)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Friends and Lovers (#5.1)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Girls\' Night Out (#4.2)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Happy Birthday, Baby (#1.19)}', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Happy Trails (#2.7)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Hats Off to Larry (#4.12)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Heart and Soul (#5.15)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Heat Wave (#3.4)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Home Again (#4.22)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Homecoming (#5.14)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Hope and Glory (#3.20)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {I Know Him by Heart (#2.23)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {I Want Love (#5.5)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {I Will Survive (#3.17)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {In Dreams (#2.11)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {In Search of Barry White (#4.19)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {In Search of Pygmies (#3.12)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {It\'s My Party (#2.4)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Judge Ling (#5.2)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Just Friends (#3.10)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Just Looking (#2.8)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Let\'s Dance (#2.19)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Lost and Found (#5.6)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Love Is All Around: Part 1 (#5.16)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Love Is All Around: Part 2 (#5.17)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Love Unlimited (#2.12)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Love on Holiday (#4.7)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Love\'s Illusions (#2.22)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Making Spirits Bright (#2.10)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Mr. Bo (#4.11)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Neutral Corners (#5.3)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Nine One One (#5.7)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Once in a Lifetime (#1.15)}', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {One Hundred Tears (#5.10)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {One Hundred Tears Away (#1.5)}', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Only the Lonely (#2.20)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Out in the Cold (#3.9)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Over the Rainbow (#3.11)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {Pilot (#1.1)}', '', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Playing with Matches (#5.8)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Prime Suspect (#3.15)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Pursuit of Loneliness (#3.13)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Pyramids on the Nile (#2.14)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Queen Bee (#4.21)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Reach Out and Touch (#4.13)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Reasons to Believe (#4.9)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Saving Santa (#3.7)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Seeing Green (#3.3)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Sex, Lies and Politics (#2.16)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Sex, Lies and Second Thoughts (#4.1)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Sideshow (#2.15)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Silver Bells (#1.11)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {Story of Love (#2.5)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Affair (#1.4)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {The Attitude (#1.7)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {The Blame Game (#1.13)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {The Dirty Joke (#1.9)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {The Ex-Files (#4.10)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Getaway (#4.16)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Green Monster (#2.21)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Inmates (#1.20)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {The Kiss (#1.3)}', '', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ally McBeal" (1997) {The Last Virgin (#4.5)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Man with the Bag (#4.8)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The New Day (#5.12)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Obstacle Course (#4.18)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Oddball Parade (#3.14)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Playing Field (#1.18)}', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {The Promise (#1.6)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {The Pursuit of Unhappiness (#4.17)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Real World (#2.1)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {The Wedding (#4.23)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Theme of Life (#1.17)}', '', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {These Are the Days (#1.23)}', 'Ren-Mar Studios - 846 N. Cahuenga Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Ally McBeal" (1997) {They Eat Horses, Don\'t They? (#2.2)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Those Lips, That Hand (#2.18)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Tis the Season (#4.6)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Tom Dooley (#5.18)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Troubled Water (#3.5)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Turning Thirty (#3.18)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Two\'s a Crowd (#4.3)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {What I\'ll Never Do for Love Again (#5.20)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Without a Net (#4.4)}', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Woman (#5.13)}', '', '', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {Worlds Without Love (#2.6)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Ally McBeal" (1997) {You Never Can Tell (#2.9)}', 'Raleigh Manhattan Beach Studios - 1600 Rosecrans Avenue, Manhattan Beach, California, USA']	33.8915985	-118.3951241
+['"Alphateam - Die Lebensretter im OP" (1997)', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Alto riesgo" (1997)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Alto riesgo" (1997)', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"Alto riesgo" (1997)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Alto riesgo" (1997)', '', '', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"Alto riesgo" (1997)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Amada enemiga" (1997)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Amor a primera vista" (1997)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"An Unsuitable Job for a Woman" (1997)', '', '', 'Bath, Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"An Unsuitable Job for a Woman" (1997)', '', '', 'Cambridge, Cambridgeshire, England, UK']	52.2034823	0.1235817
+['"An Unsuitable Job for a Woman" (1997)', '', '', 'Cliveden Estate, Buckinghamshire, England, UK']	51.75	-0.75
+['"An Unsuitable Job for a Woman" (1997)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"An Unsuitable Job for a Woman" (1997) {Sacrifice (#1.1)}', 'Ipsden, Oxfordshire, England, UK']	51.5635127	-1.0834514
+['"Animal Ark" (1997)', '', '', '', '', 'Frampton-on-Severn, Gloucestershire, England, UK']	51.771287	-2.3635376
+['"Animal Ark" (1997)', '', '', '', '', 'Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"Animal Planet ZOOventure" (1997)', '', '', 'San Diego Zoo, San Diego, California, USA']	32.73598735	-117.15065415761478
+['"Anlasma noktasi" (1997)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Amos Andersson Art Museum, Helsinki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Anjala Mansion, Anjala, Anjalankoski, Kouvola, Finland']	60.73904435	26.8222899962241
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Fortress, Lappeenranta, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'H�meenkoski, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Iittala, H�meenlinna, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Ilmailumuseo, Kuorevesi, J�ms�, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Kalajoki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Karjaa, Raasepori, Finland']	60.0732491	23.663234
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Kymin Teollisuusoppilaitos, Kuusankoski, Kouvola, Finland']	60.9069347	26.6241933
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Louhisaari Castle, Askainen, Masku, Finland']	60.5724437	21.8674083
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Moisio Mansion, Moisio, Elim�ki, Kouvola, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Mustio Castle, Mustio, Raasepori, Finland']	60.1385916	23.8675948
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'National Theatre, Helsinki, Finland']	60.1992888	24.9403143
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Ristiina, Finland']	61.48097765	27.346017052620464
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Sjundby Castle, Siuntio, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Tammisaari Museum, Tammisaari, Raasepori, Finland']	59.83818105	23.471808060322648
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Ut� lighthouse, Ut�, Lansi-Turunmaa, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Vanhakartano, Yl�ne, P�yty�, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Vanhalinna, Lieto, Finland']	60.4863729	22.3770111
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Verla, Kouvola, Finland']	61.0624905	26.6374676
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Wiurila Manor, Halikko, Salo, Finland']	60.3965428	23.0784257
+['"Antiikkia, antiikkia" (1997)', '', '', '', 'Yl�neen Kotiseutumuseo, Yl�ne, P�yty�, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Aarrejahdissa Brysseliss� (#17.2)}', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"Antiikkia, antiikkia" (1997) {Aarrejahdissa Lontoossa (#17.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Antiikkia, antiikkia" (1997) {Aarrejahdissa Pariisissa (#17.3)}', 'Paris, France']	48.8566969	2.3514616
+['"Antiikkia, antiikkia" (1997) {Aarrejahdissa Pariisissa (#18.1)}', 'Paris, France']	48.8566969	2.3514616
+['"Antiikkia, antiikkia" (1997) {Heinola, Heinolan kaupunginmuseo ja iittil�iset puusep�t (#1.1)}', 'Heinola, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 10. Helsinki, Arabian museo (#2.1)}', 'Arabia Museum, Arabia, Helsinki, Finland']	60.2025587	24.967831
+['"Antiikkia, antiikkia" (1997) {Osa 10. Helsinki, Arabian museo (#2.1)}', 'Helsinki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 101. Turun linna (#15.2)}', 'Turku Castle, Turku, Finland']	60.435362749999996	22.22863047134333
+['"Antiikkia, antiikkia" (1997) {Osa 102. Keravan rautatieasema (#16.1)}', 'Kerava Railway Station, Kerava, Finland']	60.4043738	25.1061729
+['"Antiikkia, antiikkia" (1997) {Osa 106. Lahti, Sibeliustalo (#16.4)}', 'Sibeliustalo, Lahti, Finland']	60.995030299999996	25.65156480162815
+['"Antiikkia, antiikkia" (1997) {Osa 107. Ainola, Sibeliuksen koti (#16.5)}', 'Ainola, J�rvenp��, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 109. H�meenlinnan taidemuseo (#16.7)}', 'H�meenlinna Art Museum, H�meenlinna, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 11. Sinebrychoff, ulkomaalaisen taiteen museo (#2.2)}', 'Sinebrychoff Museum, Helsinki, Finland']	60.16251805	24.9325466884507
+['"Antiikkia, antiikkia" (1997) {Osa 110. Mannerheim-museo (#16.8)}', 'Mannerheim Museum, Kaivopuisto, Helsinki, Finland']	60.158871399999995	24.96044480814779
+['"Antiikkia, antiikkia" (1997) {Osa 111. Porvoon nukke- ja lelumuseo (#16.9)}', 'Porvoo Doll and Toy Museum, Porvoo, Finland']	60.3945307	25.6577726
+['"Antiikkia, antiikkia" (1997) {Osa 111. Porvoon nukke- ja lelumuseo (#16.9)}', 'Porvoo, Finland']	60.3953913	25.6604862
+['"Antiikkia, antiikkia" (1997) {Osa 112. Porvoon Museo, Edelfelt-Vallgren museo (#16.10)}', 'Porvoo, Finland']	60.3953913	25.6604862
+['"Antiikkia, antiikkia" (1997) {Osa 113. Vihti, Olkkalan kartano (#16.11)}', 'Olkkala Manor, Vihti, Finland']	60.4500663	24.3471971
+['"Antiikkia, antiikkia" (1997) {Osa 115. Auran Koskipirtti (#16.12)}', 'Koskipirtti, Aura, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 116. Tukholman kuninkaanlinna - Lassi koivunen (#16.13)}', 'Stockholms slott, Gamla Stan, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Antiikkia, antiikkia" (1997) {Osa 117. Anjalan kartano (#16.14)}', 'Anjala Mansion, Anjala, Anjalankoski, Kouvola, Finland']	60.73904435	26.8222899962241
+['"Antiikkia, antiikkia" (1997) {Osa 118. Kimonkyl�n taidekoti (#16.15)}', 'Kimonkyl�, Lapinj�rvi, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 119. Verlan ruukkitehdas (#16.17)}', 'Kymin Teollisuusoppilaitos, Kuusankoski, Kouvola, Finland']	60.9069347	26.6241933
+['"Antiikkia, antiikkia" (1997) {Osa 12. Helsinki, Suomenlinnan lelu-ja nukkemuseo (#2.3)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 12. Helsinki, Suomenlinnan lelu-ja nukkemuseo (#2.3)}', 'Suomenlinna, Helsinki, Finland']	60.1457064	24.9888603
+['"Antiikkia, antiikkia" (1997) {Osa 12. Helsinki, Suomenlinnan lelu-ja nukkemuseo (#2.3)}', 'Toy and Doll Museum, Suomenlinna, Helsinki, Finland']	60.1457064	24.9888603
+['"Antiikkia, antiikkia" (1997) {Osa 121. Heinola, Wpk-talo (#16.18)}', 'Heinola, Finland']	61.2027188	26.031371
+['"Antiikkia, antiikkia" (1997) {Osa 121. Heinola, Wpk-talo (#16.18)}', 'WPK-talo, Heinola, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 125. Vammala, Emil Danielssonin kivilinna (#16.22)}', 'Emil Danielssonin Kivilinna, Vammala, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 126. Ikaalinen, Vanha kauppala (#16.23)}', 'Ikaalinen, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 127. H�meenkyr�, F.E. Sillanp��n T�llinm�ki (#16.24)}', 'T�llinm�ki, H�meenkyr�, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 128. Siikainen, lasikuistit (#16.25)}', 'Siikainen, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 129. Korpilahti, Kovalan tila (#16.26)}', 'Kovalan Tila, Korpilahti, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 13. Helsinki, Reitzin kotimuseo (#2.4)}', 'Helsinki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 13. Helsinki, Reitzin kotimuseo (#2.4)}', 'Reitz Home Museum, Helsinki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 130. Muurame, Saunakyl� (#16.27)}', 'Saunakyl�, Muurame, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 131. Kangasala, lepokoti (#16.28)}', 'Lepokoti, Kangasala, Finland']	61.4674473	24.065563884164305
+['"Antiikkia, antiikkia" (1997) {Osa 132. Lohja (#16.29)}', 'Lohja, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 135. Siuntio, Suitian linna (#18.2)}', 'Suitia Castle, Siuntio, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 136. Alaj�rvi, Nelimarkka-museo (#18.3)}', 'Nelimarkka Museum, Alaj�rvi, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 138. Vaasa, Vanhan Vaasan rauniot (#18.5)}', 'Vaasa, Finland']	63.0957722	21.6159187
+['"Antiikkia, antiikkia" (1997) {Osa 139. Vaasa, Gr�nvikin kartano (#18.6)}', 'Gr�nvik Mansion, Vaasa, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 139. Vaasa, Gr�nvikin kartano (#18.6)}', 'Vaasa, Finland']	63.0957722	21.6159187
+['"Antiikkia, antiikkia" (1997) {Osa 14. Helsinki, Sederhomin talo (#2.5)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 142. Karttula, Syv�nniemi (#18.9)}', 'Syv�nniemi, Karttula, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 143. Lapinlahti, Eemil Halosen museo (#18.10)}', "Eemil Halonen's Museum, Lapinlahti, Finland"]	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 145. Ahvenanmaa, Bomarsundin rauniot (#18.12)}', 'Bomarsund, �land, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 146. Tsaarinajan samovaareja Haminassa (#19.1)}', 'Hamina, Finland']	60.5688901	27.1881877
+['"Antiikkia, antiikkia" (1997) {Osa 148. Rauman Merimuseo (#19.3)}', 'Rauman Merimuseo, Rauma, Finland']	61.12866735	21.494561403608778
+['"Antiikkia, antiikkia" (1997) {Osa 15. Espoo, Glims talomuseo (#3.1)}', 'Glims House Museum, Espoo, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 153. Nukkeja ja Sein�joen antiikkia (#19.8)}', 'Sein�joki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 16. Tarvasp��, Akseli Gallen-Kallelan koti ja ateljee (#3.2)}', 'Tarvasp��, Espoo, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 17. Hvittr�sk (#3.3)}', 'Hvittr�sk, Luoma, Kirkkonummi, Finland']	60.1795964	24.5442206
+['"Antiikkia, antiikkia" (1997) {Osa 18. Helsinki, rikosmuseo (#3.4)}', 'Crime Museum, Helsinki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 18. Helsinki, rikosmuseo (#3.4)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 19. Elim�ki, Moision kartano (#3.5)}', 'Moisio Mansion, Moisio, Elim�ki, Kouvola, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 2. Vaasa, Pohjanmaan museo: Carl Hedmanin kokoelmat (#1.2)}', 'Vaasa, Finland']	63.0957722	21.6159187
+['"Antiikkia, antiikkia" (1997) {Osa 20. Porvoo, Haikon kartano (#3.6)}', 'Haikko Mansion, Porvoo, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 20. Porvoo, Haikon kartano (#3.6)}', 'Porvoo, Finland']	60.3953913	25.6604862
+['"Antiikkia, antiikkia" (1997) {Osa 21. Kotka, Langinkosken keisarillinen kalastusmaja (#3.7)}', 'Langinkoski Imperial Fishing Lodge, Langinkoski, Kotka, Finland']	60.4891189	26.8833928
+['"Antiikkia, antiikkia" (1997) {Osa 24. Fagervik, ruukin kartano (#3.10)}', 'Fagervik, Inkoo, Finland']	60.0219902	23.8145004
+['"Antiikkia, antiikkia" (1997) {Osa 25. Perni�, renesanssiaika (#3.11)}', 'Perni�, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 26. Antiikkia, Antiikkia special: J�nk�ping (#4.1)}', 'J�nk�ping, J�nk�pings l�n, Sweden']	59.6749712	14.5208584
+['"Antiikkia, antiikkia" (1997) {Osa 27. Helsinki, antiikkia-ja taidemessut, huutokaupat (#5.1)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 28. Turku, wanhan ajan joulumarkkinat (#5.2)}', 'Turku, Finland']	60.4517531	22.2670522
+['"Antiikkia, antiikkia" (1997) {Osa 29. Riihim�ki, lasimuseo (#5.3)}', 'Glass Museum, Riihim�ki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 29. Riihim�ki, lasimuseo (#5.3)}', 'Riihim�ki Art Museum, Riihim�ki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 3. Kristiinankaupunki, Lebellin museo (#1.3)}', 'Lebell Museum, Kristiinankaupunki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 30. Rauma, Marelan talo (#5.4)}', 'Marela House, Rauma, Finland']	61.1280156	21.5150852
+['"Antiikkia, antiikkia" (1997) {Osa 32. Heinola, Ylen lavastehuonekalut esill�}', 'Heinola, Finland']	61.2027188	26.031371
+['"Antiikkia, antiikkia" (1997) {Osa 33. Espoo, kellomuseo}', 'Clock Museum, Espoo, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 35. Tampere, Hiekan taidemuseo (#6.5)}', 'Hiekka Art Museum, Tampere, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 36. Rovaniemi (#6.6)}', 'Rovaniemi, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 37. Kokkola (#6.7)}', 'Kokkola, Finland']	63.8391421	23.1336845
+['"Antiikkia, antiikkia" (1997) {Osa 38. Loviisa, Loviisan museo (#6.8)}', 'Loviisa Museum, Loviisa, Finland']	60.4622562	26.224703
+['"Antiikkia, antiikkia" (1997) {Osa 38. Loviisa, Loviisan museo (#6.8)}', 'Svartholma Fortress, Loviisa, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 41. Tervikin kartano (#6.11)}', 'Tervik Mansion, Pernaja, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 43. Hyvink��, Suomen Rautatiemuseo}', 'Railway Museum, Hyvink��, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 44. Imatra, Imatran Valtionhotelli}', 'Valtionhotelli, Imatra, Finland']	61.1687405	28.7688736
+['"Antiikkia, antiikkia" (1997) {Osa 45. Helsinki, vanhat neidit ja ker�ilij� Olli Ahtola}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 46. H�meenlinna, H�meen linna}', 'H�me Castle, H�meenlinna, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 47. Kuopio, Kuopion kauppahalli (#8.1)}', 'Kuopio, Finland']	62.8241424	27.594561484488977
+['"Antiikkia, antiikkia" (1997) {Osa 48. Uusi valamo (#8.2)}', 'Uusi Valamo, Hein�vesi, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 5. Porvoo, Porvoon museo, ker�ilij� Timo H�nnisen koti (#1.5)}', 'Porvoo, Finland']	60.3953913	25.6604862
+['"Antiikkia, antiikkia" (1997) {Osa 51. Hamina}', '', 'Hamina, Finland']	60.5688901	27.1881877
+['"Antiikkia, antiikkia" (1997) {Osa 54. Lappeenranta, Wolkoffin talomuseo (#9.5)}', 'Wolkoff House Museum, Lappeenranta, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 55. S�lve, Saimaan h�yrylaivaliikenteen historia (#9.6)}', 'Saimaa, Finland']	61.8331821	29.479327220420974
+['"Antiikkia, antiikkia" (1997) {Osa 56. Rantalinna (#9.7)}', 'Rantalinna, Ruokolahti, Finland']	61.3153853	28.775135299999995
+['"Antiikkia, antiikkia" (1997) {Osa 57. Mikkeli (#9.8)}', 'Mikkeli, Finland']	61.6877956	27.2726569
+['"Antiikkia, antiikkia" (1997) {Osa 59. Oulu, Merimiehen kotimuseo (#9.10)}', 'Pikisaari, Oulu, Finland']	65.0176713	25.4564629
+['"Antiikkia, antiikkia" (1997) {Osa 6. Helsinki, ritarihuone (#1.6)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 6. Helsinki, ritarihuone (#1.6)}', 'Ritarihuone, Helsinki, Finland']	60.1698397	24.956240118679037
+['"Antiikkia, antiikkia" (1997) {Osa 60. Tornio/Haaparanta (#9.11)}', 'Haparanda, Norrbottens l�n, Sweden']	59.6749712	14.5208584
+['"Antiikkia, antiikkia" (1997) {Osa 60. Tornio/Haaparanta (#9.11)}', 'Tornio, Finland']	65.8457589	24.1464
+['"Antiikkia, antiikkia" (1997) {Osa 61. Varkaus, mekaanisen musiikin museo (#10.1)}', 'Mechanical Music Museum, Varkaus, Finland']	62.2990003	27.855519
+['"Antiikkia, antiikkia" (1997) {Osa 62. Jyv�skyl�, Suuri Karttakuva n�yttely (#10.2)}', 'Jyv�skyl�, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 64. Inari, Saamelaismuseo siida & k�sity�l�inen Petteri Laiti (#11.2)}', 'Inari, Finland']	68.9062456	27.0260771
+['"Antiikkia, antiikkia" (1997) {Osa 65. Tuusula, taidemaalari Pekka Halosen ateljee Halosenniemi (#11.3)}', 'Halosenniemi, Tuusula, Finland']	60.4309735	25.0564486
+['"Antiikkia, antiikkia" (1997) {Osa 66. Helsinki, ker�ilij� Seppo Nurmimaan viuhkakokoelma (#11.4)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 67. Helsinki, vanhat rahat (#11.5)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 68. Helsinki, Linnanm�en leikki-ja lelumuseo (#11.6)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 68. Helsinki, Linnanm�en leikki-ja lelumuseo (#11.6)}', 'Play and Toy Museum, Linnanm�ki, Helsinki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 69. M�nts�l�, alikartano (#11.7)}', 'Alikartano, M�nts�l�, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 70. M�ntt�, G�sta Serlachiuksen taidemuseo (#11.8)}', 'G�sta Serlachius Art Museum, M�ntt�, M�ntt�-Vilppula, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 71. Helsinki, kahiluodon kartano seurasaaressa (#11.9)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 71. Helsinki, kahiluodon kartano seurasaaressa (#11.9)}', 'Kahiluoto Manor, Seurasaari, Helsinki, Finland']	60.18117545	24.88402801529233
+['"Antiikkia, antiikkia" (1997) {Osa 72. Harjavalta, Emil Sedercreuzin museo (#11.10)}', 'Emil Sedercreutz Museum, Harjavalta, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 74. Uusikaupunki, vanhat autot (#11.11)}', 'Car Museum, Uusikaupunki, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 75. Naantali, Naantalin historia (#11.12)}', 'Naantali, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 77. Iisalmi, Juhani Ahon museo (#11.14)}', 'Juhani Aho Museum, Iisalmi, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 78. Sonkaj�rvi, Antiikin-ja ker�ilyn messut (#11.15)}', 'Sonkaj�rvi, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 79. Kajaani, paltaniemen kuvakirkko (#11.16)}', 'Paltaniemi Church, Kajaani, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 8. Fiskars, ruukki ja antiikkimarkkinat (#1.8)}', 'Fiskars, Pohja, Raasepori, Finland']	60.10189275	23.518858254982987
+['"Antiikkia, antiikkia" (1997) {Osa 80. Hanko, Hotelli Bellevue (#11.17)}', 'Hotel Bellevue, Hanko, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 81. Valkeakoski, Emil Wikstr�min taitelijakoti Visavuori (#12.1)}', 'Visavuori, Valkeakoski, Finland']	61.1747742	24.0220791
+['"Antiikkia, antiikkia" (1997) {Osa 82. Helsinki, Ultima Thule - pohjoiset l�yt�retket-n�yttely (#12.2)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 82. Helsinki, Ultima Thule - pohjoiset l�yt�retket-n�yttely (#12.2)}', 'Tennispalatsi, Helsinki, Finland']	60.169684200000006	24.930357431566872
+['"Antiikkia, antiikkia" (1997) {Osa 83. Joensuu, Eero J�rnefeltin n�yttely Joensuun Taidemuseossa (#12.3)}', 'Joensuu Art Museum, Joensuu, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 83. Joensuu, Eero J�rnefeltin n�yttely Joensuun Taidemuseossa (#12.3)}', 'Joensuu, Finland']	62.6006257	29.7584591
+['"Antiikkia, antiikkia" (1997) {Osa 84. Helsinki, postimerkkimessut (#13.1)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 85. Pori, Juseliuksen mausoleumi (#13.2)}', 'Juselius Mausoleum, Pori, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 87. Helsinki, Mannerheimintien antiikki (#14.2)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 87. Helsinki, Mannerheimintien antiikki (#14.2)}', 'Mannerheimintien Antiikki, Helsinki, Finland']	60.1809825	24.9274255
+['"Antiikkia, antiikkia" (1997) {Osa 89. Helsinki, Raitioliikennemuseo (#14.4)}', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Antiikkia, antiikkia" (1997) {Osa 9. Pietari, Pietarin antiikkikaupat ja Romanovit (#1.9)}', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"Antiikkia, antiikkia" (1997) {Osa 90. Tampere, Amurin ty�l�ismuseokortteli (#14.5)}', 'Amur, Tampere, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 91. Hartola, Koskip��n kartano (#14.6)}', 'Koskip�� Mansion, Hartola, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 92. Raahe, Raahen museo (#14.7)}', 'Raahe Museum, Raahe, Finland']	64.6173969	24.26019501508712
+['"Antiikkia, antiikkia" (1997) {Osa 93. Pietarsaari, Pietarsaaren museo (#14.8)}', 'Pietarsaari Museum, Pietarsaari, Finland']	63.6666709	22.7000229
+['"Antiikkia, antiikkia" (1997) {Osa 94. Kauhava, Puukot (#14.9)}', 'Kauhava, Finland']	63.0993728	23.0569547
+['"Antiikkia, antiikkia" (1997) {Osa 95. Asikkala, Uraj�rven kartano (#14.10)}', 'Uraj�rvi Manor, Asikkala, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Osa 99. Asikkala, Pukkilan kartanomuseo (#14.14)}', 'Pukkila Mansion Museum, Asikkala, Finland']	63.2467777	25.9209164
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Amsterdam}', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Bratislava (#7.5)}', 'Bratislava, Slovakia']	48.1516988	17.1093063
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Brussels}', 'Brussels, Brussels-Capital, Belgium']	50.8436709	4.3674366933879565
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Budapest (#7.8)}', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Ljubljana (#7.6)}', 'Ljubljana, Slovenia']	46.0499803	14.5068602
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: London}', 'London, England, UK']	51.5073219	-0.1276474
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Paris}', 'Paris, France']	48.8566969	2.3514616
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Prague}', 'Prague, Czech Republic']	50.0874654	14.4212535
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Riga}', 'Riga, Latvia']	56.9493977	24.1051846
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Tallinn}', 'Tallinn, Estonia']	59.4372155	24.7453688
+['"Antiikkia, antiikkia" (1997) {Treasure Hunting: Vilnius}', 'Vilnius, Vilnius County, Lithuania']	54.6870458	25.2829111
+['"Antiques Roadshow" (1997)', '', '', '', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Antiques Roadshow" (1997)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Antiques Roadshow" (1997)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Antiques Roadshow" (1997)', '', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Antiques Roadshow" (1997)', '', '', '', 'Cleveland, Ohio, USA']	41.5051613	-81.6934446
+['"Antiques Roadshow" (1997)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Antiques Roadshow" (1997)', '', '', '', 'Hot Springs, Arkansas, USA']	34.5038393	-93.0552437
+['"Antiques Roadshow" (1997)', '', '', '', 'Indianapolis, Indiana, USA']	39.7683331	-86.1583502
+['"Antiques Roadshow" (1997)', '', '', '', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"Antiques Roadshow" (1997)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Antiques Roadshow" (1997)', '', '', '', 'Madison, Wisconsin, USA']	43.074761	-89.3837613
+['"Antiques Roadshow" (1997)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Antiques Roadshow" (1997)', '', '', '', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"Antiques Roadshow" (1997)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Antiques Roadshow" (1997)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Antiques Roadshow" (1997)', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Antiques Roadshow" (1997)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Antiques Roadshow" (1997)', '', '', '', 'Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"Antiques Roadshow" (1997)', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Antiques Roadshow" (1997)', '', '', '', 'St. Paul, Minnesota, USA']	44.9504037	-93.1015026
+['"Antiques Roadshow" (1997)', '', '', '', 'Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"Antiques Roadshow" (1997)', '', '', '', 'Tulsa, Oklahoma, USA']	36.1556805	-95.9929113
+['"Antiques Roadshow" (1997) {100th Episode}', '', 'Miami Beach Convention Center - 1900 Convention Center Dr, Miami Beach, Florida, USA']	25.7929198	-80.1353006
+['"Antiques Roadshow" (1997) {Charlotte: Hour 1 (#7.16)}', 'University of Maryland, College Park, Maryland, USA']	38.99203005	-76.94610290199051
+['"Antiques Roadshow" (1997) {Raleigh: Hour 1 (#14.1)}', 'Raleigh Convention Center - 500 South Salisbury Street, Raleigh, North Carolina, USA']	35.7735439	-78.64137053162017
+['"Antiques Roadshow" (1997) {Raleigh: Hour 1 (#14.1)}', 'Windmill Farm, Wiggins Mill Road, Lucama, North Carolina, USA']	39.7837304	-100.4458825
+['"Antiques Roadshow" (1997) {Raleigh: Hour 2 (#14.2)}', 'North Carolina Museum of History - 5 East Edenton Street, Raleigh, North Carolina, USA']	35.7818498	-78.63849830373829
+['"Antiques Roadshow" (1997) {Raleigh: Hour 2 (#14.2)}', 'Raleigh Convention Center - 500 South Salisbury Street, Raleigh, North Carolina, USA']	35.7735439	-78.64137053162017
+['"Antiques Roadshow" (1997) {Reno Hour 1 (#9.10)}', 'Reno-Sparks Convention Center, Reno, Nevada, USA']	39.48554315	-119.79126855840221
+['"Antiques Roadshow" (1997) {Reno: Hour 2 (#9.11)}', 'Reno-Sparks Convention Center, Reno, Nevada, USA']	39.48554315	-119.79126855840221
+['"Antiques Roadshow" (1997) {Reno: Hour 3 (#9.12)}', 'Reno-Sparks Convention Center, Reno, Nevada, USA']	39.48554315	-119.79126855840221
+['"Anyplace Wild" (1997) {Hiking Washington\'s Coast: Walking the Waves (#3.10)}', 'Olympic National Park, Washington, USA']	47.786532449999996	-123.53605033085455
+['"Anyplace Wild" (1997) {Prisoner\'s Paddle: Sea Kayaking Tasmania\'s Freycinet Peninsula and Maria Island (#4.4)}', 'Freycinet Peninsula,Tasmania, Australia']	-24.7761086	134.755
+['"Aoi tori" (1997)', '', '', '', '', 'Akita, Japan']	36.5748441	139.2394179
+['"Aoi tori" (1997)', '', '', '', '', 'Iwate, Japan']	39.5713763	141.4253574
+['"Aoi tori" (1997)', '', '', '', '', 'Nagano, Japan']	36.1143945	138.0319015
+['"Aprender a vivir" (1997)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Apt. 2F" (1997)', '', '', '', '', 'Pier 59 Studios, Chelsea Piers, Pier 59 - West 18th Street & West Side Highway, Chelsea, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Aquila" (1997)', '', '', '', '', '', 'Berrow Beach, Weston-super-Mare, Somerset, England, UK']	54.7023545	-3.2765753
+['"Aquila" (1997)', '', '', '', '', '', 'Black Rock, Cheddar Gorge, Cheddar, Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"Aquila" (1997)', '', '', '', '', '', 'Cheddar Gorge, Cheddar, Somerset, England, UK']	51.2825942	-2.7656541
+['"Aquila" (1997)', '', '', '', '', '', 'Mendip Hills, Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"Aquila" (1997)', '', '', '', '', '', 'Redcliffe Caves, Redcliffe Parade, Bristol, England, UK']	51.4538022	-2.5972985
+['"Aquila" (1997)', '', '', '', '', '', 'The Charterhouse Centre, Charterhouse-on-Mendip, Blagdon, Bristol, England, UK']	51.4538022	-2.5972985
+['"Archives of American Television" (1997)', '', 'Sherman Oaks, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archives of American Television" (1997) {Alan Alda}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Alexander Anderson}', 'Pebble Beach, California, USA']	36.5672414	-121.9442134
+['"Archives of American Television" (1997) {Andy Ackerman}', 'South Pasadena, California, USA']	34.1133062	-118.1478291
+['"Archives of American Television" (1997) {Arthur Penn}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Bea Arthur}', 'Brentwood, California, USA']	37.9317766	-121.6960266
+['"Archives of American Television" (1997) {Berle Adams}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Archives of American Television" (1997) {Betty White with Emerson College Interview}', 'Emerson College, Los Angeles, California, USA']	34.054053249999996	-118.25114833830116
+['"Archives of American Television" (1997) {Bill Daily}', 'New Mexico, USA']	34.5708167	-105.993007
+['"Archives of American Television" (1997) {Bob Newhart}', 'Westwood, California, USA']	34.0561207	-118.4306347
+['"Archives of American Television" (1997) {Bob Vila}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Bruce Vilanch}', 'North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Archives of American Television" (1997) {Buck Henry}', 'North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Archives of American Television" (1997) {Bud Yorkin}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Archives of American Television" (1997) {Charlie Andrews}', 'West Hampton, New York, USA']	43.5259	-73.250656
+['"Archives of American Television" (1997) {Chris Albrecht}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Archives of American Television" (1997) {Chuck Jones}', 'Orange County, California, USA']	33.7500378	-117.8704931
+['"Archives of American Television" (1997) {David Brinkley}', 'Bal Harbour, Florida, USA']	29.5490715	-95.5220513
+['"Archives of American Television" (1997) {David Wolper}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archives of American Television" (1997) {Dean Valentine}', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Archives of American Television" (1997) {Dibbie Allen}', 'Debbie Allen Dance Academy, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archives of American Television" (1997) {Dick Askin}', 'North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Archives of American Television" (1997) {Dick Wolf}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Archives of American Television" (1997) {Edward Asner}', 'North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Archives of American Television" (1997) {Edward Asner}', 'Valley Village, California, USA']	34.1637147	-118.3965758
+['"Archives of American Television" (1997) {Ellen M. Violett}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Fess Parker}', 'Fess Parker Winery & Vineyard - 6200 Foxen Canyon Road, Los Olivos, California, USA']	34.6677646	-120.114847
+['"Archives of American Television" (1997) {Fred De Cordova}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Archives of American Television" (1997) {Frederic Ziv}', 'Cincinnati, Ohio, USA']	39.1014537	-84.5124602
+['"Archives of American Television" (1997) {Hank Azaria}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Helen Wagner}', 'Mt. Kisco, New York, USA']	41.2084388	-73.7295886
+['"Archives of American Television" (1997) {Howard Anderson, Jr}', 'Oxnard, California, USA']	34.1976308	-119.1803818
+['"Archives of American Television" (1997) {Hugh Wilson}', 'Writers Guild Theater - 135 S. Doheny Drive, Beverly Hills, California, USA']	39.7837304	-100.4458825
+['"Archives of American Television" (1997) {Jack Lemmon}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Archives of American Television" (1997) {James Arness}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archives of American Television" (1997) {Jane Pauley}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Jason Alexander}', 'North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Archives of American Television" (1997) {Jay Livingston and Ray Evans}', 'Bel Air, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archives of American Television" (1997) {Jerry Lewis}', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Archives of American Television" (1997) {Jim Lehrer}', 'Arlington, Virginia, USA']	38.8903961	-77.0841585
+['"Archives of American Television" (1997) {John Amos}', 'Woodland Hills, Los Angeles, California, USA']	34.1684364	-118.6058382
+['"Archives of American Television" (1997) {John Frankenheimer}', 'Century City, Los Angeles, California, USA']	34.0574263	-118.4147267
+['"Archives of American Television" (1997) {Jonathan Winters}', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"Archives of American Television" (1997) {Kay Alden}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Archives of American Television" (1997) {Kim Zimmer}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Lee Adams}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Leslie Uggams}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Lucie Arnaz}', 'North Hollywood, California, USA']	34.1729044	-118.3740371
+['"Archives of American Television" (1997) {Mary Tyler Moore}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Mary V. Ahern}', 'Peabody, Massachusetts, USA']	42.5278731	-70.9286609
+['"Archives of American Television" (1997) {Quincy Jones}', 'Bel Air, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archives of American Television" (1997) {Robert Adler}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Archives of American Television" (1997) {Robert Mac Neil}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Robert Vaughn}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Ron Howard}', 'Imagine Entertainment, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Archives of American Television" (1997) {Sid Caesar}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Archives of American Television" (1997) {Sidney Lumet}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Steve Allen}', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Archives of American Television" (1997) {Thomas Azzari}', 'Taos, New Mexico, USA']	36.4072377	-105.5732847
+['"Archives of American Television" (1997) {Timothy Van Patten}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Tyne Daly}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {Vin Scully}', 'Broadcasting booth, Dodger Stadium, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Archives of American Television" (1997) {Walter Cronkite}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Archives of American Television" (1997) {William Asher}', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"Archivo negro" (1997)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Arsenio" (1997)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Arsenio" (1997)', '', '', '', '', 'Omni Coliseum - 100 Techwood Drive NW, Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Ashiyana" (1997)', '', '', '', '', 'Lahore, Pakistan']	31.5656079	74.3141775
+['"As� estamos" (1997)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"At the Angelika" (1997)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Atif\'s Journey" (1997)', '', '', '', '', 'Landover, Maryland, USA']	38.9340002	-76.8966397
+['"Atorrantes" (1997)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Atrapado" (1997)', '', '', '', '', 'Telemicro, Santo Domingo, Dominican Republic']	18.4710673	-69.89322801852529
+['"Austin Stories" (1997)', '', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {Austin Sex Stories (#1.10)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {Chicks with Discs (#1.9)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {Cults (#1.5)}', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {I Want Candy (#1.2)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {My Brother\'s Creeper (#1.12)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {Rambling Prague Vest (#1.1)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {River Tubing Trip (#1.8)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {Stalker of a Sales Band (#1.4)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {Suspicion (#1.3)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Stories" (1997) {The Story of Cereal (#1.11)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Australian Good Taste" (1997)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Avisa\'ns quan arribi el 2000" (1997)', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Awantura o Basie" (1997)', '', '', '', 'Poland']	52.215933	19.134422
+['"BBC News 24" (1997) {(#5.246)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#6.259)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#6.344)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#8.251)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#8.305)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#8.314)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.105)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.141)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.180)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.188)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.195)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.196)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.209)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.210)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.247)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.281)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.294)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.307)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.314)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.65)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.74)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.79)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(#9.99)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2003-03-16)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2003-12-14)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2004-06-15)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2004-08-23)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2005-04-03)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2005-11-11)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2006-01-18)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2006-02-09)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2006-09-14)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2006-12-10)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2007-02-08)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2007-03-09)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2007-04-04)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2007-04-12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2007-06-08)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-01-07)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-07-26)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-08-02)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-09-16)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-09-30)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-11-13)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-11-19)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-11-24)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2008-12-31)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-03-17)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-03-27)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-04-24)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-04-29)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-05-03)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-05-05)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-05-06)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-05-07)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-05-08)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-05-21)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-07-26)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-07-27)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-07-30)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-08-01)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-08-26)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-09-14)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-10-24)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-11-12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2009-12-16)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-02-09)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-03-29)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-05-02)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-05-11)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-05-19)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-06-06)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-07-07)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-09-20)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-10-12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-10-15)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-11-12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-11-15)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-11-17)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-11-19)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-11-25)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-12-22)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2010-12-28)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-01-02)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-01-16)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-01-24)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-01-27)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-01-28)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-02-02)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-03-04)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-03-09)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-03-11)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-05-26)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-06-01)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-06-15)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-06-24)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-06-27)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-07)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-08)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-09)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-10)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-11)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-13)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-14)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-15)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-18)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-19)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-20)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-21)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-22)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-07-29)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-11)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-15)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-16)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-18)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-19)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-26)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-28)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-29)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-30)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-08-31)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-01)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-02)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-04)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-05)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-06)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-07)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-08)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-09)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-10)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-27)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-09-29)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-10-08)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-10-15)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-10-17)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-10-20)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-10-21)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2011-12-25)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-01-04)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-01-18)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-02-06)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-02-23)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-02-24)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-02-27)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-02-29)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-03-02)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-03-03)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-03-18)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-04-12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-04-26)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-05-18)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-05-25)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-06-12)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-12-25)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2012-12-28)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2013-01-01)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2013-01-25)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2013-01-28)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2013-02-11)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2013-05-02)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BBC News 24" (1997) {(2016-04-23)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"BC Times" (1997)', '', '', '', '', 'British Columbia, Canada']	55.001251	-125.002441
+['"Baba evi" (1997)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Balash Be-Yerushalayim" (1997)', '', '', '', 'Jerusalem, Israel']	31.778345	35.2250786
+['"Barend & Witteman" (1997) {(1999-12-02)}', '', 'Studio Plantage, Amsterdam, Noord-Holland, Netherlands']	52.36673725	4.912545429212791
+['"Barend & Witteman" (1997) {(2000-11-16)}', '', 'Studio Plantage, Amsterdam, Noord-Holland, Netherlands']	52.36673725	4.912545429212791
+['"Barend & Witteman" (1997) {(2001-01-30)}', '', 'Studio Plantage, Amsterdam, Noord-Holland, Netherlands']	52.36673725	4.912545429212791
+['"Barend & Witteman" (1997) {(2001-03-15)}', '', 'Studio Plantage, Amsterdam, Noord-Holland, Netherlands']	52.36673725	4.912545429212791
+['"Barend & Witteman" (1997) {(2001-11-14)}', '', 'Studio Plantage, Amsterdam, Noord-Holland, Netherlands']	52.36673725	4.912545429212791
+['"Barend & Witteman" (1997) {(2002-02-15)}', '', 'Studio Plantage, Amsterdam, Noord-Holland, Netherlands']	52.36673725	4.912545429212791
+['"Basil\'s Footy Show" (1997)', '', '', '', 'TVW7 Studios, Perth, Western Australia, Australia']	-31.9527121	115.8604796
+['"Bear in the Big Blue House" (1997)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beck" (1997) {Annonsmannen (#2.6)}', '', '', 'Skansen, Djurg�rden, �stermalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Annonsmannen (#2.6)}', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Det tysta skriket (#3.7)}', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Enslingen (#2.4)}', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Gamen (#3.3)}', '', '', '', 'Sk�neparken, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Gamen (#3.3)}', '', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {H�mndens pris (#2.1)}', '', '', 'H�torget, Norrmalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {H�mndens pris (#2.1)}', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {H�mndens pris (#2.1)}', '', '', 'Vanadislunden, Vasastaden, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {I stormens �ga (#4.1)}', '', '', 'Frihamnen, G�rdet, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Kartellen (#2.3)}', '', '', 'Gustaf Adolfs Parken, �stermalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Lockpojken (#1.1)}', '', '', 'Gr�ndal, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Lockpojken (#1.1)}', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Mannen utan ansikte (#2.2)}', '', 'Bromma, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Mannen utan ansikte (#2.2)}', '', 'Djurg�rdsbrunn, Djurg�rden, �stermalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Mannen utan ansikte (#2.2)}', '', 'H�torget, Norrmalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Mannen utan ansikte (#2.2)}', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Ok�nd avs�ndare (#2.5)}', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Ok�nd avs�ndare (#2.5)}', '', '', 'Stockholm-Arlanda Airport, Sigtuna, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Pojken i glaskulan (#2.7)}', '', 'Gustavsberg, V�rmd�, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Sista vittnet (#2.8)}', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Skarpt l�ge (#3.1)}', '', '', 'Katarinahissen, S�dermalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Skarpt l�ge (#3.1)}', '', '', 'Saltsj�-Duvn�s, Nacka, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Skarpt l�ge (#3.1)}', '', '', 'S�dermalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Sp�r i m�rker (#1.8)}', '', '', 'Kungstr�dg�rdens tunnelbanestation, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Sp�r i m�rker (#1.8)}', '', '', 'Odenplan, Vasastaden, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Sp�r i m�rker (#1.8)}', '', '', 'St Eriksplans Tunnelbanestation, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beck" (1997) {Sp�r i m�rker (#1.8)}', '', '', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Behind the Music" (1997) {Blondie (#2.5)}', '', "CBGB's - 315 Bowery, Manhattan, New York City, New York, USA"]	40.7127281	-74.0060152
+['"Behind the Music" (1997) {David Cassidy (#2.15)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Behind the Music" (1997) {Geri Halliwell}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Behind the Music" (1997) {Geri Halliwell}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Behind the Music" (1997) {Geri Halliwell}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Behind the Music" (1997) {Gloria Estefan (#1.36)}', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Behind the Music" (1997) {M�tley Cr�e (#2.14)}', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Behind the Music" (1997) {M�tley Cr�e (#2.14)}', '', 'Moscow, Russia']	55.4792046	37.3273304
+['"Behind the Music" (1997) {R.E.M. (#2.13)}', '', 'Athens, Georgia, USA']	33.9597677	-83.376398
+['"Behind the Music" (1997) {Takin\' It to the Streets (#1.24)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Behind the Music" (1997) {Takin\' It to the Streets (#1.24)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Behind the Music" (1997) {Takin\' It to the Streets (#1.24)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Behind the Music" (1997) {Takin\' It to the Streets (#1.24)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Behind the Music" (1997) {Tony Orlando (#1.35)}', 'Branson, Missouri, USA']	36.6411357	-93.2175285
+['"Beyond Belief: Fact or Fiction" (1997)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997)', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beyond Belief: Fact or Fiction" (1997) {Above the Clouds}', 'Harbour Centre - 555 W Hastings St. , Vancouver, British Columbia, Canada']	49.28476745	-123.11206428918614
+['"Beyond Belief: Fact or Fiction" (1997) {Beyond Sight/The Fine Line/The Wrong Turn/Who Was I/You Are Next (#4.4)}', '2400 Court Motel - 2400 Kingsway, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beyond Belief: Fact or Fiction" (1997) {Bright Lights/Magic Mightyman/The Student/Scribbles/Count Mystery (#2.6)}', 'Old Zoo, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {Bright Lights/Magic Mightyman/The Student/Scribbles/Count Mystery (#2.6)}', 'Sierra Inn, 13800 Sierra Hwy, Agua Dulce, California, USA']	36.773557	-121.737165
+['"Beyond Belief: Fact or Fiction" (1997) {Caitlin\'s Candle/The Flower Jury/The Mentor/The Old Bike/The Music Teacher (#4.8)}', 'Hycroft Mansion, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beyond Belief: Fact or Fiction" (1997) {Candlestick/The Diner/From the Agency/The Magic Rose Garden/The Jeep (#1.6)}', 'Quality Coffee Shop - 1238 West 7th Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {Candlestick/The Diner/From the Agency/The Magic Rose Garden/The Jeep (#1.6)}', 'Quality Coffee Shop - 1238 West 7th Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {Connie/Positive I.D./Trucker/Cook Out/The New House (#3.7)}', '4300 Victoria Park Dr, Los Angeles, California, USA']	34.046047	-118.329213
+['"Beyond Belief: Fact or Fiction" (1997) {Creepy Comics/Louie the Dip/The Wailing/The Landlady/Curse (#3.8)}', '2203 W 20th St, Los Angeles, California, USA']	34.038904413793105	-118.31208324137931
+['"Beyond Belief: Fact or Fiction" (1997) {Dead Beat Daddy/Ghost Town/The Sewing Machine/The Sleepwalker/Money Laundry (#3.11)}', 'Sable Ranch - 25933 Sand Canyon Road, Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Beyond Belief: Fact or Fiction" (1997) {Dead Beat Daddy/Ghost Town/The Sewing Machine/The Sleepwalker/Money Laundry (#3.11)}', 'Hillmont - corner of N. Hill Avenue and E. Mountain Street, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Beyond Belief: Fact or Fiction" (1997) {E-Mail II/Blood Donor/Epitaph/Stiches in Time/Soldier (#3.4)}', '2173 W 20th St, Los Angeles, California, USA']	34.03890622413793	-118.3112486724138
+['"Beyond Belief: Fact or Fiction" (1997) {E-Mail/Cup of Joe/Secret of the Family Tomb/Wheezer/The Unknown Patient (#1.4)}', 'Angelus rosedale cemetery, 1831 W Washington Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {E-Mail/Cup of Joe/Secret of the Family Tomb/Wheezer/The Unknown Patient (#1.4)}', 'Angelus-Rosedale Cemetery - 1831 W. Washington Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {Firestation 32/The Computer/The Girl Next Door/The Wallet/The Woods (#2.2)}', '27 St James Park, Los Angeles, California, USA']	34.03108651020408	-118.27960763265305
+['"Beyond Belief: Fact or Fiction" (1997) {For the Record/Halloween/Precious/Get Your Kicks at Motel 66/Phantom Drifter (#3.9)}', '2221 Marengo Ave, Altadena, California, USA']	34.1925277	-118.1413236
+['"Beyond Belief: Fact or Fiction" (1997) {Kirby/Dust/Malibu Cop/A Joyful Noise/The Hooded Chair (#2.8)}', '1120 Westchester Place Los Angeles, California, USA']	34.050264020408164	-118.31744259183674
+['"Beyond Belief: Fact or Fiction" (1997) {Kirby/Dust/Malibu Cop/A Joyful Noise/The Hooded Chair (#2.8)}', '28124 Pacific Coast Hwy., Malibu, California, USA']	34.037327	-118.6083179
+['"Beyond Belief: Fact or Fiction" (1997) {Merry-Go-Round/Red Eyed Creature/Used Car Salesman/Surveillance Camera/Graffiti (#2.12)}', 'Verdugo Hills High School - 10625 Plainview Avenue, Tujunga, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {Merry-Go-Round/Red Eyed Creature/Used Car Salesman/Surveillance Camera/Graffiti (#2.12)}', 'Merry-Go-Round, Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {Merry-Go-Round/Red Eyed Creature/Used Car Salesman/Surveillance Camera/Graffiti (#2.12)}', '580 E Kensington Rd, Los Angeles, California, USA']	34.06700073737374	-118.2524930909091
+['"Beyond Belief: Fact or Fiction" (1997) {Morning Sickness/The Curse of Hampton Manor/Wax Executioner/Blood Bank/Ring Toss (#3.1)}', 'Movieland Wax Museum - 7711 Beach Blvd., Buena Park, California, USA']	33.870413	-117.9962165
+['"Beyond Belief: Fact or Fiction" (1997) {Morning Sickness/The Curse of Hampton Manor/Wax Executioner/Blood Bank/Ring Toss (#3.1)}', '11446 Awenita Court, Chatsworth, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Beyond Belief: Fact or Fiction" (1997) {Needle Point/Toy to the Rescue/Mystery Lock/The House on Baker Street/The Train (#1.5)}', '4350 Victoria Park Drive, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {Needle Point/Toy to the Rescue/Mystery Lock/The House on Baker Street/The Train (#1.5)}', '624 S Berendo St, Los Angeles, California, USA']	34.06268999930878	-118.29403317414474
+['"Beyond Belief: Fact or Fiction" (1997) {Second Sight}', '2400 Court Motel - 2400 Kingsway, Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beyond Belief: Fact or Fiction" (1997) {The Apparition/The Electric Chair/On the Road/Number One with a Bullet/Dream House (#1.1)}', 'Cafe Club Fais Do-Do, 5257 W Adams Blvd, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {The Devil\'s Autograph/Mail Order Degree/The Newsstand/Murder of Roy Hennessey/Mysterious Strangers (#4.1)}', 'Segal Graduate School of Business - 500 Granville Street, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Beyond Belief: Fact or Fiction" (1997) {The Find/The Golden Cue/The FBI Story/The Gravedigger\'s Nemesis/Last Rites (#3.3)}', "Walt Disney's Golden Oak Ranch - 19802 Placerita Canyon Road, Newhall, California, USA"]	34.3798765	-118.5291917
+['"Beyond Belief: Fact or Fiction" (1997) {The Find/The Golden Cue/The FBI Story/The Gravedigger\'s Nemesis/Last Rites (#3.3)}', 'Mountain View Cemetery - 2400 N. Fair Oaks, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beyond Belief: Fact or Fiction" (1997) {The Hand/The Battered Doll/Poker Justice/Above the Clouds/Screen Saver (#4.13)}', 'Harbour Centre - 555 W Hastings St. , Vancouver, British Columbia, Canada']	49.28476745	-123.11206428918614
+['"Beyond Belief: Fact or Fiction" (1997) {The Land/Titan/The Diary/Town of Remembrance/The House on Barry Avenue (#2.5)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	39.7837304	-100.4458825
+['"Beyond Belief: Fact or Fiction" (1997) {The Motorcycle/Blind Man\'s Dog/Deer Hunters/Tribal Curse/The Card Game (#2.10)}', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	39.7837304	-100.4458825
+['"Beyond Belief: Fact or Fiction" (1997) {The Mummy/The Perfect Record/Grave Sitting/Murder on the Second Floor/They Towed My Car (#2.7)}', 'Mountain View Cemetery - 2400 N. Fair Oaks, Altadena, California, USA']	34.1863161	-118.1352329
+['"Beyond Belief: Fact or Fiction" (1997) {The Mystery of Douglas Hibbard/Wheelchair Man/The Vigil/The Mandarin\'s Bowl/Ghost Writer (#4.11)}', '52 Alexander Street Vancouver, British Columbia, Canada']	49.28343355	-123.10293683158935
+['"Beyond Belief: Fact or Fiction" (1997) {The Plane/The Gun/The Portrait/The Pass/The Caller (#2.1)}', 'Agua Dulce Air Park - 33638 Agua Dulce Canyon Road, Agua Dulce, California, USA']	36.773557	-121.737165
+['"Beyond Belief: Fact or Fiction" (1997) {The Prophecy/Couch Potato/Love over the Counter/Imaginary Friend/Last Man on Earth (#1.3)}', 'Pacific Park, Santa Monica Pier, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"Beyond Belief: Fact or Fiction" (1997) {The Wall/The Chalkboard/The Getaway/The Prescription/Summer Camp (#2.3)}', 'Canyon Ranch, 368 E. Carlisle Rd., Westlake Village, California, USA']	34.1460234	-118.8061794
+['"Beyond Belief: Fact or Fiction" (1997) {The Warning/Bus Stop/The Cure/The Guardian/The Gift (#2.13)}', 'Park Plaza Hotel - 607 S. Park View Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyond Belief: Fact or Fiction" (1997) {The Wealthy Widow/The Witness/The Accident/Bad Dreams/Mental (#4.9)}', 'Dunbar Theatre, 4555 Dunbar Street, Vancouver, British Columbia, Canada']	49.2455783	-123.1854475
+['"Beyond Belief: Fact or Fiction" (1997) {The Wreath/Terror Night/Tants/The Candidate/The Ring (#4.7)}', 'Fairmont Hotel Vancouver - 900 W Georgia St, Vancouver, British Columbia, Canada']	49.28376965	-123.12098576222684
+['"Beyond Belief: Fact or Fiction" (1997) {Witness to Murder/Roulette Wheel/The Phrenologist\'s Head/The Bridge/The Cigar Box (#4.12)}', 'Lynn Canyon Suspension Bridge - 3993 Peters Rd. , North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Beyond Belief: Fact or Fiction" (1997) {Witness to Murder/Roulette Wheel/The Phrenologist\'s Head/The Bridge/The Cigar Box (#4.12)}', 'Lynn Canyon Suspension Bridge - 3993 Peters Rd. , North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Big Sky" (1997/I)', '', '', '', '', 'Rozelle Hospital, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Big Sky" (1997/II)', '', '', '', '', 'Alberta, Canada']	61.0666922	-107.9917071
+['"Big Sky" (1997/II)', '', '', '', '', 'High River, Alberta, Canada']	50.5797079	-113.8569213

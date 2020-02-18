@@ -1,0 +1,282 @@
+['"Alfred Hitchcock Presents" (1955)', '', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Alfred Hitchcock Presents" (1955)', '', '', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955)', '', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {A Bottle of Wine (#2.19)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {A Bullet for Baldwin (#1.14)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {A Crime for Mothers (#6.16)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {A Jury of Her Peers (#7.12)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {A Little Sleep (#2.38)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {A Man Greatly Beloved (#2.33)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {A Night with the Boys (#4.30)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {A Personal Matter (#4.15)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {A Secret Life (#6.33)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {A True Account (#4.34)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {A Very Moral Theft (#6.3)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {A Woman\'s Help (#6.24)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Across the Threshold (#5.22)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Act of Faith (#7.27)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Alibi Me (#2.7)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Ambition (#6.38)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {An Occurrence at Owl Creek Bridge (#5.13)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {And So Died Riabouchinska (#1.20)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {And the Desert Shall Blossom (#4.11)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Anniversary Gift (#5.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Apex (#7.24)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Appointment at Eleven (#5.3)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Arthur (#5.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Back for Christmas (#1.23)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Backward, Turn Backward (#5.18)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Bad Actor (#7.14)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Bang! You\'re Dead (#7.2)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Banquo\'s Chair (#4.29)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Beta Delta Gamma (#7.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Breakdown (#1.7)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Bull in a China Shop (#3.26)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Burglar Proof (#7.21)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Cell 227 (#5.34)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Cheap Is Cheap (#4.26)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Coming Home (#6.35)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Coming, Mama (#6.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Conversation Over a Corpse (#2.8)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Cop for a Day (#7.4)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Coyote Moon (#5.4)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Crack of Doom (#2.9)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Crackpot (#2.15)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Craig\'s Will (#5.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {De Mortuis (#2.3)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Dead Weight (#5.9)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Death Sentence (#3.30)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Deathmate (#6.27)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Decoy (#1.37)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Design for Loving (#4.6)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Dip in the Pool (#3.35)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Disappearing Trick (#3.27)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Don\'t Come Back Alive (#1.4)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Don\'t Interrupt (#4.2)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Dry Run (#5.7)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Enough Rope for Two (#3.7)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Escape to Sonoita (#5.37)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Fatal Figures (#3.29)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Father and Son (#2.36)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Final Arrangements (#6.36)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {First Class Honeymoon (#7.36)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Flight to the East (#3.25)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Fog Closing In (#2.2)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Forty Detectives Later (#5.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Graduating Class (#5.14)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Gratitude (#6.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Guest for Breakfast (#3.21)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Guilty Witness (#1.11)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Heart of Gold (#3.4)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Help Wanted (#1.27)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Hitch Hike (#5.21)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Hooked (#5.38)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Human Interest Story (#4.32)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {I Can Take Care of Myself (#5.31)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {I Killed the Count: Part 1 (#2.25)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {I Killed the Count: Part 2 (#2.26)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {I Killed the Count: Part 3 (#2.27)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {I Spy (#7.9)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {I\'ll Take Care of You (#4.23)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Incident in a Small Jail (#6.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Insomnia (#5.30)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Into Thin Air (#1.5)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Invitation to an Accident (#4.36)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {John Brown\'s Body (#2.14)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Jonathan (#2.10)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Keep Me Company (#7.5)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Kill with Kindness (#2.4)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Lamb to the Slaughter (#3.28)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Last Request (#3.8)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Letter of Credit (#5.36)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Listen, Listen.....! (#3.32)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Little White Frock (#3.39)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Madame Mystery (#5.24)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Mail Order Prophet (#3.2)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Make My Death Bed (#6.37)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Malice Domestic (#2.20)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Man from the South (#5.15)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Man with a Problem (#4.7)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Maria (#7.3)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Martha Mason, Movie Star (#2.34)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Mink (#1.36)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Miss Bracegirdle Does Her Duty (#3.18)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Miss Paisley\'s Cat (#3.12)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Momentum (#1.39)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Most Likely to Succeed (#7.31)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Mother, May I Go Out to Swim? (#5.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Mr. Blanchard\'s Secret (#2.13)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Mrs. Bixby and the Colonel\'s Coat (#6.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Mrs. Herman and Mrs. Fenimore (#4.12)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Museum Piece (#6.25)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {My Brother, Richard (#2.17)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Never Again (#1.30)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Night of the Execution (#3.13)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Night of the Execution (#3.13)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Nightmare in 4-D (#2.16)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {No Pain (#5.5)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {None Are So Blind (#2.5)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Not the Running Type (#5.19)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Number Twenty-Two (#2.21)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {O Youth and Beauty! (#6.8)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {On the Nose (#3.20)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {One Grave Too Many (#5.32)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {One More Mile to Go (#2.28)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {One for the Road (#2.23)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Our Cook\'s a Treasure (#1.8)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Out There - Darkness (#4.16)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Outlaw in Town (#6.7)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Party Line (#5.33)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Pen Pal (#6.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Place of Shadows (#1.22)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Poison (#4.1)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Portrait of Jocelyn (#1.28)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Post Mortem (#3.33)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Premonition (#1.2)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Profit-Sharing Plan (#7.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Relative Value (#4.21)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Revenge (#1.1)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Reward to Finder (#3.6)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Road Hog (#5.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Safe Conduct (#1.21)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Safety for the Witness (#4.8)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Salvage (#1.6)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Santa Claus and the Tenth Avenue Kid (#1.12)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Self Defense (#6.32)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Servant Problem (#6.34)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Services Rendered (#7.10)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Shopping for Death (#1.18)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Silent Witness (#3.5)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Six People, No Music (#4.13)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Special Delivery (#5.10)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Specialty of the House (#5.12)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Strange Miracle (#7.19)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Summer Shade (#6.15)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Sybilla (#6.10)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Sylvia (#3.16)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Tea Time (#4.10)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Ten O\'Clock Tiger (#7.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The $2,000,000 Defense (#4.5)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Avon Emeralds (#4.24)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Baby Sitter (#1.32)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Baby-Blue Expression (#6.12)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Belfry (#1.33)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Better Bargain (#2.11)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Big Kick (#7.37)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Big Score (#7.22)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Big Switch (#1.15)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Blessington Method (#5.8)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Canary Sedan (#3.37)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Case of M.J.H. (#7.16)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Case of Mr. Pelham (#1.10)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Changing Heart (#6.14)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Cheney Vase (#1.13)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Children of Alda Nuova (#7.35)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Contest for Aaron Gold (#6.4)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Cream of the Jest (#2.24)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Creeper (#1.38)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Crocodile Case (#3.34)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Crooked Road (#4.4)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Crystal Trench (#5.2)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Cuckoo Clock (#5.27)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Cure (#5.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Dangerous People (#2.39)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Day of the Bullet (#5.20)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Deadly (#3.11)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Derelicts (#1.19)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Diamond Necklace (#4.20)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Diplomatic Corpse (#3.10)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Door Without a Key (#7.15)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Doubtful Doctor (#6.2)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Dusty Drawer (#4.33)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The End of Indian Summer (#2.22)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Equalizer (#3.19)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Faith of Aaron Menefee (#7.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Festive Season (#3.31)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Five-Forty-Eight (#6.5)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Foghorn (#3.24)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Gentleman from America (#1.31)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Glass Eye (#3.1)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Gloating Place (#6.31)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Greatest Monster of Them All (#6.18)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Hands of Mr. Ottermole (#2.32)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Hatbox (#7.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Hero (#5.29)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Hidden Thing (#1.34)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Horse Player (#6.22)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Ikon of Elijah (#5.16)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Impossible Dream (#4.28)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Impromptu Murder (#3.38)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Indestructible Mr. Weems (#2.37)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Jokester (#4.3)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Kerry Blue (#7.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Kind Waitress (#4.25)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Kiss-Off (#6.21)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Landlady (#6.19)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Last Dark Step (#4.18)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Last Escape (#6.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Last Remains (#7.25)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Legacy (#1.35)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Little Man Who Was There (#5.25)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Long Shot (#1.9)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Man Who Found the Money (#6.13)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Man with Two Faces (#6.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Manacled (#2.18)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Matched Pearl (#7.29)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Money (#6.9)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Morning After (#4.14)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Morning of the Bride (#4.19)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Motive (#3.17)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Night the World Ended (#2.31)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Old Pro (#7.8)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Older Sister (#1.17)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Opportunity (#7.33)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Orderly World of Mr. Appleby (#1.29)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Pearl Necklace (#6.29)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Percentage (#3.14)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Perfect Crime (#3.3)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Perfect Murder (#1.24)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Return of the Hero (#3.22)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Right Kind of House (#3.23)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Right Kind of Medicine (#7.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Right Price (#4.22)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Rose Garden (#2.12)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Safe Place (#3.36)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Schartz-Metterklume Method (#5.35)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Silk Petticoat (#7.13)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Sorcerer\'s Apprentice (#7.39)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Test (#7.20)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Three Dreams of Mr. Findlater (#2.30)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Throwback (#6.20)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Twelve Hour Caper (#7.34)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {The Waxwork (#4.27)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The West Warlock Time Capsule (#2.35)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Woman Who Wanted to Live (#7.18)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {The Young One (#3.9)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {There Was an Old Woman (#1.25)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Toby (#2.6)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Together (#3.15)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Total Loss (#4.17)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Touch� (#4.35)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Triggers in Leash (#1.3)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Vicious Circle (#2.29)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {Victim Four (#7.32)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Wet Saturday (#2.1)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {What Frightened You, Fred? (#7.30)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Where Beauty Lies (#7.38)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Whodunit (#1.26)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {You Can\'t Be a Little Girl All Your Life (#7.7)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {You Can\'t Trust a Man (#6.30)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Alfred Hitchcock Presents" (1955) {You Got to Have Luck (#1.16)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alfred Hitchcock Presents" (1955) {Your Witness (#4.31)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Andy\'s Gang" (1955)', '', '', '', '', 'Nassour Studio - 846 W. Third Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Andy\'s Gang" (1955) {(1958-01-04)}', '', '', 'Nassour Studios - 5746 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Andy\'s Gang" (1955) {(1958-06-07)}', '', '', 'Nassour Studios - 5746 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Around the World with Orson Welles" (1955) {Madrid Bullfight (#1.6)}', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Around the World with Orson Welles" (1955) {Madrid Bullfight (#1.6)}', 'Plaza de Toros de Las Ventas, Madrid, Spain']	40.432332349999996	-3.6633444190087543
+['"Around the World with Orson Welles" (1955) {Madrid Bullfight (#1.6)}', 'Museo Taurino - Calle de Alcal� 237, Madrid, Spain']	39.3262345	-4.8380649
+['"Around the World with Orson Welles" (1955) {St. Germain des Pr�s (#1.4)}', 'Paris, France']	48.8566969	2.3514616
+['"Around the World with Orson Welles" (1955) {St. Germain des Pr�s (#1.4)}', 'Saint-Germain-des-Pr�s, Paris 6, Paris, France']	48.846899699999994	2.357448653115875
+['"Around the World with Orson Welles" (1955) {The Queen\'s Pensioners (#1.5)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Around the World with Orson Welles" (1955) {The Queen\'s Pensioners (#1.5)}', 'Hackney Empire Theatre, Hackney, London, England, UK']	51.5456229	-0.05570246615886856
+['"Around the World with Orson Welles" (1955) {The Third Man in Vienna (#1.3)}', 'Vienna, Austria']	48.2083537	16.3725042

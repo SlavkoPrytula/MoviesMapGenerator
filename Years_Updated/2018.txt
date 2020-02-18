@@ -1,0 +1,103 @@
+['"#WarGames" (2018)', '', '', '', '', 'Glen Head, Long Island, New York, USA']	40.84348675	-73.62581450092935
+['"#WarGames" (2018)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"12 to Midnight" (2018)', '', '', '', '', 'Castaic Lake, Castaic Lake State Recreation Area, California, USA']	34.53136015	-118.60729258562515
+['"20 NOTHiNGS" (2018)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"20 Something" (2018)', '', '', '', '', 'Birmingham Alabama, USA']	33.5206824	-86.8024326
+['"5000 Years of Heroes" (2018)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"8 Ball Garage" (2018)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"8 Ball Garage" (2018)', '', '', '', '', '8 Ball Garage, Miami, Florida, USA']	25.7742658	-80.1936589
+['"86 & Lex" (2018)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"9-1-1: What\'s Your Emergency?" (2018)', '', '', 'Weatherford, Texas, USA']	32.7589648	-97.7970748
+['"9-1-1: What\'s Your Emergency?" (2018)', '', '', 'Mineral Wells, Texas, USA']	32.8084605	-98.1128223
+['"9-1-1: What\'s Your Emergency?" (2018)', '', '', 'Springtown, Texas, USA']	32.97067175	-97.68392100646909
+['"9-1-1: What\'s Your Emergency?" (2018) {Unsung Heroes (#1.2)}', 'Texas, USA']	39.7837304	-100.4458825
+['"A Scottish Play" (2018)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Above the Fold" (2018)', '', '', '', '', 'Bldg E Ealing Studios, Ealing Green, London, England, UK']	51.5073219	-0.1276474
+['"Acht Tage" (2018) {Acht Tage (#1.1)}', '', '', 'Bayern, Germany']	48.9467562	11.4038717
+['"Acht Tage" (2018) {Drei Tage (#1.6)}', '', '', 'Bayern, Germany']	48.9467562	11.4038717
+['"Acht Tage" (2018) {Ein Tag (#1.8)}', '', '', 'Bayern, Germany']	48.9467562	11.4038717
+['"Acht Tage" (2018) {F�nf Tage (#1.4)}', '', '', 'Bayern, Germany']	48.9467562	11.4038717
+['"Acht Tage" (2018) {Sechs Tage (#1.3)}', '', '', 'Bayern, Germany']	48.9467562	11.4038717
+['"Acht Tage" (2018) {Sieben Tage (#1.2)}', '', '', 'Bayern, Germany']	48.9467562	11.4038717
+['"Acht Tage" (2018) {Vier Tage (#1.5)}', '', '', 'Bayern, Germany']	48.9467562	11.4038717
+['"Acht Tage" (2018) {Zwei Tage (#1.7)}', '', '', 'Bayern, Germany']	48.9467562	11.4038717
+['"Adrenaline Junkies" (2018)', '', '', '', 'Big Bear, California, USA']	34.2440587	-116.9101808
+['"Adrenaline Junkies" (2018)', '', '', '', 'Mammouth Mountain, California, USA']	33.6980288	-117.2176473
+['"Adrenaline Junkies" (2018)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"After Nightfall" (2018) {Five (#1.5)}', '', '', 'Blacktown, New South Wales, Australia']	-33.7791699	150.92015643389993
+['"After Nightfall" (2018) {Five (#1.5)}', '', '', 'Killara, Sydney, New South Wales, Australia']	-33.76009165	151.1708147392518
+['"After Nightfall" (2018) {Four (#1.4)}', '', '', 'Blacktown, New South Wales, Australia']	-33.7791699	150.92015643389993
+['"After Nightfall" (2018) {Four (#1.4)}', '', '', 'Killara, Sydney, New South Wales, Australia']	-33.76009165	151.1708147392518
+['"After Nightfall" (2018) {One (#1.1)}', '', '', 'Blacktown, New South Wales, Australia']	-33.7791699	150.92015643389993
+['"After Nightfall" (2018) {One (#1.1)}', '', '', 'Killara, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"After Nightfall" (2018) {Six (#1.6)}', '', '', 'Blacktown, New South Wales, Australia']	-33.7791699	150.92015643389993
+['"After Nightfall" (2018) {Six (#1.6)}', '', '', 'Killara, Sydney, New South Wales, Australia']	-33.76009165	151.1708147392518
+['"After Nightfall" (2018) {Three (#1.3)}', '', '', 'Blacktown, New South Wales, Australia']	-33.7791699	150.92015643389993
+['"After Nightfall" (2018) {Three (#1.3)}', '', '', 'Killara, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"After Nightfall" (2018) {Two (#1.2)}', '', '', 'Blacktown, New South Wales, Australia']	-33.7791699	150.92015643389993
+['"After Nightfall" (2018) {Two (#1.2)}', '', '', 'Killara, Sydney, New South Wales, Australia']	-33.76009165	151.1708147392518
+['"Agency 48" (2018)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Agency 48" (2018) {Through the Looking Glass (Pilot) (#1.1)}', 'Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"Agency 48" (2018) {Through the Looking Glass (Pilot) (#1.1)}', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Agent" (2018)', '', '', '', '', '', 'Mauritius']	-20.2759451	57.5703566
+['"Airlines of the World" (2018) {Aeroflot (#1.6)}', 'Moscow, Russia']	55.4792046	37.3273304
+['"Airlines of the World" (2018) {American Airlines (#1.1)}', 'Dallas-Fort Worth, Texas, USA']	32.737242	-97.232572
+['"Airlines of the World" (2018) {British Airways (#1.4)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Airlines of the World" (2018) {Delta Airlines (#1.3)}', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Airlines of the World" (2018) {Japan Airlines (#1.9)}', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Airlines of the World" (2018) {Lufthansa (#1.5)}', 'Flughafen, Frankfurt, Germany']	50.04303025	8.567283919206004
+['"Airlines of the World" (2018) {Qantas Airways (#1.7)}', 'Kingsford Smith International Airport, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Airlines of the World" (2018) {Singapore Airlines (#1.8)}', 'Singapore Changi Airport, Changi, Singapore']	1.352516	103.98700696741236
+['"Airlines of the World" (2018) {United Airlines (#1.2)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Almost Spies" (2018) {(#1.3)}', '', '', '', 'AUSA Conference and Event Center, Arlington, Virginia, USA']	38.8903961	-77.0841585
+['"Altered Carbon" (2018)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"American Road Trip" (2018)', '', '', '', 'Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"American Road Trip" (2018)', '', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"American Road Trip" (2018)', '', '', '', 'Delaware, USA']	38.6920451	-75.4013315
+['"American Road Trip" (2018)', '', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"American Road Trip" (2018)', '', '', '', 'Lima, Ohio, USA']	40.7399785	-84.105006
+['"American Road Trip" (2018)', '', '', '', 'Anderson, South Carolina, USA']	34.5258335	-82.652962
+['"American Road Trip" (2018)', '', '', '', 'Johnstown, Pennsylvania, USA']	40.3267407	-78.9219698
+['"American Road Trip" (2018)', '', '', '', 'Charlottesville, Virginia, USA']	38.029306	-78.4766781
+['"Apocalypse Salvation" (2018)', '', '', '', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"Apocalypse Salvation" (2018)', '', '', '', 'Boone, Iowa, USA']	42.0171798	-93.9254114
+['"Apocalypse Salvation" (2018)', '', '', '', 'Osceola, Iowa, USA']	43.3684613	-95.6299944
+['"Apocalypse Salvation" (2018)', '', '', '', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"Apocalypse Salvation" (2018)', '', '', '', 'Marshalltown, Iowa, USA']	42.0442545	-92.9123388
+['"Aqu� en la Tierra" (2018)', '', '', '', 'Mexico City, Mexico']	19.4326296	-99.1331785
+['"Aqu� en la Tierra" (2018)', '', '', '', 'Montreal, Canada']	45.4972159	-73.6103642
+['"Are You Ready?" (2018)', '', '', '', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"Arena 66" (2018)', '', '', '', '', 'Maracaibo, Venezuela']	10.6499149	-71.6396282
+['"Art Attack" (2018)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Art Attack" (2018)', '', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Art Attack" (2018)', '', '', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"Art Attack" (2018)', '', '', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"Art Attack" (2018)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Art Attack" (2018)', '', '', '', '', 'New Jersey, USA']	40.0757384	-74.4041622
+['"Art Attack" (2018)', '', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Art Attack" (2018)', '', '', '', '', 'New Hampshire, USA']	43.4849133	-71.6553992
+['"Art Attack" (2018)', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Art Attack" (2018)', '', '', '', '', 'Biloxi, Mississippi, USA']	30.374673	-88.84594333482862
+['"Astral" (2018)', '', '', '', '', '', 'Port Jefferson, Long Island, New York, USA']	40.9465118	-73.0691257
+['"Asunder the Series" (2018)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"At the Hip" (2018)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aux animaux la guerre" (2018)', '', '', '', 'Gerardmer, France']	48.0731443	6.8795758
+['"Aux animaux la guerre" (2018)', '', '', '', 'Strasbourg, France']	46.603354	1.8883335
+['"Aux animaux la guerre" (2018)', '', '', '', 'Epinal, France']	48.1747684	6.4503643
+['"Aux animaux la guerre" (2018)', '', '', '', 'Le Donon, France']	48.5126166	7.1644661
+['"Aux animaux la guerre" (2018)', '', '', '', 'Andlau, France']	46.603354	1.8883335
+['"Aux animaux la guerre" (2018)', '', '', '', 'S�lestat, France']	46.603354	1.8883335
+['"Aux animaux la guerre" (2018)', '', '', '', 'Charmes, France']	49.6516667	3.3786111
+['"Baby" (2018)', '', '', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Back in Very Small Business" (2018)', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Background" (2018)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Background" (2018)', '', '', '', '', 'Glendale, California, USA']	34.1469416	-118.2478471
+['"Bad Hombres" (2018)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Beach Slap" (2018)', '', '', '', '', 'St Lucia']	13.8250489	-60.975036
+['"Behind the Black Curtain" (2018)', '', '', 'Studio Cozy, Toronto, Ontario, Canada']	43.675546999999995	-79.42263031482867
+['"Bella Germania" (2018)', '', '', '', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Bella Germania" (2018)', '', '', '', '', 'Italy']	42.6384261	12.674297
+['"Bernini" (2018)', '', '', '', '', 'Rome, Italy']	41.8933203	12.4829321
+['"Bier Royal" (2018)', '', '', '', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Big Dogs" (2018)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Dogs" (2018)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152

@@ -1,0 +1,275 @@
+['"101-kai me no puropozu" (1991)', '', '', '', 'Irima-cho, Chofu, Tokyo, Japan']	35.660036	139.554815
+['"2point4 Children" (1991) {After the Fox (#8.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {And Now the Screaming Starts (#6.7)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Babes in the Wood (#3.7)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Babes in the Wood (#3.7)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Badger\'s Bend (#3.3)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Badger\'s Bend (#3.3)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Beam Me Up, Scotty (#3.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Beam Me Up, Scotty (#3.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Bedtime for Bonzo (#2.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Bedtime for Bonzo (#2.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Bird on a Wire (#2.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Bird on a Wire (#2.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Carry on Screaming (#8.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Curiosity Killed the Cat (#4.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Curiosity Killed the Cat (#4.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Dirty Bowling (#1.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Dirty Bowling (#1.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Dog Day Afternoon (#6.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Enter the Dragon (#8.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Fame (#8.1)}', '', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Family Plot (#4.2)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Family Plot (#4.2)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Fortuosity (#4.3)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Fortuosity (#4.3)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Frenzy (#4.5)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Frenzy (#4.5)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Greed (#5.1)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Greed (#5.1)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Hormones (#2.3)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Hormones (#2.3)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {I\'m Going Slightly Mad (#2.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {I\'m Going Slightly Mad (#2.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Leader of the Pack (#1.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Leader of the Pack (#1.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Love and Marriage (#1.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Love and Marriage (#1.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Malcolm X (#7.3)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Mayday (#5.4)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Mayday (#5.4)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Misery (#2.8)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Misery (#2.8)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {One Night in Bangkok (#2.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {One Night in Bangkok (#2.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Perfect Day (#7.1)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Porky\'s (#5.7)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Porky\'s (#5.7)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Relax-ay-voo (#4.7)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Relax-ay-voo (#4.7)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Saturday Night and Sunday Morning (#1.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Saturday Night and Sunday Morning (#1.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Seven Dials (#5.5)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Seven Dials (#5.5)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Seven Dials (#5.5)}', '', 'Portmeirion, Gwynedd, Wales, UK']	52.9134555	-4.0993672
+['"2point4 Children" (1991) {Sticky Fingers (#8.3)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Thank Your Lucky Stars (#2.7)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Thank Your Lucky Stars (#2.7)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Deep (#5.3)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Deep (#5.3)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Heart Has Its Reasons (#7.7)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Italian Job (#7.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Lady Vanishes (#6.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Lion, the Witch and the Wardrobe (#6.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Man Who Knew Too Much (#6.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Millennium Experience (#8.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Parent Trap (#4.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Parent Trap (#4.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Secret Diary of David Porter (#3.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Secret Diary of David Porter (#3.1)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Skeleton in the Cupboard (#2.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Skeleton in the Cupboard (#2.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Sweet Hereafter (#7.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Trouble with Harry (#6.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Truth Is out There (#5.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {The Truth Is out There (#5.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Two Years Before the Mast (#6.8)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Vertigo (#6.3)}', '', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {We\'d Like to Know a Little Bit More About You for Our Files (#5.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {We\'d Like to Know a Little Bit More About You for Our Files (#5.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {When Did You Last See Your Father (#7.5)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {When Saturday Comes (#7.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {When the Children Are Asleep (#3.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {When the Children Are Asleep (#3.2)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {When the Going Gets Tough, the Tough Go Shopping (#1.3)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {When the Going Gets Tough, the Tough Go Shopping (#1.3)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Whoopee, We\'re All Going to Die (#3.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Whoopee, We\'re All Going to Die (#3.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Women on the Verge of a Nervous Breakdown (#3.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Women on the Verge of a Nervous Breakdown (#3.4)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {You Only Live Twice (#4.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {You Only Live Twice (#4.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Young at Heart (#1.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"2point4 Children" (1991) {Young at Heart (#1.6)}', 'Duke Road, Chiswick, London, England, UK']	51.4901949	-0.2587809
+['"A Closer Look" (1991)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Marquesa de Vila Rica" (1991)', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Woman Named Jackie" (1991)', '', '', '', 'Richmond, Virginia, USA']	37.5385087	-77.43428
+['"A Woman Named Jackie" (1991)', '', '', '', 'St. Thomas, U.S. Virgin Islands']	18.34290815	-64.91889970060265
+['"Acontecimentos, Lda." (1991)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Acting Crazy" (1991)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Adventures on Kythera" (1991)', '', '', '', 'Kythira, Greece']	38.9953683	21.9877132
+['"Advocates I" (1991)', '', '', '', '', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"Agrisiyete" (1991)', '', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"Ahmet hamdi bey ailesi" (1991)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Aile baglari" (1991)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Aix� �s massa!" (1991)', '', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Al filo de la muerte" (1991)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Alim Dayi" (1991)', '', '', '', '', 'Ankara, Turkey']	39.7160439	32.7059948
+['"All Together Now" (1991)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Alta comedia" (1991)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {... y se quedaran los p�jaros cantando}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Candidato}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Casa de mu�ecas}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Casada como Dios manda}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Castigo de amor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Cerrando cuentas}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Cicatrices}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Ciega ambici�n}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Como una rosa blanca}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Cuando florezcan las zinias}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Cuesti�n de moral}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Cumbres de soberbia}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Dios salve a Escocia}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Dos amores}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Ecos}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {El amor despu�s de la muerte}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {El amor en los tiempos de Rosas (#1.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {El impostor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {El suceso}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {El trabajo de Venus}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {El �ngel de Am�rica}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Esa vieja nostalgia}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Escalera al infierno}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Estaci�n libertad}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Eva florecida}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Fuerte como la muerte}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Golpes cruzados}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Hijo y rival}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Homenaje al sainete argentino}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Juegos privados}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La baronesa de los aromos}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La canci�n de Zarah}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La carta}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La casa}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La fiebra amarilla}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La hija del relojero}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La importancia de llamarse Ernesto}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La marca en el ovillo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La mujer del domingo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La traici�n de los sue�os}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La vestidora}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La vida es otra cosa}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La vida es una loter�a}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La vida secreta de una mujer casada}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {La �ltima ilusi�n}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Laberintos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Las cajas de zapatos}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Las ganas de vivir}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Las vueltas de la vida}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Lejos de mam�}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Lo mismo que a Paula}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Lo que no nos dijimos}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {L�grimas de madrugada}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Mi mam� me ama}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Milagro de amor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {M�s all� de todo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Obsesi�n de revancha}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Poca cosa}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Por s� o por no}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Por vivir}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Renunciar a los sue�os}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Rosas y diamantes}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Solos en la medianoche}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {S�lo en un disfraz}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Tarde o temprano}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Tiempos de ratas}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Todos juntos como antes}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Un amor como ninguno}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Un amor diferente}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Un asunto de conciencia}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Un solitario coraz�n}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Un �ngel en mi camino}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Una historia escondida}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Una mujer de la vida}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Una mujer inolvidable}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Volver a querer}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Volver por un camino sin final}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1991) {Y el mundo ser� uno}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor a primera vista" (1991/I)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"An Inconvenient Woman" (1991)', '', '', '', 'Filoli Estate - 86 Canada Road, Woodside, California, USA']	37.4299388	-122.2538557
+['"Ana" (1991)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Anadolu\'nun kadin erenleri" (1991)', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Antonella" (1991)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antonella" (1991)', '', '', '', '', 'Punta del Este, Maldonado, Uruguay']	-34.9632342	-54.9439981
+['"Antonella" (1991) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antonella" (1991) {Final (#1.165)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Anytime Tales" (1991)', '', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.1)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.10)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.2)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.3)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.4)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.5)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.6)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.8)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {(#1.9)}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Anytime Tales" (1991) {Elmer (#1.7)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Aqu� Entre Nos" (1991)', '', '', '', '', 'San Jos�, Costa Rica']	10.2735633	-84.0739102
+['"Aqu� Entre Nos" (1991)', '', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Archibald" (1991)', '', '', '', '', 'Bulgaria']	42.6073975	25.4856617
+['"Archibald" (1991)', '', '', '', '', 'France']	46.603354	1.8883335
+['"Archibald" (1991)', '', '', '', '', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arriba las gomas" (1991)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Art/World" (1991)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Art/World" (1991)', '', '', '', '', 'Venice Beach, Venice, Los Angeles, California, USA']	33.97996005	-118.46877706707772
+['"Art/World" (1991)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"At kestanesi" (1991)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Auntie\'s Bloomers" (1991) {Auntie\'s All-New Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Bloomers Hall of Blame}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Bloomers\' Best Bits}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Brand New Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Cracking New Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Cracking New Bloomers}', 'Downing Street, Whitehall, Westminster, London, England, UK']	51.5073219	-0.1276474
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Cracking New Bloomers}', 'Croatia']	45.5643442	17.0118954
+['"Auntie\'s Bloomers" (1991) {Auntie\'s EastEnders Birthday Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Foreign Antics}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Golden Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Hall of Blame 1}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Hall of Blame 2}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Natural Bloomers 1}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Natural Bloomers 2}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s New Bloomers 1}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s New Bloomers 2}', 'USA']	39.7837304	-100.4458825
+['"Auntie\'s Bloomers" (1991) {Auntie\'s New Bloomers 3}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s New Festive Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s New Winter Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s New Winter Bloomers}', 'Stevenage, Hertfordshire, England, UK']	51.9035099	-0.2013368
+['"Auntie\'s Bloomers" (1991) {Auntie\'s New Winter Bloomers}', 'Northern Ireland, UK']	54.6294982	-6.7654416
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Olympic Bloomers 1}', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Olympic Bloomers 2}', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Shocking Soccer Bloomers}', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Sizzling New Summer Bloomers}', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Smashing New Bloomers}', 'England, UK']	54.7023545	-3.2765753
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Smashing New Bloomers}', 'Bury, Greater Manchester, England, UK']	53.5927543	-2.2972827
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Smashing New Bloomers}', 'Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Soccer Showdown Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Spanking New Christmas Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Sparkling Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Thermal Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s Unbelievable New Year Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Auntie\'s World Cup Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Dazzling Bloomers}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {Glittering Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {New Bursting Bloomers}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {The Best of Auntie\'s Bloomers 1}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Auntie\'s Bloomers" (1991) {The Best of Auntie\'s Bloomers 2}', 'England, UK']	52.7954791	-0.5402402866174321
+['"Australian Biography" (1991)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Autovaras" (1991)', '', '', '', '', 'Hervanta, Tampere, Finland']	61.4509034	23.8514239
+['"Autovaras" (1991)', '', '', '', '', 'S�rk�nniemi, Tampere, Finland']	63.2467777	25.9209164
+['"Awake on the Wilde Side" (1991)', '', '', 'Camden, London, England, UK']	51.5423045	-0.1395604
+['"Az �n mozim" (1991)', '', '', '', '', 'Budapest, Hungary']	47.1817585	19.5060937
+['"BBC East Midlands Today" (1991)', '', '', 'Leicester, Leicestershire, England, UK']	52.666667	-1.0
+['"BBC East Midlands Today" (1991)', '', '', 'Derby, Derbyshire, England, UK']	52.9212617	-1.4761491
+['"BBC East Midlands Today" (1991)', '', '', 'Nottingham, Nottinghamshire, England, UK']	52.9534193	-1.1496461
+['"BBC East Midlands Today" (1991) {04/04/2015 6:50pm}', 'Braunston-in-Rutland, Rutland, East Midlands, England, UK']	52.796575149999995	-0.671822256833873
+['"Baila Caribe" (1991)', '', '', '', '', 'Cuba']	23.0131338	-80.8328748
+['"Baila Caribe" (1991)', '', '', '', '', 'Dominican Republic']	19.0974031	-70.3028026
+['"Baila Caribe" (1991)', '', '', '', '', 'Haiti']	19.1399952	-72.3570972
+['"Baila Caribe" (1991)', '', '', '', '', 'Trinidad and Tobago']	10.8677845	-60.9821067
+['"Baila Caribe" (1991)', '', '', '', '', 'Jamaica']	18.1850507	-77.3947693
+['"Baila Caribe" (1991)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Band Explosion" (1991)', '', '', '', '', 'Marquee Club, Islington, London, England, UK']	51.5073219	-0.1276474
+['"Benson & Hedges World Cup Cricket" (1991)', '', 'Melbourne Cricket Ground - Brunton Avenue, East Melbourne, Victoria, Australia']	-37.812498	144.9858851
+['"Bertan Zoro" (1991)', '', '', '', '', 'Spain']	39.3262345	-4.8380649
+['"Beyond Reality" (1991)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Bian ji bu de gu shi" (1991)', '', '', '', 'Beijing, China']	35.000074	104.999927

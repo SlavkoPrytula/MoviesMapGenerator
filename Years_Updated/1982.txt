@@ -1,0 +1,237 @@
+['"\'Allo \'Allo!" (1982)', '', '', '', '', 'BBC Elstree Centre/ATV Studios, Borehamwood, Hertfordshire, England, UK']	51.6589044	-0.27566775500000334
+['"\'Allo \'Allo!" (1982)', '', '', '', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"\'Allo \'Allo!" (1982)', '', '', '', '', 'Denver Mill, Denver, England, UK']	52.5821658	0.3562854
+['"\'Allo \'Allo!" (1982)', '', '', '', '', 'Beeston Church, Beeston, England, UK']	52.7064097	0.8244011
+['"\'Allo \'Allo!" (1982)', '', '', '', '', 'Railway bridge, Beeston, England, UK']	53.77373585	-1.5389984900034892
+['"\'Allo \'Allo!" (1982)', '', '', '', '', 'Lynford Hall, Lynford, Norfolk, England, UK']	52.51433585	0.679956025662916
+['"\'Allo \'Allo!" (1982) {A Bun in the Oven (#8.0)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {A Duck for Launch (#5.15)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {A Fishy Sendoff (#9.5)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {A Fishy Sendoff (#9.5)}', '', 'County School railway station, Norfolk, England, UK']	52.666667	1.0
+['"\'Allo \'Allo!" (1982) {A Fistful of Francs (#8.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {A Marriage of Inconvenience (#5.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {A Quiet Honeymoon (#7.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {A Winkle in Time (#9.6)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {A Woman Never Lies (#8.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {All in Disgeese (#5.26)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {An Almighty Bang (#7.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {An Enigma Variation (#5.23)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Arousing Suspicions (#8.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Awful Wedded Wife (#8.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Camp Dance (#4.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Crabtree\'s Podgeon Pist (#6.7)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Desperate Doings in the Dungeon (#5.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Desperate Doings in the Graveyard (#6.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Dinner with the General (#5.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Down the Drain (#5.25)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Fighting with Windmills (#9.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Firing Squashed (#8.5)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Fleeing Monks (#7.3)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Flight of Fancy (#3.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Flight to Geneva (#5.21)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Going Like a Bomb (#5.17)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Good Staff Are Hard to Find (#4.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Gruber Does Some Mincing (#3.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Herr Flick\'s Revenge (#2.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Hitler\'s Last Heil (#8.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Land Mines for London (#5.20)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Leg It to Spain! (#7.7)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Missing and Presumed Dead (#9.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Money to Burn (#5.18)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {No Hiding Place (#5.7)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Otherwise Engaged (#5.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Pigeon Post (#1.2)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Pretty Maids All in a Row (#3.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Prior Engagements (#7.8)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Prisoners of War (#4.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Puddings Can Go Off (#5.19)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Reds Nick\'s Colonel (#1.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Ren� - Under an Assumed Nose (#5.10)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Ren� Artois Is Still Dead (#9.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Ren� of the Gypsies (#7.10)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Ribbing the Bonk (#5.13)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Rising to the Occasion (#6.8)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Savile Row to the Rescue (#1.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Six Big Boobies (#2.1)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Soup and Sausage (#7.9)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Swan Song (#8.7)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Swiftly and with Style (#2.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Airmen De-Nicked (#6.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Arrival of the Homing Duck (#5.8)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The British \'ave Come (#1.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The British Are Coming (#1.0)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Camera in the Potato (#5.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Confusion of the Generals (#5.11)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Crooked Fences (#6.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Dance of Hitler Youth (#1.7)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Dreaded Circular Saw (#5.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Duel (#2.5)}', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Execution (#1.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Exploding Bedpan (#5.16)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Fishmonger Float (#9.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Flying Nun (#4.4)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Funeral (#1.5)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Gateau from the Chateau (#2.7)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Gestapo Ruins a Picnic (#7.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Gestapo for the High Jump (#6.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Great Un-Escape (#3.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Jet-Propelled Mother-In-Law (#4.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Nicked Airmen (#6.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Nicked Knockwurst (#3.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Nouvion Oars (#6.3)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Poloceman Cometh (#2.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Reluctant Millionaires (#5.14)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Sausage in the Trousers (#4.5)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Sausage in the Wardrobe (#3.3)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Spirit of Nouvion (#7.6)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {The Wooing of Widow Artois (#2.2)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Train of Events (#5.22)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Up the Crick Without a Piddle (#7.4)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Watch the Birdie (#5.9)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Wedding Bloss (#5.24)}', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"\'Allo \'Allo!" (1982) {Who\'s for the Vatican? (#5.12)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"1915" (1982)', '', '', '', '', '', 'Forbes, New South Wales, Australia']	-32.7545683	148.6475668
+['"1915" (1982)', '', '', '', '', '', 'Quandialla, New South Wales, Australia']	-24.7761086	134.755
+['"1982 American League Championship Series" (1982) {Game 1}', 'Angel Stadium of Anaheim - 2000 Gene Autry Way, Anaheim, California, USA']	33.8347516	-117.911732
+['"20-e dekabrya" (1982)', '', '', '', '', 'Kronshtadt, St. Petersburg, Russia']	59.990845	29.774652
+['"20-e dekabrya" (1982)', '', '', '', '', 'Neva River, St. Petersburg, Russia']	59.8354498	30.5614758
+['"20-e dekabrya" (1982)', '', '', '', '', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"33 Brompton Place" (1982)', '', '', '', 'Global Television Studios, Toronto, Ontario, Canada']	61.0666922	-107.9917071
+['"6 O\'Clock Show" (1982) {(1985-03-29)}', '', '', 'LWT Studios, Upper Ground, South Bank, Lambeth, London, England, UK']	51.5073219	-0.1276474
+['"6 O\'Clock Show" (1982) {(1986-05-09)}', '', '', 'LWT Studios, Upper Ground, South Bank, Lambeth, London, England, UK']	51.5073219	-0.1276474
+['"6:55 Special" (1982)', '', '', '', '', 'BBC Pebble Mill Studios, Birmingham, Warwickshire, England, UK']	52.32130635	-1.5467857874161073
+['"9 to 5" (1982)', '', '', '', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {A Date with Judy (#4.3)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {An American Dream (#4.7)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Barkley Strikes Out (#5.14)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Barkley\'s Beauties (#5.2)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Blue Christmas (#4.13)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Bud Knows Best (#4.16)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Bud\'s Mid-Life Crisis (#4.19)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Doralee Buys the Farm (#5.5)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Even Super Women Get the Blues (#4.4)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Felb Slept Here (#5.17)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Felb\'s Big Secret (#5.23)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {From Here to Kingdom Come (#4.23)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Ghostwriter (#4.12)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Goodbye, Pops (#5.26)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {It Happened One Night (#5.12)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {James in Love (#5.15)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Judy\'s Dream (#4.15)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Look But Don\'t Touch (#4.24)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Love Is Having to Say You\'re Sorry (#5.4)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Love and Death (#4.26)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Make Room for Corky (#4.17)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Marsha Grows Up (#5.24)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Marsha\'s Lie (#5.22)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Marsha\'s Short Story (#5.11)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Meet Mr. Felb (#5.1)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Morgan by Moonlight (#5.9)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Mother Bernly (#5.7)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Move Over Millie Maple (#4.18)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {My Fair Marsha (#5.13)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {One of the Girls (#5.8)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Pillow Talk (#3.7)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Play Fatal Attraction for Me (#5.21)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Reach Out and Touch Someone (#4.1)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Rockabye Bernly (#5.25)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Sharman Cunningham, Vice President (#4.14)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {She Gives Good Phone (#4.20)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Starting Over (#5.6)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Strictly Personal (#5.20)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Acid Test (#4.8)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Big Game (#4.25)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Big Sleep (#5.18)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Custody Fight (#5.19)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Interns (#4.22)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Loverwear Party (#2.1)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Naked City (#4.9)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Party (#4.6)}', '', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Party\'s Over (#2.7)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Phantom (#2.22)}', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Poker Game (#5.10)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Russians Are Coming (#4.11)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Security Guard (#2.2)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {The Witches of Barkley (#5.16)}', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {Uh, About Last Night (#4.5)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {We\'re Gonna Be Rich (#5.3)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {What\'s Up, Curtis? (#4.10)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {When Violet Gets Blue (#2.16)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"9 to 5" (1982) {You Don\'t Know Me (#4.2)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"9 to 5" (1982) {You\'re Dating My Baby (#4.21)}', '', 'Stage 14, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"A Data e o Feito" (1982)', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {25 de Abril (#1.8)}', '', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Alfredo Keil (#1.13)}', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Data e o Feito" (1982) {Alfredo Keil (#1.13)}', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Aquilino Ribeiro (#1.11)}', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {D. Joao I (#1.3)}', '', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {D. Nuno Alvares Pereira (#1.4)}', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {D. Pedro (#1.1)}', '', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Damiao de Gois (#1.5)}', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Gago Coutinho (#1.6)}', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Joao de Deus Ramos (#1.2)}', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Julio Dantas (#1.12)}', 'Lisbon, Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Julio Dantas (#1.12)}', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Maria da Fonte (#1.9)}', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Silva Porto (#1.7)}', '', 'Portugal']	40.0332629	-7.8896263
+['"A Data e o Feito" (1982) {Vitorino Magalhaes Godinho (#1.10)}', 'Portugal']	40.0332629	-7.8896263
+['"A n�vtelen v�r" (1982)', '', '', '', '', 'Cerven� Lhot�, Czech Republic']	49.8167003	15.4749544
+['"A n�vtelen v�r" (1982)', '', '', '', '', 'Sopron, Hungary']	47.6803063	16.5983457
+['"A n�vtelen v�r" (1982) {A csapda (#1.3)}', '', 'Cerven� Lhot�, Czech Republic']	49.8167003	15.4749544
+['"A n�vtelen v�r" (1982) {A csapda (#1.3)}', '', 'Sopron, Hungary']	47.6803063	16.5983457
+['"A n�vtelen v�r" (1982) {A menek�l�s (#1.1)}', '', 'Sopron, Hungary']	47.6803063	16.5983457
+['"A n�vtelen v�r" (1982) {A p�rviadal (#1.4)}', '', 'Sopron, Hungary']	47.6803063	16.5983457
+['"A n�vtelen v�r" (1982) {A t�rt�net v�ge (#1.6)}', 'Cerven� Lhot�, Czech Republic']	49.8167003	15.4749544
+['"A n�vtelen v�r" (1982) {A t�rt�net v�ge (#1.6)}', 'Sopron, Hungary']	47.6803063	16.5983457
+['"A n�vtelen v�r" (1982) {Az adom�k haz�ja (#1.2)}', 'Cerven� Lhot�, Czech Republic']	49.8167003	15.4749544
+['"A n�vtelen v�r" (1982) {Az adom�k haz�ja (#1.2)}', 'Sopron, Hungary']	47.6803063	16.5983457
+['"A n�vtelen v�r" (1982) {Katalin-vagy-Themire (#1.5)}', 'Cerven� Lhot�, Czech Republic']	49.8167003	15.4749544
+['"A n�vtelen v�r" (1982) {Katalin-vagy-Themire (#1.5)}', 'Sopron, Hungary']	47.6803063	16.5983457
+['"A.J. Wentworth, B.A." (1982)', '', '', '', 'Box Hill School, Dorking, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Al final del arco iris" (1982)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Anakena" (1982)', '', '', '', '', 'Easter Island, Chile']	-31.7613365	-71.3187697
+['"Anchan" (1982)', '', '', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Andy Robson" (1982)', '', '', '', '', 'Thorpe Perrow, North Yorkshire, England, UK']	54.7023545	-3.2765753
+['"Aprendamos juntos" (1982)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aprender a vivir" (1982)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Aprender a vivir" (1982) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Articosas" (1982)', '', '', '', '', 'Radio Televisi�n Dominicana, Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"At the Movies" (1982)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {All of Me/Amadeus/Places in the Heart/Until September (#3.4)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Crossover Dreams/Maxie/Mishima/Plenty (#4.5)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Hard to Hold/Tank/Moscow on the Hudson/Mike\'s Murder (#2.30)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Into the Night/Lost in America/Lust in the Dust/Marvin and Tige (#3.23)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Jagged Edge/Marie/Sweet Dreams (#4.6)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Jekyll and Hyde Together Again/Split Image/Looking to Get Out Again/Tex (#1.4)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Lassiter/Footloose/Against All Odds/The Complete Beatles/Weekend Pass (#2.25)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Last Resort/Short Circuit/Jo Jo Dancer Your Life Is Calling/Broken Rainbow (#4.37)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Oh God, You Devil/American Dreamer/Body Double/Crimes of Passion}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Special Show: Sequels - Part 2 (#3.29)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Stroker Ace/Eddie Macon\'s Run/They Don\'t Wear Black Tie/Mr. Hulot\'s Holiday}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {The Beach Boys: An American Band/Maria\'s Lover/The Purple Rose of Cairo/The Sure Thing (#3.22)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {The Missionary/Halloween III: Season of the Witch/It Came from Hollywood (#1.7)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {The Stinkers of 1983 (#2.18)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {The Wild Life/Garbo Talks/The Bear/Windy City (#3.6)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Winners That Were Losers (#1.18)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"At the Movies" (1982) {Yentl/Scarface/Mickey\'s Christmas Carol/Amityville 3-D (#2.12)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Auf dem Nockherberg" (1982)', '', '', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Auf dem Nockherberg" (1982) {Starkbierprobe 2007 - Staatszirkus Nockherberg (#1.26)}', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Auf dem Nockherberg" (1982) {Starkbierprobe 2011 - Die Ude-Preisverleihung (#1.30)}', 'Nockherberg Traditionsgastst�tten, Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Avles kai retire" (1982)', '', '', '', 'Athens, Greece']	38.9953683	21.9877132
+['"Baker\'s Dozen" (1982)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bambulkine dobrodruzstv�" (1982)', '', '', 'Bratislava, Slovakia']	48.1516988	17.1093063
+['"Beau Geste" (1982)', '', '', '', '', 'Dorset, England, UK']	50.7968346	-2.4146294055470126
+['"Beau Geste" (1982)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Beim Bund" (1982)', '', '', '', '', 'Ritter-von-Leeb-Kaserne, Landsberg am Lech, Bavaria, Germany']	51.0834196	10.4234469
+['"Beyond the Magic Door" (1982)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bianca Vidal" (1982)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Bienvenidos" (1982)', '', '', '', '', 'Margarita Island, Venezuela']	9.9380362	-66.3860464
+['"Big City Beat" (1982)', '', '', '', '', 'South Africa']	-28.8166236	24.991639

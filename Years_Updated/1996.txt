@@ -1,0 +1,1252 @@
+['"1996 Presidential Debates" (1996) {(#1.1)}', '', 'Bushnell Center for the Performing Arts - 166 Capitol Avenue, Hartford, Connecticut, USA']	41.762755	-72.6806416
+['"1996 Presidential Debates" (1996) {(#1.2)}', '', 'Shiley Theatre, University of San Diego - 5998 Alcal� Park, San Diego, California, USA']	39.7837304	-100.4458825
+['"3rd Rock from the Sun" (1996)', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {36! 24! 36! Dick!: Part 1 (#3.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {36! 24! 36! Dick!: Part 2 (#3.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {A Dick Replacement (#6.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {A Dick on One Knee (#2.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {A Friend in Dick (#3.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {A Nightmare on Dick Street: Part 1 (#2.25)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {A Nightmare on Dick Street: Part 2 (#2.26)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Ab-dick-ted (#1.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Alien Hunter (#4.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Angry Dick (#1.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Assault with a Deadly Dick (#1.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Auto Erodicka (#3.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {B.D.O.C. (#6.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Big Angry Virgin from Outer Space (#2.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Body & Soul & Dick (#1.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Brains and Eggs (#1.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Charitable Dick (#5.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Citizen Solomon (#4.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Collect Call for Dick (#4.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {D3: Judgment Day (#4.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dial M for Dick (#5.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick \'The Mouth\' Solomon (#4.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Behaving Badly (#2.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Digs (#6.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Is from Mars, Sally Is from Venus (#1.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Jokes (#2.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Like Me (#1.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Puts the \'Id\' in Cupid (#5.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Solomon of the Indiana Solomons (#4.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Solomon\'s Day Off (#5.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Soup for the Soul (#6.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick Strikes Out (#5.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick and Harry Fall Down a Hole (#5.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick and Taxes (#4.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick and Tuck (#5.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick and the Other Guy (#3.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick and the Single Girl (#2.24)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick for Tat (#5.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick on a Roll (#3.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick the Vote (#2.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick v. Strudwick (#4.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick\'ll Take Manhattan: Part 1 (#6.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick\'ll Take Manhattan: Part 1 (#6.4)}', '9th Avenue and West 50th Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"3rd Rock from the Sun" (1996) {Dick\'ll Take Manhattan: Part 2 (#6.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick\'s Ark (#6.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick\'s Big Giant Headache: Part 1 (#4.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick\'s Big Giant Headache: Part 2 (#4.24)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick\'s First Birthday (#1.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick, Smoker (#1.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick, Who\'s Coming to Dinner (#5.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dick-In-Law (#3.4)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dickmalion (#2.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Dr. Solomon\'s Traveling Alien Show (#4.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Eat, Drink, Dick, Mary (#3.27)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Eleven Angry Men and One Dick (#3.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Episode I: The Baby Menace (#5.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Father Knows Dick (#1.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Fear and Loathing in Rutherford (#6.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Feelin\' Albright (#4.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Fifteen Minutes of Dick (#2.23)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Fourth and Dick (#2.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Frankie Goes to Rutherford (#5.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Frozen Dick (#1.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Fun with Dick and Janet: Part 1 (#3.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Fun with Dick and Janet: Part 2 (#3.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Glengarry Glen Dick (#6.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Gobble, Gobble, Dick, Dick (#2.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Green-Eyed Dick (#1.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Guilty as Dick (#2.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Gwen, Larry, Dick and Mary (#5.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Happy New Dick! (#4.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Hotel Dick (#2.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {I Am Dick Pentameter! (#4.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {I Brake for Dick (#2.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {I Enjoy Being a Dick (#1.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {InDickscretion (#6.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Indecent Dick (#4.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Jailhouse Dick (#3.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Jolly Old St. Dick (#2.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Just Your Average Dick (#3.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Les Liaisons Dickgereuses (#6.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Lonely Dick (#1.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Mary Loves Scoochie: Part 1 (#6.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Mary Loves Scoochie: Part 2 (#6.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Moby Dick (#3.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Much Ado About Dick (#2.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {My Daddy\'s Little Girl (#3.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {My Mother the Alien (#2.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {My Mother, My Dick (#6.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Near Dick Experience (#4.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Paranoid Dick (#4.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Pickles and Ice Cream (#3.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Portrait of Tommy as an Old Man (#3.18)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Post-Nasal Dick (#1.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Power Mad Dick (#4.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Proud Dick (#2.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Red, White & Dick (#6.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Romeo & Juliet & Dick (#2.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Rutherford Beauty (#5.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Sally Forth (#4.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Sally and Don\'s First Kiss (#3.24)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Same Old Song and Dick (#2.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Scaredy Dick (#3.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {See Dick Continue to Run: Part 1 (#2.1)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {See Dick Continue to Run: Part 2 (#2.2)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {See Dick Run (#1.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Selfish Dick (#1.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Sensitive Dick (#2.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Seven Deadly Clips (#3.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Sex and the Sally (#5.7)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Shall We Dick? (#5.17)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Stuck with Dick (#3.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Superstitious Dick (#4.16)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Art of Dick (#1.11)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Big Giant Head Returns (#5.12)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Big Giant Head Returns Again: Part 1 (#5.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Big Giant Head Returns Again: Part 2 (#5.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Dicks They Are A-Changin\' (#1.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Fifth Solomon (#5.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Great Dickdater (#3.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The House That Dick Built (#4.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Loud Solomon Family: A Dickumentary (#5.9)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Physics of Being Dick (#3.21)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Thing That Wouldn\'t Die: Part 1 (#6.19)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Thing That Wouldn\'t Die: Part 2 (#6.20)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {The Tooth Harry (#3.26)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {There\'s No Business Like Dick Business (#6.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {This Little Dick Went to Market (#5.14)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Tom, Dick and Mary (#3.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Tricky Dick (#3.3)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Truth or Dick (#1.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Two-Faced Dick (#4.10)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {What\'s Love Got to Do, Got to Do with Dick? (#4.5)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {When Aliens Camp (#3.25)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Why Dickie Can\'t Teach (#6.6)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Will Work for Dick (#2.22)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {World\'s Greatest Dick (#2.8)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Y2dicK (#4.17)}', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {You Don\'t Know Dick (#6.13)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"3rd Rock from the Sun" (1996) {Youth Is Wasted on the Dick (#5.15)}', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"7th Heaven" (1996)', '', '', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996)', '', '', '', '', '527 Alta Avenue, Santa Monica, California, USA']	34.02737969220815	-118.50552262169151
+['"7th Heaven" (1996)', '', '', '', '', 'First Christian Church of North Hollywood - 4390 Colfax Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"7th Heaven" (1996)', '', '', '', '', 'Ontario, California, USA']	34.065846	-117.6484304
+['"7th Heaven" (1996)', '', '', '', '', 'Roosevelt Elementary School - 801 Montana Avenue, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996)', '', '', '', '', 'Royce Hall - 340 Royce Drive, UCLA, Westwood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"7th Heaven" (1996)', '', '', '', '', 'University High School - 11800 Texas Avenue, West Los Angeles, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"7th Heaven" (1996)', '', '', '', '', 'Walter Reed Middle School - 4525 Irvine Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"7th Heaven" (1996) {...And Expiation (#4.8)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {...And Girlfriends (#2.22)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {...And a Nice Chianti (#3.5)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {A Cry for Help (#7.10)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {A Pain in the Neck (#11.3)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {All Dogs Go to Heaven (#3.20)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {All That Jazz (#3.12)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {All by Myself (#4.12)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {America\'s Most Wanted (#1.13)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {An Early Fall: Part 2 (#8.2)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {And Away We Go (#11.22)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {And Baby Makes Three (#10.13)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {And I\'ll Take the Low Road (#11.8)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {And More Secrets (#10.20)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {And Thank You: Part 2 (#10.22)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {And the Home of the Brave (#3.6)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {Angel (#8.18)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.02957955	-118.457365025
+['"7th Heaven" (1996) {Anything You Want (#1.1)}', '', '1090 Rubio Street, Altadena, California, USA']	34.191674415584416	-118.12747098701298
+['"7th Heaven" (1996) {Anything You Want (#1.1)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Apologize (#5.18)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Apple Pie (#10.10)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Are (#5.22)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Ay Carumba (#6.8)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Back in the Saddle Again (#7.12)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Bad Boys, Bad Boys, Whatcha Gonna Do (#9.4)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Baggage (#8.8)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Blind (#5.5)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Bowling for Eric (#7.4)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Boyfriends (#2.21)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Brave New World (#1.16)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Breaking Up Is Hard to Do (#2.6)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Broke (#5.6)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Broken (#6.6)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Broken Hearts and Promises (#11.6)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Brotherly Love (#9.16)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Busted (#5.4)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Bye (#5.7)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Can I Just Get Something to Eat (#11.12)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Chances... (#5.21)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Changes (#6.1)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Charity Begins at Home (#8.6)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Chicken Noodle Heads (#10.8)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Choices (#1.17)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Christmas! (#11.11)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Come Drive with Me (#4.4)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Consideration (#6.10)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Crazy (#5.17)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Cutters (#3.3)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Dangerous Liaisons: Part 1 (#1.21)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Dangerous Liaisons: Part 2 (#1.22)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Deacon Blues (#11.14)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Dick (#7.20)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Dirty Laundry (#4.9)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Do Something (#2.8)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Don\'t Ax, Don\'t Tell (#11.4)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Don\'t Speak Ill of the Living or the Dead (#8.15)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Don\'t Take My Love Away (#2.1)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Dropping Trou (#9.1)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Drunk (#6.13)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Drunk Like Me (#3.2)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Faith, Hope and the Bottom Line (#1.18)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Family Secrets (#1.2)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Fathers (#9.6)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {First Date (#9.14)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Forget Me Not (#4.11)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Gabrielle Come Blow Your Horn (#7.7)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Getting to Know You (#8.7)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Gimme\' That Ol\' Time Religion (#11.16)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Girls Just Want to Have Fun (#2.7)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Go Ask Alice (#8.9)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Good News for Almost Everyone (#11.21)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Good-Bye...: Part 1 (#10.21)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Gossip (#5.8)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Got MLK? (#10.12)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Gratitude (#9.10)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Halloween (#1.6)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Happy\'s Valentine (#1.15)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Healing Old Wounds (#8.14)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Help! (#5.2)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Helpful (#10.6)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Here Comes Santa Claus (#3.10)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Here We Go Again (#5.1)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {High Anxiety (#7.17)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {High and Dry (#8.20)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Highway to Cell (#10.17)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Holy War: Part 1 (#6.21)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Holy War: Part 2 (#6.22)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Home (#5.11)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Home Run (#10.2)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Homecoming (#2.15)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Honor Thy Mother (#9.18)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Hoop Dreams (#4.18)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Hot Pants (#6.14)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Hungry (#9.19)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {I Hate You (#2.9)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {I Love Lucy (#7.15)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {I Love You (#2.3)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {I Really Did (#6.16)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {I Really Do (#6.15)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {I Wasn\'t Expecting That! (#8.4)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {In Praise of Women (#3.14)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {In the Blink of an Eye (#1.3)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Inked (#11.18)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Invitation to Disaster (#10.18)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {It Happened One Night (#3.15)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {It Takes Two, Baby (#3.1)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {It Takes a Village (#2.16)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {It\'s About George... (#1.19)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {It\'s Late (#10.1)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {It\'s Not Always About You (#7.13)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Johnny Get Your Gun (#3.7)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Just You Wait and See (#4.6)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Last Call for Aunt Julie (#1.10)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Lead, Follow or Get Out of the Way (#2.11)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Leaps of Faith (#9.20)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Let\'s Talk About Sex (#3.9)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Letting Go (#6.19)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Liar, Liar (#4.20)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Life Is Too Beautiful (#4.2)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Life and Death: Part 1 (#7.21)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Life and Death: Part 2 (#7.22)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Like a Harlot (#2.20)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Lip Service (#6.17)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Little White Lies: Part 1 (#8.22)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Little White Lies: Part 2 (#8.23)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Long Bad Summer: Part 1 (#8.1)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Losers (#5.3)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Lost (#6.9)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Lost Souls (#7.9)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Lost and Found (#8.21)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Love Stinks: Part 1 (#4.21)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Love Stinks: Part 2 (#4.22)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Love and Obsession (#10.15)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Loves Me, Loves Me Not (#4.15)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Major League (#8.13)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Mama\'s Gonna Buy You a Diamond Ring (#10.3)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Mi Familia: Part 1 (#9.21)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Mi Familia: Part 2 (#9.22)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Monkey Business 1 (#7.1)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Monkey Business Deux (#7.2)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Moving Ahead (#10.16)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {My Kinda Guy (#2.18)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {No Funerals and a Wedding (#1.4)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {No Sex, Some Drugs and a Little Rock \'n\' Roll (#3.8)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Nobody Knows... (#3.11)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Nothing Endures But Change (#2.17)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Nothing Says Lovin\' Like Something from the Oven (#11.20)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Now You See Me (#1.11)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {One Hundred (#5.12)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {P.K. aka Preacher\'s Kid (#8.3)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Paper or Plastic? (#9.12)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Paranoia (#3.16)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Parents (#5.16)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Pathetic (#6.11)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Peer Pressure (#7.8)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Prodigal (#6.7)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Red Socks (#9.15)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Red Tape (#2.14)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Regarding Eric (#7.6)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Regret to Inform (#9.7)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Regrets (#5.20)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Relationships (#6.5)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Ring Around the Rosie (#10.4)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Rush to Judgment (#2.12)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Saturday (#1.7)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Say Good-Bye (#1.20)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Say a Little Prayer for Me (#4.16)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Says Who? (#2.5)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Script Number Two Hundred Thirty-Four (#11.13)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Secrets (#10.19)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {See No Evil, Hear No Evil, Speak No Evil (#1.9)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {See You in September (#2.2)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Seven Is Enough (#1.14)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Sin... (#4.7)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Small Miracles (#11.17)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Smoking (#7.14)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Some Break-Ups and Some Get-Togethers (#11.19)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Sometimes That\'s Just the Way It Is (#3.17)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Song of Lucy (#9.3)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Soup\'s On (#10.7)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Stand Up (#7.16)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Stuck in the Middle with You (#2.13)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Sundays (#7.11)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Surprise! (#5.10)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Suspicion (#6.12)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Sweeps (#5.15)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Sympathy (#6.3)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Talk to Me (#4.19)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Tangled Web We Weaved (#9.17)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Teased (#6.2)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Thanks and Giving (#11.9)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Thanksgiving (#9.9)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {That Touch of Bink (#7.19)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Anniversary (#8.16)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Best Laid Plans (#9.2)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Color of God (#1.5)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Enemy Within (#7.3)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Fine Art of Parenting (#9.13)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Heart of the Matter (#7.5)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Kid Is Out of the Picture (#8.5)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Kiss (#5.13)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Known Soldier (#6.20)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Legacy (#3.4)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Magic of Gershwin (#10.14)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The One Thing (#8.10)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Prodigal Father (#8.12)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Rat\'s Out of the Bag (#10.5)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Replacements (#11.5)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Ring (#6.18)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Tattle Tale Heart (#4.1)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Tribes That Bind (#3.13)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {The Voice (#3.19)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {There Goes the Bride: Part 1 (#3.21)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {There Goes the Bride: Part 2 (#3.22)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {There\'s No Place Like It (#8.19)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Time to Leave the Nest (#2.19)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Tit for Tat (#11.15)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Tonight\'s Specials Are... (#11.2)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Truth or Dare (#2.10)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Tunes (#5.9)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Turkey (#10.9)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Turn, Turn, Turn (#11.1)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Twelve Angry People (#4.17)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Two Weddings, an Engagement and a Funeral (#8.17)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {V-Day (#5.14)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Virgin (#5.19)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Vote (#9.5)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Waynes World (#9.11)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {We Do (#7.18)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {We the People (#3.18)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {What Will People Say? (#1.8)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {When Bad Conversations Happen to Good People (#8.11)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Who Do You Trust? (#4.13)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Who Knew? (#2.4)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Who Nose? (#4.10)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Why Not Me? (#9.8)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {With Honors (#4.5)}', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {With a Little Help from My Friends (#1.12)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Words (#4.14)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Worked (#6.4)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {X-Mas (#10.11)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {Yak Sada (#4.3)}', '', '', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {You Don\'t Know What You\'ve Got \'Til He\'s Gone (#11.10)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"7th Heaven" (1996) {You Take the High Road (#11.7)}', '3401 Exposition Blvd., Santa Monica, California, USA']	34.0250724	-118.4965129
+['"90-60-90 modelos" (1996)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"90-60-90 modelos" (1996) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"999 Lifesavers" (1996) {(#1.1)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#1.2)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#1.3)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#1.4)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#1.5)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.1)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.10)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.2)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.3)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.4)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.5)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.6)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.7)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.8)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#2.9)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.1)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.10)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.2)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.3)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.4)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.5)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.6)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.7)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.8)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#3.9)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#4.1)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#4.2)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#4.3)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#4.4)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.1)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.10)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.2)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.3)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.4)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.5)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.6)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.7)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.8)}', '', '', 'UK']	54.7023545	-3.2765753
+['"999 Lifesavers" (1996) {(#5.9)}', '', '', 'UK']	54.7023545	-3.2765753
+['"AD-Mad Show" (1996)', '', '', '', '', 'India']	22.3511148	78.6677428
+['"Access Hollywood" (1996)', '', '', '', 'Stage 1, NBC Studios - 3000 W. Alameda Avenue, Burbank, California, USA']	34.1816482	-118.3258554
+['"Adventures in Parenting" (1996)', '', '', 'Ontario, Canada']	50.000678	-86.000977
+['"Aficionados" (1996)', '', '', '', '', 'Monterrey, Nuevo Le�n, Mexico']	19.4326296	-99.1331785
+['"Airport" (1996)', '', '', '', '', 'London Heathrow Airport, London Borough of Hillingdon, London, England, UK']	51.4697998	-0.4535451
+['"Aix� no �s tot!" (1996)', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Al-Ababeed" (1996)', '', '', '', '', 'Palmyra, Syria']	34.5526608	38.259261004689264
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996)', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996)', 'De Haan, Belgium']	51.275083	3.03169
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996)', 'Kalscheuren, H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996)', 'Leverkusen, North Rhine-Westphalia, Germany']	51.0324743	6.9881194
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996)', 'Mallorca, Balearic Islands, Spain']	39.6134018	2.8804305326400756
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {72 Stunden Angst (#30.1)}', 'Hagia Sophia, Istanbul, Turkey']	41.008483749999996	28.98000659859456
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {72 Stunden Angst (#30.1)}', 'Medienhafen, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {72 Stunden Angst (#30.1)}', 'Hahnwald, Cologne, Germany']	50.8738192	6.9789269
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {72 Stunden Angst (#30.1)}', 'Hohenzollernbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {72 Stunden Angst (#30.1)}', 'K�ln Bonn Airport, Kennedystra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {72 Stunden Angst (#30.1)}', 'K���ksu Palace, Beykoz, Istanbul, Turkey']	41.1239355	29.1083151
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {72 Stunden Angst (#30.1)}', 'Grand Bazaar, Istanbul, Turkey']	41.01098795	28.968175837679787
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Abschied (#13.5)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Abschied (#13.5)}', 'Hohenzollernbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Abschied (#13.5)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Abschied (#13.5)}', 'JVA K�ln, Rochusstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Abschied (#13.5)}', 'K�ln Bonn Airport, Kennedystra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Abschied (#13.5)}', 'Rheinterrassen, Rheinparkweg, Cologne, Germany']	50.94587625	6.969977281202771
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Alleingang (#33.1)}', 'Waldniel-Hosert Asylum, near D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Alleingang (#33.1)}', 'FTL Filmautobahn, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Alte Freunde (#26.7)}', 'Joseph-Beuys-Ufer, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Am Abgrund (#19.2)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Am Abgrund (#19.2)}', 'K�lnturm, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Am Abgrund (#19.2)}', 'K�lnarena, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Am Ende der Jugend (#24.2)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Am Ende der Jugend (#24.2)}', 'Taunusstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Am Ende der Jugend (#24.2)}', 'Severinsbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf Leben und Tod (#21.1)}', 'K�nigsallee, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf Leben und Tod (#21.1)}', 'Schauspielhaus, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf der Jagd (#18.4)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf der Jagd (#18.4)}', 'MediaPark, Cologne, Germany']	50.9480659	6.944648680539816
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'K�ln Bonn Airport, Kennedystra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'A4, Frechen, Germany']	50.9096219	6.8081935
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'A2, Beckum, Germany']	51.7555148	8.041135
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'Dreieck Bielefeld, A2, Bielefeld, Germany']	51.9438764	8.5737722
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'Stra�e des 17. Juni, Tiergarten, Berlin, Germany']	52.5097776	13.3572597
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'Siegess�ule, Tiergarten, Berlin, Germany']	52.5097776	13.3572597
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'Kaiser-Wilhelm-Ged�chtniskirche, Berlin, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'Taunusstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'Wetzlarer Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auf eigene Faust (#24.1)}', 'Severinsbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Frankfurt, Germany']	50.1106444	8.6820917
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Roonstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Rather Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Maybachstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Berliner Ring, Bergheim, Germany']	50.948596	6.6436833
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'RheinEnergieStadion, Cologne, North Rhine-Westphalia, Germany']	50.933510049999995	6.87602643569087
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Innsbruck Airport, Innsbruck, Austria']	47.2597258	11.341870474999986
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Kaunertal, Tirol, Austria']	46.9470059	10.734868453783353
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Parliament Square, Westminster, London, England, UK']	51.500616750000006	-0.12723657575273836
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Auferstehung (#34.1)}', 'Rue de Monttessuy, Paris']	48.8592561	2.2978197
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Au�er Kontrolle (#19.4)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bad Bank (#29.1)}', 'Hohenzollernring, Cologne, Germany']	50.940544	6.9400307
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bad Bank (#29.1)}', 'Goldfinger, Friesenstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Begraben (#24.9)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Begraben (#24.9)}', 'Teutoburger Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Begraben (#24.9)}', 'Friedrich-Ebert-Br�cke, Duisburg, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bestellt, entf�hrt, geliefert (#32.4)}', 'JVA K�ln, Rochusstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bestellt, entf�hrt, geliefert (#32.4)}', 'Goltsteinstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bestellt, entf�hrt, geliefert (#32.4)}', 'Burgmauer, Cologne, Germany']	50.9411653	6.9505616
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bestellt, entf�hrt, geliefert (#32.4)}', 'Zeughausstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bestellt, entf�hrt, geliefert (#32.4)}', 'Magnusstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bis zum bitteren Ende (#12.5)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bis zum bitteren Ende (#12.5)}', 'A44, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Black Out (#11.8)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Black Out (#11.8)}', 'Schokoladenmuseum K�ln, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Blutgeld (#38.2)}', 'Kalscheuren, H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Blutgeld (#38.2)}', 'FTL, Aldenhoven, North Rhine-Westphalia, Germany']	50.8962734	6.2827943
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Blutgeld (#38.2)}', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Brennpunkt Autobahn (#18.1)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Brennpunkt Autobahn (#18.1)}', 'Kurt-Georg-Kiesinger-Allee, Bonn, Germany']	50.7052402	7.1365336
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bruderliebe (#26.3)}', 'Rheinkniebr�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Bruderliebe (#26.3)}', 'H�rth Park, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Comeback (#17.1)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Comeback (#17.1)}', 'Schildergasse, Cologne, Germany']	50.9364674	6.9493833
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Comeback (#17.1)}', 'Unter Sachsenhausen, Cologne, Germany']	50.942547	6.9533349
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Comeback (#17.1)}', 'Am K�mpchenshof, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Comeback (#17.1)}', 'MediaPark, Cologne, Germany']	50.9480659	6.944648680539816
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Countdown (#14.8)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Countdown (#14.8)}', 'W�lfrather Stra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Countdown (#14.8)}', 'Hamburger Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Countdown (#14.8)}', 'Rheinstadion, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Countdown (#14.8)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Crash Kommerz (#9.5)}', 'A49, Arnsbach, Germany']	50.8272048	7.8185123
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Crash Kommerz (#9.5)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Crash Kommerz (#9.5)}', 'S�dbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Crash Kommerz (#9.5)}', 'A31, Gronau, Germany']	52.2118499	7.0236342
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Crash Kommerz (#9.5)}', 'J�gerpfad, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Cyberstorm (#27.2)}', 'Mannesmannufer, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Cyberstorm (#27.2)}', 'K�nigsallee, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Das Ende der Welt (#26.1)}', 'Koelnmesse, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Das Ende der Welt (#26.1)}', 'Esprit Arena, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Das Versprechen (#20.9)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Das Versprechen (#20.9)}', 'Deutsches Sport & Olympia Museum, Im Zollhafen, Cologne, Germany']	50.9311379	6.9644102
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Das Versprechen (#20.9)}', 'An der Hasenkaule, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Das Versprechen (#20.9)}', 'RheinRuhrZentrum, M�lheim an der Ruhr, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Das Versprechen (#20.9)}', 'Humboldtring, M�lheim an der Ruhr, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Aufprall (#14.6)}', 'Rheinauhalbinsel, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Aufprall (#14.6)}', 'Auenweg, Cologne, Germany']	50.942684	6.9730778
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Aufprall (#14.6)}', 'Koelnmesse, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Detektiv (#14.9)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Detektiv (#14.9)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Detektiv (#14.9)}', 'K�lnarena, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Detektiv (#14.9)}', 'K�ln Hauptbahnhof, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#20.11)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#20.11)}', 'SVG Autohof K�ln-Eifeltor, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#20.11)}', 'Kreuz K�ln-Nord, A57, Cologne, Germany']	50.978631750000005	6.856154918798204
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#20.11)}', 'Wiener Platz, Cologne, Germany']	50.9616998	7.004229
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#20.11)}', 'Frankfurter Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#20.11)}', 'Circuit Zolder, Heusden-Zolder, Belgium']	50.990236949999996	5.257665697426884
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#20.11)}', 'Elfgener Dorfstra�e, Grevenbroich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Fahrer (#20.11)}', 'Am Hafenkopf, Krefeld, Germany']	51.345645	6.6622568
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Kleine (#11.6)}', 'A44, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Kleine (#11.6)}', 'K�nigsallee, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Kommissar (#17.2)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Kommissar (#17.2)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Pr�fer (#28.3)}', 'H�rth Park, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Rennstall (#11.5)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Rennstall (#11.5)}', 'A44, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Rennstall (#11.5)}', 'Wesertalsperre, Eupen, Belgium']	50.6186449	6.090460690992315
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Tod aus dem Motor (#9.3)}', 'A49, Arnsbach, Germany']	50.8272048	7.8185123
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Tod aus dem Motor (#9.3)}', 'Am Fronhof, Bonn, Germany']	50.6827032	7.152445889086635
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'Aachener Land S�d, A4, Aachen, Germany']	50.776351	6.083862
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'Am Handelshafen, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'Rheinturm, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'Oberkasseler Br�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'V�lklinger Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'Rheinkniebr�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'Ernst-Gno�-Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'Neuer Zollhof, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der Verrat (#24.7)}', 'Courtyard by Marriott D�sseldorf Hafen, Speditionstra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#20.10)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#20.10)}', 'Aachener Land Nord, A4, Aachen, Germany']	50.776351	6.083862
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#20.10)}', 'A4, Aachen, Germany']	50.776351	6.083862
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#20.10)}', 'Maybachstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#20.10)}', 'Erftstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#20.10)}', 'D�sseldorf Airport, Flughafenstra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#20.10)}', 'K�ln Bonn Airport, Kennedystra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Coup (#20.10)}', 'Borussia-Park, M�nchengladbach, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der letzte Tag (#28.4)}', 'Oberkasseler Br�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der perfekte Mord (#12.6)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der perfekte Mord (#12.6)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der perfekte Mord (#12.6)}', 'Fashion Plaza, Karl-Arnold-Platz, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Der perfekte Mord (#12.6)}', 'Kolumbusstra�e, Euskirchen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Braut (#25.2)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Braut (#25.2)}', 'Neumarkt, Cologne, Germany']	50.9360383	6.947658706719128
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Clique (#12.8)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Geisel (#35.2)}', 'Reifen Kluth, Alte Neusser Landstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Geisel (#35.2)}', 'FTL Filmautobahn, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Leibw�chter (#24.8)}', 'Hohenzollernbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Leibw�chter (#24.8)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Leibw�chter (#24.8)}', 'Glockengasse, Cologne, Germany']	50.9382837	6.953599
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Leibw�chter (#24.8)}', 'K�ln Hauptbahnhof, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Leibw�chter (#24.8)}', 'MediaPark, Cologne, Germany']	50.9480659	6.944648680539816
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Leibw�chter (#24.8)}', 'Hammer Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Leibw�chter (#24.8)}', 'Kaistra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Todesliste (#15.6)}', 'Hammer Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Todesliste (#15.6)}', 'Am Handelshafen, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Todesliste (#15.6)}', 'Hamburger Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Todesliste (#15.6)}', 'A27, Francorchamps, Belgium']	50.4531568	5.952833
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'Landmannstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'Oberlandesgericht, Reichensperger Platz, Cologne, Germany']	50.95465815	6.962400301680258
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'Heinrich-Hertz-Stra�e, Kerpen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'Hohenzollernbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'Rheinufertunnel, Cologne, Germany']	50.9390962	6.9625293
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'Severinsbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'Oper Bonn, Am Boeselagerhof, Bonn, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die Zeugin (#15.9)}', 'A27, Francorchamps, Belgium']	50.4531568	5.952833
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die schwarze Madonna (#25.5)}', 'R�misch-Germanisches Museum, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die schwarze Witwe (#10.6)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die schwarze Witwe (#10.6)}', 'Dorint Hotel Venusberg, An der Casselruhe, Bonn, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die zweite Chance (#20.7)}', 'K�ln Hauptbahnhof, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Die zweite Chance (#20.7)}', 'Geisbergstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Doppelter Alptraum (#10.2)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Doppelter Alptraum (#10.2)}', 'Rastst�tte Ville Ost, A1, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Doppelter Alptraum (#10.2)}', 'R�hfeldstra�e, Bonn, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Doppelter Alptraum (#10.2)}', 'Rheinterrassen, Rheinparkweg, Cologne, Germany']	50.94587625	6.969977281202771
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Doppelter Alptraum (#10.2)}', 'Hotel Windsor, von-Werth-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Doppelter Alptraum (#10.2)}', 'Hauptbahnhof K�ln, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Doppelter Alptraum (#10.2)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ehrensache (#11.4)}', 'Brennaborstra�e, Dortmund, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ein tiefer Fall (#13.2)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ein tiefer Fall (#13.2)}', 'Schiller-Gymnasium, Nikolausstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ein tiefer Fall (#13.2)}', 'Eifelallee, Cologne, Germany']	50.9354977	6.850903
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ein tiefer Fall (#13.2)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ein tiefer Fall (#13.2)}', 'Alte R�merstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ein tiefer Fall (#13.2)}', 'An der Hasenkaule, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ein tiefer Fall (#13.2)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Einsame Entscheidung (#34.7)}', 'U-Bahnhof Breslauer Platz/Hauptbahnhof, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Einsame Entscheidung (#34.7)}', 'Hollywood Boulevard, Hollywood, Los Angeles, California, USA']	34.0996168	-118.2893713
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Einsame Entscheidung (#34.7)}', 'Rudas Studios, Kaistra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Einsame Entscheidung (#34.7)}', 'FTL Filmautobahn, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Deutsches Eck, Koblenz, Rhineland-Palatinate, Germany']	50.3649965	7.6064752
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Manhattan Bridge, New York City, New York, USA']	40.7069799	-73.99046625873834
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Chrysler Building, Lexington Avenue, New York City, New York, USA']	40.7127281	-74.0060152
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'John Street, Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Times Square, Manhattan, New York City, New York, USA']	40.757280550000004	-73.98585503545917
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'RheinEnergieStadion, Cologne, North Rhine-Westphalia, Germany']	50.933510049999995	6.87602643569087
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Mohrenstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Colonius, Innere Kanalstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Hohenzollernbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Landtag NRW, Platz des Landtages, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'J�gerpfad, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Schildergasse, Cologne, Germany']	50.9364674	6.9493833
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Neumarkt, Cologne, Germany']	50.9360383	6.947658706719128
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Gertrudenstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Im Zollhafen, Cologne, Germany']	50.9311379	6.9644102
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Engel des Todes (#32.1)}', 'Quatermarkt, Cologne, Germany']	50.9370601	6.9579605
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Explosiv (#17.7)}', 'Kreuz K�ln-West, A1, Cologne, Germany']	50.8560912	7.1622001
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Explosiv (#17.7)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Explosiv (#17.7)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Explosiv (#17.7)}', 'Severinsbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Explosiv (#17.7)}', 'K�lnarena, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Explosiv (#17.7)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Extrem (#16.10)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Extrem (#16.10)}', 'Flughafen Bitburg, Bitburg, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Extrem (#16.10)}', 'An der Hasenkaule, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Falsche Freundschaft (#16.9)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Falsche Freundschaft (#16.9)}', 'Universit�t zu K�ln - Hauptgeb�ude, Albertus-Magnus Platz, Cologne, Germany']	50.92753465	6.928019593661854
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Falsche Freundschaft (#16.9)}', 'Deutz AG, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Falsche Signale (#14.2)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Falsches Spiel (#11.2)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Falsches Spiel (#11.2)}', 'Gro�markt, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Familienbande (#14.4)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Familienbande (#14.4)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Familienbande (#14.4)}', 'Herzogstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Familienbande (#14.4)}', 'Grabbeplatz, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche Br�der (#10.5)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche Br�der (#10.5)}', 'Theodor-Heuss-Br�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche Br�der (#10.5)}', 'Hohenzollernring, Cologne, Germany']	50.940544	6.9400307
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche Br�der (#10.5)}', 'Germanenstra�e, Wuppertal, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche Br�der (#10.5)}', 'Eduardstra�e, Wuppertal, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche Br�der (#10.5)}', 'Eintrachtstra�e, Wuppertal, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche �bernahme (#17.6)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche �bernahme (#17.6)}', 'Hammer Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche �bernahme (#17.6)}', 'Severinsbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche �bernahme (#17.6)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche �bernahme (#17.6)}', 'Anton-Kux-Stra�e, Neuss, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feindliche �bernahme (#17.6)}', 'Europadamm, Neuss, Germany']	51.1932717	6.7135529
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuer und Flamme (#16.6)}', 'L141n, Solingen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuer und Flamme (#16.6)}', 'RheinEnergieStadion, Cologne, North Rhine-Westphalia, Germany']	50.933510049999995	6.87602643569087
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuer und Flamme (#16.6)}', 'Koelnmesse, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuer und Flamme (#16.6)}', 'MediaPark, Cologne, Germany']	50.9480659	6.944648680539816
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuer und Flamme (#16.6)}', 'Aral, am Verteilerkreis, Cologne, North Rhine-Westphalia, Germany']	50.8919353	6.966275204667227
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuertaufe (#14.1)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuertaufe (#14.1)}', 'K�lnturm, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuertaufe (#14.1)}', 'Am Hafenkopf, Krefeld, Germany']	51.345645	6.6622568
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Feuertaufe (#14.1)}', 'Erftstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Fieber (#19.3)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Fiebertr�ume (#9.2)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Fiebertr�ume (#9.2)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Fiebertr�ume (#9.2)}', 'A49, Arnsbach, Germany']	50.8272048	7.8185123
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Fiebertr�ume (#9.2)}', 'SVG Autohof K�ln-Eifeltor, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Flashback (#19.6)}', 'L141n, Solingen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Flashback (#19.6)}', 'Niersbendenallee, M�nchengladbach, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Frankie (#20.8)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Frankie (#20.8)}', 'St. Vinzenz Hospital, Merheimer Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Frankie (#20.8)}', 'All Bar One, Friesenstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Frankie (#20.8)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Frankie (#20.8)}', 'Neumarkt, Cologne, Germany']	50.9360383	6.947658706719128
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Frankie (#20.8)}', 'Hohenzollernring, Cologne, Germany']	50.940544	6.9400307
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Frankie (#20.8)}', 'Goldfinger, Friesenstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Freunde in Not (#16.3)}', 'Deutzer Br�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Freunde in Not (#16.3)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Freundschaft (#20.6)}', 'D�sseldorf Airport, Flughafenstra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Freundschaft (#20.6)}', 'A4, Frechen, Germany']	50.9096219	6.8081935
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {F�r das Leben eines Freundes (#28.2)}', 'Christophstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {F�r immer und ewig (#16.1)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {F�r immer und ewig (#16.1)}', 'SVG Autohof K�ln-Eifeltor, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {F�r immer und ewig (#16.1)}', 'Oper K�ln, Offenbachplatz, Cologne, Germany']	50.9378781	6.9528712
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {F�r immer und ewig (#16.1)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {F�r immer und ewig (#16.1)}', 'Koelnmesse, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {F�r immer und ewig (#16.1)}', 'Schloss Ehreshoven, Engelskirchen, Germany']	50.973904700000006	7.344346045378014
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'Oberkasseler Br�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'Poco Loco, Troisdorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'Innere Kanalstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'Rheinufertunnel, Cologne, Germany']	50.9390962	6.9625293
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'Konrad-Adenauer-Ufer, Cologne, Germany']	50.9430493	6.9624811
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'Elsa-Brandstr�m-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'B55a, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gegen die Zeit (#14.3)}', 'Severinsbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Genies unter sich (#25.3)}', 'Holzmarkt, Cologne, Germany']	50.9290822	6.962798
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Genies unter sich (#25.3)}', 'Deutzer Br�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Genies unter sich (#25.3)}', 'Zeiss Planetarium Bochum, Castroper Stra�e, Bochum, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gnadenlos (#16.8)}', 'Oberlandesgericht, Reichensperger Platz, Cologne, Germany']	50.9537625	6.9630981
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gnadenlos (#16.8)}', 'Kennedy-Ufer, Cologne, Germany']	50.9408901	6.9692227
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gnadenlos (#16.8)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gnadenlos (#16.8)}', 'Stahlstra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gnadenlos (#16.8)}', 'Industriestra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Gnadenlos (#16.8)}', 'Siemensstra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Hals- und Beinbruch (#20.12)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Hals- und Beinbruch (#20.12)}', 'Rheinstra�e, M�lheim an der Ruhr, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heinrich und Paul (#15.3)}', 'Galopprennbahn Grafenberg, Rennbahnstra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heinrich und Paul (#15.3)}', 'L141n, Solingen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heinrich und Paul (#15.3)}', 'Hagebaumarkt, Rodenkirchener Stra�e, Wesseling, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heinrich und Paul (#15.3)}', 'Premio Reifen-Gabel GmbH, Clevischer Ring, Cologne, Germany']	50.978834	7.0029571
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heinrich und Paul (#15.3)}', 'Avenue Hussein 1er de Jordanie, Paris, France']	48.8617429	2.2890997
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heldentage (#17.3)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heldentage (#17.3)}', 'Kaistra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heldentage (#17.3)}', 'Colonius, Innere Kanalstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heldentage (#17.3)}', 'Rheinkniebr�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heldentage (#17.3)}', 'Stahlstra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heldentage (#17.3)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Heldentage (#17.3)}', 'Deutz AG, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Hetzjagd (#12.1)}', 'Oberkasseler Br�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Hetzjagd (#12.1)}', 'Kaiser-Friedrich-Ring, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Hetzjagd (#12.1)}', 'Rheinkniebr�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Hetzjagd (#12.1)}', 'Maritim Hotel, Heumarkt, Cologne, Germany']	50.935520600000004	6.9619182061676455
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Hetzjagd (#12.1)}', 'A60, Bitburg, Germany']	49.9732762	6.524947
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {High Speed (#10.4)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {High Speed (#10.4)}', 'Auenweg, Cologne, Germany']	50.942684	6.9730778
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {High Speed (#10.4)}', 'Koelnmesse, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {High Speed (#10.4)}', 'A44, Kassel, Germany']	51.3154546	9.4924096
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {H�her, schneller, weiter! (#29.3)}', 'Deutzer Br�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {H�her, schneller, weiter! (#29.3)}', 'RheinEnergieStadion, Cologne, North Rhine-Westphalia, Germany']	50.933510049999995	6.87602643569087
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Angesicht des Todes (#20.3)}', 'Rastst�tte und Motel H�sel, A3, Ratingen, Germany']	51.2973261	6.8493503
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Angesicht des Todes (#20.3)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Angesicht des Todes (#20.3)}', 'Flora, Amsterdamer Stra�e, Cologne']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Angesicht des Todes (#20.3)}', 'Neumarkt, Cologne, Germany']	50.9360383	6.947658706719128
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Aus (#25.1)}', 'Burg Bergerhausen, Kerpen']	50.861455199999995	6.650438804508685
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Aus (#25.1)}', 'Hohenzollernbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Kreuzfeuer (#12.3)}', 'Florastra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Kreuzfeuer (#12.3)}', 'A44, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Kreuzfeuer (#12.3)}', 'H�rth Park, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Visier des Todes (#15.4)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Visier des Todes (#15.4)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Im Visier des Todes (#15.4)}', 'Oberkasseler Br�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {J�ger und Gejagte (#17.5)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {J�ger und Gejagte (#17.5)}', 'K�ln Bonn Airport, Kennedystra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {J�ger und Gejagte (#17.5)}', 'Zoo Duisburg, Duisburg, North Rhine-Westphalia, Germany']	51.434999	6.759562
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {J�ger und Gejagte (#17.5)}', 'K9, Bremersheide, Germany']	51.1023474	7.0665448
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kein Weg zur�ck (#19.5)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#18.5)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#18.5)}', 'Kaistra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#18.5)}', 'Am Handelshafen, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#18.5)}', 'Rhein-Center K�ln-Weiden, Aachener Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#18.5)}', 'Oberlandesgericht, Reichensperger Platz, Cologne, Germany']	50.95465815	6.962400301680258
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#18.5)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#18.5)}', 'Deutzer Br�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kleine Schwester (#18.5)}', 'Rheinparkweg, Cologne, Germany']	50.9450578	6.971059
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kurzes Gl�ck (#11.3)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kurzes Gl�ck (#11.3)}', 'Theb�erstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Kurzes Gl�ck (#11.3)}', 'Kirchplatz, Hattingen, Germany']	51.3979498	7.18471818976808
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Lauras Entscheidung (#20.4)}', 'D�sseldorf Airport, Flughafenstra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Lauras Entscheidung (#20.4)}', 'K�ln Hauptbahnhof, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Leichte Beute (#15.1)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Liebe bis in den Tod (#9.6)}', 'A31, Gronau, Germany']	52.2118499	7.0236342
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Liebe bis in den Tod (#9.6)}', 'Hotel Lamti, S�lzg�rtel, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Liebe bis in den Tod (#9.6)}', 'Koelnmesse, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Liebe bis in den Tod (#9.6)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Lockdown (#38.3)}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Lockdown (#38.3)}', 'Kalscheuren, H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Lockdown (#38.3)}', 'FTL, Aldenhoven, North Rhine-Westphalia, Germany']	50.8962734	6.2827943
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Lockdown (#38.3)}', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Muttertag (#16.7)}', 'K�ln Hauptbahnhof, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Muttertag (#16.7)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Muttertag (#16.7)}', 'Wesertalsperre, Eupen, Belgium']	50.6186449	6.090460690992315
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Muttertag (#16.7)}', 'D�sseldorfer Stra�e, Wuppertal, North Rhine-Westphalia, Germany']	51.264018	7.1780374
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Muttertag (#16.7)}', 'Ladeb�hner Stra�e, Wuppertal, North Rhine-Westphalia, Germany']	51.264018	7.1780374
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Muttertag (#16.7)}', 'Kalkwerke H. Oetelshofen, Wuppertal, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Muttertag (#16.7)}', 'Oppenheim Verm�genstreuhand, Oppenheimstra�e, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Notwehr (#18.2)}', 'SVG Autohof K�ln-Eifeltor, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Notwehr (#18.2)}', 'Polizeipr�sidium K�ln, Walter-Pauli-Ring, Cologne, Germany']	50.9385585	6.9937385
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Notwehr (#18.2)}', 'Jennecker Stra�e, Jennecken, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Notwehr (#18.2)}', 'Villa Sophienh�he, Kerpen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Ausweg (#15.2)}', 'Oberkasseler Br�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Ausweg (#15.2)}', 'A27, Francorchamps, Belgium']	50.4531568	5.952833
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'St. Antonius Krankenhaus, Schillerstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'S�dbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'Severinsbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'Galeria Kaufhof, Hohe Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'Breite Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'Am Alten Posthof, Cologne, Germany']	50.9376881	6.9476666
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'M�lheimer Br�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Ohne Gewissen (#32.2)}', 'Flugplatz Aachen-Merzbr�ck, W�rselen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Operation Hiob (#32.3)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Operation Hiob (#32.3)}', 'Severinsbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Operation Hiob (#32.3)}', 'Wesertalsperre, Eupen, Belgium']	50.6186449	6.090460690992315
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Operation: Gemini (#26.4)}', 'Oberlandesgericht, Reichensperger Platz, Cologne, Germany']	50.95465815	6.962400301680258
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Operation: Gemini (#26.4)}', 'U-Bahn Rudolfplatz, Hohenzollernring, Cologne, Germany']	50.940544	6.9400307
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Rabenmutter (#24.3)}', 'Nachtresidenz, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Rabenmutter (#24.3)}', 'Maritim Hotel, Heumarkt, Cologne, Germany']	50.935520600000004	6.9619182061676455
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Rabenmutter (#24.3)}', 'Esprit Arena, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Revolution (#35.1)}', 'Kennedy-Ufer, Cologne, Germany']	50.9408901	6.9692227
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Rock \'n Roll (#14.7)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Rock \'n Roll (#14.7)}', 'Maritim Hotel, Heumarkt, Cologne, Germany']	50.9368861	6.960620660500582
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Rock \'n Roll (#14.7)}', 'Universit�t zu K�ln, Albertus-Magnus-Platz, Cologne, Germany']	50.92753465	6.928019593661854
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Rock \'n Roll (#14.7)}', 'Burgruine Hardtburg, Eremitageweg, Euskirchen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Sabotage (#15.5)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Sabotage (#15.5)}', 'Ritterstra�e, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Sabotage (#15.5)}', 'MediaPark, Cologne, Germany']	50.9480659	6.944648680539816
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Sabotage (#15.5)}', 'K�lnarena, Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Sabotage (#15.5)}', 'J�gerpfad, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Sabotage (#15.5)}', 'An der Hasenkaule, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schatten der Vergangenheit (#13.4)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schatten der Vergangenheit (#13.4)}', 'Deutz AG, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schatten der Vergangenheit (#13.4)}', 'K�nigsallee, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schatten der Vergangenheit (#13.4)}', 'Drive in Autokino K�ln-Porz, Rudolf-Diesel-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schattenmann (#24.4)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schattenmann (#24.4)}', 'S�dbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schattenmann (#24.4)}', 'D�sseldorf Hauptbahnhof, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schattenmann (#24.4)}', 'Schleiermacherstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schm�lders Traum (#10.1)}', 'A1, Euskirchen, Germany']	50.66129	6.7871681
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schm�lders Traum (#10.1)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schm�lders Traum (#10.1)}', 'J�gerpfad, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schm�lders Traum (#10.1)}', 'Herthastra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schm�lders Traum (#10.1)}', 'Bremsstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schm�lders Traum (#10.1)}', 'Weyerstra�erweg, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schm�lders Traum (#10.1)}', 'Bar Kokett, Altenberger Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schm�lders Traum (#10.1)}', 'Beethoven 5.13 Klinik, Beethovenstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schwarze Schafe (#11.7)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schwarze Schafe (#11.7)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schwarze Schafe (#11.7)}', 'Am R�pping, Westhofen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Schwarze Schafe (#11.7)}', 'Anschlussstelle 86, A1, Westhofen, Germany']	51.4249817	7.5334109
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Showdown (#16.4)}', 'L141n, Solingen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Space (#38.6)}', 'Kalscheuren, H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Space (#38.6)}', 'FTL, Aldenhoven, North Rhine-Westphalia, Germany']	50.8962734	6.2827943
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Space (#38.6)}', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Space (#38.6)}', 'Speyer, Rhineland-Palatinate, Germany']	49.3165553	8.433615
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Sp�te Rache (#12.9)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Sp�te Rache (#12.9)}', 'Schillingsrotter Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Stadt in Angst (#23.1)}', 'Bonn, North Rhine-Westphalia, Germany']	50.735851	7.10066
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Tina und Aysim (#10.3)}', 'A31, Gronau, Germany']	52.2118499	7.0236342
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Tina und Aysim (#10.3)}', 'Rheinbr�cke K�ln-Rodenkirchen, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Tina und Aysim (#10.3)}', 'Westkai, Cologne, Germany']	50.9767597	6.9745845
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Tina und Aysim (#10.3)}', 'Koninklijk Plein, De Haan, Belgium']	51.2732073	3.0326921
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Tina und Aysim (#10.3)}', 'Astoria, Leopoldlaan, De Haan, Belgium']	51.2740433	3.0325910324028524
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Tina und Aysim (#10.3)}', 'De Haan, Belgium']	51.275083	3.03169
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Tod eines Reporters (#13.1)}', 'Theb�erstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Tod eines Reporters (#13.1)}', 'Siemensstra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'A44, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'Rheinische Post, Z�lpicher Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'Z�lpicher Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'Monschauer Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'Brennaborstra�e, Dortmund, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'Rheinstadion, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'Hembergtunnel, A46, Freienohl, Germany']	51.3751846	8.1706463
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'Warnowtalbr�cke, A20, Rostock, Germany']	54.0924445	12.1286127
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'A46, Meschede, Germany']	51.3436532	8.2859257
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Todesfahrt der Linie 834 (#9.1)}', 'Deutsche Welle, Kurt-Schumacher-Stra�e, Bonn, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Toter Bruder (#29.6)}', 'Kennedy-Ufer, Cologne, Germany']	50.9408901	6.9692227
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Truckstop (#11.1)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Truckstop (#11.1)}', 'Siemensstra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Truckstop (#11.1)}', 'Eintrachtstra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Truckstop (#11.1)}', 'Zeiss-Stra�e, Velbert, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Turbo & Tacho (#28.5)}', 'Koelnmesse, Deutz-M�lheimer-Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Turbo & Tacho (#28.5)}', 'Roisdorfer Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {T�dliche Bew�hrung (#20.5)}', 'Rhein-Center K�ln-Weiden, Aachener Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {T�dliche Bew�hrung (#20.5)}', 'J�gerpfad, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {T�dliche Bew�hrung (#20.5)}', 'H�lchrather Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {T�dliche Fracht (#14.5)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {T�dliche Kunst (#12.2)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {T�dliche Kunst (#12.2)}', 'Industriestra�e, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {T�dliche Kunst (#12.2)}', 'Hamburger Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {T�dliche Kunst (#12.2)}', 'Uniklinik K�ln, Kerpener Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Um jeden Preis (#16.2)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Um jeden Preis (#16.2)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Um jeden Preis (#16.2)}', 'A44, J�chen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Undercover (#15.7)}', 'L141n, Solingen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Undercover (#15.7)}', 'Hohenzollernbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Undercover (#15.7)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Undercover (#15.7)}', 'Haus 4711, Glockengasse, Cologne, Germany']	50.938492100000005	6.952251069956889
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Undercover (#15.7)}', 'St. Vinzenz Hospital, Merheimer Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Druck (#24.5)}', 'Auf dem Berlich, Cologne, Germany']	50.9405319	6.9478293
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Druck (#24.5)}', 'Pf�lzischer Ring, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Druck (#24.5)}', 'Zoobr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Feuer (#19.7)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Feuer (#19.7)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Feuer (#19.7)}', 'In den Dauen, Bonn, Germany']	50.7499216	7.0600729
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Feuer (#19.7)}', 'Oberlandesgericht, Reichensperger Platz, Cologne, Germany']	50.95465815	6.962400301680258
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Verdacht (#19.1)}', 'Industriestra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Unter Verdacht (#19.1)}', 'J�gerpfad, H�rth, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vater und Sohn (#12.7)}', 'Alte Neusser Landstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vendetta (#38.1)}', 'Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vendetta (#38.1)}', 'Tirana, Albania']	41.31588575	19.900912164461147
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vendetta (#38.1)}', 'Tirana, Albania']	41.31588575	19.900912164461147
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Verraten und verkauft (#13.3)}', 'K�nigsallee, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Verraten und verkauft (#13.3)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Verraten und verkauft (#13.3)}', 'JVA Rheinbach, Aachener Stra�e, Rheinbach, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Verraten und verkauft (#13.3)}', 'Hamburger Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Verraten und verkauft (#13.3)}', 'Bremer Stra�e, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vertrauenssache (#20.1)}', 'Am Hof, Cologne, Germany']	50.9302411	6.8545059
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vertrauenssache (#20.1)}', 'Sporergasse, Cologne, Germany']	50.9394575	6.9573966
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vertrauenssache (#20.1)}', 'L141n, Solingen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vertrauenssache (#20.1)}', 'K�ln Bonn Airport, Kennedystra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Vertrauter Feind (#15.8)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Viva Colonia (#30.9)}', 'Stadthalle, Wuppertal, North Rhine-Westphalia, Germany']	51.25300295	7.142909097760645
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Volles Risiko (#20.2)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Volles Risiko (#20.2)}', 'Kreuz K�ln-West, A1, Cologne, Germany']	50.8560912	7.1622001
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Volles Risiko (#20.2)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Volles Risiko (#20.2)}', 'Rastst�tte und Motel H�sel, A3, Ratingen, Germany']	51.2973261	6.8493503
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wehrlos (#12.4)}', 'A540, Grevenbroich, Germany']	51.0905783	6.5835365
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wehrlos (#12.4)}', 'A44, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wehrlos (#12.4)}', 'B56n, Z�lpich, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wehrlos (#12.4)}', 'K�nigsallee, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wehrlos (#12.4)}', 'Schauspielhaus D�sseldorf, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wehrlos (#12.4)}', 'Bismarckstra�e, Aachen, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer Wind s�t... (#16.5)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer Wind s�t... (#16.5)}', 'Deutzer Br�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer Wind s�t... (#16.5)}', 'Blue Shell, Cologne, North Rhine-Westphalia, Germany']	50.9277997	6.9398916
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer Wind s�t... (#16.5)}', 'K�lner Dom, Margarethenkloster, Cologne, Germany']	50.9411034	6.95525
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer Wind s�t... (#16.5)}', 'Staatsanwaltschaft K�ln, Am Justizzentrum, Cologne, Germany']	50.9222027	6.9352284
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer Wind s�t... (#16.5)}', 'Deutsche Norton, Birkenstra�e, Wesseling, North Rhine-Westphalia, Germany']	50.824555000000004	6.983552415780775
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer einmal l�gt (#24.6)}', 'Rheinterrassen, Rheinparkweg, Cologne, Germany']	50.94587625	6.969977281202771
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer einmal l�gt (#24.6)}', 'Oberkasseler Br�cke, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer einmal l�gt (#24.6)}', 'K�nigsallee, D�sseldorf, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer einmal l�gt (#24.6)}', 'Rheinufertunnel, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wer einmal l�gt (#24.6)}', 'Regus D�sseldorf Medienhafen, Stadttor, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wilde Tiere (#34.6)}', 'FTL Filmautobahn, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Wilde Tiere (#34.6)}', 'Zoologischer Garten K�ln, Riehler Stra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Windspiel (#38.9)}', 'Kalscheuren, H�rth, North Rhine-Westphalia, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Windspiel (#38.9)}', 'FTL, Aldenhoven, North Rhine-Westphalia, Germany']	50.8962734	6.2827943
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Windspiel (#38.9)}', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Zivilcourage (#18.3)}', 'B8n, D�sseldorf, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Zwischen allen St�hlen (#9.4)}', 'A49, Arnsbach, Germany']	50.8272048	7.8185123
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Zwischen allen St�hlen (#9.4)}', 'Hotel Flintsch, Moselstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Zwischen allen St�hlen (#9.4)}', 'Maritim Hotel, Heumarkt, Cologne, Germany']	50.935520600000004	6.9619182061676455
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {Zwischen allen St�hlen (#9.4)}', 'Erftstra�e, Cologne, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {�berschall (#31.1)}', 'Airport Rostock-Laage, Laage, Mecklenburg-Western Pomerania, Germany']	51.0834196	10.4234469
+['"Alarm f�r Cobra 11 - Die Autobahnpolizei" (1996) {�berschall (#31.1)}', 'S�dbr�cke, Cologne, Germany']	51.0834196	10.4234469
+['"Alle zusammen - Jeder f�r sich" (1996)', '', '', 'Fernsehzentrum Babelsberg, August-Bebel-Stra�e 26-53, Babelsberg, Potsdam, Brandenburg, Germany']	51.0834196	10.4234469
+['"Alle zusammen - Jeder f�r sich" (1996)', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Al�n, luz de luna" (1996)', '', '', '', 'Neuqu�n, Argentina']	-34.9964963	-64.9672817
+['"Al�n, luz de luna" (1996)', '', '', '', 'San Mart�n de los Andes, Patagonia, Argentina']	-34.9964963	-64.9672817
+['"Al�n, luz de luna" (1996) {(#1.1)}', '', '', 'Neuqu�n, Argentina']	-34.9964963	-64.9672817
+['"Al�n, luz de luna" (1996) {(#1.1)}', '', '', 'San Mart�n de los Andes, Patagonia, Argentina']	-34.9964963	-64.9672817
+['"Amazing Planet" (1996)', '', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"America\'s Talking: Parent\'s Helper" (1996)', '', 'Fort Lee, New Jersey, USA']	40.8509333	-73.9701382
+['"American Dream: The Long Black Song" (1996)', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"American Thunder" (1996) {Leesburg Bike Fest (#9.3)}', 'Leesburg, Florida, USA']	28.810823	-81.8778582
+['"American Thunder" (1996) {Leesburg Bike Fest}', '', 'Leesburg, Florida, USA']	28.810823	-81.8778582
+['"Amor sagrado" (1996)', '', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996)', '', '', '', '', 'Sonotex, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.1)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.10)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.11)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.12)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.13)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.14)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.15)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.16)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.17)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.18)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.19)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.2)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.20)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.21)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.22)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.23)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.24)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.25)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.26)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.27)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.28)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.29)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.3)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.30)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.31)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.32)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.33)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.34)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.35)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.36)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.37)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.38)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.39)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.4)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.40)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.41)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.42)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.43)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.44)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.45)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.46)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.47)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.48)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.49)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.5)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.50)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.51)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.52)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.53)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.54)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.55)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.56)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.57)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.58)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.59)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.6)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.60)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.61)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.62)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.63)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.64)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.65)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.66)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.67)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.68)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.69)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.7)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.70)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.71)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.72)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.73)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.74)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.75)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.76)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.77)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.78)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.79)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.8)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.80)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amor sagrado" (1996) {(#1.9)}', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Anilardaki sevgili" (1996)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Animal Hospital" (1996)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Anjo de Mim" (1996)', '', '', '', '', 'Petr�polis, Rio de Janeiro, Brazil']	-10.3333333	-53.2
+['"Anna Holt - polis" (1996) {Allt vi kan erbjuda �r ett svart l�ssk�gg (#1.3)}', 'Roslagsgatan, Vasastaden, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Anna Holt - polis" (1996) {Dagisfr�ken med r�tt att d�da (#1.1)}', 'Sergels Torg, Norrmalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Anna Holt - polis" (1996) {Dagisfr�ken med r�tt att d�da (#1.1)}', 'Varuhuset PUB, Norrmalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Anna Holt - polis" (1996) {Den enes d�d, den andres br�d (#1.7)}', 'Sundbyberg, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Annie\'s Bar" (1996)', '', '', '', '', 'Teddington Studios, Teddington, Middlesex, England, UK']	54.7023545	-3.2765753
+['"Arte y cultura" (1996)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Arthur" (1996)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Arthur" (1996)', '', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {Arthur the Wrecker/Arthur and the True Francine (#1.14)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {Arthur the Wrecker/Arthur and the True Francine (#1.14)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {Arthur\'s Chicken Pox/Sick as a Dog (#1.18)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {Arthur\'s Chicken Pox/Sick as a Dog (#1.18)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {Buster Baxter, Cat Saver/Play it Again, D.W. (#2.6)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {Buster Baxter, Cat Saver/Play it Again, D.W. (#2.6)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {Buster\'s Breathless/The Fright Stuff (#4.3)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {Buster\'s Breathless/The Fright Stuff (#4.3)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {D.W.\'s Library Card/Arthur\'s Big Hit (#4.1)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {D.W.\'s Library Card/Arthur\'s Big Hit (#4.1)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {D.W.\'s Name Game/Finders Key-pers (#2.19)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {D.W.\'s Name Game/Finders Key-pers (#2.19)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {Prunella Sees the Light/Return of the Snowball (#7.6)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {Prunella Sees the Light/Return of the Snowball (#7.6)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {So Long, Spanky/Buster\'s New Friend (#1.13)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {So Long, Spanky/Buster\'s New Friend (#1.13)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Arthur" (1996) {What Scared Sue Ellen?/Clarissa Is Cracked (#3.12)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Arthur" (1996) {What Scared Sue Ellen?/Clarissa Is Cracked (#3.12)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"As Li��es do Tonecas" (1996)', '', '', '', 'Zona+, Lisbon, Portugal']	38.4425976	-9.2205306
+['"Asapara!" (1996)', '', '', '', '', 'Osaka, Japan']	34.6198813	135.490357
+['"Assassinations That Changed the World" (1996)', '', 'Dealey Plaza - 500 Main Street, Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Australian Story" (1996)', '', '', '', 'ABC Studios, Brisbane, Queensland, Australia']	-27.4689682	153.0234991
+['"Australian Story" (1996)', '', '', '', 'ABC TV Studios, Gore Hill, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Australian Story" (1996) {Mrs Gimblett\'s Silver Linings (#20.13)}', 'Yaraka, Queensland, Australia']	-24.8841389	144.0745358
+['"Australian Story" (1996) {Something About Pauline (#4.1)}', 'Ipswich, Queensland, Australia']	-27.6160135	152.7608702
+['"Australian Story" (1996) {Something About Pauline (#4.1)}', 'Brisbane, Queensland, Australia']	-27.4689682	153.0234991
+['"Australian Story" (1996) {The Minister\'s Secret (#21.8)}', 'Dar es Salaam, Tanzania']	-6.8160837	39.2803583
+['"Australian Story" (1996) {The Minister\'s Secret (#21.8)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"Australian Story" (1996) {Weekend at Weetalaba (#20.20)}', 'Weetalaba, Queensland, Australia']	-21.0429327	147.9423456
+['"Aut�grafs" (1996)', '', '', '', '', 'Sant Joan Desp�, Barcelona, Catalonia, Spain']	39.3262345	-4.8380649
+['"Aventura � Aventura" (1996)', '', '', '', 'Serra da Arr�bida, Set�bal, Portugal']	40.0332629	-7.8896263
+['"Aventurera" (1996)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Av�s e Netos" (1996)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Ay isiginda saklidir" (1996)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"BBC Newsline" (1996)', '', '', '', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.5964411	-5.9302761
+['"BS manga yawa" (1996)', '', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"Backstage Pass" (1996)', '', '', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"Bailey Kipper\'s P.O.V." (1996)', '', '', '', 'CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ballykissangel" (1996)', '', '', '', '', 'Wicklow Town, County Wicklow, Ireland']	52.9802376	-6.0414184
+['"Ballykissangel" (1996)', '', '', '', '', 'Brittas Bay, County Wicklow, Ireland']	52.889158	-6.0992964
+['"Ballykissangel" (1996)', '', '', '', '', 'Avoca, County Wicklow, Ireland']	52.8230209	-6.2096184
+['"Ballykissangel" (1996)', '', '', '', '', 'Sandyford, County Dublin, Ireland']	53.2698337	-6.2245713
+['"Bankgiroloterij race" (1996)', '', '', '', 'Amersfoort, Utrecht, Netherlands']	52.163773899999995	5.3965879493517015
+['"Bankgiroloterij race" (1996)', '', '', '', 'Breda, Noord-Brabant, Netherlands']	51.5887845	4.7760237
+['"Bankgiroloterij race" (1996)', '', '', '', 'Rotterdam, Zuid-Holland, Netherlands']	51.9278469	4.488595428701715
+['"Bankgiroloterij race" (1996)', '', '', '', 'The Hague, Zuid-Holland, Netherlands']	52.0799838	4.3113461
+['"Baseball, Minnesota" (1996)', '', '', '', 'St. Paul, Minnesota, USA']	44.9504037	-93.1015026
+['"Baska Istanbul yok" (1996)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Beautiful Vacation" (1996)', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Beautiful Vacation" (1996)', '', '', '', 'New Jersey, USA']	40.0757384	-74.4041622
+['"Beautiful Vacation" (1996)', '', '', '', 'New York, USA']	39.7837304	-100.4458825
+['"Beauty and the Beast" (1996)', '', '', '', 'Conrad Jupiters Hotel & Casino, Broadbeach, Queensland, Australia']	-28.0235886	153.4293335
+['"Beauty and the Beast" (1996)', '', '', '', 'Rooty Hill RSL, Rooty Hill, New South Wales, Australia']	-24.7761086	134.755
+['"BeetleBorgs" (1996)', '', '', '', '', 'Santa Paula, California, USA']	34.3541659	-119.0592705
+['"Bendita Mentira" (1996)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Benyovszky M�ric �s a malgasok f�ldje" (1996)', '', 'Hungary']	47.1817585	19.5060937
+['"Benyovszky M�ric �s a malgasok f�ldje" (1996)', '', 'Slovakia']	48.7411522	19.4528646
+['"Benyovszky M�ric �s a malgasok f�ldje" (1996)', '', 'Madagascar']	-18.9249604	46.4416422
+['"Bernd im Bademantel" (1996)', '', '', '', 'Rothenburgsort, Hamburg, Germany']	53.5355872	10.0369161
+['"Better Homes and Gardens" (1996)', '', '', 'Australia']	-24.7761086	134.755
+['"Better Homes and Gardens" (1996)', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Beverly Hills Bordello" (1996)', '', '', '', 'Arroyo Studios - 12936 Arroyo Avenue, Sylmar, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beyaz Show" (1996)', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 10}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 11}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 12}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 13}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 14}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 15}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 16}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 17}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 18}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 20}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 21}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 22}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 23}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 24}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 25}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 26}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 27}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 28}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 29}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 2}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 30}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 31}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 32}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 33}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 34}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 35}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 36}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 37}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 38}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 39}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 3}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 40}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 41}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 42}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 43}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 44}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 45}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 46}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 47}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 48}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 49}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 4}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 50}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 51}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 52}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 53}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 54}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 55}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 56}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 5}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 6}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 7}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 8}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {B�l�m 9}', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beyaz Show" (1996) {Yilbasi �zel}', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Big Bag" (1996)', '', '', '', '', "Disney's Hollywood Studios, Walt Disney World, Lake Buena Vista, Florida, USA"]	39.7837304	-100.4458825
+['"Big Cat Diary" (1996)', '', '', '', '', 'Masai Mara, Kenya']	-1.2854177	36.8532895
+['"Bilderbuch Deutschland" (1996) {Aachen, Eupen, Maastricht - S��e Lust im Dreil�ndereck}', 'Aachen, North Rhine-Westphalia, Germany']	50.776351	6.083862
+['"Bilderbuch Deutschland" (1996) {Aachen, Eupen, Maastricht - S��e Lust im Dreil�ndereck}', 'Eupen, Belgium']	50.6402809	4.6667145
+['"Bilderbuch Deutschland" (1996) {Aachen, Eupen, Maastricht - S��e Lust im Dreil�ndereck}', 'Li�ge, Wallonia, Belgium']	50.6402809	4.6667145
+['"Bilderbuch Deutschland" (1996) {Aachen, Eupen, Maastricht - S��e Lust im Dreil�ndereck}', 'Maastricht, Limburg, Netherlands']	50.8512438	5.6909768
+['"Bilderbuch Deutschland" (1996) {Aachen}', '', 'Aachen, North Rhine-Westphalia, Germany']	50.776351	6.083862
+['"Bilderbuch Deutschland" (1996) {Abteiland}', '', 'Hauzenberg, Bavaria, Germany']	48.6551971	13.6276784
+['"Bilderbuch Deutschland" (1996) {Abteiland}', '', 'Obernzell, Bavaria, Germany']	48.5550495	13.6361292
+['"Bilderbuch Deutschland" (1996) {Abteiland}', '', 'Passau, Bavaria, Germany']	48.5748229	13.4609744
+['"Bilderbuch Deutschland" (1996) {Ahrenshoop - Zwischen Fischland und Dar�}', 'Ahrenshoop, Mecklenburg-Western Pomerania, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Achterhoek - Zwischen Bocholt und Dinxperlo}', 'St. Gudula, Rhede, North Rhine-Westphalia, Germany']	51.8363135	6.696091
+['"Bilderbuch Deutschland" (1996) {Am Achterhoek - Zwischen Bocholt und Dinxperlo}', 'Wasserburg Anholt, Anholt, Isselburg, North Rhine-Westphalia, Germany']	51.84424895	6.426871014016639
+['"Bilderbuch Deutschland" (1996) {Am Bodensee - Der Bodanr�ck im Spiel der Jahreszeiten}', 'Bodanr�ck, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Bodensee - Der Bodanr�ck im Spiel der Jahreszeiten}', 'Lake Constance, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Oberrhein bei Rastatt}', 'Aalschokker, Wintersdorf, Rastatt, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Oberrhein bei Rastatt}', 'Au am Rhein, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Oberrhein bei Rastatt}', 'H�gelsheim, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Oberrhein bei Rastatt}', 'Pamina Rheinpark, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Oberrhein bei Rastatt}', 'Rastatt, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Oberrhein bei Rastatt}', 'Riedmuseum, Ottersdorf, Rastatt, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Am Schweizer Bodensee}', 'Bodensee, Switzerland']	47.5170476	9.505267395198327
+['"Bilderbuch Deutschland" (1996) {Am Schweizer Bodensee}', 'Kartause Ittingen, Warth-Weiningen, Kanton Thurgau, Switzerland']	47.5832841	8.8658328
+['"Bilderbuch Deutschland" (1996) {Am Schweizer Bodensee}', 'Schloss Arenenberg, Kanton Thurgau, Switzerland']	47.672664	9.059216154767823
+['"Bilderbuch Deutschland" (1996) {Am Schweizer Bodensee}', 'St. Gallen, Kanton St. Gallen, Switzerland']	47.4250593	9.3765878
+['"Bilderbuch Deutschland" (1996) {Am Schweizer Bodensee}', 'Stein am Rhein, Kanton Schaffhausen, Switzerland']	47.6597323	8.8596823
+['"Bilderbuch Deutschland" (1996) {Amrum}', '', '', 'Amrum, Schleswig-Holstein, Germany']	54.6601796	8.328274983040426
+['"Bilderbuch Deutschland" (1996) {An der Donau - Von Weltenburg nach Regensburg}', 'Befreiungshalle, Kelheim, Bavaria, Germany']	48.9181846	11.8562007
+['"Bilderbuch Deutschland" (1996) {An der Donau - Von Weltenburg nach Regensburg}', 'Historische Wurstkuchl, Regensburg, Bavaria, Germany']	49.020912100000004	12.097546293518517
+['"Bilderbuch Deutschland" (1996) {An der Donau - Von Weltenburg nach Regensburg}', 'Kloster Weltenburg, Weltenburg, Kelheim, Bavaria, Germany']	48.8990499	11.8204138
+['"Bilderbuch Deutschland" (1996) {An der Donau - Von Weltenburg nach Regensburg}', 'Regensburger Dom, Regensburg, Bavaria, Germany']	49.0195333	12.0974869
+['"Bilderbuch Deutschland" (1996) {An der Leine}', '', 'Leine, Thuringia, Germany']	51.3885867	10.3197858
+['"Bilderbuch Deutschland" (1996) {An der oberbayerischen Donau - Von Neuburg bis Ingolstadt}', 'Ingolstadt, Bavaria, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {An der oberbayerischen Donau - Von Neuburg bis Ingolstadt}', 'Neuburg an der Donau, Bavaria, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {An der schw�bischen Donau - Von Ulm bis Donauw�rth}', 'Kaisheim, Bavaria, Germany']	48.7678768	10.7981234
+['"Bilderbuch Deutschland" (1996) {An der schw�bischen Donau - Von Ulm bis Donauw�rth}', 'Neu-Ulm, Bavaria, Germany']	48.3954965	10.00589
+['"Bilderbuch Deutschland" (1996) {An der schw�bischen Donau - Von Ulm bis Donauw�rth}', 'Ulm, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Auf dem Jakobsweg vom Bliesgau nach Metz}', 'Bliesgau, Saarland, Germany']	49.2052451	7.1774363
+['"Bilderbuch Deutschland" (1996) {Auf dem Jakobsweg vom Bliesgau nach Metz}', 'Metz, Moselle, France']	49.1196964	6.1763552
+['"Bilderbuch Deutschland" (1996) {Auf dem Jakobsweg vom Bliesgau nach Metz}', 'Saarbr�cken, Saarland, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Augsburg}', '', 'Augsburg, Bavaria, Germany']	48.3668041	10.8986971
+['"Bilderbuch Deutschland" (1996) {Bad Bentheim}', '', 'Bad Bentheim, Lower Saxony, Germany']	52.3024786	7.1605921
+['"Bilderbuch Deutschland" (1996) {Baden-Baden}', '', 'Baden-Baden, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Bamberg}', '', 'Bamberg, Bavaria, Germany']	49.8916044	10.8868478
+['"Bilderbuch Deutschland" (1996) {Bautzen - Im Land der Sorben}', 'Bautzen, Saxony, Germany']	51.1813907	14.4275735
+['"Bilderbuch Deutschland" (1996) {Bergisch Gladbach}', 'Bergisch Gladbach, North Rhine-Westphalia, Germany']	50.9929303	7.1277379
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Am Faulen See, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Brecht-Haus Wei�ensee, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Brotfabrik, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Decla Filmgesellschaft, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Giesserei Behr, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Joe Mays Filmatelier, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'J�discher Friedhof, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Kleingartenanlage M�rchenland, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Kulturhaus Peter Edel, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Kunsthochschule Berlin Wei�ensee, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Park am Wei�en See, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'St. Joseph Krankenhaus, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Steinbildhauerwerkstatt Hoferick, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469
+['"Bilderbuch Deutschland" (1996) {Berlin Wei�ensee}', 'Trierer Stra�e, Wei�ensee, Berlin, Germany']	51.0834196	10.4234469

@@ -1,0 +1,953 @@
+['"1, 2, 3, Out" (1999)', '', '', '', '', 'Mar del Plata, General Pueyrred�n, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"100 Deeds for Eddie McDowd" (1999)', '', '', 'Azusa, California, USA']	34.1338751	-117.9056046
+['"100 Deeds for Eddie McDowd" (1999)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"100 Deeds for Eddie McDowd" (1999)', '', '', 'Sierra Madre, California, USA']	34.1616729	-118.0528456
+['"100 Deeds for Eddie McDowd" (1999)', '', '', 'Ventura Farms - 235 W. Potrero Road, Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"190 North" (1999)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"2 straten verder" (1999)', '', '', '', 'Diest, Belgium']	50.98456645	5.052873496255041
+['"2 straten verder" (1999)', '', '', '', 'Lier, Belgium']	51.131069	4.5696516
+['"2 straten verder" (1999)', '', '', '', 'Westerlo, Belgium']	51.086694	4.9168675
+['"360� - Die GEO-Reportage" (1999) {Arktis - Die Route der Atomeisbrecher}', 'Russia']	64.6863136	97.7453061
+['"360� - Die GEO-Reportage" (1999) {BC Loggers/Die Holzf�ller von British Columbia}', 'Revelstoke, British Columbia, Canada']	50.998045	-118.1956709
+['"360� - Die GEO-Reportage" (1999) {Bermuda - Schatzsuche in der Tiefsee}', "St. George's, Bermuda"]	32.382103	-64.677208
+['"360� - Die GEO-Reportage" (1999) {Das Metall aus dem Vulkan}', 'Vulkan Kudrjavij, Russia']	64.6863136	97.7453061
+['"360� - Die GEO-Reportage" (1999) {Der Blechmusik-Oscar}', 'Guca, Serbia']	43.7774122	20.2262747
+['"360� - Die GEO-Reportage" (1999) {Der Dreh mit den Havannas}', 'Cuba']	23.0131338	-80.8328748
+['"360� - Die GEO-Reportage" (1999) {Die Bernsteintaucher}', 'Baltic Sea']	56.0	18.0
+['"360� - Die GEO-Reportage" (1999) {Die Herren der Adler}', 'Inner Mongolia, China']	43.2443242	114.3251664
+['"360� - Die GEO-Reportage" (1999) {Die Legende von den Killerbienen}', 'Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"360� - Die GEO-Reportage" (1999) {Die Minensucher von Kabul}', 'Afghanistan']	33.7680065	66.2385139
+['"360� - Die GEO-Reportage" (1999) {Die Riesenfl��e von Jenissej}', 'Yenisei River, Russia']	61.1828989	89.5776147
+['"360� - Die GEO-Reportage" (1999) {Die Schule der Inuit}', 'Greenland']	77.6192349	-42.8125967
+['"360� - Die GEO-Reportage" (1999) {Die Waldbahn der Karpaten}', 'Carpathian Mountains, Romania']	47.0005707	25.5017192
+['"360� - Die GEO-Reportage" (1999) {Die Waldbahn der Karpaten}', 'Romania']	45.9852129	24.6859225
+['"360� - Die GEO-Reportage" (1999) {Die blinden Kinder von Tibet}', 'Lhasa, Tibet, China']	29.6553895	91.1704736
+['"360� - Die GEO-Reportage" (1999) {Ein Traum von Schokolade}', 'Venezuela']	8.0018709	-66.1109318
+['"360� - Die GEO-Reportage" (1999) {Ein g�ttlicher Zug}', 'Siberia, Russia']	60.0	100.0
+['"360� - Die GEO-Reportage" (1999) {Hongkongs fliegende K�chen}', 'Hong Kong, China']	22.2793278	114.1628131
+['"360� - Die GEO-Reportage" (1999) {Idjwi - Afrikas vergessene Inseln}', 'Idjwi, Democratic Republic Of Congo']	-2.10394865	29.064854903979786
+['"360� - Die GEO-Reportage" (1999) {Im Wald der Vampire}', 'Costa Rica']	10.2735633	-84.0739102
+['"360� - Die GEO-Reportage" (1999) {Jerusalem im Morgengrauen}', 'Jerusalem, Israel']	31.778345	35.2250786
+['"360� - Die GEO-Reportage" (1999) {Kalm�ckien, die R�ckkehr der M�nche}', 'Kalmykya, Russia']	64.6863136	97.7453061
+['"360� - Die GEO-Reportage" (1999) {Kyuchu - Wo Japans gr�ner Tee w�chst}', 'Aso City, Japan']	33.1089806	131.1042041
+['"360� - Die GEO-Reportage" (1999) {Kyuchu - Wo Japans gr�ner Tee w�chst}', 'Kagoshima, Japan']	31.521587	130.5474077
+['"360� - Die GEO-Reportage" (1999) {Kyuchu - Wo Japans gr�ner Tee w�chst}', 'Kumamoto, Japan']	32.6450475	130.6341345
+['"360� - Die GEO-Reportage" (1999) {Kyuchu - Wo Japans gr�ner Tee w�chst}', 'Sagara Village, Japan']	36.5748441	139.2394179
+['"360� - Die GEO-Reportage" (1999) {Kyuchu - Wo Japans gr�ner Tee w�chst}', 'Chiran, Japan']	31.3792701	130.4433045
+['"360� - Die GEO-Reportage" (1999) {Mumien im Ausverkauf}', 'Peru']	-6.8699697	-75.0458515
+['"360� - Die GEO-Reportage" (1999) {Nash�rner unter dem Hammer}', 'Hluhluwe-Umfolozi Game Reserve, KwaZulu-Natal, South Africa']	-28.8166236	24.991639
+['"360� - Die GEO-Reportage" (1999) {Palmasola - Dorf hinter Gittern}', 'Palmasola, Santa Cruz, Bolivia']	-17.8917017	-64.2088728
+['"360� - Die GEO-Reportage" (1999) {Peones - Verkannte Helden}', 'Uruguay']	-32.8755548	-56.0201525
+['"360� - Die GEO-Reportage" (1999) {Peru - Delfine in Gefahr}', 'Peru']	-6.8699697	-75.0458515
+['"360� - Die GEO-Reportage" (1999) {Safran - Ein bl�hendes Gesch�ft}', 'Morocco']	31.1728205	-7.3362482
+['"360� - Die GEO-Reportage" (1999) {Sinfonie der Stra�e}', 'Caracas, Venezuela']	10.506098	-66.9146017
+['"360� - Die GEO-Reportage" (1999) {Sir Peter Blake - Expedition ins ewige Eis}', 'Antarctica']	-79.4063075	0.3149312
+['"360� - Die GEO-Reportage" (1999) {Spitzbergen, eisige Insel}', 'Longyearbyen, Svalbard, Norway']	78.2231558	15.6463656
+['"360� - Die GEO-Reportage" (1999) {Ticket in ein neues Leben}', 'Jasidhi, Bihar, India']	22.3511148	78.6677428
+['"360� - Die GEO-Reportage" (1999) {Unterwegs mit der Irish Coast Guard}', 'Dingle, County Kerry, Ireland']	52.16829095	-10.27047292574337
+['"360� - Die GEO-Reportage" (1999) {Warten auf den Monsun}', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"360� - Die GEO-Reportage" (1999) {Weltmeister auf vier Pfoten}', 'Wales, UK']	52.2928116	-3.73893
+['"4 Play" (1999)', '', '', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"4 Play" (1999)', '', '', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"5 maymun �etesi" (1999)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"60 Minutes II" (1999)', '', '', '', '', 'West 57th Street, Manhattan, New York City, New York, USA']	40.7658781	-73.9808768
+['"7-es csatorna" (1999)', '', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"A Baby Story" (1999)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Hora da Liberdade" (1999)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Hora da Liberdade" (1999)', '', '', '', 'Terreiro do Pa�o, Lisbon, Portugal']	40.0332629	-7.8896263
+['"A Lenda da Gar�a" (1999)', '', '', '', 'Porto, Portugal']	41.1494512	-8.6107884
+['"A Lenda da Gar�a" (1999)', '', '', '', 'Guimar�es, Portugal']	40.0332629	-7.8896263
+['"A Lenda da Gar�a" (1999)', '', '', '', 'Pa�o de S�o Cipriano, Guimar�es, Portugal']	40.0332629	-7.8896263
+['"A Life of Grime" (1999)', '', '', '', 'Haringey, London, England, UK']	51.587929849999995	-0.10541010599099046
+['"A Life of Grime" (1999)', '', '', '', 'Salford, Greater Manchester, England, UK']	53.4877463	-2.2891921
+['"A Walk Up Broadway" (1999)', '', '', '', 'Broadway, Manhattan, New York City, New York, USA']	40.7187523	-74.0024323
+['"A que no te atreves" (1999)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"ABC discapacidad" (1999)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Aaj Robibar" (1999)', '', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Aaj Robibar" (1999) {(#1.1)}', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Aaj Robibar" (1999) {(#1.2)}', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Aaj Robibar" (1999) {(#1.3)}', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Aaj Robibar" (1999) {(#1.4)}', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Aaj Robibar" (1999) {(#1.5)}', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Aaj Robibar" (1999) {(#1.6)}', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"Aaj Robibar" (1999) {(#1.7)}', '', '', '', 'Bangladesh Television Studios, Dhaka, Bangladesh']	24.4768783	90.2932426
+['"About Your House with Bob Yapp" (1999)', '', '', 'Des Moines, Iowa, USA']	41.5910641	-93.6037149
+['"About Your House with Bob Yapp" (1999)', '', '', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"About Your House with Bob Yapp" (1999)', '', '', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"About Your House with Bob Yapp" (1999)', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"About Your House with Bob Yapp" (1999)', '', '', 'Rock Island, Illinois, USA']	41.4411786	-90.5766144
+['"Action" (1999)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aftershock: Earthquake in New York" (1999)', '', '37 West 87th Street, Upper West Side, Manhattan, New York City, New York, USA']	40.78680215	-73.97033078051328
+['"Aftershock: Earthquake in New York" (1999)', '', "St. Ann's Church - 120 East 12th Street, East Village, Manhattan, New York City, New York, USA"]	40.7127281	-74.0060152
+['"Aftershock: Earthquake in New York" (1999)', '', "Foo's Ho Ho Restaurant - 102 E. Pender Street, Chinatown, Vancouver, British Columbia, Canada"]	49.2608724	-123.1139529
+['"Aftershock: Earthquake in New York" (1999)', '', 'Grand Central Station, Manhattan, New York City, New York, USA']	40.752701200000004	-73.97724987363358
+['"Aftershock: Earthquake in New York" (1999)', '', 'Lincoln Center, New York City, New York, USA']	40.7735404	-73.9844356
+['"Aftershock: Earthquake in New York" (1999)', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Aftershock: Earthquake in New York" (1999)', '', 'New York County Courthouse - 60 Centre Street, New York City, New York, USA']	40.71427525	-74.00201056092054
+['"Aftershock: Earthquake in New York" (1999)', '', 'USS Intrepid, New York City, New York, USA']	40.76473335	-74.00083980660943
+['"Aftershock: Earthquake in New York" (1999)', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Aftershock: Earthquake in New York" (1999)', '', 'Village Cigars - 110 Seventh Avenue South, Greenwich Village, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Agent natsionalnoy bezopasnosti" (1999)', '', 'St. Petersburg, Russia']	64.6863136	97.7453061
+['"Ai no epuron" (1999)', '', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"All Star Squares" (1999)', '', '', '', 'HSV-7 Studios, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"All stars: De serie" (1999) {Fluitvader (#2.8)}', 'Cinemadreef 166, Almere, Flevoland, Netherlands']	52.3728976	5.2296418
+['"Ally" (1999)', '', '', '', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Ally" (1999)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amar parece tan f�cil" (1999)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amazon" (1999)', '', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Amazon" (1999)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"American Health & Fitness" (1999)', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"American Health & Fitness" (1999)', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Amor a las carreras" (1999)', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Amor serrano" (1999)', '', '', '', '', 'Lima, Peru']	-12.0621065	-77.0365256
+['"An American Love Story" (1999)', '', '', '', 'Colgate University, Hamilton, New York, USA']	42.821286	-75.538408
+['"An American Love Story" (1999)', '', '', '', 'Columbus, Ohio, USA']	39.9622601	-83.0007065
+['"An American Love Story" (1999)', '', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"An American Love Story" (1999)', '', '', '', 'Hamilton, New York, USA']	43.6307863	-74.4659275
+['"An American Love Story" (1999)', '', '', '', 'Marion, Ohio, USA']	40.5885271	-83.1895249
+['"An American Love Story" (1999)', '', '', '', 'Nigeria']	9.6000359	7.9999721
+['"An American Love Story" (1999)', '', '', '', 'Prospect, Ohio, USA']	40.4503374	-83.1885258
+['"An American Love Story" (1999)', '', '', '', 'Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"Angel" (1999)', '', '', '', '', '', '10000 Washington Blvd, Culver City, California, USA']	34.0211224	-118.3964665
+['"Angel" (1999)', '', '', '', '', '', '4121 Wilshire Blvd, Los Angeles, California, USA']	34.0508852	-118.4591546
+['"Angel" (1999)', '', '', '', '', '', 'Arco Center Towers - 200 & 300 Oceangate, Long Beach, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999)', '', '', '', '', '', 'Little Europe, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Angel" (1999)', '', '', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999)', '', '', '', '', '', 'Park Plaza Hotel - 607 S. Park View Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {A Hole in the World (#5.15)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {A Hole in the World (#5.15)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {A Hole in the World (#5.15)}', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {A Hole in the World (#5.15)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {A New World (#3.20)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {A New World (#3.20)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {A New World (#3.20)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {A New World (#3.20)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Apocalypse, Nowish (#4.7)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Apocalypse, Nowish (#4.7)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Apocalypse, Nowish (#4.7)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Apocalypse, Nowish (#4.7)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Are You Now or Have You Ever Been (#2.2)}', 'Griffith Observatory, 2800 E Observatory Rd, Los Angeles, California, USA']	34.11821875	-118.30029332196601
+['"Angel" (1999) {Are You Now or Have You Ever Been (#2.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Are You Now or Have You Ever Been (#2.2)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Are You Now or Have You Ever Been (#2.2)}', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Are You Now or Have You Ever Been (#2.2)}', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Are You Now or Have You Ever Been (#2.2)}', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Awakening (#4.10)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Awakening (#4.10)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Awakening (#4.10)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Awakening (#4.10)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Belonging (#2.19)}', '', '', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Belonging (#2.19)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Belonging (#2.19)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Belonging (#2.19)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Belonging (#2.19)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Benediction (#3.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Benediction (#3.21)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Benediction (#3.21)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Benediction (#3.21)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Billy (#3.6)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Billy (#3.6)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Billy (#3.6)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Billy (#3.6)}', '', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Birthday (#3.11)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Birthday (#3.11)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Birthday (#3.11)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Birthday (#3.11)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Blind Date (#1.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Blind Date (#1.21)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Blind Date (#1.21)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Blood Money (#2.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Blood Money (#2.12)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Blood Money (#2.12)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Blood Money (#2.12)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Calvary (#4.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Calvary (#4.12)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Calvary (#4.12)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Calvary (#4.12)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Carpe Noctem (#3.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Carpe Noctem (#3.4)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Carpe Noctem (#3.4)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Carpe Noctem (#3.4)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {City of... (#1.1)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {City of... (#1.1)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {City of... (#1.1)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {City of... (#1.1)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Conviction (#5.1)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Conviction (#5.1)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Conviction (#5.1)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Conviction (#5.1)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Couplet (#3.14)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Couplet (#3.14)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Couplet (#3.14)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Couplet (#3.14)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Dad (#3.10)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Dad (#3.10)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Dad (#3.10)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Dad (#3.10)}', '', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Damage (#5.11)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Damage (#5.11)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Damage (#5.11)}', '', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Damage (#5.11)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Darla (#2.7)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Darla (#2.7)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Darla (#2.7)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Darla (#2.7)}', '', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Dead End (#2.18)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Dead End (#2.18)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Dead End (#2.18)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Dead End (#2.18)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Dear Boy (#2.5)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Dear Boy (#2.5)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Dear Boy (#2.5)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Dear Boy (#2.5)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Deep Down (#4.1)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Deep Down (#4.1)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Deep Down (#4.1)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Deep Down (#4.1)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Destiny (#5.8)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Destiny (#5.8)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Destiny (#5.8)}', '', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Destiny (#5.8)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Disharmony (#2.17)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Disharmony (#2.17)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Disharmony (#2.17)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Disharmony (#2.17)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Double or Nothing (#3.18)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Double or Nothing (#3.18)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Double or Nothing (#3.18)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Double or Nothing (#3.18)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Epiphany (#2.16)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Epiphany (#2.16)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Epiphany (#2.16)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Epiphany (#2.16)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Eternity (#1.17)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Eternity (#1.17)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Eternity (#1.17)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Expecting (#1.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Expecting (#1.12)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Expecting (#1.12)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {First Impressions (#2.3)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {First Impressions (#2.3)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {First Impressions (#2.3)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {First Impressions (#2.3)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Five by Five (#1.18)}', '', '', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Five by Five (#1.18)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Five by Five (#1.18)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Five by Five (#1.18)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Forgiving (#3.17)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Forgiving (#3.17)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Forgiving (#3.17)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Forgiving (#3.17)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Fredless (#3.5)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Fredless (#3.5)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Fredless (#3.5)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Fredless (#3.5)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Ground State (#4.2)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Ground State (#4.2)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Ground State (#4.2)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Ground State (#4.2)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Guise Will Be Guise (#2.6)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Guise Will Be Guise (#2.6)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Guise Will Be Guise (#2.6)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Guise Will Be Guise (#2.6)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Habeas Corpses (#4.8)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Habeas Corpses (#4.8)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Habeas Corpses (#4.8)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Habeas Corpses (#4.8)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Happy Anniversary (#2.13)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Happy Anniversary (#2.13)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Happy Anniversary (#2.13)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Happy Anniversary (#2.13)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Happy Anniversary (#2.13)}', '', 'University of California, Berkeley, California, USA']	37.8708393	-122.2728639
+['"Angel" (1999) {Harm\'s Way (#5.9)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Harm\'s Way (#5.9)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Harm\'s Way (#5.9)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Harm\'s Way (#5.9)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Heartthrob (#3.1)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Heartthrob (#3.1)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Heartthrob (#3.1)}', '', '', 'Shrine Auditorium - 665 W. Jefferson Boulevard, Los Angeles, California, USA']	34.0233199	-118.2815445
+['"Angel" (1999) {Heartthrob (#3.1)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Heartthrob (#3.1)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Heartthrob (#3.1)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Hell-Bound (#5.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Hell-Bound (#5.4)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Hell-Bound (#5.4)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Hell-Bound (#5.4)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Hero (#1.9)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Hero (#1.9)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Hero (#1.9)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Home (#4.22)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Home (#4.22)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Home (#4.22)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Home (#4.22)}', '', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Home (#4.22)}', '', '', '', 'Thousand Oaks, California, USA']	34.17142715	-118.91058772974445
+['"Angel" (1999) {I Fall to Pieces (#1.4)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {I Fall to Pieces (#1.4)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {I Fall to Pieces (#1.4)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {I Will Remember You (#1.8)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {I Will Remember You (#1.8)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {I Will Remember You (#1.8)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {I\'ve Got You Under My Skin (#1.14)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {I\'ve Got You Under My Skin (#1.14)}', "St. John's Episcopal Cathedral - 514 West Adams Boulevard, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"Angel" (1999) {I\'ve Got You Under My Skin (#1.14)}', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {I\'ve Got You Under My Skin (#1.14)}', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {In the Dark (#1.3)}', '', '', 'Paradise Cove Pier, Paradise Cove - 28128 Pacific Coast Highway, Malibu, California, USA']	34.035591	-118.689423
+['"Angel" (1999) {In the Dark (#1.3)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {In the Dark (#1.3)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {In the Dark (#1.3)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Inside Out (#4.17)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Inside Out (#4.17)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Inside Out (#4.17)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Inside Out (#4.17)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Judgment (#2.1)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Judgment (#2.1)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Judgment (#2.1)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Judgment (#2.1)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Just Rewards (#5.2)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Just Rewards (#5.2)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Just Rewards (#5.2)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Just Rewards (#5.2)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Life of the Party (#5.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Life of the Party (#5.5)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Life of the Party (#5.5)}', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Life of the Party (#5.5)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Lineage (#5.7)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Lineage (#5.7)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Lineage (#5.7)}', '', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Lineage (#5.7)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Lonely Heart (#1.2)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Lonely Heart (#1.2)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Lonely Heart (#1.2)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Long Day\'s Journey (#4.9)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Long Day\'s Journey (#4.9)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Long Day\'s Journey (#4.9)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Long Day\'s Journey (#4.9)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Loyalty (#3.15)}', '', '', 'Pacific Ocean Park, Santa Monica, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Loyalty (#3.15)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Loyalty (#3.15)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Loyalty (#3.15)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Loyalty (#3.15)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Lullaby (#3.9)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Lullaby (#3.9)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Lullaby (#3.9)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Lullaby (#3.9)}', '', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Not Fade Away (#5.22)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Not Fade Away (#5.22)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Not Fade Away (#5.22)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Not Fade Away (#5.22)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Offspring (#3.7)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Offspring (#3.7)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Offspring (#3.7)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Offspring (#3.7)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Origin (#5.18)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Origin (#5.18)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Origin (#5.18)}', '', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Origin (#5.18)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Orpheus (#4.15)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Orpheus (#4.15)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Orpheus (#4.15)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Orpheus (#4.15)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Over the Rainbow (#2.20)}', '', 'Paramount Gate, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Over the Rainbow (#2.20)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Over the Rainbow (#2.20)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Over the Rainbow (#2.20)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Over the Rainbow (#2.20)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Parting Gifts (#1.10)}', '', '', 'Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Parting Gifts (#1.10)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Parting Gifts (#1.10)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Parting Gifts (#1.10)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Peace Out (#4.21)}', '', '', 'First Congregational Church - 540 S. Commonwealth Avenue, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Peace Out (#4.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Peace Out (#4.21)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Peace Out (#4.21)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Peace Out (#4.21)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Players (#4.16)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Players (#4.16)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Players (#4.16)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Players (#4.16)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Power Play (#5.21)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Power Play (#5.21)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Power Play (#5.21)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Power Play (#5.21)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Provider (#3.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Provider (#3.12)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Provider (#3.12)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Provider (#3.12)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Quickening (#3.8)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Quickening (#3.8)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Quickening (#3.8)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Quickening (#3.8)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Redefinition (#2.11)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Redefinition (#2.11)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Redefinition (#2.11)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Redefinition (#2.11)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Release (#4.14)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Release (#4.14)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Release (#4.14)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Release (#4.14)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Reprise (#2.15)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Reprise (#2.15)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Reprise (#2.15)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Reprise (#2.15)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Reunion (#2.10)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Reunion (#2.10)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Reunion (#2.10)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Reunion (#2.10)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Rm w/a Vu (#1.5)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Rm w/a Vu (#1.5)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Rm w/a Vu (#1.5)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sacrifice (#4.20)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sacrifice (#4.20)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sacrifice (#4.20)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Sacrifice (#4.20)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Salvage (#4.13)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Salvage (#4.13)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Salvage (#4.13)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Salvage (#4.13)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Sanctuary (#1.19)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sanctuary (#1.19)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sanctuary (#1.19)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sense and Sensitivity (#1.6)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sense and Sensitivity (#1.6)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sense and Sensitivity (#1.6)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {She (#1.13)}', '', '', '', '635 South Mateo Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {She (#1.13)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {She (#1.13)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {She (#1.13)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Shells (#5.16)}', '', '', '', 'City Hall - 200 N. Spring Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Shells (#5.16)}', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Shells (#5.16)}', '', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Shells (#5.16)}', '', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Shells (#5.16)}', '', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Shiny Happy People (#4.18)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Shiny Happy People (#4.18)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Shiny Happy People (#4.18)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Shiny Happy People (#4.18)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sleep Tight (#3.16)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sleep Tight (#3.16)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Sleep Tight (#3.16)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Sleep Tight (#3.16)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Slouching Toward Bethlehem (#4.4)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Slouching Toward Bethlehem (#4.4)}', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Slouching Toward Bethlehem (#4.4)}', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Slouching Toward Bethlehem (#4.4)}', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Smile Time (#5.14)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Smile Time (#5.14)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Smile Time (#5.14)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Smile Time (#5.14)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Somnambulist (#1.11)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Somnambulist (#1.11)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Somnambulist (#1.11)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Soul Purpose (#5.10)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Soul Purpose (#5.10)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Soul Purpose (#5.10)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Soul Purpose (#5.10)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Soulless (#4.11)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Soulless (#4.11)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Soulless (#4.11)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Soulless (#4.11)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Spin the Bottle (#4.6)}', '', '', 'Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Spin the Bottle (#4.6)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Spin the Bottle (#4.6)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Spin the Bottle (#4.6)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Spin the Bottle (#4.6)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Supersymmetry (#4.5)}', '', '', 'Los Angeles Central Library - 630 W. Fifth Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Supersymmetry (#4.5)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Supersymmetry (#4.5)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Supersymmetry (#4.5)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Supersymmetry (#4.5)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {That Old Gang of Mine (#3.3)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {That Old Gang of Mine (#3.3)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {That Old Gang of Mine (#3.3)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {That Old Gang of Mine (#3.3)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {That Vision Thing (#3.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {That Vision Thing (#3.2)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {That Vision Thing (#3.2)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {That Vision Thing (#3.2)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Bachelor Party (#1.7)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Bachelor Party (#1.7)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Bachelor Party (#1.7)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Cautionary Tale of Numero Cinco (#5.6)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Cautionary Tale of Numero Cinco (#5.6)}', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Cautionary Tale of Numero Cinco (#5.6)}', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Cautionary Tale of Numero Cinco (#5.6)}', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Girl in Question (#5.20)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Girl in Question (#5.20)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Girl in Question (#5.20)}', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Girl in Question (#5.20)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The House Always Wins (#4.3)}', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Angel" (1999) {The House Always Wins (#4.3)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The House Always Wins (#4.3)}', '', 'Riviera Hotel & Casino - 2901 Las Vegas Boulevard South, Las Vegas, Nevada, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The House Always Wins (#4.3)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The House Always Wins (#4.3)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The House Always Wins (#4.3)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Magic Bullet (#4.19)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Magic Bullet (#4.19)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Magic Bullet (#4.19)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Magic Bullet (#4.19)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Price (#3.19)}', '', '', 'Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Price (#3.19)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Price (#3.19)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Price (#3.19)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Price (#3.19)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Prodigal (#1.15)}', '', '', 'Marina del Rey, California, USA']	36.9225615	-121.8517849
+['"Angel" (1999) {The Prodigal (#1.15)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Prodigal (#1.15)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Prodigal (#1.15)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Ring (#1.16)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Ring (#1.16)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Ring (#1.16)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Shroud of Rahmon (#2.8)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Shroud of Rahmon (#2.8)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The Shroud of Rahmon (#2.8)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The Shroud of Rahmon (#2.8)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The Thin Dead Line (#2.14)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Thin Dead Line (#2.14)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Thin Dead Line (#2.14)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The Thin Dead Line (#2.14)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {The Trial (#2.9)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The Trial (#2.9)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The Trial (#2.9)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {The Trial (#2.9)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {There\'s No Place Like Plrtz Glrb (#2.22)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {There\'s No Place Like Plrtz Glrb (#2.22)}', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {There\'s No Place Like Plrtz Glrb (#2.22)}', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {There\'s No Place Like Plrtz Glrb (#2.22)}', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Through the Looking Glass (#2.21)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Through the Looking Glass (#2.21)}', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Through the Looking Glass (#2.21)}', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Through the Looking Glass (#2.21)}', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Time Bomb (#5.19)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Time Bomb (#5.19)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Time Bomb (#5.19)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Time Bomb (#5.19)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {To Shanshu in L.A. (#1.22)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {To Shanshu in L.A. (#1.22)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {To Shanshu in L.A. (#1.22)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Tomorrow (#3.22)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Tomorrow (#3.22)}', '', '', 'Point Dume, Malibu, California, USA']	34.001631	-118.8066756
+['"Angel" (1999) {Tomorrow (#3.22)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Tomorrow (#3.22)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Tomorrow (#3.22)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Unaired Pilot (#1.0)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Unaired Pilot (#1.0)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Unaired Pilot (#1.0)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Underneath (#5.17)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Underneath (#5.17)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Underneath (#5.17)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Underneath (#5.17)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Unleashed (#5.3)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angel" (1999) {Unleashed (#5.3)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Unleashed (#5.3)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Unleashed (#5.3)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Untouched (#2.4)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Untouched (#2.4)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Untouched (#2.4)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Untouched (#2.4)}', '', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Waiting in the Wings (#3.13)}', '', 'Orpheum Theater - 842 S. Broadway, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Waiting in the Wings (#3.13)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Waiting in the Wings (#3.13)}', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Waiting in the Wings (#3.13)}', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Waiting in the Wings (#3.13)}', '', 'Stage 7, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {War Zone (#1.20)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {War Zone (#1.20)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {War Zone (#1.20)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Why We Fight (#5.13)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Why We Fight (#5.13)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Why We Fight (#5.13)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {Why We Fight (#5.13)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {You\'re Welcome (#5.12)}', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {You\'re Welcome (#5.12)}', '', '', 'Stage 17, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {You\'re Welcome (#5.12)}', '', '', 'Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Angel" (1999) {You\'re Welcome (#5.12)}', '', '', 'Stage 6, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Angela ja ajan tuulet" (1999)', '', '', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Anna Says" (1999)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Anni \'60" (1999)', '', '', '', '', 'Forte dei Marmi, Lucca, Tuscany, Italy']	44.0176138	10.453151842727024
+['"Aqua Planet" (1999)', '', '', '', '', 'Australia']	-24.7761086	134.755
+['"Aqua Planet" (1999)', '', '', '', '', 'Belize']	16.8259793	-88.7600927
+['"Aqua Planet" (1999)', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"Aqua Planet" (1999)', '', '', '', '', 'Cuba']	23.0131338	-80.8328748
+['"Aqu� es la cosa" (1999)', '', '', '', 'Telecentro, Santo Domingo, Dominican Republic']	19.0974031	-70.3028026
+['"Archivo Criminal" (1999)', '', '', '', 'Venezuela']	8.0018709	-66.1109318
+['"Aristocrats" (1999)', '', '', '', '', 'Carton House, Maynooth, County Kildare, Ireland']	53.3907094	-6.5667273903275865
+['"Aristocrats" (1999)', '', '', '', '', 'Shell Cottage, Maynooth, County Kildare, Ireland']	52.865196	-7.9794599
+['"As Duas Irm�s" (1999)', '', '', '', '', 'Guimar�es, Portugal']	40.0332629	-7.8896263
+['"Atomic Train" (1999)', '', '', '', '', 'Britannia Beach, British Columbia, Canada']	49.626392	-123.206005
+['"Atomic Train" (1999)', '', '', '', '', 'British Columbia Railway, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Atomic Train" (1999)', '', '', '', '', 'Clinton, British Columbia, Canada']	51.0916698	-121.5865244
+['"Atomic Train" (1999)', '', '', '', '', 'Lillooet, British Columbia, Canada']	50.6912237	-121.9398265
+['"Atomic Train" (1999)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Atr�vete" (1999)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Ayrilsak da beraberiz" (1999)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"BBC Super League Show" (1999)', '', '', '', 'Leeds, West Yorkshire, England, UK']	53.7974185	-1.5437941
+['"BBC Super League Show" (1999) {(#16.1)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.1)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.5498168	-2.6584907198183223
+['"BBC Super League Show" (1999) {(#16.10)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.10)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.10)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.10)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.5498168	-2.6584907198183223
+['"BBC Super League Show" (1999) {(#16.10)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.10)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.10)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	53.8163664	-1.5822107
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.4877463	-2.2891921
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.5498168	-2.6584907198183223
+['"BBC Super League Show" (1999) {(#16.11)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.11)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.12)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	53.8163664	-1.5822107
+['"BBC Super League Show" (1999) {(#16.12)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.12)}', '', 'Leigh Sports Village, Sale Way, Leigh, England, UK']	53.4960455	-2.5171495
+['"BBC Super League Show" (1999) {(#16.12)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.12)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.5498168	-2.6584907198183223
+['"BBC Super League Show" (1999) {(#16.12)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.4877463	-2.2891921
+['"BBC Super League Show" (1999) {(#16.12)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.13)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"BBC Super League Show" (1999) {(#16.13)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.13)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.13)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.13)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.13)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.13)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.14)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.14)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.14)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.14)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.14)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.14)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.14)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.15)}', '', 'Etihad Stadium, Manchester, England, UK']	53.48309105	-2.2002520023433307
+['"BBC Super League Show" (1999) {(#16.16)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.16)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	53.8163664	-1.5822107
+['"BBC Super League Show" (1999) {(#16.16)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.16)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.16)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.16)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.16)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.18)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	53.8163664	-1.5822107
+['"BBC Super League Show" (1999) {(#16.18)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.18)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.18)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.18)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.5498168	-2.6584907198183223
+['"BBC Super League Show" (1999) {(#16.18)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.18)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.19)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.5498168	-2.6584907198183223
+['"BBC Super League Show" (1999) {(#16.19)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.19)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.19)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.19)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.19)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.19)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.19)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.19)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.2)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.2)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.2)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.2)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.2)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.2)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.20)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"BBC Super League Show" (1999) {(#16.20)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.20)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.20)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	53.8163664	-1.5822107
+['"BBC Super League Show" (1999) {(#16.20)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.20)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7435722	-0.3394758
+['"BBC Super League Show" (1999) {(#16.20)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.21)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.21)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.21)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.21)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.21)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.21)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.21)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.22)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.22)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.22)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.22)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.22)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.22)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.22)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	53.8163664	-1.5822107
+['"BBC Super League Show" (1999) {(#16.23)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.23)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"BBC Super League Show" (1999) {(#16.23)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.5498168	-2.6584907198183223
+['"BBC Super League Show" (1999) {(#16.23)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.23)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.23)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.23)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.24)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.4877463	-2.2891921
+['"BBC Super League Show" (1999) {(#16.24)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.24)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.24)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.24)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.24)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.24)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.26)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.26)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.26)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.26)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.26)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.26)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.26)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.3)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.3)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.3)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	53.8163664	-1.5822107
+['"BBC Super League Show" (1999) {(#16.3)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.3)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.3)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.4)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.4)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.4)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.4)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.4)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.4)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"BBC Super League Show" (1999) {(#16.4)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.5)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.5)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.5)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.5)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.5)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.5)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.5)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7435722	-0.3394758
+['"BBC Super League Show" (1999) {(#16.6)}', '', 'The Jungle, Wheldon Road, Castleford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.6)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.6)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.5498168	-2.6584907198183223
+['"BBC Super League Show" (1999) {(#16.6)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.6)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	54.5801786	-1.1761942
+['"BBC Super League Show" (1999) {(#16.6)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.6)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.7)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.7)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.7)}', '', 'AJ Bell Stadium, Stadium Way, Salford, Greater Manchester, UK']	53.46933865	-2.3751921046572155
+['"BBC Super League Show" (1999) {(#16.7)}', '', 'Halliwell Jones Stadium, Mike Gregory Way, Warrington, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.7)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.7)}', '', 'Headingley Rugby Stadium, Leeds, Yorkshire, England, UK']	53.8163664	-1.5822107
+['"BBC Super League Show" (1999) {(#16.7)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7435722	-0.3394758
+['"BBC Super League Show" (1999) {(#16.8)}', '', 'Langtree Park, McManus Drive, Peasley Cross, St Helens, England, UK']	53.4535471	-2.7343231
+['"BBC Super League Show" (1999) {(#16.8)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.8)}', '', 'Naughton Park, Lowerhouse Lane, Widnes, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"BBC Super League Show" (1999) {(#16.8)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.8)}', '', 'JJB Stadium, Wigan, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"BBC Super League Show" (1999) {(#16.8)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.8)}', '', 'The Hive Stadium, Canons Park, Harrow, London, England, UK']	51.5073219	-0.1276474
+['"BBC Super League Show" (1999) {(#16.9)}', '', "John Smith's Stadium, Stadium Way, Huddersfield, England, UK"]	53.6466645	-1.7822482
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'KC Stadium, The Circle, Anlaby Road, Hull, England, UK']	53.7437401	-0.3724062
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Wakefield Trinity Rugby Ground - Belle Vue Stadium, Doncaster Road, Wakefield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Craven Park, Preston Road, Kingston upon Hull, East Riding of Yorkshire, England, UK']	53.9112323	-0.5813105
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Crown Flatt, Dewsbury, Kirklees, West Yorkshire, England, UK']	53.695616	-1.6152269
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Mount Pleasant, Batley, West Yorkshire, England, UK']	53.7613806	-1.637365
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'The Shay Stadium, Shay Syke, Halifax, West Yorkshire, England, UK']	54.7023545	-3.2765753
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Stade Gilbert Brutus, Perpignan, France']	42.722973249999995	2.885173195196324
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Grattan Stadium, Odsal, Bradford, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Owlerton Stadium, Owlerton, Sheffield, South Yorkshire, England, UK']	53.48153335	-1.3810422066149592
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Spotland Stadium, Rochdale, Greater Manchester, England, UK']	53.6215004	-2.1812292
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Post Office Road, Featherstone, West Yorkshire, England, UK']	53.6778883	-1.3560558
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Keepmoat Stadium, Stadium Way, Lakeside, Doncaster, South Yorkshire, England, UK']	53.50977845	-1.1137713027142797
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'South Leeds Stadium, West Yorkshire, England, UK']	53.76424865	-1.54194485056313
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Cougar Park, Keighley, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"BBC Super League Show" (1999) {(#16.9)}', '', 'Leigh Sports Village, Sale Way, Leigh, England, UK']	53.4960455	-2.5171495
+['"BBC Super League Show" (1999) {2015: Super League Grand Final Highlights}', 'Manchester United FC, Old Trafford, Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"Baby Steps" (1999)', '', '', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"BackBerner" (1999)', '', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Backstage" (1999)', '', '', '', '', 'Islington, London, England, UK']	51.5384287	-0.0999051
+['"Bad Girls" (1999)', '', '', '', '', 'Oxford Prison, New Road, Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"Bad Girls" (1999)', '', '', '', '', 'Stratford, Newham, London, England, UK']	51.541289	-0.0035472
+['"Bad Girls" (1999)', '', '', '', '', 'Three Mills Studios, Three Mill Lane, Bow, London, England, UK']	51.5073219	-0.1276474
+['"Bad Girls" (1999) {(#5.3)}', '', '', '', 'Eastway Cycle Circuit, Stratford, Newham, London, England, UK']	51.5073219	-0.1276474
+['"Bad Girls" (1999) {(#5.3)}', '', '', '', 'Lea Valley Cycle Circuit, Leyton, London, England, UK']	51.5073219	-0.1276474
+['"Bad Girls" (1999) {(#6.12)}', '', '', '', 'Hyde Park Corner, Hyde Park, London, England, UK']	51.5073219	-0.1276474
+['"Bad Girls" (1999) {(#6.12)}', '', '', '', 'Tower Bridge, London, England, UK']	51.5054985	-0.0753581
+['"Bad Girls" (1999) {(#6.5)}', '', '', '', 'Blackwall Tunnel, London, England, UK']	51.5027595	-0.0016764
+['"Bad Girls" (1999) {(#6.5)}', '', '', '', 'Wick Lane, Homerton, London, England, UK']	51.5073219	-0.1276474
+['"Bad Girls" (1999) {(#6.8)}', '', '', '', 'Carpenters Road, Stratford, Newham, London, England, UK']	51.5373569	-0.0056636
+['"Bad Girls" (1999) {(#6.8)}', '', '', '', 'Stratford Station, Stratford, Newham, London, England, UK']	51.5416269	-0.0048277
+['"Bad Girls" (1999) {(#8.1)}', '', '', '', 'Kilburn, London, England, UK']	51.5073219	-0.1276474
+['"Baldini e Simoni" (1999)', '', '', '', 'Centro Produzione RAI, Turin, Piedmont, Italy']	42.6384261	12.674297
+['"Battle Dome" (1999)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Battle Dome" (1999)', '', '', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Battle of the Forces" (1999)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Battle of the Forces" (1999)', '', '', '', 'Townsville, Queensland, Australia']	-19.2569391	146.8239537
+['"Battle of the Forces" (1999)', '', '', '', 'Canungra, Queensland, Australia']	-28.0171019	153.165254
+['"BeastMaster" (1999)', '', '', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {A New Dawn (#3.22)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {A Simple Truth (#1.4)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {A Terrible Silence (#2.17)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Amazons (#1.5)}', '', '', 'Warner Roadshow Movie World Studios, Queensland, Australia']	-24.7761086	134.755
+['"BeastMaster" (1999) {Birds (#2.18)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Centaurs (#2.15)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Chosen One (#3.3)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Circle of Life (#1.9)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Clash of the Titans (#2.22)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Destiny (#3.8)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Dispossessed (#3.10)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Double Edged (#3.19)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {End Game (#3.21)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Fifth Element (#2.16)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Game of Death (#2.20)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Gemini (#1.20)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Ghosts of the Forest (#2.6)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Golgotha (#2.11)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Gone (#2.10)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Heart Like a Lion (#2.9)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Iara (#2.2)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Manlinks (#2.1)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Mate for Life (#2.14)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Mydoro (#2.19)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Obsession (#1.2)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Orpheo (#2.4)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Rage (#2.7)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Regeneration (#2.21)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Rescue (#1.21)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Revelations (#1.22)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Riddle of the Nymph (#1.10)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Rites of Passage (#3.20)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Seer (#2.3)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Serpent\'s Kiss (#3.9)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Sisters (#3.15)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Slayer\'s Return (#3.7)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Tao\'s Brother (#2.12)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Tears of the Sea (#1.17)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Alliance (#3.16)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Burning Forest (#1.18)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Chameleon (#1.15)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Choice (#3.14)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Crystal Ark (#3.2)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Demon Curupira (#1.6)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Devil You Know (#3.18)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Golden Phoenix (#1.19)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Guardian (#1.14)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Hunter (#3.12)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Island (#1.3)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Last Unicorns (#1.8)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Legend Continues (#1.1)}', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Legend Reborn (#3.1)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Minotaur (#1.13)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Prize (#3.5)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Slayer (#1.12)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Trial (#3.17)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {The Umpatra (#1.7)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Tiger, Tiger... (#3.6)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Turned to Stone (#3.13)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Turning Point (#3.11)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Valhalla (#1.11)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Veil of Death (#3.4)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {White Tiger (#2.8)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Wild Child (#2.13)}', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"BeastMaster" (1999) {Xinca (#2.5)}', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"Beat the Crusher" (1999)', '', '', '', 'Port Talbot, Neath Port Talbot, Wales, UK']	51.5954335	-3.787263
+['"Beat the Crusher" (1999)', '', '', '', 'Wood Green, London, England, UK']	51.5959898	-0.1091471
+['"Beckmann" (1999) {(2009-06-15)}', '', '', 'Drottningholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Beezbo\'s Adventures" (1999)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beggars and Choosers" (1999)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Always Leave \'Em Laughing (#1.16)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {An Asian in the Sun (#2.6)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Be Careful What You Wish For (#2.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Death in Malibu (#1.19)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Disinformed Sources (#1.21)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Dog Day Afternoon (#2.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Don\'t Try This at Home (#1.14)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Faith, Hope and Chastity (#1.17)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Fasten Your Seatbelts (#1.20)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Fathers and Sons (#2.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Fifty Three Percent Solution (#2.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {From Russia, with Love (#2.19)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Golf War Syndrome (#2.17)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Hello, Dalai! (#2.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Hitting the Bottle (#2.16)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Is It Good or Bad for the Jews? (#1.11)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Killer Sushi (#2.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Moles, Meatloaf, and Myrna Loy (#2.14)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Once More Unto the Breach (#1.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {PMS.COM (#2.1)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Russian Roulette (#1.18)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Sex and Violence (#2.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Sex, Drugs & Videotape (#1.7)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Shakedown in Puerto Vallarta (#1.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Star Whores (#1.15)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Cherry Orchard: Part 2 (#1.22)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Deal (#1.6)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Ethel Merman Story (#1.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Hat Trick (#1.4)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Leak (#2.7)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Long Goodbye (#2.20)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Mountainmen: Part 1 (#1.1)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Mountainmen: Part 2 (#1.2)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Naked Truth (#2.5)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Velvet Curtain (#1.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Wartime Consigliere (#2.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {The Woodhouse Conundrum (#2.13)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Touched by an Angel (#1.10)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Unsafe Sex (#1.8)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {We\'ll Always Have Burbank (#2.18)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {White Woman\'s Burden (#1.12)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Beggars and Choosers" (1999) {Zero Tolerance (#2.9)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Bericht aus Berlin" (1999)', '', '', '', 'ARD Hauptstadtstudio, Wilhelmstra�e, Mitte, Berlin, Germany']	51.0834196	10.4234469
+['"Berlin - Ecke Bundesplatz" (1999)', '', '', 'Bundesplatz, Wilmersdorf, Berlin, Germany']	52.4797218	13.328220081864359
+['"Berlin - Ecke Bundesplatz" (1999) {Alte Freunde}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {B�ckermeister im Kiez}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Der Aussteiger}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Der Prominenten-Anwalt}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Der Yilmaz-Clan}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Die Alleinerziehende}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Die Aussteiger}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Die K�pcke-Bande}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Die n�chste Generation}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Grenzg�nger}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Kinder! Kinder!}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {M�tter und T�chter}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Recht und Ordnung}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Sch�n ist die Jugend...}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Solisten}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Vereinigungen}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin - Ecke Bundesplatz" (1999) {Wilmersdorfer Witwen}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin Mitte" (1999)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin Mitte" (1999) {Wutb�rger, Parteien, Populisten}', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berlin Mitte" (1999) {Wutb�rger, Parteien, Populisten}', 'Mitte, Berlin, Germany']	52.5176896	13.4023757
+['"Berliner Runde" (1999) {Senatswahl Berlin}', '', 'Dresdner Bank, Eugen Gutmann Haus, Pariser Platz 6, 10877 Berlin, Germany']	51.0834196	10.4234469
+['"Between the Lions" (1999)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Between the Lions" (1999)', '', '', '', 'Jackson, Mississippi, USA']	32.2990384	-90.1847691
+['"Between the Lions" (1999)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bibi et Zo�" (1999)', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Big Bad World" (1999)', '', '', '', '', 'Watford, Hertfordshire, England, UK']	51.840052299999996	-0.09785519224523963
+['"Big Strong Boys" (1999)', '', '', '', 'Abingdon, Oxfordshire, England, UK']	51.6714842	-1.2779715
+['"Big Strong Boys" (1999)', '', '', '', 'Brighton, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Big Strong Boys" (1999)', '', '', '', 'Edlesborough, Buckinghamshire, England, UK']	51.75	-0.75
+['"Big Strong Boys" (1999)', '', '', '', 'Handsworth, South Yorkshire, England, UK']	53.3723004	-1.3830121
+['"Big Strong Boys" (1999)', '', '', '', 'Hemel Hempstead, Hertfordshire, England, UK']	51.7511784	-0.472528
+['"Big Strong Boys" (1999)', '', '', '', 'Hereford, Herefordshire, England, UK']	52.083333	-2.75
+['"Big Strong Boys" (1999)', '', '', '', 'Hove, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Big Strong Boys" (1999)', '', '', '', 'Seaford, East Sussex, England, UK']	50.77832265	0.11048025281493355
+['"Big Strong Boys" (1999)', '', '', '', 'Towcester, Northamptonshire, England, UK']	52.1350273	-0.9948465
+['"Big Strong Boys" (1999)', '', '', '', 'Worcester, Worcestershire, England, UK']	52.1911849	-2.2206585
+['"Big Strong Girls" (1999)', '', '', '', 'Banbury, Oxfordshire, England, UK']	52.0605712	-1.3277563
+['"Big Strong Girls" (1999)', '', '', '', 'Bletchingdon, Oxfordshire, England, UK']	51.8551298	-1.2718614
+['"Big Stuff" (1999)', '', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Big Stuff" (1999)', '', '', '', '', 'Nevada, USA']	39.5158825	-116.8537227
+['"Big Stuff" (1999)', '', '', '', '', 'Washington State, USA']	47.2868352	-120.2126139
+['"Big Stuff" (1999)', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Big Stuff" (1999) {Air}', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Big Stuff" (1999) {Air}', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Big Stuff" (1999) {Air}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Big Stuff" (1999) {Earth}', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Big Stuff" (1999) {Earth}', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Big Stuff" (1999) {Earth}', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Big Stuff" (1999) {Land}', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Big Stuff" (1999) {Land}', '', '', '', 'Nevada, USA']	39.5158825	-116.8537227
+['"Big Stuff" (1999) {Land}', '', '', '', 'Washington State, USA']	47.2868352	-120.2126139
+['"Big Stuff" (1999) {Land}', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Big Stuff" (1999) {Sea}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Stuff" (1999) {Sea}', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"Big Stuff" (1999) {Sea}', '', '', '', 'Gulf of Mexico, USA']	39.7837304	-100.4458825
+['"Big Stuff" (1999) {Sea}', '', '', '', 'Atlantic Ocean']	13.581921	-38.320312
+['"Big Stuff" (1999) {Water}', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Big Stuff" (1999) {Water}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Big Stuff" (1999) {Wind}', '', '', '', 'Russia']	64.6863136	97.7453061
+['"Big Stuff" (1999) {Wind}', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Big Wolf on Campus" (1999)', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071

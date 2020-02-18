@@ -1,0 +1,998 @@
+['"$2 Bill" (2002) {Kanye West}', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"$2 Bill" (2002) {The Strokes (#1.1)}', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"$2 Bill" (2002) {Yellowcard}', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"099 Central" (2002)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.1)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.10)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.100)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.101)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.102)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.103)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.104)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.105)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.106)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.107)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.108)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.109)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.11)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.110)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.111)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.112)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.113)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.114)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.115)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.116)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.117)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.118)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.119)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.12)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.120)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.121)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.122)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.123)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.124)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.125)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.126)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.127)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.128)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.129)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.13)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.130)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.131)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.132)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.133)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.134)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.135)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.136)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.137)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.138)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.139)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.14)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.140)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.141)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.142)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.143)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.144)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.15)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.16)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.17)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.18)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.19)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.20)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.21)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.22)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.23)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.24)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.25)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.26)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.27)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.28)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.29)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.30)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.31)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.32)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.33)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.34)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.35)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.36)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.37)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.38)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.39)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.40)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.41)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.42)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.43)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.44)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.45)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.46)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.47)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.48)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.49)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.50)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.52)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.53)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.54)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.55)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.56)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.57)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.58)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.59)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.60)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.61)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.62)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.63)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.64)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.65)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.66)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.67)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.68)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.69)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.70)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.71)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.72)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.73)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.74)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.75)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.76)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.77)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.78)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.79)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.80)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.81)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.82)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.83)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.84)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.85)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.86)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.87)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.88)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.89)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.90)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.91)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.92)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.93)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.94)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.95)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.96)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.97)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.98)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"099 Central" (2002) {(#1.99)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"100 Hours" (2002)', '', '', '', '', 'Wrights Hill Fortress, Wellington, New Zealand']	-41.2958474	174.7388675
+['"100% Greve" (2002)', '', '', '', '', 'Greve, Sj�lland, Denmark']	55.670249	10.3333283
+['"1000 millones" (2002)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002)', '', '', '', '', 'Punta del Este, Maldonado, Uruguay']	-34.9632342	-54.9439981
+['"1000 millones" (2002) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.100)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.101)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.102)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.103)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.104)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.105)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.106)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.107)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.108)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.109)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.110)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.111)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.112)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.113)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.114)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.115)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.116)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.117)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.118)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.119)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.2)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.20)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.3)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.30)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.31)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.32)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.33)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.34)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.35)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.36)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.37)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.38)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.39)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.4)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.40)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.41)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.42)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.43)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.44)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.45)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.46)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.47)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.48)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.49)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.5)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.50)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.51)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.52)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.53)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.54)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.55)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.56)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.57)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.58)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.59)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.6)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.60)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.61)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.62)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.63)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.64)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.65)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.66)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.67)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.68)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.69)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.7)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.70)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.71)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.72)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.73)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.74)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.75)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.76)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.77)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.78)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.79)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.8)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.80)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.81)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.82)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.83)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.84)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.85)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.86)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.87)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.88)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.89)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.9)}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.90)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.91)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.92)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.93)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.94)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.95)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.96)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.97)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.98)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {(#1.99)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"1000 millones" (2002) {Mil millones (#1.1)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"101" (2002)', '', '', '', '', '', 'Hadassah Har Hatsofim Medical Center, Jerusalem, Israel']	31.5313113	34.8667654
+['"101" (2002)', '', '', '', '', '', 'Jerusalem, Israel']	31.778345	35.2250786
+['"101" (2002)', '', '', '', '', '', 'The Knesset, Jerusalem, Israel']	31.7764783	35.20537826857806
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Busan Asiad Stadium, Busan, South Korea']	36.5581914	127.9408564
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Daegu Stadium, Daegu, Yeongnam, South Korea']	36.5581914	127.9408564
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Daejeon World Cup Stadium, Daejeon, South Korea']	36.36525335	127.32510742291791
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Guus Hiddink Stadium, Gwangju, South Korea']	36.5581914	127.9408564
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Incheon Munhak Stadium, Incheon, South Korea']	37.4358254	126.69174668586189
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Japan']	36.5748441	139.2394179
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Jeju World Cup Stadium, Seogwipo, Cheju Island, South Korea']	33.2462695	126.50910713230071
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Jeonju World Cup Stadium, Jeonju, South Korea']	35.867807400000004	127.06458906981494
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Kashima Stadium, Kashima, Japan']	35.9920049	140.64036786659403
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Kobe Wing Stadium, Kobe, Hyogo, Japan']	34.656696600000004	135.16815673063385
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Miyagi Stadium, Rifu, Miyagi, Japan']	38.3353656	140.95038460836236
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Munsu Cup Stadium, Ulsan, South Korea']	35.5330059	129.2585538997232
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Nagai Stadium, Osaka, Japan']	34.61413695	135.51851748633447
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Nissan Stadium, Yokohama, Kanagawa, Japan']	35.5099882	139.60638254387774
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Oita Stadium, Oita, Japan']	33.2007159	131.65749200362785
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Saitama Stadium, Midori-ku, Saitama City, Saitama, Japan']	35.9030742	139.7176057093192
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Sapporo Dome, Sapporo, Hokkaido, Japan']	43.01516255	141.4096924939122
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Seoul World Cup Stadium, Seongsan 2-dong, Mapo-gu, Seoul, South Korea']	37.5646492	126.9190996
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Shizuoka Ecopa Stadium, Fukuroi, Japan']	34.74349185	137.97075786160497
+['"2002 FIFA World Cup" (2002)', '', '', '', 'Suwon World Cup Stadium, Suwon, South Korea']	37.2864084	127.03680502041217
+['"2030 CE" (2002)', '', '', '', '', 'Winnipeg, Manitoba, Canada']	49.8955367	-97.1384584
+['"2030 CE" (2002) {Get Victor (#2.4)}', '', '', 'Winnipeg, Manitoba, Canada']	49.8955367	-97.1384584
+['"20tantos" (2002)', '', '', '', '', 'Sese�a, Toledo, Castilla-La Mancha, Spain']	39.8560679	-4.0239568
+['"20tantos" (2002)', '', '', '', '', 'Villaviciosa de Od�n, Madrid, Spain']	39.3262345	-4.8380649
+['"21st Century War" (2002)', '', '', '', 'Afghanistan']	33.7680065	66.2385139
+['"21st Century War" (2002)', '', '', '', 'Somalia']	8.3676771	49.083416
+['"21st Century War" (2002)', '', '', '', 'Sudan']	14.5844444	29.4917691
+['"21st Century War" (2002)', '', '', '', 'Indonesia']	-2.4833826	117.8902853
+['"24/7: Airport" (2002)', '', '', '', '', 'JFK International Airport, Jamaica, Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"3 bogatyrya" (2002)', '', '', '', '', 'Moscow, Russia']	55.4792046	37.3273304
+['"3K Check In" (2002)', '', '', '', '', 'Budva, Montenegro']	42.2885656	18.8419505
+['"5th Gear" (2002)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"5th Gear" (2002)', '', '', '', '', 'Poland']	52.215933	19.134422
+['"5th Gear" (2002)', '', '', '', '', 'Romania']	45.9852129	24.6859225
+['"5th Gear" (2002)', '', '', '', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"5th Gear" (2002) {(#25.1)}', '', '', '', 'Wales, UK']	52.2928116	-3.73893
+['"5th Gear" (2002) {(#25.1)}', '', '', '', 'Rockingham Motor Speedway, Rockingham, Corby, Northamptonshire, England, UK']	52.25	-0.833333
+['"5th Gear" (2002) {(#25.2)}', '', '', '', 'Castle Combe Circuit, Chippenham, Wiltshire, England, UK']	51.25	-1.916667
+['"5th Gear" (2002) {(#25.2)}', '', '', '', 'Rockingham Motor Speedway, Rockingham, Corby, Northamptonshire, England, UK']	52.25	-0.833333
+['"5th Gear" (2002) {(#25.3)}', '', '', '', 'Rockingham Motor Speedway, Rockingham, Corby, Northamptonshire, England, UK']	52.25	-0.833333
+['"5th Gear" (2002) {(#25.3)}', '', '', '', 'Castle Combe Circuit, Chippenham, Wiltshire, England, UK']	51.25	-1.916667
+['"5th Gear" (2002) {(#25.4)}', '', '', '', 'Rockingham Motor Speedway, Rockingham, Corby, Northamptonshire, England, UK']	52.25	-0.833333
+['"5th Gear" (2002) {(#25.4)}', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"5th Gear" (2002) {(#25.4)}', '', '', '', 'Poland']	52.215933	19.134422
+['"5th Gear" (2002) {(#25.4)}', '', '', '', 'Castle Combe Circuit, Chippenham, Wiltshire, England, UK']	51.25	-1.916667
+['"5th Gear" (2002) {(#25.5)}', '', '', '', 'Castle Combe Circuit, Chippenham, Wiltshire, England, UK']	51.25	-1.916667
+['"5th Gear" (2002) {(#25.5)}', '', '', '', 'Ascari Circuit, Ronda, M�laga, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"60 Minutes" (2002)', '', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"6ixth Sense with Colin Fry" (2002)', '', '', 'The London Studios, Upper Ground, South Bank, Lambeth, London, England, UK']	54.7023545	-3.2765753
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002)', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {A Very C.J. Christmas (#3.12)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Bake Sale (#1.25)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Bridget\'s First Job (#1.3)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {By the Book (#1.8)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {C.J.\'s Party (#2.20)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {C.J.\'s Real Dad (#3.20)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {C.J.\'s Temptation (#3.14)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Car Trouble (#3.5)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Career Choices (#1.14)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Career Woman (#1.23)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Changes (#3.2)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Cheerleader (#1.6)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Closure (#3.16)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Coach (#3.7)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Come and Knock on Our Door (#1.16)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Consequences (#2.12)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Cool Parent (#1.19)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Daddy\'s Girl (#2.16)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Ditch Day (#3.24)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Donny Goes AWOL (#2.3)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Drummer Boy: Part 1 (#1.17)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Drummer Boy: Part 2 (#1.18)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Every Picture Tells a Story (#1.20)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Finale Part Deux (#2.24)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Finale Part Un (#2.23)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {First Day of School (#3.1)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Freaky Friday (#3.18)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Get Real (#2.11)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Give It Up (#1.10)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Good Moms Gone Wild (#1.22)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Goodbye: Part 1 (#2.4)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Goodbye: Part 2 (#2.5)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Halloween (#3.6)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Kerry\'s Big Adventure (#1.15)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Kerry\'s Video (#1.21)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Let\'s Keep Going: Part 1 (#2.18)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Let\'s Keep Going: Part 2 (#2.19)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Mall in the Family (#2.17)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Merry Christmas: The Story of Anne Frank and Skeevy (#2.9)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Mother\'s Day (#2.21)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {No Right Way (#2.6)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Old Flame (#3.15)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Opposites Attract: Part 1 (#2.13)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Opposites Attract: Part 2 (#2.14)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Opposites Attract: Part 3: Night of the Locust (#2.15)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Out of the Box (#3.4)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Paul Meets His Match (#1.11)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Pilot (#1.1)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Premiere (#2.1)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Princetown Girl (#3.11)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Queen Bees and King Bees (#1.24)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Rory\'s Got a Girlfriend (#1.13)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {School Nurse (#3.3)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Secrets (#3.8)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Sex Ed (#2.2)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Sleepover (#3.23)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Son-in-Law (#1.5)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Sort of an Officer and a Gentleman: Part 1 (#1.27)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Sort of an Officer and a Gentleman: Part 2 (#1.28)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Thanksgiving Guest (#3.9)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The After Party (#3.21)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The Doyle Wedding (#1.26)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The First Thanksgiving (#2.8)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The Principal (#2.22)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The Sub (#3.13)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {The Teachers Lounge (#3.22)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Torn Between Two Lovers (#3.19)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Trick-or-Treehouse (#1.7)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Two Boys for Every Girl (#1.9)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Vanity Unfair (#3.10)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {VolleyBrawl (#3.17)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Wall of Shame (#1.2)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {What Dad Would Want (#2.7)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {Wings (#1.4)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"8 Simple Rules... for Dating My Teenage Daughter" (2002) {YMCA (#2.10)}', 'Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA']	34.1816482	-118.3258554
+['"A Cook\'s Tour" (2002)', '', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', 'Salvador da Bahia, Brazil']	-12.9822499	-38.4812772
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', 'Sorriso da Dad�, Rua Frei Vicente, 5, Salvador da Bahia, Brazil']	-10.3333333	-53.2
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', 'S�o Joaquim Market, Salvador da Bahia, Brazil']	-10.3333333	-53.2
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', "House of Bel D'Osum, Salvador da Bahia, Brazil"]	-10.3333333	-53.2
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', 'Pelourinho, Salvador da Bahia, Brazil']	-12.9739859	-38.5103773
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', 'Sorveteria da Ribeira, Salvador da Bahia, Brazil']	-12.9126074	-38.4944169
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', 'Stella Mares, Salvador da Bahia, Brazil']	-12.9402697	-38.3403835
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', 'Barraca Biruta Tehe, Salvador da Bahia, Brazil']	-10.3333333	-53.2
+['"A Cook\'s Tour" (2002) {A Mystical World (#2.3)}', 'Dinha do Acaraj�, Salvador da Bahia, Brazil']	-10.3333333	-53.2
+['"A Cook\'s Tour" (2002) {A Pleasing Palate (#1.22)}', 'London, England, UK']	51.5073219	-0.1276474
+['"A Cook\'s Tour" (2002) {A Pleasing Palate (#1.22)}', 'Smiths of Smithfield, London, England, UK']	51.519513950000004	-0.10278787788982097
+['"A Cook\'s Tour" (2002) {A Pleasing Palate (#1.22)}', 'F. Cooke Pie and Mash Shop, London, England, UK']	51.5073219	-0.1276474
+['"A Cook\'s Tour" (2002) {A Pleasing Palate (#1.22)}', 'Smithfield Meat Market, London, England, UK']	51.5073219	-0.1276474
+['"A Cook\'s Tour" (2002) {A Pleasing Palate (#1.22)}', 'St. John Restaurant, London, England, UK']	51.520480899999995	-0.1012748389057864
+['"A Cook\'s Tour" (2002) {A Pleasing Palate (#1.22)}', 'Gordon Ramsay Restaurant, London, England, UK']	51.4853491	-0.1621219
+['"A Cook\'s Tour" (2002) {A Taste of Tokyo (#1.1)}', 'Tokyo, Japan']	35.6828387	139.7594549
+['"A Cook\'s Tour" (2002) {A Taste of Tokyo (#1.1)}', 'Tsukiji Fish Market, Tokyo, Japan']	36.5748441	139.2394179
+['"A Cook\'s Tour" (2002) {A Taste of Tokyo (#1.1)}', 'Karaku restaurant, Ginza district, Tokyo, Japan']	36.5748441	139.2394179
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'France']	46.603354	1.8883335
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'Arcachon, Gironde, France']	44.6539428	-1.1755714
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'Cafe Francais Bistro, Arcachon, Gironde, France']	46.603354	1.8883335
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'La Teste de Buch, Gironde, France']	44.6316943	-1.1491319
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'Rue Jules Favre, La Teste de Buch, Gironde, France']	44.6356573	-1.1415747
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'Clarens, 3 Rue Captalat, 33260, La Teste de Buch, Gironde, France']	44.6316943	-1.1491319
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'Le Bistro Restaurant, Arcachon, France']	46.603354	1.8883335
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'Boulangerie Patisserie Vincent Cherin, 340 Avenue Denis Papin, 33260, La Teste de Buch, Gironde, France']	44.6316943	-1.1491319
+['"A Cook\'s Tour" (2002) {Childhood Flavors (#1.9)}', 'Cap Ferret Beach, Cap Ferret, France']	44.6308885	-1.249812
+['"A Cook\'s Tour" (2002) {Cobra Heart - Food That Makes You Manly (#1.3)}', 'Ho Chi Minh City, Vietnam']	10.6497452	106.76197937344351
+['"A Cook\'s Tour" (2002) {Cobra Heart - Food That Makes You Manly (#1.3)}', 'Cho Ben Th�nh Market, District 1, Ho Chi Minh City, Vietnam']	10.7745397	106.69918361158545
+['"A Cook\'s Tour" (2002) {Cobra Heart - Food That Makes You Manly (#1.3)}', 'Ch�o Muc Thanh Son, Ho Chi Minh City, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Cobra Heart - Food That Makes You Manly (#1.3)}', 'Com Nieu Saigon Restaurant, 6C Tu Xuong, Ho Chi Minh City, Vietnam']	10.7813816	106.6869996
+['"A Cook\'s Tour" (2002) {Cobra Heart - Food That Makes You Manly (#1.3)}', 'Thu Vien Bibliotheque Cafe, 84aNguyen Du Street, Ho Chi Minh City, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Cobra Heart - Food That Makes You Manly (#1.3)}', 'Huong Rung Restaurant, 462 Pham The Hien, 4, 8 Ho Chi Minh City, Vietnam']	10.7758439	106.7017555
+['"A Cook\'s Tour" (2002) {Cod Crazy (#1.7)}', '', 'Oporto, Portugal']	41.1494512	-8.6107884
+['"A Cook\'s Tour" (2002) {Cod Crazy (#1.7)}', '', 'Rog�rio Do Redondo Restaurant, Rua Joaquim Ant�nio de Aguiar 19, 4000, Oporto, Portugal']	40.0332629	-7.8896263
+['"A Cook\'s Tour" (2002) {Cod Crazy (#1.7)}', '', 'Casa Aleixo Restaurant, Rua da Estacao 216, Oporto, Portugal']	40.0332629	-7.8896263
+['"A Cook\'s Tour" (2002) {Cod Crazy (#1.7)}', '', 'Royal Oporto Vineyards, Douro Valley, Portugal']	40.0332629	-7.8896263
+['"A Cook\'s Tour" (2002) {Cod Crazy (#1.7)}', '', 'Quinta Da Llama Restaurant, Douro Valley, Portugal']	40.0332629	-7.8896263
+['"A Cook\'s Tour" (2002) {Desert Feast (#1.11)}', '', 'Morocco']	31.1728205	-7.3362482
+['"A Cook\'s Tour" (2002) {Desert Feast (#1.11)}', '', 'Fez, F�s-Boulemane, Morocco']	31.1728205	-7.3362482
+['"A Cook\'s Tour" (2002) {Desert Feast (#1.11)}', '', 'Risani, Morocco']	31.1728205	-7.3362482
+['"A Cook\'s Tour" (2002) {Desert Feast (#1.11)}', '', 'Northern Sahara Desert, Morocco']	31.1728205	-7.3362482
+['"A Cook\'s Tour" (2002) {Dining with Geishas (#1.2)}', 'Tokyo, Japan']	35.6828387	139.7594549
+['"A Cook\'s Tour" (2002) {Dining with Geishas (#1.2)}', 'Atami, Shizuoka, Japan']	35.08992	139.059891
+['"A Cook\'s Tour" (2002) {Dining with Geishas (#1.2)}', 'Shinkansan, Tokyo, Japan']	36.5748441	139.2394179
+['"A Cook\'s Tour" (2002) {Dining with Geishas (#1.2)}', 'Sekiyo Ryokan Inn, Atami, Japan']	36.5748441	139.2394179
+['"A Cook\'s Tour" (2002) {Dining with Geishas (#1.2)}', 'Nibiki Restaurant, Tokyo, Japan']	36.5748441	139.2394179
+['"A Cook\'s Tour" (2002) {Down Under: The Wild West of Cooking (#2.9)}', 'Ondine Restaurant, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"A Cook\'s Tour" (2002) {Down Under: The Wild West of Cooking (#2.9)}', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"A Cook\'s Tour" (2002) {Down Under: The Wild West of Cooking (#2.9)}', 'Coldstream Vineyards, Yarra Valley, Victoria, Australia']	-36.0154297	146.0139795
+['"A Cook\'s Tour" (2002) {Down Under: The Wild West of Cooking (#2.9)}', 'Cafe Di Stasio, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"A Cook\'s Tour" (2002) {Down Under: The Wild West of Cooking (#2.9)}', 'Montefiore Cheese Factory, Clarkefield, Victoria, Australia']	-37.483466	144.7480489
+['"A Cook\'s Tour" (2002) {Down Under: The Wild West of Cooking (#2.9)}', 'Lara, Victoria, Australia']	-37.96738335	144.3660409155256
+['"A Cook\'s Tour" (2002) {Down Under: The Wild West of Cooking (#2.9)}', 'Richmond, Victoria, Australia']	-37.8203955	145.0025153
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Cambodia']	13.5066394	104.869423
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Tonle Sap Lake, Cambodia']	12.888642449999999	104.02062319226694
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Battambang, Cambodia']	12.9256791	103.23171364274523
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Pailin, Cambodia']	13.5066394	104.869423
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Hang Meas Hotel, Pailin, Cambodia']	13.5066394	104.869423
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Hang Meas Restaurant, Pailin, Cambodia']	13.5066394	104.869423
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Tokyo, Japan']	35.6828387	139.7594549
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Honmura An Soba Restaurant, Tokyo, Japan']	36.5748441	139.2394179
+['"A Cook\'s Tour" (2002) {Eating on the Edge of Nowhere (#1.6)}', 'Yakatori Bar, Tokyo, Japan']	36.5748441	139.2394179
+['"A Cook\'s Tour" (2002) {Eating on the Mekong (#1.4)}', 'Ho Chi Minh City, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Eating on the Mekong (#1.4)}', 'Can Tho, Mekong River Delta, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Eating on the Mekong (#1.4)}', 'Highway 1, Vietnam']	51.4591656	6.986049
+['"A Cook\'s Tour" (2002) {Eating on the Mekong (#1.4)}', 'Mekong River Delta, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Eating on the Mekong (#1.4)}', 'Cai Rang Floating Market, Mekong River Delta, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Eating on the Mekong (#1.4)}', 'Nha Trang, Vietnam']	12.2431693	109.1898675
+['"A Cook\'s Tour" (2002) {Eating on the Mekong (#1.4)}', 'Bao Dai Villas, Nha Trang, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', "Desmond's, New York City, New York, USA"]	40.7441961	-73.9832046
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Bellevue Bar, New York City, New York, USA']	39.7837304	-100.4458825
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Les Halles Restaurant, New York City, New York, USA']	40.7100999	-74.0088015
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Pkorlan Club, Cambodia']	13.5066394	104.869423
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Dylan Prime, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', "Jeremy's Ale House, New York City, New York, USA"]	40.7076703	-74.0020534
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Corner Bistro, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'San Sebastian, Spain']	43.3224219	-1.9838889
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Tokyo, Japan']	35.6828387	139.7594549
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', "Rudy's Bar, New York City, New York, USA"]	39.7837304	-100.4458825
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Chicama, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Puebla, Mexico']	18.833333	-98.0
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Nha Trang, Vietnam']	12.2431693	109.1898675
+['"A Cook\'s Tour" (2002) {Elements of a Great Bar (#2.5)}', 'Ho Chi Minh City, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Food Tastes Better with Sand Between Your Toes (#2.1)}', 'Freedom Fighter Ital Shack, Bush Road no. 07, Philipsburg, Sint Maarten, Guadeloupe, Netherlands']	52.5001698	5.7480821
+['"A Cook\'s Tour" (2002) {Food Tastes Better with Sand Between Your Toes (#2.1)}', "Poulet D'Orleans, Sint Maarten, Guadeloupe, Netherlands"]	52.5001698	5.7480821
+['"A Cook\'s Tour" (2002) {Food Tastes Better with Sand Between Your Toes (#2.1)}', 'Johnny B Under the Tree, Sint Maarten, Guadeloupe, Netherlands']	52.5001698	5.7480821
+['"A Cook\'s Tour" (2002) {Food Tastes Better with Sand Between Your Toes (#2.1)}', "Hilma's Windsor Castle, Sint Maarten, Guadeloupe, Netherlands"]	52.5001698	5.7480821
+['"A Cook\'s Tour" (2002) {Food Tastes Better with Sand Between Your Toes (#2.1)}', "Supermarche Dupont, St. Martin, Guadeloupe, D�partements d'Outre-Mer, France"]	46.603354	1.8883335
+['"A Cook\'s Tour" (2002) {Food Tastes Better with Sand Between Your Toes (#2.1)}', 'Sint Maarten, Guadeloupe, Netherlands']	52.5001698	5.7480821
+['"A Cook\'s Tour" (2002) {Food Tastes Better with Sand Between Your Toes (#2.1)}', "Gus' Beach Bar and Grill, Baie Rouge, St. Martin, Guadeloupe, D�partements d'Outre-Mer, France"]	46.603354	1.8883335
+['"A Cook\'s Tour" (2002) {Gone Bamboo (#2.12)}', '', 'Hanoi, Vietnam']	21.0294498	105.8544441
+['"A Cook\'s Tour" (2002) {Gone Bamboo (#2.12)}', '', 'Thai Hung Lau, Hanoi, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Gone Bamboo (#2.12)}', '', "Qu�n Lu'on, Hanoi, Vietnam"]	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Gone Bamboo (#2.12)}', '', 'Pham Anh Tuyet, Hanoi, Vietnam']	13.2904027	108.4265113
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', 'Scotland, UK']	56.7861112	-4.1140518
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', 'Glasgow, Scotland']	55.8609825	-4.2488787
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', "Jinty M'Guinty's Pub, Glasgow, Scotland, UK"]	54.7023545	-3.2765753
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', 'University Cafe Chip Shop, Glasgow, Scotland, UK']	55.8609825	-4.2488787
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', 'Dubh Prais Restaurant, Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', 'The Highlands, Nairn, Scotland, UK']	57.5850133	-3.8681503
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', 'Drynachan Lodge, Cawdor Estate, Nairn, Scotland, UK']	54.7023545	-3.2765753
+['"A Cook\'s Tour" (2002) {Highland Grub (#1.21)}', '', 'Cawdor Estate, Nairn, Scotland, UK']	57.5850133	-3.8681503
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Confeitaria Colombo, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Ipanema, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9839557	-43.2022163
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', "Uruguay's, Rio de Janeiro, Rio de Janeiro, Brazil"]	-22.9110137	-43.2093727
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Bar do Mineiro, Rua Paschoal Carlos Magno, 99 - Santa Teresa, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'San Pedro Market, Niteroi, Rio de Janeiro, Brazil']	-22.8832371	-43.1154552
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Niteroi, Rio de Janeiro, Brazil']	-22.8832371	-43.1154552
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Toca do Bonde, San Pedro Market, Niteroi, Rio de Janeiro, Brazil']	-10.3333333	-53.2
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Vila Canoas, S�o Conrado, Rio de Janeiro, Brazil']	-10.3333333	-53.2
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Botequim Bracarense, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Cook\'s Tour" (2002) {How to Be a Carioca (#2.4)}', 'Churrascaria Porc�o, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'Aroon Rai Restaurant, Chiang Mai, Thailand']	18.7862518	98.9935495
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'Chiang Mai, Thailand']	18.790876	98.988048
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'Jog Somphet Restaurant, Chiang Mai, Thailand']	14.8971921	100.83273
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'Huen Phen Restaurant, Chiang Mai, Thailand']	18.7858382	98.9851584
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'Rot Nueng Restaurant, Chiang Mai, Thailand']	14.8971921	100.83273
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'Westin Riverside Hotel, Chiang Mai, Thailand']	14.8971921	100.83273
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'Chiang Mai Night Bazaar, Chiang Mai, Thailand']	18.7852694	99.00000236957962
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'East West Restaurant, Chiang Mai, Thailand']	14.8971921	100.83273
+['"A Cook\'s Tour" (2002) {Let\'s Get Lost (#2.10)}', '', 'Chiang Mai City, Chiang Mai, Thailand']	18.790876	98.988048
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', "Tail o' the Pup - 311 N La Cienega Blvd, Los Angeles, California, USA"]	34.0536909	-118.2427666
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', "Pink's, Los Angeles, California, USA"]	34.08390825	-118.34428334041074
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', 'Oki-Dog, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', 'Campanile Restaurant, Los Angeles, California, USA']	34.0586164	-118.24560698989389
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', 'Santa Monica Farmers Market, Santa Monica, California, USA']	34.0250724	-118.4965129
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', "Kindle's Donuts, Los Angeles, California, USA"]	33.9452731	-118.300483
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', 'La Brea Bakery, Los Angeles, California, USA']	34.0650802	-118.3437619
+['"A Cook\'s Tour" (2002) {Los Angeles, My Own Heart of Darkness (#1.17)}', 'Fred62, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"A Cook\'s Tour" (2002) {Mad Tony: The Food Warrior (#2.7)}', 'Sturts Meadows Sheep Station, Broken Hill, New South Wales, Australia']	-31.965	141.4511111
+['"A Cook\'s Tour" (2002) {Mad Tony: The Food Warrior (#2.7)}', 'Silverton Hotel Pub, Silverton, New South Wales, Australia']	-24.7761086	134.755
+['"A Cook\'s Tour" (2002) {Mad Tony: The Food Warrior (#2.7)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Cook\'s Tour" (2002) {Mad Tony: The Food Warrior (#2.7)}', 'Broken Hill, New South Wales, Australia']	-31.965	141.4511111
+['"A Cook\'s Tour" (2002) {Mad Tony: The Food Warrior (#2.7)}', "Tetsuya's, Sydney, New South Wales, Australia"]	-33.8536692	151.2133527
+['"A Cook\'s Tour" (2002) {Mad Tony: The Food Warrior (#2.7)}', "Harry's Cafe de Wheels, Cowper Wharf Road, Woolloomooloo, Sydney, New South Wales, Australia"]	-24.7761086	134.755
+['"A Cook\'s Tour" (2002) {My Hometown Favorites (#1.19)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {My Hometown Favorites (#1.19)}', 'Barney Greengrass Deli, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {My Hometown Favorites (#1.19)}', 'Veritas, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {My Hometown Favorites (#1.19)}', "Murray's Cheese Shop, New York City, New York, USA"]	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {My Hometown Favorites (#1.19)}', 'Papaya King, New York City, New York, USA']	40.7790423	-73.9540748
+['"A Cook\'s Tour" (2002) {My Hometown Favorites (#1.19)}', "Amir's Restaurant, New York City, New York, USA"]	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {My Life as a Cook - NYC (#1.20)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {My Life as a Cook - NYC (#1.20)}', 'Les Halles Restaurant, New York City, New York, USA']	40.7100999	-74.0088015
+['"A Cook\'s Tour" (2002) {My Life as a Cook - NYC (#1.20)}', 'Provincetown, Massachusetts, USA']	42.058436	-70.1786375
+['"A Cook\'s Tour" (2002) {My Life as a Cook - NYC (#1.20)}', "Ciro and Sal's Restaurant, Provincetown, Massachusetts, USA"]	42.058436	-70.1786375
+['"A Cook\'s Tour" (2002) {My Life as a Cook - NYC (#1.20)}', 'Culinary Institute of America, Hyde Park, New York, USA']	41.7459268	-73.9331926
+['"A Cook\'s Tour" (2002) {My Life as a Cook - NYC (#1.20)}', 'Bellevue Bar, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', "Hansen's Sno Bliz, New Orleans, Louisiana, USA"]	29.9499323	-90.0701156
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', "Checkpoint Charlie's, New Orleans, Louisiana, USA"]	29.9499323	-90.0701156
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', 'The Harbor Restaurant, New Orleans, Louisiana, USA']	39.7837304	-100.4458825
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', 'Verti Marte Grocery, New Orleans, Louisiana, USA']	39.7837304	-100.4458825
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', "Vaughn's Lounge, New Orleans, Louisiana, USA"]	29.9619053	-90.0335969
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', "Zam's Swamp Tours, 141 Kraemer Bayou Road, Thibodaux, Louisiana, USA"]	29.7957633	-90.822871
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', "Jacques-Imo's Cafe, New Orleans, Louisiana, USA"]	29.9490708	-90.13221368770718
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', "Tee-Eva's, New Orleans, Louisiana, USA"]	29.9499323	-90.0701156
+['"A Cook\'s Tour" (2002) {No Beads, No Babes, No Bourbon Street (#2.2)}', 'Thibodaux, Louisiana, USA']	29.7957633	-90.822871
+['"A Cook\'s Tour" (2002) {Puebla, Where the Cooks Are From (#1.16)}', 'Puebla, Mexico']	18.833333	-98.0
+['"A Cook\'s Tour" (2002) {Puebla, Where the Cooks Are From (#1.16)}', 'Les Halles Restaurant, New York City, New York, USA']	40.7100999	-74.0088015
+['"A Cook\'s Tour" (2002) {Puebla, Where the Cooks Are From (#1.16)}', 'Izucar de Matamoros, Mexico']	19.4326296	-99.1331785
+['"A Cook\'s Tour" (2002) {Puebla, Where the Cooks Are From (#1.16)}', 'Hotel de San Francisco, Tlaxcala, Mexico']	19.4326296	-99.1331785
+['"A Cook\'s Tour" (2002) {San Sebastian: A Food Lover\'s Town (#1.8)}', 'San Sebastian, Spain']	39.3262345	-4.8380649
+['"A Cook\'s Tour" (2002) {San Sebastian: A Food Lover\'s Town (#1.8)}', 'Luis Irizar Cooking School, Mari 5, 20003, San Sebastian, Spain']	43.3224219	-1.9838889
+['"A Cook\'s Tour" (2002) {San Sebastian: A Food Lover\'s Town (#1.8)}', 'Restaurant Arzak, Avenida del Alcalde Jos� Elosegi, 273, 20015, San Sebastian, Spain']	43.3224219	-1.9838889
+['"A Cook\'s Tour" (2002) {San Sebastian: A Food Lover\'s Town (#1.8)}', 'Bar Ganbara, San Sebastian, Spain']	43.3234086	-1.9855242
+['"A Cook\'s Tour" (2002) {San Sebastian: A Food Lover\'s Town (#1.8)}', 'Bar Astalena, San Sebastian, Spain']	39.3262345	-4.8380649
+['"A Cook\'s Tour" (2002) {San Sebastian: A Food Lover\'s Town (#1.8)}', 'Bar San Telmoko Goilarea, San Sebastian, Spain']	39.3262345	-4.8380649
+['"A Cook\'s Tour" (2002) {San Sebastian: A Food Lover\'s Town (#1.8)}', 'Cafe Santa Lucia, San Sebastian, Spain']	39.3262345	-4.8380649
+['"A Cook\'s Tour" (2002) {Singapore: New York in Twenty Years (#2.8)}', 'Singapore']	1.357107	103.8194992
+['"A Cook\'s Tour" (2002) {Singapore: New York in Twenty Years (#2.8)}', 'Goodwood Park Hotel, Singapore']	1.3082222	103.8341091
+['"A Cook\'s Tour" (2002) {Singapore: New York in Twenty Years (#2.8)}', 'Geylang Serai Market, Singapore']	1.3169144	103.8974145
+['"A Cook\'s Tour" (2002) {Singapore: New York in Twenty Years (#2.8)}', 'Tekka Market, Singapore']	1.3061832	103.85058749683245
+['"A Cook\'s Tour" (2002) {Singapore: New York in Twenty Years (#2.8)}', 'Sin Huat Eating House, Singapore']	1.357107	103.8194992
+['"A Cook\'s Tour" (2002) {Singapore: New York in Twenty Years (#2.8)}', 'Imperial Herbal Restaurant, Singapore']	1.357107	103.8194992
+['"A Cook\'s Tour" (2002) {Singapore: New York in Twenty Years (#2.8)}', 'HJ. Maimunah Restaurant, Singapore']	1.357107	103.8194992
+['"A Cook\'s Tour" (2002) {So Much Vodka, So Little Time (#1.14)}', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"A Cook\'s Tour" (2002) {So Much Vodka, So Little Time (#1.14)}', 'Neva River, St. Petersburg, Russia']	59.8354498	30.5614758
+['"A Cook\'s Tour" (2002) {So Much Vodka, So Little Time (#1.14)}', 'Koloboc Cafe, St. Petersburg, Russia']	64.6863136	97.7453061
+['"A Cook\'s Tour" (2002) {So Much Vodka, So Little Time (#1.14)}', 'Russian Banya, St. Petersburg, Russia']	64.6863136	97.7453061
+['"A Cook\'s Tour" (2002) {So Much Vodka, So Little Time (#1.14)}', 'Russky Restaurant, St. Petersburg, Russia']	64.6863136	97.7453061
+['"A Cook\'s Tour" (2002) {Stuffed Like a Pig (#1.10)}', 'Oporto, Portugal']	41.1494512	-8.6107884
+['"A Cook\'s Tour" (2002) {Stuffed Like a Pig (#1.10)}', "Meirelles' Farm, Amarante, Portugal"]	40.0332629	-7.8896263
+['"A Cook\'s Tour" (2002) {Stuffed Like a Pig (#1.10)}', "Cabannes' Farm, Mugron, France"]	46.603354	1.8883335
+['"A Cook\'s Tour" (2002) {Stuffed Like a Pig (#1.10)}', 'Chez Yvette Restaurant, Arcachon, France']	44.6603116	-1.1675892
+['"A Cook\'s Tour" (2002) {Tamales and Iguana, Oaxacan Style (#1.15)}', 'Oaxaca, Mexico']	17.0	-96.5
+['"A Cook\'s Tour" (2002) {Tamales and Iguana, Oaxacan Style (#1.15)}', 'Puerto Angel, Mexico']	15.666667	-96.490556
+['"A Cook\'s Tour" (2002) {Thailand: One Night in Bangkok (#2.13)}', 'Bangkok, Thailand']	13.7542529	100.493087
+['"A Cook\'s Tour" (2002) {Thailand: One Night in Bangkok (#2.13)}', 'Bane Lao Restaurant, Bangkok, Thailand']	14.8971921	100.83273
+['"A Cook\'s Tour" (2002) {Thailand: One Night in Bangkok (#2.13)}', 'Seafood Market and Restaurant, Bangkok, Thailand']	13.7569501	100.5401315
+['"A Cook\'s Tour" (2002) {Thailand: One Night in Bangkok (#2.13)}', 'Nefertiti Restaurant, Bangkok, Thailand']	14.8971921	100.83273
+['"A Cook\'s Tour" (2002) {Thailand: One Night in Bangkok (#2.13)}', 'Singapore']	1.357107	103.8194992
+['"A Cook\'s Tour" (2002) {Thailand: One Night in Bangkok (#2.13)}', 'Bangkok International Airport, Bangkok, Thailand']	13.68187665	100.74858027718852
+['"A Cook\'s Tour" (2002) {Thailand: One Night in Bangkok (#2.13)}', 'Banana Leaf Apollo Restaurant, Singapore']	1.357107	103.8194992
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', 'Klose BBQ Pits, Houston, Texas, USA']	29.7589382	-95.3676974
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', "Burn's B-B-Q, Houston, Texas, USA"]	29.7589382	-95.3676974
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', "Oklahoma Joe's, 3002 W 47th Ave, Kansas City, Kansas, USA"]	39.1134562	-94.626497
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', 'Kansas City, Kansas, USA']	39.1134562	-94.626497
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', 'North Carolina, USA']	35.6729639	-79.0392919
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', 'Humble, Texas, USA']	29.9988312	-95.2621553
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', 'Wilson County, North Carolina, USA']	35.7059114	-77.9175714
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', "Mitchell's Bar-B-Q, Wilson, North Carolina, USA"]	35.7059114	-77.9175714
+['"A Cook\'s Tour" (2002) {The BBQ Triangle (#2.11)}', 'Marshville, North Carolina, USA']	34.988486	-80.3670085
+['"A Cook\'s Tour" (2002) {The Cook Who Came in from the Cold (#1.13)}', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"A Cook\'s Tour" (2002) {The Cook Who Came in from the Cold (#1.13)}', 'Povordye Restaurant, St. Petersburg, Russia']	64.6863136	97.7453061
+['"A Cook\'s Tour" (2002) {The Cook Who Came in from the Cold (#1.13)}', 'Church of the Resurrection of Christ, St. Petersburg, Russia']	64.6863136	97.7453061
+['"A Cook\'s Tour" (2002) {The Cook Who Came in from the Cold (#1.13)}', 'Souvenir Fair, St. Petersburg, Russia']	64.6863136	97.7453061
+['"A Cook\'s Tour" (2002) {The Cook Who Came in from the Cold (#1.13)}', 'Blintzy Restaurant, St. Petersburg, Russia']	64.6863136	97.7453061
+['"A Cook\'s Tour" (2002) {The Cook Who Came in from the Cold (#1.13)}', 'Catherine Palace, Pushkin, Pushkinsky District, St. Petersburg, Russia']	64.6863136	97.7453061
+['"A Cook\'s Tour" (2002) {The Cook Who Came in from the Cold (#1.13)}', 'Kuznechny Market, St. Petersburg, Russia']	59.927306400000006	30.349645491976254
+['"A Cook\'s Tour" (2002) {The French Laundry Experience (#1.18)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"A Cook\'s Tour" (2002) {The French Laundry Experience (#1.18)}', 'Swan Oyster Depot, 1517 Polk St, San Francisco, California, USA']	37.7909693	-122.4209185
+['"A Cook\'s Tour" (2002) {The French Laundry Experience (#1.18)}', 'Polly Ann Ice Cream, San Francisco, California, USA']	37.7790262	-122.4199061
+['"A Cook\'s Tour" (2002) {The French Laundry Experience (#1.18)}', 'Jacobsen Orchards, Yountville, California, USA']	38.4022008	-122.3595063
+['"A Cook\'s Tour" (2002) {The French Laundry Experience (#1.18)}', 'The French Laundry, Yountville, California, USA']	38.4042648	-122.3647106
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', 'Mall of America, Bloomington, Minnesota, USA']	44.8322405	-93.3204872
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', 'The Sample Room, Minneapolis, Minnesota, USA']	45.009761	-93.2720091
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', 'Saigon Caf�, Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', 'Aquavit, Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', 'Minnesota Picnic, Mall of America, Bloomington, Minnesota, USA']	44.8322405	-93.3204872
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', 'Cereal Adventure, Mall of America, Bloomington, Minnesota, USA']	39.7837304	-100.4458825
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', "Vincent's Restaurant, Minneapolis, Minnesota, USA"]	44.9772995	-93.2654692
+['"A Cook\'s Tour" (2002) {The Struggle for the Soul of America (#2.6)}', "Joe's Garage, Minneapolis, Minnesota, USA"]	39.7837304	-100.4458825
+['"A Cook\'s Tour" (2002) {Traditional Tastes (#1.12)}', 'Casablanca, Morocco']	33.5950627	-7.6187768
+['"A Cook\'s Tour" (2002) {Traditional Tastes (#1.12)}', 'Bar Casablanca, Casablanca, Morocco']	34.0167399	-6.830995
+['"A Cook\'s Tour" (2002) {Traditional Tastes (#1.12)}', 'Fez, F�s-Boulemane, Morocco']	31.1728205	-7.3362482
+['"A Cook\'s Tour" (2002) {Traditional Tastes (#1.12)}', 'Moulay Idriss, Morocco']	34.0556014	-5.522419960157263
+['"A Cook\'s Tour" (2002) {Traditional Tastes (#1.12)}', 'Hotel Riad Dar Al Hadara, Fez, Morocco']	31.1728205	-7.3362482
+['"A Cook\'s Tour" (2002) {Wild Delicacies (#1.5)}', '', 'Phnom Penh, Cambodia']	11.568271	104.9224426
+['"A Cook\'s Tour" (2002) {Wild Delicacies (#1.5)}', '', 'Pkor Loan Shooting Range, Phnom Penh, Cambodia']	13.5066394	104.869423
+['"A Cook\'s Tour" (2002) {Wild Delicacies (#1.5)}', '', 'Central Market, Phnom Penh, Cambodia']	11.56958395	104.92108141548141
+['"A Cook\'s Tour" (2002) {Wild Delicacies (#1.5)}', '', 'Angkor Wat, Siem Reap, Cambodia']	13.41249965	103.86656937305514
+['"A Cook\'s Tour" (2002) {Wild Delicacies (#1.5)}', '', "Grand Hotel D'Angkor, Siem Reap, Cambodia"]	13.5066394	104.869423
+['"A Dalmatians Point of View" (2002)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Dalmatians Point of View" (2002)', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"A Guy and a Girl" (2002)', '', '', '', 'Halifax, Nova Scotia, Canada']	44.648618	-63.5859487
+['"A J�ia de �frica" (2002)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A J�ia de �frica" (2002)', '', '', '', 'Maputo, Mozambique']	-25.966213	32.56745
+['"A Place in France" (2002)', '', '', '', 'Laurac, Aude, France']	43.2279101	1.9751799
+['"A escena" (2002)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"A las tr3s" (2002)', '', '', '', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"AFL Sunday" (2002) {Round 19: Collingwood v Essendon (#10.18)}', 'Melbourne Cricket Ground - Brunton Avenue, East Melbourne, Victoria, Australia']	-37.812498	144.9858851
+['"AFP: American Fighter Pilot" (2002)', '', '', 'Tyndall Air Force Base, Panama City, Florida, USA']	30.06911715	-85.57727553121528
+['"AM Arizona" (2002)', '', '', '', '', 'Prescott, Arizona, USA']	34.5399962	-112.4687616
+['"AOL Sessions" (2002)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"AOL Sessions" (2002)', '', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"AOL Sessions" (2002)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Ace Lightning" (2002)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Adoption" (2002)', '', '', '', '', 'Texas, USA']	39.7837304	-100.4458825
+['"Adventure Inc." (2002)', '', '', '', '', 'Bristol, England, UK']	51.4538022	-2.5972985
+['"Adventure Inc." (2002)', '', '', '', '', 'Marseille, Bouches-du-Rh�ne, France']	46.603354	1.8883335
+['"Adventure Inc." (2002)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Adventure Inc." (2002) {Angel of St. Edmunds (#1.12)}', 'Bristol Docks, Bristol, England, UK']	51.4469581	-2.6160966
+['"Adventure Inc." (2002) {Angel of St. Edmunds (#1.12)}', 'Chavenage House, Tetbury, Gloucestershire, England, UK']	51.65536415	-2.1865569117328345
+['"Adventure Inc." (2002) {Spirit of the Mask (#1.17)}', 'Marseille, Bouches-du-Rh�ne, France']	46.603354	1.8883335
+['"Agua y aceite" (2002)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Ah yasamak var ya!" (2002)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Aix m�lodie" (2002)', '', '', '', '', 'Aix-en-Provence, Bouches-du-Rh�ne, France']	46.603354	1.8883335
+['"Akvariumas" (2002)', '', '', '', '', 'Vilnius, Vilnius County, Lithuania']	54.6870458	25.2829111
+['"Al rojo vivo con Mar�a Celeste" (2002)', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Al rojo vivo con Mar�a Celeste" (2002) {(2007-05-14)}', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Al rojo vivo con Mar�a Celeste" (2002) {(2007-05-14)}', 'Washington Heights, Manhattan, New York City, New York, USA']	40.8401984	-73.9402214
+['"Al rojo vivo con Mar�a Celeste" (2002) {(2007-05-15)}', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Al rojo vivo con Mar�a Celeste" (2002) {(2007-05-15)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alex Santana, n�gociateur" (2002)', '', '', "Cormeilles-en-Parisis, Val-d'Oise, France"]	48.9759637	2.1998877
+['"Alicia!" (2002)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Aliens Among Us" (2002)', '', '', '', 'Australia']	-24.7761086	134.755
+['"Aliens Among Us" (2002)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Aliens Among Us" (2002)', '', '', '', 'Canada']	61.0666922	-107.9917071
+['"Aliens Among Us" (2002)', '', '', '', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"Aliens Among Us" (2002)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Aliens Among Us" (2002)', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Aliens Among Us" (2002)', '', '', '', 'New York, USA']	39.7837304	-100.4458825
+['"Aliens Among Us" (2002)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Aliens Among Us" (2002)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alive & Well with Michelle Harris" (2002)', '', 'California, USA']	36.7014631	-118.7559974
+['"Alive & Well with Michelle Harris" (2002)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alive & Well with Michelle Harris" (2002)', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Alive & Well with Michelle Harris" (2002)', '', 'Newport Beach, California, USA']	33.6170092	-117.9294401
+['"Alive & Well with Michelle Harris" (2002)', '', 'St Lucia']	13.8250489	-60.975036
+['"All About Me" (2002)', '', '', '', '', 'Docklands, Poplar, London, England, UK']	51.50763415	-0.023868678300713514
+['"All the Russias" (2002)', '', '', '', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"Almac�n de campo" (2002)', '', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Almac�n de campo" (2002) {(#1.1)}', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Almac�n de campo" (2002) {(#1.2)}', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Almac�n de campo" (2002) {(#1.3)}', '', '', 'Argentina']	-34.9964963	-64.9672817
+['"Amateur Canada" (2002) {18 Teen Mutual Masturbation Challenge (#12.2)}', 'Alberta, Canada']	55.001251	-115.002136
+['"Amateur Canada" (2002) {3 Girls Poker Party (#6.11)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Amateur Couple (#5.21)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Amateur Porn Voyeur Spying (#1.4)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {At My Place (#1.7)}', '', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Bath Time (#6.8)}', '', 'New Brunswick, Canada']	46.500283	-66.750183
+['"Amateur Canada" (2002) {Bedtime Pleasure (#6.9)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Bicurious College Babe Hotel Challenge (#15.1)}', 'Alberta, Canada']	55.001251	-115.002136
+['"Amateur Canada" (2002) {Blonde Takeover (#1.5)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Boyfriend & Friend (#9.10)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Broken Down Car Sex Repair (#12.1)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Busty Balcony Flashing Masturbation (#12.8)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Busty Dirty Sex Secrets (#11.8)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Busty Orgasm Wet Riding Sex Toy (#14.1)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Caught Sitter (#10.3)}', '', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Chinese Girl I Like (#2.3)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Couch Kissing Playtime (#3.9)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Deep Fisted (#7.21)}', '', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Dripping Wet Squirting (#7.11)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Faking It? (#5.13)}', '', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Freezing Tree Climber (#5.4)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {French Babes Hot Washroom Cunnilingus Tasting (#16.4)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {French Porn Interview Goes Self Pleasure (#11.10)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Giggling Orgasms (#5.17)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Gloryhole Sex (#9.7)}', '', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Gloryhole Sex Facial (#8.5)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Happy Holidays (#9.4)}', '', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Hotel Couch Masturbation (#6.5)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Hotel Horny Madness (#9.9)}', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Hotties Making Out in Hot Car (#2.5)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Huge POV Oral Sex Facial (#11.7)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Hungry Kissing and Pussy Licking French Amateurs (#13.2)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Kissing at My Place (#2.6)}', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Lesbian Mutual Oral Sex Washroom (#11.4)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Multi-Orgasmic (#1.3)}', '', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {My Place (#2.27)}', '', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {My Place (#8.17)}', '', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Naked Kitchen Cunnilingus (#10.7)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Nightly Playtime (#8.13)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Office Playgirl (#3.1)}', 'Ontario, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Oiled Boobs (#6.18)}', '', 'New Brunswick, Canada']	46.500283	-66.750183
+['"Amateur Canada" (2002) {Oily Fun (#6.21)}', '', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Oily Massage and Tribbing Porn (#11.11)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Orgasmic Blonde Coed Mandy Fingers Wet Pussy Quickly (#12.11)}', 'Alberta, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Outdoor Oiled Fun (#5.24)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Outdoor Pregnant Horny Sex (#1.6)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {POV Sex Tape Blowjob and Panty Creampie Pleasure (#16.2)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Patio Masturbation (#7.4)}', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Pebble Boobies (#5.26)}', 'Alberta, Canada']	55.001251	-115.002136
+['"Amateur Canada" (2002) {Perky College Pussy (#9.20)}', 'Alberta, Canada']	55.001251	-115.002136
+['"Amateur Canada" (2002) {Petite Hotel Solo (#2.15)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Photoshoot Cut (#1.1)}', '', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Picnic Play (#7.6)}', '', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Playful Park Flashing in Winter Weather (#16.5)}', 'Alberta, Canada']	55.001251	-115.002136
+['"Amateur Canada" (2002) {Playing in the Park (#6.3)}', 'New Brunswick, Canada']	46.500283	-66.750183
+['"Amateur Canada" (2002) {Pregnant Solo Playing (#1.2)}', 'British Columbia, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Pussy Balls Cornered (#8.2)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Quick Oral (#5.19)}', '', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Real Homemade Sex (#7.19)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Redhead Fingering Solo (#2.2)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Self-Interviewing Canadian Pornstar (#12.6)}', 'Alberta, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Self-Shot Fingering and Sex Toy (#11.6)}', 'Alberta, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Sex Time (#4.3)}', '', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Sexy Redhead Fuck (#2.1)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Shed Masturbation (#8.8)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Showering Smiles (#9.22)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Skinny French Girls Mutual Masturbation (#16.1)}', 'Qu�bec, Canada']	61.0666922	-107.9917071
+['"Amateur Canada" (2002) {Solo and Oral (#3.18)}', '', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Strap-On Femdom Lovers (#2.4)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Tap Tap (#9.15)}', '', 'Alberta, Canada']	55.001251	-115.002136
+['"Amateur Canada" (2002) {The List: Part 1 - Kissing Girl (#11.3)}', 'Alberta, Canada']	55.001251	-115.002136
+['"Amateur Canada" (2002) {Three Poker Girls Return (#6.14)}', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Tight Legs (#4.2)}', '', 'British Columbia, Canada']	55.001251	-125.002441
+['"Amateur Canada" (2002) {Toy Lover (#9.12)}', '', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Toy Testing Porn Redhead (#6.4)}', 'Ontario, Canada']	50.000678	-86.000977
+['"Amateur Canada" (2002) {Washroom Sticky Teen Toy Sex Attempt (#11.5)}', 'Alberta, Canada']	55.001251	-115.002136
+['"Amateur Canada" (2002) {Whipped Cream College Coed (#11.2)}', 'Alberta, Canada']	55.001251	-115.002136
+['"America\'s Walking" (2002)', '', '', '', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"America\'s Walking" (2002)', '', '', '', 'Grand Canyon National Park, Arizona, USA']	36.307854750000004	-112.29289603702432
+['"America\'s Walking" (2002)', '', '', '', 'Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Walking" (2002)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Walking" (2002)', '', '', '', 'Sacramento, California, USA']	38.5815719	-121.4943996
+['"America\'s Walking" (2002)', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"America\'s Walking" (2002) {Anyone Can Walk Fast (#1.6)}', 'Manchester, New Hampshire, USA']	42.9956397	-71.4547891
+['"America\'s Walking" (2002) {Anyone Can Walk Fast (#1.6)}', 'New Hampshire, USA']	39.7837304	-100.4458825
+['"America\'s Walking" (2002) {Anyone Can Walk Fast (#1.6)}', 'Worcester, Massachusetts, USA']	42.2625932	-71.8022934
+['"America\'s Walking" (2002) {Building a Walkable World (#1.10)}', 'Loudon Street, Concord, New Hampshire, USA']	39.7837304	-100.4458825
+['"America\'s Walking" (2002) {Building a Walkable World (#1.10)}', 'Oakland, California, USA']	37.8044557	-122.2713563
+['"America\'s Walking" (2002) {Building a Walkable World (#1.10)}', 'Presidio, Golden Gate National Recreation Area, San Francisco, California, USA']	37.7790262	-122.4199061
+['"America\'s Walking" (2002) {Getting the Next Generation Moving (#1.3)}', 'Codman Academy Charter School - 637 Washington Street, Dorchester, Boston, Massachusetts, USA']	39.7837304	-100.4458825
+['"America\'s Walking" (2002) {Heart/Health/Marathon (#1.2)}', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"America\'s Walking" (2002) {Hop on the Walking School Bus (#2.1)}', 'Natomas Park Elementary School - 4700 Crest Drive, Sacramento, California, USA']	38.6607366	-121.503289
+['"America\'s Walking" (2002) {Hop on the Walking School Bus (#2.1)}', 'River Walk, San Antonio, Texas, USA']	29.42327155	-98.49179042933488
+['"America\'s Walking" (2002) {Hop on the Walking School Bus (#2.1)}', 'Texas, USA']	39.7837304	-100.4458825
+['"America\'s Walking" (2002) {It\'s a Matter of Independence (#1.9)}', 'Presidio, Golden Gate National Recreation Area, San Francisco, California, USA']	39.7837304	-100.4458825
+['"America\'s Walking" (2002) {It\'s a Matter of Independence (#1.9)}', 'Santa Ana, California, USA']	33.7494951	-117.8732213
+['"America\'s Walking" (2002) {Livability Issues (#1.7)}', 'Alexandria, Virginia, USA']	38.8147596	-77.09024765272724
+['"America\'s Walking" (2002) {Livability Issues (#1.7)}', 'Chesapeake & Ohio Canal, Georgetown, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America\'s Walking" (2002) {Livability Issues (#1.7)}', 'National Mall, Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"America\'s Walking" (2002) {Livability Issues (#1.7)}', 'Oregon, USA']	43.9792797	-120.737257
+['"America\'s Walking" (2002) {Squaring Off the Curve (#1.5)}', 'Dallas Arboretum & Botanical Garden - 8617 Garland Road, Dallas, Texas, USA']	32.7762719	-96.7968559
+['"America\'s Walking" (2002) {Squaring Off the Curve (#1.5)}', 'The Cooper Clinic, Cooper Aerobics Center - 12200 Preston Road, Dallas, Texas, USA']	32.7762719	-96.7968559
+['"America\'s Walking" (2002) {The Best Workout on Two Feet: Cross Country Skiing (#2.5)}', 'Wisconsin, USA']	44.4308975	-89.6884637
+['"America\'s Walking" (2002) {The Capitol of Bicycling (#2.2)}', 'American River, Sacramento, California, USA']	38.5815719	-121.4943996
+['"America\'s Walking" (2002) {The Capitol of Bicycling (#2.2)}', 'Davis, California, USA']	38.545379	-121.7445835
+['"America\'s Walking" (2002) {The Million Year Problem (#2.7)}', 'Cambridge, Massachusetts, USA']	42.3750997	-71.1056157
+['"America\'s Walking" (2002) {The Million Year Problem (#2.7)}', 'Charles River, Cambridge, Massachusetts, USA']	42.3531916	-71.0972447
+['"America\'s Walking" (2002) {The Million Year Problem (#2.7)}', 'Harvard Square, Cambridge, Massachusetts, USA']	42.3750997	-71.1056157
+['"America\'s Walking" (2002) {This Woman\'s Not Stopping (#1.8)}', 'Chattanooga, Tennessee, USA']	35.0457219	-85.3094883
+['"America\'s Walking" (2002) {This Woman\'s Not Stopping (#1.8)}', 'Point Park, Lookout Mountain, Chattanooga, Tennessee, USA']	35.0457219	-85.3094883
+['"America\'s Walking" (2002) {Trails to Fitness (#1.11)}', 'Cranston, Rhode Island, USA']	41.7809588	-71.4371257
+['"America\'s Walking" (2002) {Trails to Fitness (#1.11)}', 'Providence, Rhode Island, USA']	41.8239891	-71.4128343
+['"America\'s Walking" (2002) {Vacations of the Future (#1.1)}', 'Acadia National Park, Maine, USA']	44.35617135	-68.2155105970896
+['"America\'s Walking" (2002) {Walking Away from Obesity (#1.13)}', 'Arizona, USA']	34.395342	-111.7632755
+['"America\'s Walking" (2002) {Wheeling Walks (#2.3)}', 'Wheeling, West Virginia, USA']	40.0639616	-80.7209149
+['"America\'s Walking" (2002) {Women and Heart Disease (#2.4)}', 'Central Park, Manhattan, New York City, New York, USA']	40.7827725	-73.9653627406542
+['"America\'s Walking" (2002) {Women and Heart Disease (#2.4)}', 'Lenox Hill Hospital - 100 East 77th Street, Manhattan, New York City, New York, USA']	40.77364275	-73.96086187105126
+['"America\'s Walking" (2002) {Worksite Wellness (#1.12)}', 'Bar Harbor, Maine, USA']	44.386456499999994	-68.21185708110028
+['"America\'s Walking" (2002) {Worksite Wellness (#1.12)}', 'L.L. Bean - 542 Congress Street, Portland, Maine, USA']	39.7837304	-100.4458825
+['"America\'s Walking" (2002) {Worksite Wellness (#1.12)}', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"American Dreams" (2002)', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dreams" (2002)', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"American Dreams" (2002)', '', '', '', 'Los Angeles Center Studios - 450 S. Bixel Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dreams" (2002)', '', '', '', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Dreams" (2002)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"American Dreams" (2002)', '', '', '', 'Venice High School - 13000 Venice Boulevard, Venice, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Dreams" (2002)', '', '', '', 'Vineland Drive-In Theater - 443 N. Vineland Avenue, City of Industry, California, USA']	39.7837304	-100.4458825
+['"American Dreams" (2002)', '', '', '', 'Washington Middle School - 1505 N Marengo Avenue, Pasadena, California, USA']	34.1476452	-118.1444779
+['"American Family" (2002)', '', '', '', 'East Los Angeles, California, USA']	34.0239015	-118.1720157
+['"American Family" (2002)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Family" (2002)', '', '', '', 'Mexicali, Baja California Norte, Mexico']	32.6248622	-115.448325
+['"American Family" (2002)', '', '', '', 'Morelos, Mexico']	18.75	-99.0
+['"American Idol: The Search for a Superstar" (2002)', 'Asheville, North Carolina, USA']	35.6009498	-82.5540161
+['"American Idol: The Search for a Superstar" (2002)', 'Alex Theatre - 216 N. Brand Boulevard, Glendale, California, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002)', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"American Idol: The Search for a Superstar" (2002)', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"American Idol: The Search for a Superstar" (2002)', 'Birmingham, Alabama, USA']	33.5206824	-86.8024326
+['"American Idol: The Search for a Superstar" (2002)', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Idol: The Search for a Superstar" (2002)', 'Bourbon Street, French Quarter, New Orleans, Louisiana, USA']	29.9594334	-90.0649002
+['"American Idol: The Search for a Superstar" (2002)', 'Busch Gardens - McKinley Drive, Tampa, Florida, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002)', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002)', 'Charleston, South Carolina, USA']	32.7876012	-79.9402728
+['"American Idol: The Search for a Superstar" (2002)', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Idol: The Search for a Superstar" (2002)', 'Cleveland Browns Stadium - 1085 W. 3rd Street, Cleveland, Ohio, USA']	41.5051613	-81.6934446
+['"American Idol: The Search for a Superstar" (2002)', 'Cleveland, Ohio, USA']	41.5051613	-81.6934446
+['"American Idol: The Search for a Superstar" (2002)', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"American Idol: The Search for a Superstar" (2002)', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"American Idol: The Search for a Superstar" (2002)', 'East Rutherford, New Jersey, USA']	40.833989	-74.0970865
+['"American Idol: The Search for a Superstar" (2002)', 'Hackensack, New Jersey, USA']	40.8871438	-74.0410865
+['"American Idol: The Search for a Superstar" (2002)', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"American Idol: The Search for a Superstar" (2002)', "Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"American Idol: The Search for a Superstar" (2002)', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"American Idol: The Search for a Superstar" (2002)', 'Jacksonville, Florida, USA']	30.3321838	-81.655651
+['"American Idol: The Search for a Superstar" (2002)', 'Jefferson National Expansion Memorial - 11 N. 4th Street, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"American Idol: The Search for a Superstar" (2002)', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"American Idol: The Search for a Superstar" (2002)', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002)', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"American Idol: The Search for a Superstar" (2002)', 'Memphis, Tennessee, USA']	35.1490215	-90.0516285
+['"American Idol: The Search for a Superstar" (2002)', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"American Idol: The Search for a Superstar" (2002)', 'Minneapolis Convention Center - 1301 2nd Avenue South, Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"American Idol: The Search for a Superstar" (2002)', 'Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"American Idol: The Search for a Superstar" (2002)', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Idol: The Search for a Superstar" (2002)', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Idol: The Search for a Superstar" (2002)', 'Omaha, Nebraska, USA']	41.2587459	-95.9383758
+['"American Idol: The Search for a Superstar" (2002)', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"American Idol: The Search for a Superstar" (2002)', 'Orpheum Theater - 842 S. Broadway, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002)', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"American Idol: The Search for a Superstar" (2002)', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"American Idol: The Search for a Superstar" (2002)', 'Salt Lake City, Utah, USA']	40.7596198	-111.8867975
+['"American Idol: The Search for a Superstar" (2002)', 'San Antonio, Texas, USA']	29.4246002	-98.4951405
+['"American Idol: The Search for a Superstar" (2002)', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"American Idol: The Search for a Superstar" (2002)', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"American Idol: The Search for a Superstar" (2002)', 'San Juan, Puerto Rico']	18.465299	-66.116666
+['"American Idol: The Search for a Superstar" (2002)', 'Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"American Idol: The Search for a Superstar" (2002)', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"American Idol: The Search for a Superstar" (2002)', 'St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"American Idol: The Search for a Superstar" (2002)', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"American Idol: The Search for a Superstar" (2002) {(#12.5)}', 'RMS Queen Mary - 1126 Queens Highway, Long Beach, California, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002) {(#6.29)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {(#6.30)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {(#6.31)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {(#6.34)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {(#6.35)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {(#6.36)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {(#6.37)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {(#6.38)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {(#6.38)}', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"American Idol: The Search for a Superstar" (2002) {(#6.39)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002) {(#6.40)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002) {15 Girls Perform (#13.11)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {9 Finalists Compete (#10.24)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Auditions #1: Nashville (#14.1)}', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"American Idol: The Search for a Superstar" (2002) {Auditions #2 (#15.2)}', 'Little Rock, Arkansas, USA']	34.7464809	-92.2895948
+['"American Idol: The Search for a Superstar" (2002) {Auditions #2 (#15.2)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"American Idol: The Search for a Superstar" (2002) {Auditions #2 (#15.2)}', 'Far East Cafe, San Francisco, California, USA']	37.7929705	-122.4061743
+['"American Idol: The Search for a Superstar" (2002) {Auditions #2: Kansas City (#14.2)}', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"American Idol: The Search for a Superstar" (2002) {Auditions #2: Kansas City (#14.2)}', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"American Idol: The Search for a Superstar" (2002) {Auditions #3 (#15.3)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"American Idol: The Search for a Superstar" (2002) {Auditions #3: Kansas City (#14.3)}', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"American Idol: The Search for a Superstar" (2002) {Auditions #4: New York (#14.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Idol: The Search for a Superstar" (2002) {Auditions #4: New York (#14.4)}', 'Kips Bay Boys & Girls Club, Bronx, New York, USA']	40.8466508	-73.8785937
+['"American Idol: The Search for a Superstar" (2002) {Auditions #4: New York (#14.4)}', 'Bronx, New York, USA']	40.8466508	-73.8785937
+['"American Idol: The Search for a Superstar" (2002) {Auditions: Dallas (#9.6)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"American Idol: The Search for a Superstar" (2002) {Auditions: Jacksonville (#8.5)}', 'Jacksonville, Florida, USA']	30.3321838	-81.655651
+['"American Idol: The Search for a Superstar" (2002) {Auditions: Philadelphia (#7.1)}', 'Wachovia Center - 3601 S. Broad Street, Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"American Idol: The Search for a Superstar" (2002) {Auditions: Phoenix (#8.1)}', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"American Idol: The Search for a Superstar" (2002) {Auditions: San Francisco (#8.3)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"American Idol: The Search for a Superstar" (2002) {Auditons: Kansas City (#8.2)}', 'Kansas City, Missouri, USA']	39.100105	-94.5781416
+['"American Idol: The Search for a Superstar" (2002) {Finale (#6.41)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Finale Top 2 (#11.39)}', 'Nokia Theatre L.A. Live - 777 Chick Hearn Court, Los Angeles, California, USA']	34.0445026	-118.26707163660464
+['"American Idol: The Search for a Superstar" (2002) {First Show, First Recap (#3.1)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {I\'m Back, Baby! (#3.13)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Idol Gives Back: Part One (#6.32)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Idol Gives Back: Part Two (#6.33)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Judge Fight! (#1.8)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Jump, Jive and Fail! (#1.15)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Let\'s Learn About Ruben and Clay! (#2.37)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Live Results: Round Seven (#6.27)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Semifinalist Girls Perform (#11.15)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002) {The Top 12 Boys Perform (#7.11)}', 'Studio 36, CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002) {The Top Eight Finalists (#6.28)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {The Top Nine Finalists (#6.26)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Top 10 Performance Show: Gwen Stefani (#6.24)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Top 10 Results Show (#6.25)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Top 11 Performance Show: British Invasion (#6.22)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Top 11 Results Show (#6.23)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Top 12 Performance Show: Diana Ross (#6.20)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Top 12 Results Show (#6.21)}', 'Kodak Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Top 2 Perform (#14.29)}', 'Dolby Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Idol: The Search for a Superstar" (2002) {Top 4 Perform (#14.27)}', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"American Idol: The Search for a Superstar" (2002) {Top 4 Perform (#14.27)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Idol: The Search for a Superstar" (2002) {Top 4 Perform (#14.27)}', 'The Bluebird Cafe, Nashville, Tennessee, USA']	36.0631271	-87.1359169
+['"American Idol: The Search for a Superstar" (2002) {Top 4 Perform (#14.27)}', 'Blackbird Studios, Nashville, Tennessee, USA']	39.7837304	-100.4458825
+['"American Idol: The Search for a Superstar" (2002) {Winner Announced (#11.40)}', 'Nokia Theatre L.A. Live - 777 Chick Hearn Court, Los Angeles, California, USA']	34.0445026	-118.26707163660464
+['"American Idol: The Search for a Superstar" (2002) {Winner Announced (#14.30)}', 'Dolby Theatre - 6801 Hollywood Blvd., Hollywood & Highland Center, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"American Morning" (2002)', '', '', '', 'Time Life Studio, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Morning" (2002) {UN Resolution on Iraq}', 'Qatar']	25.3336984	51.2295295
+['"American Morning" (2002) {UN Resolution on Iraq}', 'Kuwait']	29.2733964	47.4979476
+['"Amy\'s Choice" (2002)', '', '', '', '', 'Hong Kong, China']	22.2793278	114.1628131
+['"Ana y los 7" (2002)', '', '', '', '', 'Navalcarnero, Madrid, Spain']	40.2877169	-4.014299
+['"Andaluc�a M�gica" (2002)', '', '', '', 'Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Andy Richter Controls the Universe" (2002)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Animal Cops: Detroit" (2002)', '', '', '', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"Ant & Dec\'s Saturday Night Takeaway" (2002)', '', 'The London Studios, Upper Ground, South Bank, Lambeth, London, England, UK']	51.5073219	-0.1276474
+['"Apanhados da Bola" (2002)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Aqui esta la papa" (2002)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Around the Horn" (2002)', '', '', '', 'Times Square Studios - 1500 Broadway, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Around the Horn" (2002)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Art Is Kool" (2002)', '', '', '', '', 'Metro Manila, Philippines']	14.5736108	121.0329706
+['"Arts from the Archive" (2002)', '', '', '', 'Ireland']	52.865196	-7.9794599
+['"Arts from the Archive" (2002) {Self Portrait: Kate O\'Brien}', 'RT� studios, Dublin, County Dublin, Ireland']	53.3497645	-6.2602732
+['"Arts from the Archive" (2002) {Sidney Nolan}', '', 'RT� studios, Dublin, County Dublin, Ireland']	53.3497645	-6.2602732
+['"As Manh�s de Sofia" (2002)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Ask This Old House" (2002) {Hawaii Makes 50! (#15.26)}', 'Oahu, Hawaii, USA']	21.48349555	-158.03640389298
+['"Ask ve gurur" (2002)', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Asli ile Kerem" (2002)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Asmali konak" (2002)', '', '', '', '', 'Cappadoccia, Turkey']	38.9597594	34.9249653
+['"Asmali konak" (2002)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"As� la libro" (2002)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"As� son ellas" (2002)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Atrapasue�os: Qopuchawi" (2002)', '', '', 'La Paz, La Paz, Bolivia']	-16.4955455	-68.1336229
+['"Atrapasue�os: Qopuchawi" (2002)', '', '', 'Lake Titicaca, Bolivia']	-16.4960161	-68.1398328
+['"Australian Survivor" (2002)', '', '', '', 'Whalers Way, South Australia, Australia']	-24.7761086	134.755
+['"Australian Survivor" (2002) {The Final (#1.13)}', 'Whalers Way, South Australia, Australia']	-24.7761086	134.755
+['"Australian Survivor" (2002) {The Final (#1.13)}', 'Palladium Ballroom, Crown Towers, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Autovision" (2002)', '', '', '', '', 'Calgary, Alberta, Canada']	51.0534234	-114.0625892
+['"Aventura National Geographic" (2002)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"BBC Inside Out (South)" (2002) {Everyday Histories}', 'Whitstable, Kent, England, UK']	51.3606286	1.0240626
+['"BBC Inside Out: (West)" (2002) {(2012-01-16)}', '', 'Devon, England, UK']	50.75	-3.75
+['"BBC Inside Out: (West)" (2002) {(2012-01-16)}', '', 'Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"BBC Inside Out: (West)" (2002) {Jamie Merrett/Art Satherley/Roller Derby}', 'Bartley Street, Windmill Hill, Bristol, Gloucestershire, England, UK']	51.8333313	-2.1666674
+['"BBC Inside Out: (West)" (2002) {Jamie Merrett/Art Satherley/Roller Derby}', 'Philip Street, Windmill Hill, Bristol, Gloucestershire, England, UK']	54.7023545	-3.2765753
+['"BBC Inside Out: London" (2002) {Dry December}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Back to the Floor" (2002)', '', '', '', 'Atlantic Ocean']	13.581921	-38.320312
+['"Back to the Floor" (2002)', '', '', '', 'Central Park, Manhattan, New York City, New York, USA']	40.7827725	-73.9653627406542
+['"Back to the Floor" (2002)', '', '', '', 'Liverpool, Merseyside, England, UK']	53.4953602	-2.973937960086006
+['"Back to the Floor" (2002)', '', '', '', 'London Heathrow Airport, London Borough of Hillingdon, London, England, UK']	51.5073219	-0.1276474
+['"Back to the Floor" (2002)', '', '', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"Back to the Floor" (2002)', '', '', '', "New Mexico Women's Correctional Facility - 1700 E. Old Highway 66, Grants, New Mexico, USA"]	35.14726	-107.8514465
+['"Back to the Floor" (2002)', '', '', '', 'Wedgewood Factory, Stoke-on-Trent, Staffordshire, England, UK']	52.824694199999996	-2.0074546723348115
+['"Bad Cop, Bad Cop" (2002)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Balamory" (2002)', '', '', '', '', 'Barmulloch, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"Balamory" (2002)', '', '', '', '', 'Tobermory, Mull, Argyll and Bute, Scotland, UK']	56.4603494	-5.8618419478791015
+['"Bana abi de" (2002)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Barbarians, Secrets of the Dark Ages" (2002)', '', 'Vienna, Austria']	47.2000338	13.199959
+['"Basimiza gelenler" (2002)', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Beat Seekers" (2002)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beat the Clock" (2002)', '', '', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Behind the Badge" (2002)', '', '', '', 'Cape Town, Western Cape, South Africa']	-33.928992	18.417396
+['"Behind the Badge" (2002)', '', '', '', 'Durban, KwaZulu-Natal, South Africa']	-29.861825	31.009909
+['"Behind the Badge" (2002)', '', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"Being April" (2002)', '', '', '', '', 'Hersham, Surrey, England, UK']	51.3655959	-0.3996815
+['"Bella bland kryddor och kriminella" (2002) {(#1.5)}', 'G�tgatan, S�dermalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Bella bland kryddor och kriminella" (2002) {(#1.5)}', 'Prins Eugens Waldemarsudde, Djurg�rden, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Berlin, Berlin" (2002)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Berman & Berman" (2002)', '', '', '', 'North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Besik kertmesi" (2002)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Bettina S." (2002) {Borta Bra - Bettina S. vierailla mailla: Bonnie Tyler (#4.5)}', 'Wales, UK']	54.7023545	-3.2765753
+['"Bettina S." (2002) {Borta Bra - Bettina S. vierailla mailla: Conan O\'Brien (#4.2)}', 'Rockefeller Plaza, Manhattan, New York City, New York, USA']	40.757889	-73.9793637
+['"Bettina S." (2002) {Borta Bra - Bettina S. vierailla mailla: Helmut Lotti (#4.1)}', 'Belgium']	50.6402809	4.6667145
+['"Bettina S." (2002) {Borta Bra - Bettina S. vierailla mailla: Ulf Lundell (#4.4)}', 'Sk�ne l�n, Sweden']	59.6749712	14.5208584
+['"Beware of Dog" (2002)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beyond with James Van Praagh" (2002)', '', '', 'KTLA Studios - 5858 Sunset Blvd., Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Big Brother Brasil" (2002)', '', '', '', 'TV Globo, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.96459205	-43.22203495247928
+['"Bij mij thuis" (2002)', '', '', '', '', 'Netherlands']	52.5001698	5.7480821

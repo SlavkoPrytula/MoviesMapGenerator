@@ -1,0 +1,1094 @@
+['"#DayOff" (2013)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"#Hashtag: The Series" (2013)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"#LawstinWoods" (2013)', '', '', '', '', 'Erin, New York, USA']	42.1859079	-76.6699493
+['"#LawstinWoods" (2013)', '', '', '', '', 'Corning, New York, USA']	42.1435257	-77.0543408
+['"#LawstinWoods" (2013) {The Case of the Case (#1.5)}', 'Erin, New York, USA']	42.1859079	-76.6699493
+['"#LawstinWoods" (2013) {The Great Divide (#1.4)}', 'Erin, New York, USA']	42.1859079	-76.6699493
+['"#LawstinWoods" (2013) {The Great Divide (#1.4)}', 'Corning, New York, USA']	42.1435257	-77.0543408
+['"#LawstinWoods" (2013) {The Happening (#1.3)}', '', 'Erin, New York, USA']	42.1859079	-76.6699493
+['"#LawstinWoods" (2013) {The Happening (#1.3)}', '', 'Corning, New York, USA']	42.1435257	-77.0543408
+['"#LawstinWoods" (2013) {The Happening (#1.3)}', '', 'Poultney, Vermont, USA']	43.51716295	-73.23342316804965
+['"#OscarTheOuch" (2013)', '', '', '', '', 'Hollywood, California, USA']	34.093214	-118.3196124
+['"#QuieroEseLook!" (2013)', '', '', '', 'Rio Grande, Puerto Rico']	18.0976281	-66.9391004
+['"#Troublemakers" (2013)', '', '', '', '', 'Wilmington, Delaware, USA']	39.7459468	-75.546589
+['"#tlir" (2013)', '', '', '', '', '', 'Petoskey, Michigan, USA']	45.373343	-84.95533
+['"$5,000 Video" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1 Gay 5 Queens" (2013)', '', '', '', '', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"10 sposobov" (2013)', '', '', '', '', 'Kyiv, Ukraine']	50.4500336	30.5241361
+['"100 Days of Summer" (2013)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"100 Latinos Dijeron" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"101 Ways to Get Rejected" (2013)', '', '', 'Palos Verdes High School, California, USA']	33.779510450000004	-118.41956444289858
+['"112 Aina" (2013)', '', '', '', '', '�kersberga, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"15th FINA World Championships Barcelona 2013" (2013)', 'Passeig Ol�mpic, 5-7 08038 Barcelona']	41.3828939	2.1774322
+['"16 Kids and Counting" (2013)', '', '', '', 'Morecambe, Lancashire, England, UK']	54.0703282	-2.8685482
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Berlin}', 'Berlin, Germany']	52.5170365	13.3888599
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Bremen}', 'Bremen, Germany']	53.0758196	8.8071646
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Hamburg}', 'Hamburg, Germany']	53.5437641	10.0099133
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Niedersachsen}', 'Walsrode, Lower Saxony, Germany']	52.8625395	9.5883023
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Nordrhein-Westfalen}', 'Cologne, North Rhine-Westphalia, Germany']	50.938361	6.959974
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Saarland}', 'Leidingen, Wallerfangen, Saarland, Germany']	49.3086764	6.6109318
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Sachsen-Anhalt}', 'Quedlinburg, Saxony-Anhalt, Germany']	51.7855428	11.1519933
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Sachsen}', 'Freiberg, Saxony, Germany']	50.9169415	13.3428889
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Schleswig-Holstein}', 'Dithmarschen, Schleswig-Holstein, Germany']	54.1331231	9.0799113
+['"16 x Deutschland - Menschen - Orte - Geschichten" (2013) {Th�ringen}', 'Weimar, Thuringia, Germany']	50.9802813	11.3290855
+['"180 Days: A Year Inside an American High School" (2013)', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"1863" (2013)', '', '', '', '', '', 'Fairmont, West Virginia, USA']	39.4850848	-80.1425781
+['"1863" (2013) {Couple O\' Copperheads (#1.2)}', '', 'Fairmont, West Virginia, USA']	39.4850848	-80.1425781
+['"1863" (2013) {Nothing Ever Happens Here (#1.1)}', 'Fairmont, West Virginia, USA']	39.4850848	-80.1425781
+['"1916 Seachtar Dearmadta" (2013)', '', '', 'Kilmainham Jail, Dublin, County Dublin, Ireland']	53.34174585	-6.309578660652412
+['"1916 Seachtar Dearmadta" (2013)', '', '', 'Galway, Ireland']	53.2744122	-9.0490632
+['"1984" (2013)', '', '', '', '', '', 'Canberra, Australian Capital Territory, Australia']	-35.2975906	149.1012676
+['"2 Guys and a Couch" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2 Hopeful Spinsters" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"2 for Flinching" (2013) {The Massage (#1.5)}', '', 'Valley Village, Los Angeles, California, USA']	34.1637147	-118.3965758
+['"2 x 2" (2013)', '', '', '', '', '', 'Nador, Morocco']	35.05191845	-2.8243993770574187
+['"20 Dakika" (2013)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.1)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.10)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.2)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.3)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.4)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.5)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.6)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.7)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.8)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2012 Aussie Millions Poker Championship" (2013) {(#1.9)}', 'Melbourne, Australia']	-37.8142176	144.9631608
+['"2013 Aussie Millions Poker Championship" (2013)', 'Crown Casino, Melbourne, Victoria, Australia']	-37.82333165	144.95828477249484
+['"2013 ECAC Women\'s Hockey Championship" (2013)', '', 'Ithaca, New York, USA']	42.4396039	-76.4968019
+['"2013 Stanley Cup Finals" (2013)', '', '', 'TD Banknorth Garden - 100 Legends Way, Boston, Suffolk, Massachusetts, USA']	42.3544455	-70.9788771
+['"2013 Stanley Cup Finals" (2013)', '', '', 'United Center - 1901 W. Madison Street, Near West Side, Chicago, Illinois, USA']	41.88068305	-87.67418510441388
+['"2013 Stanley Cup Finals" (2013) {Game 1: Boston Bruins at Chicago Blackhawks (#1.1)}', 'United Center - 1901 W. Madison Street, Near West Side, Chicago, Illinois, USA']	41.88068305	-87.67418510441388
+['"2013 Stanley Cup Finals" (2013) {Game 2: Boston Bruins at Chicago Blackhawks (#1.2)}', 'United Center - 1901 W. Madison Street, Near West Side, Chicago, Illinois, USA']	41.88068305	-87.67418510441388
+['"2013 Stanley Cup Finals" (2013) {Game 3: Chicago Blackhawks at Boston Bruins (#1.3)}', 'TD Banknorth Garden - 100 Legends Way, Boston, Suffolk, Massachusetts, USA']	42.3544455	-70.9788771
+['"2013 Stanley Cup Finals" (2013) {Game 4: Chicago Blackhawks at Boston Bruins (#1.4)}', 'TD Banknorth Garden - 100 Legends Way, Boston, Suffolk, Massachusetts, USA']	42.3544455	-70.9788771
+['"2013 Stanley Cup Finals" (2013) {Game 5: Boston Bruins at Chicago Blackhawks (#1.5)}', 'United Center - 1901 W. Madison Street, Near West Side, Chicago, Illinois, USA']	41.88068305	-87.67418510441388
+['"2013 Stanley Cup Finals" (2013) {Game 6: Chicago Blackhawks at Boston Bruins (#1.6)}', 'TD Banknorth Garden - 100 Legends Way, Boston, Suffolk, Massachusetts, USA']	39.7837304	-100.4458825
+['"2013 WSOP Asia Pacific" (2013)', '', '', '', 'Crown Casino, Melbourne, Victoria, Australia']	-37.82333165	144.95828477249484
+['"2013 World Series" (2013)', '', '', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2013 World Series" (2013)', '', '', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2013 World Series" (2013) {Game 1 (#1.1)}', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2013 World Series" (2013) {Game 2 (#1.2)}', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2013 World Series" (2013) {Game 3 (#1.3)}', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2013 World Series" (2013) {Game 4 (#1.4)}', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2013 World Series" (2013) {Game 5 (#1.5)}', '', 'Busch Stadium - 700 Clark Street, St, Louis, Missouri, USA']	38.6268039	-90.1994097
+['"2013 World Series" (2013) {Game 6 (#1.6)}', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"2014" (2013)', '', '', '', '', '', 'Glasgow, Scotland, UK']	55.8609825	-4.2488787
+['"2020" (2013)', '', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"2020" (2013)', '', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"21 Icons" (2013)', '', '', '', '', 'South Africa']	-28.8166236	24.991639
+['"22 Minutes Update" (2013)', '', '', '', 'Halifax, Nova Scotia, Canada']	44.648618	-63.5859487
+['"221B" (2013/I)', '', '', '', '', '', 'Ontario, Canada']	50.000678	-86.000977
+['"221B" (2013/II)', '', '', '', '', 'Ontario, Canada']	50.000678	-86.000977
+['"24/604" (2013)', '', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"24/604" (2013) {Authentic Van (#2.2)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"24/604" (2013) {Summer of 604 (#1.7)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"24/604" (2013) {Vancity Culture (#2.1)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"24/604" (2013) {Vancity Erotica (#1.8)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"24CH: la s�rie" (2013)', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"24CH: la s�rie" (2013)', '', '', '', '', 'Washington, Maryland, USA']	39.5893502	-77.710254
+['"2XL" (2013)', '', '', '', '', '', 'Poland']	52.215933	19.134422
+['"2nd Avenue" (2013)', '', '', '', '', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"30 Days to Popular" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"30,000 to One" (2013)', '', '', '', '', 'Jersey City, New Jersey, USA']	40.7281575	-74.0776417
+['"31 Days of Horror" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"444" (2013)', '', '', '', '', '', 'Kenner, Louisiana, USA']	29.9942265	-90.2417806
+['"444" (2013)', '', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"444" (2013)', '', '', '', '', '', 'Jackson, Mississippi, USA']	32.2990384	-90.1847691
+['"4Shorts" (2013) {Die Vier-Peinlichkeit (#1.9)}', '', 'Berlin, Germany']	51.0834196	10.4234469
+['"50 Shades of Girls" (2013)', '', '', '', 'Sherman Oaks, Los Angeles, California, USA']	34.1508718	-118.4489865
+['"50 Ways to Leave Your Lover" (2013)', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"5th Annual British Exopolitics Expo" (2013)', '', 'University of Huddersfield, Huddersfield, West Yorkshire, England, UK']	53.741427099999996	-1.7202003766777243
+['"604NomNom" (2013)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"7 Deadly Sins: The Webseries" (2013)', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"8-Bit Animal Playhouse with Jason Mewes" (2013)', 'Kappa Studios, Burbank, California, USA']	34.1816482	-118.3258554
+['"80/20" (2013)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"911 Can I Shoot Him" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Crime to Remember" (2013) {38 Witnesses (#2.1)}', 'Kew Gardens, Queens, New York City, New York, USA']	40.7139415	-73.830742
+['"A Dominican Hitman" (2013)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A French Guy Named Saba" (2013)', '', '', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {20 Ans - Zazie (Version Anglaise) - Cover by FrenchSABA ep 79 (#5.18)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {20 Ans - Zazie (Version Anglaise) - Cover by FrenchSABA ep 79 (#5.18)}', 'Pocono, Pennsylvania, USA']	41.0745991	-75.7119211
+['"A French Guy Named Saba" (2013) {AT LAST - Etta James - Cover by FrenchSABA Ep 69 (#5.8)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Adele - Send My Love (To Your New Lover) - Cover by FrenchSABA ep 78 (#5.17)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Avec Le Temps - Leo Ferre - Cover by SABA Ep 40 (#3.11)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {BANG BANG - Jessie J (Acoustic) - Cover by FrenchSABA Ep 70 (#5.9)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {BJORK - Bachelorette - Male Version - Cover by FrenchSABA Ep 62 (#5.1)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Battez-Vous: BRIGITTE - Cover by FrenchSABA Ep 74 (#5.13)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Beds Are Burning - Midnight Oil - Cover by FrenchSABA Ep 55 (#4.15)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Bird Set Free - Sia - Cover in French by FrenchSABA Ep 51 (#4.11)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Chain of Fools - Aretha Franklin Parody (#1.18)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Dead in the Water - Cover - Ellie Goulding (#2.1)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Dead in the Water - Cover - Ellie Goulding (#2.1)}', 'Niagara Falls, Ontario, Canada']	43.100983	-79.115295
+['"A French Guy Named Saba" (2013) {Diamonds - Rihanna - Male COVER - FrenchSABA Ep 34 (#3.5)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Diavolo In Me: Zucchero (#1.5)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Diavolo In Me: Zucchero (#1.5)}', 'Rome, Italy']	41.8933203	12.4829321
+['"A French Guy Named Saba" (2013) {Diavolo In Me: Zucchero (#1.5)}', 'Florence, Tuscany, Italy']	43.7698712	11.2555757
+['"A French Guy Named Saba" (2013) {Diavolo In Me: Zucchero (#1.5)}', 'Antibes, Alpes-Maritimes, France']	43.5836	7.10905
+['"A French Guy Named Saba" (2013) {Diavolo In Me: Zucchero (#1.5)}', 'Nice, Alpes-Maritimes, France']	43.7009358	7.2683912
+['"A French Guy Named Saba" (2013) {Don\'t Go - Yazoo - Cover by FrenchSABA Ep 43 (#4.3)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Don\'t Go Breaking My Heart - RuPaul & Elton John - Parody/Cover FrenchSaba Ep 23 (#2.3)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Elastic Heart - Sia - Cover by FrenchSABA Ep 45 (#4.5)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Ellie Goulding - Dead In The Water - Cover by FrenchSABA ep 80 (#5.19)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Ellie Goulding - Dead In The Water - Cover by FrenchSABA ep 80 (#5.19)}', 'Washington Crossing, Pennsylvania, USA']	40.2934408	-74.8704424
+['"A French Guy Named Saba" (2013) {Encore Et Encore - Francis Cabrel - Cover by FrenchSABA Ep 58 (#4.18)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Enjoy The Silence - Depeche Mode - Cover by FrenchSABA ep 77 (#5.16)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Et Maintenant - What Now My Love - Cover by FrenchSABA Ep 38 (#3.9)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Everybody Hurts - R.E.M - Cover by FrenchSABA Ep 37 (#3.8)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Everybody Hurts - R.E.M - Cover by FrenchSABA Ep 37 (#3.8)}', 'Pennington, New Jersey, USA']	40.3284403	-74.790718
+['"A French Guy Named Saba" (2013) {FEVER- Peggy Lee - Elvis Presley - Cover - Beyonce - FrenchSABA Ep 32 (#3.3)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Family Guy: Happy Birthday Seth MacFarlane - Never Gonna Give You Up (#1.6)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A French Guy Named Saba" (2013) {Family Guy: Happy Birthday Seth MacFarlane - Never Gonna Give You Up (#1.6)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Family Guy: Happy Birthday Seth MacFarlane - Never Gonna Give You Up (#1.6)}', 'Niagara Falls, Ontario, Canada']	43.100983	-79.115295
+['"A French Guy Named Saba" (2013) {Family Guy: Happy Birthday Seth MacFarlane - Never Gonna Give You Up (#1.6)}', 'Nice, Alpes-Maritimes, France']	43.7009358	7.2683912
+['"A French Guy Named Saba" (2013) {Feeling Good - Nina Simone - Male Cover by FrenchSABA Ep 65 (#5.4)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Francis Cabrel - Je l\'aime a mourir - Cover - FrenchSABA Ep 36 (#3.7)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {FrenchSABA Ep 14 - Firenze - Single Ladies - Beyonce (#1.14)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {FrenchSABA Ep 14 - Firenze - Single Ladies - Beyonce (#1.14)}', 'Florence, Tuscany, Italy']	43.7698712	11.2555757
+['"A French Guy Named Saba" (2013) {HOLIDAY - MADONNA - Cover by FrenchSABA Ep 56 (#4.16)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Happy - Pharrell Williams - Tribute/Cover/Parody ELLEN FrenchSABA Ep 25 (#2.5)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Happy - Pharrell Williams - Tribute/Cover/Parody ELLEN FrenchSABA Ep 25 (#2.5)}', 'Nimes, France']	46.603354	1.8883335
+['"A French Guy Named Saba" (2013) {Happy - Pharrell Williams - Tribute/Cover/Parody ELLEN FrenchSABA Ep 25 (#2.5)}', 'Le Vigan, France']	43.9912933	3.6059407
+['"A French Guy Named Saba" (2013) {Hello Adele (in French) Cover by FrenchSABA Ep 46 (#4.6)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Help - The Beatles - Cover/Parody/Tribute FrenchSABA Ep 24 (#2.4)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {His Eye Is on the Sparrow - Lauren Hill & Tanya Blount - Cover by FrenchSABA Ep 60 (#4.20)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {I Dreamed A Dream: Les Mis�rables (#1.3)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {I Put a Spell on You - Nina Simone - Annie Lennox - Cover FrenchSABA Ep 49 (#4.9)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {INXS - Need You Tonight - Cover by FrenchSABA Ep 71 (#5.10)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {It\'s Oh So Quiet (#1.2)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Je suis malade - DALIDA, Serge Lama, Lara Fabian - PARODY (#1.19)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Julien Dor� - Coco Cal�ne - Version Anglaise - Cover by FrenchSABA ep 72 (#5.11)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {KISS - Prince - COVER - 2 Voices - FrenchSABA Ep 33 (#3.4)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Kavinsky - Nightcall (Original DRIVE Soundtrack) - Cover by FrenchSABA Ep 73 (#5.12)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {L\'Aigle Noir - Barbara - cover by Saba - FrenchSABA ep 31 (#3.2)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {La Foule - Edith Piaf - Cover by French SABA - Ep 44 (#4.4)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {La Valse A Mille Temps - Jacques Brel (#1.15)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {La Valse A Mille Temps - Jacques Brel (#1.15)}', 'Florence, Tuscany, Italy']	43.7698712	11.2555757
+['"A French Guy Named Saba" (2013) {Lana Del Rey - Gods and Monsters - Cover by FrenchSABA Ep 76 (#5.15)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {MAS QUE NADA - Sergio Mendes - Cover by FrenchSABA Ep 54 (#4.14)}', 'Asbury Park, New Jersey, USA']	40.2203907	-74.0120817
+['"A French Guy Named Saba" (2013) {MAS QUE NADA - Sergio Mendes - Cover by FrenchSABA Ep 54 (#4.14)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Maybe This Time - Liza Minnelli - Seneca\'s Beard FrenchSaba Ep 16 (#1.16)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Mustang Sally - The Commitments - Wilson Picket Cover by FrenchSABA Ep 47 (#4.7)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Ne Me Quitte Pas - Jacques Brel - Cover - FrenchSABA Ep 42 (#4.2)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Nine Inch Nails - Johnny Cash - HURT - Cover by FrenchSABA Ep 75 (#5.14)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Oh Happy Day - Gospel - Edwin Hawkins Singers - Cover by FrenchSABA Ep 61 (#4.21)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Only the Very Best - Peter Kingsbery - Tribute Cover - FrenchSABA Ep 28 (#2.8)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Price Tag - Jessie J - Male Cover by FrenchSABA Ep 64 (#5.3)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Proud Mary: Ike and Tina Turner (#1.4)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Quizas Quizas Quizas - Nat King Cole - Cover by FrenchSABA Ep 66 (#5.5)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Resiste - France Gall - Cover by FrenchSABA Ep 48 (#4.8)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {SOS d\'un terrien en detresse - Daniel Balavoine - Tribute Cover - FrenchSABA Ep 29 (#2.9)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Should I Stay or Should I Go - The CLASH - Cover by FrenchSABA Ep 67 (#5.6)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Sia - Salted Wound (From The" Fifty Shades of Grey" Soundtrack) Cover FrenchSABA Ep 63 (#5.2)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Sia Chandelier - Male Version - Cover Dance - FrenchSABA Ep 26 (#2.6)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Someone Like You - Cover/Parody - Adele - FrenchSaba Ep 20 (#1.20)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Sweet Dreams (Are Made of This) - Eurythmics - Cover by FrenchSABA Ep 68 (#5.7)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {The Cure - LULLABY - Cover - FrenchSABA Ep 35 (#3.6)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {The Origin Of Love: HEDWIG and the Angry Inch - Cover/Tribute (#2.2)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {The Origin Of Love: HEDWIG and the Angry Inch - Cover/Tribute (#2.2)}', 'Nice, Alpes-Maritimes, France']	43.7009358	7.2683912
+['"A French Guy Named Saba" (2013) {Time After Time - Cyndi Lauper - Cover by FrenchSABA Ep 41 (#4.1)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Tous Les Cris Des SOS - (En Anglais) - Balavoine - Cover by FrenchSABA Ep 52 (#4.12)}', 'Asbury Park, New Jersey, USA']	40.2203907	-74.0120817
+['"A French Guy Named Saba" (2013) {Tous les garcons et les filles - Francoise Hardy (Version Anglaise) Cover by FrenchSABA ep 81 (#5.20)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {True Colors - Cyndi Lauper (In French) - Cover by FrenchSABA Ep 53 (#4.13)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Try a Little Tenderness - Otis Redding - The Commitments - COVER FrenchSABA Ep 30 (#3.1)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Under Pressure - Freddie Mercury & David Bowie - COVER FrenchSABA Ep 39 (#3.10)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Une Nuit Sur Son Epaule - Veronique Sanson - Cover by FrenchSABA Ep 50 (#4.10)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Vogue - Madonna - The Matrix (#1.11)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Wanted, Dead or Alive - Bon Jovi - Cover by FrenchSABA Ep 59 (#4.19)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Wind Beneath My Wings - Bette Midler - Oscars Ellen 2014 - Ep 17 (#1.17)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A French Guy Named Saba" (2013) {Wind Beneath My Wings - Bette Midler - Oscars Ellen 2014 - Ep 17 (#1.17)}', 'Antibes, Alpes-Maritimes, France']	43.5836	7.10905
+['"A French Guy Named Saba" (2013) {Wind Beneath My Wings - Bette Midler - Oscars Ellen 2014 - Ep 17 (#1.17)}', 'The Bahamas']	24.7736546	-78.0000547
+['"A French Guy Named Saba" (2013) {With or Without You - U2 - Cover by FrenchSABA Ep 57 (#4.17)}', 'Trenton, New Jersey, USA']	40.2170575	-74.7429463
+['"A Kinda Sketchy Show" (2013)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"A Laughing Matter" (2013)', '', '', '', 'Adelaide, South Australia, Australia']	-34.9281805	138.5999312
+['"A Minority Report" (2013)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Minority Report" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A New York Love Affair" (2013)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Place to Call Home" (2013)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Place to Call Home" (2013)', '', '', '', 'ATN-7 Studios - 8 Central Avenue, Eveleigh, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Place to Call Home" (2013)', '', '', '', 'Camden, New South Wales, Australia']	-33.9564378	150.873908
+['"A Stranger in My Home" (2013) {Master Manipulators (#3.9)}', 'MONTR�AL, Qu�bec, Canada']	61.0666922	-107.9917071
+['"A Taste of the World" (2013)', '', '', '', 'India']	22.3511148	78.6677428
+['"A Taste of the World" (2013)', '', '', '', 'Kenya']	1.4419683	38.4313975
+['"A Very British Murder with Lucy Worsley" (2013)', 'England, UK']	54.7023545	-3.2765753
+['"A Very British Murder with Lucy Worsley" (2013) {Detection Most Ingenious (#1.2)}', 'England, UK']	54.7023545	-3.2765753
+['"A Very British Murder with Lucy Worsley" (2013) {The Golden Age (#1.3)}', 'England, UK']	54.7023545	-3.2765753
+['"A Very British Murder with Lucy Worsley" (2013) {The New Taste for Blood (#1.1)}', 'Kentwell Hall, Long Melford, Suffolk, England, UK']	52.0983652	0.7187206630442042
+['"A Very British Murder with Lucy Worsley" (2013) {The New Taste for Blood (#1.1)}', 'England, UK']	52.7954791	-0.5402402866174321
+['"A l\'�cole du th��tre" (2013)', '', '', '', "Conservatoire National Sup�rieur d'Art Dramatique, rue du Conservatoire, Paris 9, Paris, France"]	48.8566969	2.3514616
+['"A la recherche de Josephine" (2013)', '', '', 'France']	46.603354	1.8883335
+['"A la recherche de Josephine" (2013)', '', '', 'Italy']	42.6384261	12.674297
+['"A la recherche de Josephine" (2013)', '', '', 'Martinique']	14.6113732	-60.9620777
+['"A-Po de hsia ling ying" (2013)', '', '', '', 'Taipei City, Taiwan']	25.0375198	121.5636796
+['"A-Po de hsia ling ying" (2013)', '', '', '', 'Fenglin, Hualien, Taiwan']	23.744648	121.451687
+['"A.Lusitanicus" (2013)', '', '', '', '', 'Sintra, Lisbon, Portugal']	38.8355605	-9.352225245746453
+['"A.S.K." (2013)', '', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"AIB Honest Series" (2013)', '', '', '', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"AKB48 Show!" (2013) {AKB48 Fes 2016}', '', '', 'NHK Hall, 2-2-1 Jinnan, Shibuya-ku, Tokyo, Japan']	35.6645956	139.6987107
+['"AKB48 Show!" (2013) {Post-Sousenkyo: Live from Okinawa (#4.30)}', 'Okinawa, Japan']	36.5748441	139.2394179
+['"AZ Sports & Lifestyle TV" (2013)', '', '', 'Arizona, USA']	39.7837304	-100.4458825
+['"Aandacht Aub!" (2013)', '', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Abalone Wars" (2013)', '', '', '', '', 'Port Lincoln, South Australia, Australia']	-34.7287477	135.85645393128343
+['"Abierto al mediod�a" (2013)', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Abla and the City" (2013)', '', '', '', 'Cannes, Alpes-Maritimes, France']	43.5515198	7.0134418
+['"About: Kate" (2013)', '', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Abstract Underwraps" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Absurdistan" (2013)', '', '', '', '', 'Copenhagen, Denmark']	55.6867243	12.5700724
+['"Act Now, India" (2013)', '', '', '', '', 'Van Nuys, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Act-Anon" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Action Figure" (2013)', '', '', '', '', 'Taiwan']	23.9739374	120.9820179
+['"Actor\'s Spotlight" (2013)', '', '', '', 'Lexington, Kentucky, USA']	38.0464066	-84.4970393
+['"Actor\'s Spotlight" (2013) {(#1.3)}', '', '', 'Lexington, Kentucky, USA']	38.0464066	-84.4970393
+['"Actress" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {A Good Day to Direct Hard (#2.8)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Adam Killed a Man (#2.2)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Dregory (#1.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {Ex-Girlfriend (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {Flip Cup Twins (#2.9)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Foam Party (#1.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {Front Yard Comedy (#1.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {King Cake, Baby! (#2.1)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Lady Troopers (#1.7)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {Marriage Material (#2.7)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Neighbor Party (#1.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {Non-Stop Dance Party (#2.10)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Poboy (#2.4)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Potagooo (#2.6)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Space Jump II (#1.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {Stunt Audition (#1.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adam Devine\'s House Party" (2013) {The S�ance (#2.3)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {The Wolf of Bourbon Street (#2.5)}', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Adam Devine\'s House Party" (2013) {Wedding in Paradise (#3.1)}', "Turtle Bay Resort - 57-091 Kamehameha Highway, Kahuku, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Adarna" (2013)', '', '', '', '', '', 'Manila, Philippines']	14.5906216	120.9799696
+['"Addicts Anonymous" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Adini Kalbime Yazdim" (2013)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Adini Kalbime Yazdim" (2013)', '', '', '', 'Mardin, Turkey']	38.9597594	34.9249653
+['"Adopted" (2013)', '', '', '', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Adopted" (2013)', '', '', '', '', 'Granada Hills, Los Angeles, California, USA']	34.2661558	-118.5174342
+['"Adopted" (2013)', '', '', '', '', 'Downey, California, USA']	33.942215	-118.1235646
+['"Advent im Zoo-Kindergarten" (2013)', '', '', 'Zoo-Kindergarten, Magdeburg, Saxony-Anhalt, Germany']	52.1315889	11.6399609
+['"Adventures in Odyssey" (2013)', '', '', '', 'Hyderabad, Telangana, India']	17.38878595	78.46106473453146
+['"Adventures in Speed Dating" (2013)', '', '', 'Ferndale, Michigan, USA']	42.4605917	-83.1346478
+['"Advocate & Solicitor" (2013)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Morocco']	31.1728205	-7.3362482
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Mauritania']	20.2540382	-9.2399263
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Gambia']	13.470062	-15.4900464
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Guinea-Bissau']	12.100035	-14.9000214
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Liberia']	5.7499721	-9.3658524
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Ghana']	8.0300284	-1.0800271
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Nigeria']	9.6000359	7.9999721
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Cameroon']	4.6125522	13.1535811
+['"Africa Road Trip: Morocco - Angola" (2013)', '', 'Angola']	-11.8775768	17.5691241
+['"Africa\'s Next Top Model" (2013)', '', '', 'Cape Town, South Africa']	-33.928992	18.417396
+['"After Midnight" (2013)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"After School Club" (2013)', '', '', '', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"After School" (2013)', '', '', '', '', 'Singapore, Singapore']	1.357107	103.8194992
+['"Agents of S.H.I.E.L.D." (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agents of S.H.I.E.L.D." (2013) {(#5.12)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agents of S.H.I.E.L.D." (2013) {A Hen in the Wolf House (#2.5)}', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"Agents of S.H.I.E.L.D." (2013) {A Hen in the Wolf House (#2.5)}', 'Biltmore Hotel - 506 S. Grand Avenue, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agents of S.H.I.E.L.D." (2013) {A Hen in the Wolf House (#2.5)}', 'James Oviatt building - 617 Olive Street, Downtown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Agents of S.H.I.E.L.D." (2013) {Among Us Hide... (#3.6)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agents of S.H.I.E.L.D." (2013) {Bouncing Back (#3.11)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agents of S.H.I.E.L.D." (2013) {Emancipation (#3.20)}', 'Hawthorne Plaza - 12124 Hawthorne Blvd., Hawthorne, California, USA']	33.91967925	-118.35166192995533
+['"Agents of S.H.I.E.L.D." (2013) {Face My Enemy (#2.4)}', 'Bluff Place, Long Beach, California, USA']	33.7101034	-118.286687
+['"Agents of S.H.I.E.L.D." (2013) {Failed Experiments (#3.19)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agents of S.H.I.E.L.D." (2013) {Frenemy of My Enemy (#2.18)}', 'Parking Garage, 545 S. Main Street, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agents of S.H.I.E.L.D." (2013) {Heavy Is the Head (#2.2)}', 'Halfway House Cafe - 15564 Sierra Highway, Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agents of S.H.I.E.L.D." (2013) {Identity and Change (#4.17)}', 'Los Angeles County Arboretum & Botanic Garden - 301 N. Baldwin Avenue, Arcadia, California, USA']	34.1362075	-118.0401497
+['"Agents of S.H.I.E.L.D." (2013) {Making Friends and Influencing People (#2.3)}', 'Miner Street, Port of Los Angeles, California, USA']	33.742765899999995	-118.26144046191327
+['"Agents of S.H.I.E.L.D." (2013) {Making Friends and Influencing People (#2.3)}', 'S.S. Lane Victory, Pier 94, San Pedro, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Agents of S.H.I.E.L.D." (2013) {Making Friends and Influencing People (#2.3)}', 'LA Center Studios, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agents of S.H.I.E.L.D." (2013) {Melinda (#2.17)}', 'Blue Cloud Movie Ranch - 20000 Blue Cloud Road, Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agents of S.H.I.E.L.D." (2013) {Paradise Lost (#3.16)}', '380 South San Rafael Avenue, Pasadena, California, USA']	34.1476452	-118.1444779
+['"Agents of S.H.I.E.L.D." (2013) {Pilot (#1.1)}', '', 'Union Station - 800 N. Alameda Street, Downtown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agents of S.H.I.E.L.D." (2013) {Pilot (#1.1)}', '', 'Paris, France']	48.8566969	2.3514616
+['"Agents of S.H.I.E.L.D." (2013) {Rewind (#5.5)}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agents of S.H.I.E.L.D." (2013) {Seeds (#1.12)}', '', '500 block of Broadway, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Agents of S.H.I.E.L.D." (2013) {T.R.A.C.K.S. (#1.13)}', 'Fillmore & Western Railroad, Fillmore, California, USA']	34.38395800000001	-118.93659550000001
+['"Agents of S.H.I.E.L.D." (2013) {The Asset (#1.3)}', 'Malta, Republic of Malta']	35.8885993	14.4476911
+['"Agents of S.H.I.E.L.D." (2013) {The Bridge (#1.10)}', 'Queensway Bridge, Long Beach, California, USA']	33.7690164	-118.1916048
+['"Agents of S.H.I.E.L.D." (2013) {The Well (#1.8)}', 'Old Royal Naval College, Greenwich, London, England, UK']	51.4829661	-0.006257671681354558
+['"Agents of S.H.I.E.L.D." (2013) {The Well (#1.8)}', "Queen's House, Greenwich, London, England, UK"]	51.4811347	-0.003721581249998089
+['"Agents of S.H.I.E.L.D." (2013) {The Writing on the Wall (#2.7)}', 'Backstage Bar & Grill, 10400 Culver Blvd, Culver City, California, USA']	34.016273999999996	-118.40014301329602
+['"Agents of S.H.I.E.L.D." (2013) {What They Become (#2.10)}', 'Castillo de San Crist�bal, San Juan, Puerto Rico']	18.22141715	-66.4132818505648
+['"Agents of S.H.I.E.L.D." (2013) {World\'s End (#4.22)}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Agents of S.H.I.E.L.D." (2013) {Ye Who Enter Here (#2.9)}', 'Castillo de San Crist�bal, San Juan, Puerto Rico']	18.22141715	-66.4132818505648
+['"Aim� malgr� lui" (2013)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Aim� malgr� lui" (2013)', '', '', '', 'Paris, France']	48.8566969	2.3514616
+['"Air Force One Is Down" (2013)', '', '', '', 'Luxembourg']	49.8158683	6.1296751
+['"Air Force One Is Down" (2013)', '', '', '', 'Italy']	42.6384261	12.674297
+['"Air Force One Is Down" (2013)', '', '', '', 'France']	46.603354	1.8883335
+['"Air Force One Is Down" (2013)', '', '', '', 'UK']	54.7023545	-3.2765753
+['"Air Force One Is Down" (2013) {(#1.1)}', '', '', 'UK']	54.7023545	-3.2765753
+['"Air Force One Is Down" (2013) {(#1.1)}', '', '', 'France']	46.603354	1.8883335
+['"Air Force One Is Down" (2013) {(#1.1)}', '', '', 'Italy']	42.6384261	12.674297
+['"Air Force One Is Down" (2013) {(#1.1)}', '', '', 'Luxembourg']	49.8158683	6.1296751
+['"Air Force One Is Down" (2013) {(#1.2)}', '', '', 'Langley, Buckinghamshire, England, UK']	51.75	-0.75
+['"Air Force One Is Down" (2013) {(#1.2)}', '', '', 'Luxembourg']	49.8158683	6.1296751
+['"Air Force One Is Down" (2013) {(#1.2)}', '', '', 'Italy']	42.6384261	12.674297
+['"Air Force One Is Down" (2013) {(#1.2)}', '', '', 'France']	46.603354	1.8883335
+['"Air Force One Is Down" (2013) {(#1.2)}', '', '', 'UK']	54.7023545	-3.2765753
+['"Airship Daedalus Radio Adventures" (2013)', '', 'Youngstown Cultural Arts Center, Seattle, Washington, USA']	47.5635813	-122.3630408734515
+['"Akin pa rin ang bukas" (2013)', '', '', '', 'Tagaytay City, Cavite, Philippines']	14.2999631	120.9577667
+['"Al Bed & Breakfast" (2013)', '', '', '', 'San Miniato, Pisa, Tuscany, Italy']	43.6804055	10.8479035
+['"Alaskan Steel Men" (2013)', '', '', '', 'Kodiak, Alaska, USA']	57.79	-152.4072222
+['"Albert II" (2013)', '', '', '', '', 'Brussels, Belgium']	50.8436709	4.3674366933879565
+['"Albert II" (2013)', '', '', '', '', 'Motril, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Alfred Brehm - Die Gef�hle der Tiere" (2013)', '', 'Hamburg, Germany']	53.5437641	10.0099133
+['"Alfred Brehm - Die Gef�hle der Tiere" (2013)', '', 'Thuringia, Germany']	50.7333163	11.0747905
+['"Aliados" (2013)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alias Caracalla, au coeur de la R�sistance" (2013)', 'Lyon, Rh�ne, Rh�ne-Alpes, France']	46.603354	1.8883335
+['"Alien Dawn" (2013)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Beware of Falling Rocks (#1.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Dawn of Time (#1.17)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Eclipse (#1.8)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Eternal Sunshine of Boris\' Mind (#1.19)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Genesis Part I (#1.1)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Genesis Part II (#1.2)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {I, Pierce (#1.22)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Lucy (#1.10)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Memories of a Hero (#1.11)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Olivine House (#1.7)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Origins, Part 2 (#1.25)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Origins, Part I (#1.24)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Reunion (#1.20)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Super-Cam (#1.18)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Comic Convention (#1.21)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Compound, Part 1 (#1.12)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Compound, Part 2 (#1.13)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Good, the Bad and the Piper}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Good, the Bad and the Tall Man (#1.15)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Heiress (#1.23)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Phoenix Project (#1.16)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The School Has Eyes (#1.3)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Secret Society (#1.6)}', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Trial (#1.14)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {The Video (#1.9)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Dawn" (2013) {Tunnels (#1.5)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Alien Encounters" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alien Encounters" (2013) {Pilot: Whitley Strieber/Audrey Hewins (#1.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alien Hunters" (2013)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alien Mysteries" (2013)', '', '', '', 'Stephenville, Texas, USA']	32.2191836	-98.2130634
+['"Alien Mysteries" (2013)', '', '', '', 'Bucks County, Pennsylvania, USA']	40.3451668	-75.1263909
+['"Alien Mysteries" (2013)', '', '', '', 'Fraser Valley, British Columbia, Canada']	49.5723178	-121.8758984
+['"Alien Mysteries" (2013)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Aliens: The Definitive Guide" (2013) {How to Prepare (#1.2)}', 'Johnson Space Center - 2101 NASA Rd., Houston, Texas, USA']	29.7589382	-95.3676974
+['"All American Doctor Who" (2013)', '', '', 'Dundee, Scotland, UK']	56.4605938	-2.97019
+['"All Creatures Great and Small" (2013)', '', '', 'Fredericksburg, Virginia, USA']	38.3031837	-77.4605399
+['"All Creatures Great and Small" (2013)', '', '', 'Stafford, Virginia, USA']	38.4167265	-77.4579783
+['"All Creatures Great and Small" (2013)', '', '', 'Spotsylvania, Virginia, USA']	38.1880936	-77.6741751
+['"All Creatures Great and Small" (2013) {All About Dogs (#1.2)}', 'Dog Krazy 307 William St, Fredericksburg, Virginia, USA']	38.3031837	-77.4605399
+['"All Creatures Great and Small" (2013) {Raptors (#1.1)}', 'Fredericksburg, Virginia, USA']	38.3031837	-77.4605399
+['"All My Children" (2013)', '', '', '', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"All Night with Tim Sto" (2013)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"All Our Relations" (2013)', '', '', '', 'Rama First Nation, Ontario, Canada']	44.6489331	-79.3508094
+['"All Our Relations" (2013)', '', '', '', 'Port Carling, Ontario, Canada']	45.1172226	-79.5761518
+['"All Our Relations" (2013)', '', '', '', 'Six Nations Reserve, Ontario, Canada']	61.0666922	-107.9917071
+['"All Our Relations" (2013)', '', '', '', 'Kainai, Blood First Nation, Alberta, Canada']	61.0666922	-107.9917071
+['"All Our Relations" (2013)', '', '', '', 'Perth, Ontario, Canada']	43.4935991	-81.0164111
+['"All Our Relations" (2013)', '', '', '', 'Batoche, Saskatchewan, Canada']	52.7560096	-106.1179376
+['"All Our Relations" (2013)', '', '', '', 'Prince Albert, Saskatchewan, Canada']	53.215668550000004	-105.7146262095826
+['"All Our Relations" (2013)', '', '', '', 'Winnipeg, Manitoba, Canada']	49.8955367	-97.1384584
+['"All Our Relations" (2013)', '', '', '', 'Calgary, Alberta, Canada']	51.0534234	-114.0625892
+['"All Our Yesterdays: Past Is Prologue" (2013)', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"All at Sea" (2013)', '', '', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013)', '', '', '', '', '27 The Firs, Bowdon, Altrincham, Cheshire, England, UK']	53.2141028	-2.471770086071205
+['"All at Sea" (2013)', '', '', '', '', '8 Vernon St, Stockport, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"All at Sea" (2013) {Baby (#2.3)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Baby (#2.3)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Beast (#2.10)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"All at Sea" (2013) {Beast (#2.10)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Chicken (#2.2)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Chicken (#2.2)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Dummy (#2.7)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"All at Sea" (2013) {Dummy (#2.7)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Gumball (#2.8)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Gumball (#2.8)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Halloween (#2.6)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"All at Sea" (2013) {Halloween (#2.6)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Horror (#2.9)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Horror (#2.9)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"All at Sea" (2013) {Pride (#2.5)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Pride (#2.5)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Santa (#2.13)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Santa (#2.13)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"All at Sea" (2013) {Statues (#2.4)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Statues (#2.4)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Valentine (#2.1)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Valentine (#2.1)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.50652485	-2.3374401422576687
+['"All at Sea" (2013) {Wreath (#2.12)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.2820009	-0.4011868
+['"All at Sea" (2013) {Wreath (#2.12)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All at Sea" (2013) {Wrestler (#2.11)}', '', '', 'Scarborough, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"All at Sea" (2013) {Wrestler (#2.11)}', '', '', 'Manchester, Greater Manchester, England, UK']	53.4794892	-2.2451148
+['"All for One" (2013)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"All-Star Orchestra" (2013)', '', '', '', 'Manhattan Center - 311 West 34th Street, Manhattan, New York City, New York, USA']	40.7527232	-73.9942655
+['"Allen, Texas History: According to Flula" (2013)', 'Allen, Texas, USA']	33.1031744	-96.6705503
+['"Allt faller" (2013) {(#1.10)}', '', '', '', 'Bergshamra kyrka, Solna, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Almost Home" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Almost Human" (2013)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013)', '', '', '', '', 'Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"Almost Human" (2013) {Are You Receiving? (#1.3)}', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Arrhythmia (#1.6)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Beholder (#1.12)}', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Almost Human" (2013) {Blood Brothers (#1.5)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Disrupt (#1.11)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Perception (#1.10)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Pilot (#1.1)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Simon Says (#1.7)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Skin (#1.2)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Straw Man (#1.13)}', '', 'Weston Hotel & Monorail, Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Almost Human" (2013) {The Bends (#1.4)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {Unbound (#1.9)}', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Almost Human" (2013) {You Are Here (#1.8)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Alone with Mallone" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Always Night" (2013) {12-12-12 (#1.1)}', '', '', 'Venice, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Always Summer" (2013)', '', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Amachan" (2013)', '', '', '', '', 'Kuji, Iwate, Japan']	40.1904323	141.7756812
+['"Amantres" (2013) {Amantres en el mar: M�naco (#1.25)}', 'Monaco']	43.7323492	7.4276832
+['"Amantres" (2013) {Amantres en el mar: N�poles (#1.22)}', 'Naples, Italia']	40.8359336	14.2487826
+['"Amantres" (2013) {Amantres en el mar: Roma (#1.23)}', 'Rome, Italy']	41.8933203	12.4829321
+['"Amantres" (2013) {Amantres en el mar: T�nez (#1.21)}', 'Tunisia']	33.8439408	9.400138
+['"Amantres" (2013) {Amantres llega a Florencia (#1.24)}', 'Florence, Italy']	43.7698712	11.2555757
+['"Amantres" (2013) {Anal Con Miyuki Son (#1.28)}', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Amantres" (2013) {Aris Dark Fetish (#1.30)}', '', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Amantres" (2013) {Con Noemilk (#1.29)}', '', '', 'Blanes, Girona, Catalonia, Spain']	41.6756178	2.7932391
+['"Amantres" (2013) {Con Noemilk (#1.29)}', '', '', 'Lloret de Mar, Girona, Catalonia, Spain']	41.6973503	2.8392392
+['"Amantres" (2013) {En la caravana con Zazel Paradise (#1.18)}', 'Banyoles, Girona, Catalonia, Spain']	42.1180477	2.7653607
+['"Amantres" (2013) {La caravana del amor (#1.14)}', 'Blanes, Girona, Catalonia, Spain']	41.6756178	2.7932391
+['"Amantres" (2013) {La caravana del amor II (#1.15)}', 'Girona, Catalonia, Spain']	41.9793006	2.8199439
+['"Amantres" (2013) {Lul� Pr�tel en Barcelona (#1.27)}', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Amantres" (2013) {Lul� Pr�tel en Murcia (#1.26)}', 'Murcia, Spain']	37.9923795	-1.1305431
+['"Amantres" (2013) {Tr�o con Aris y Lul� (#1.31)}', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Amantres" (2013) {Zazel Paradise en Barcelona (#1.19)}', 'Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Amber in the Shadows" (2013)', '', '', '', 'Orlando, Florida, USA']	28.5421109	-81.3790304
+['"Amber\'s Show" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"America\'s Next Top 20 Something" (2013)', '', 'Peekskill, New York, USA']	41.289811	-73.9204922
+['"America\'s Next Top 20 Something" (2013)', '', 'Somers, New York, USA']	41.3281498	-73.6856857
+['"America\'s Next Top 20 Something" (2013)', '', 'Yorktown Heights, New York, USA']	41.2695965	-73.77527040089426
+['"American Car Prospector" (2013)', '', '', 'Colorado, USA']	38.7251776	-105.6077167
+['"American Car Prospector" (2013)', '', '', 'Utah, USA']	39.7837304	-100.4458825
+['"American Civil War Years Part One" (2013)', '', 'Michigan, USA']	43.6211955	-84.6824346
+['"American Civil War Years Part Two" (2013)', '', 'Michigan, USA']	43.6211955	-84.6824346
+['"American Girl Trapped on a Telenovela" (2013)', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"American Psycho" (2013)', '', '', '', 'West Hills, Los Angeles, California, USA']	34.2032325	-118.645476
+['"American Puppet" (2013)', '', '', '', 'Echo Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'Louisiana, USA']	39.7837304	-100.4458825
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'Mississippi, USA']	39.7837304	-100.4458825
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'Oregon, USA']	39.7837304	-100.4458825
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'Idaho, USA']	39.7837304	-100.4458825
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'New Mexico, USA']	34.5708167	-105.993007
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'Utah, USA']	39.7837304	-100.4458825
+['"Amerikas Legend�re Strassen" (2013)', '', '', 'Nevada, USA']	39.7837304	-100.4458825
+['"Amerikas Westk�ste" (2013) {Nordkalifornien (#1.3)}', 'California, USA']	36.7014631	-118.7559974
+['"Amerikas Westk�ste" (2013) {Nordkalifornien (#1.3)}', 'Sausalito, California, USA']	37.8590272	-122.4854694
+['"Amerikas Westk�ste" (2013) {Nordkalifornien (#1.3)}', 'Redwood National Park, Crescent City, California, USA']	41.755948	-124.201747
+['"Amerikas Westk�ste" (2013) {Nordkalifornien (#1.3)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Amerikas Westk�ste" (2013) {Oregon (#1.2)}', '', 'Oregon, USA']	39.7837304	-100.4458825
+['"Amerikas Westk�ste" (2013) {Oregon (#1.2)}', '', 'Portland, Oregon, USA']	45.5202471	-122.6741949
+['"Amerikas Westk�ste" (2013) {Oregon (#1.2)}', '', 'Crater Lake, Crater Lake National Park, Oregon, USA']	42.931692	-122.12783655607095
+['"Amerikas Westk�ste" (2013) {S�dkalifornien (#1.5)}', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Amerikas Westk�ste" (2013) {S�dkalifornien (#1.5)}', 'Mojave Desert, California, USA']	35.1456319	-115.54896378664561
+['"Amerikas Westk�ste" (2013) {S�dkalifornien (#1.5)}', 'Santa Catalina Island, Channel Islands, California, USA']	34.1848815	-118.575941
+['"Amerikas Westk�ste" (2013) {S�dkalifornien (#1.5)}', 'Palm Springs, California, USA']	33.8246269	-116.540303
+['"Amerikas Westk�ste" (2013) {S�dkalifornien (#1.5)}', 'Huntington Beach, California, USA']	33.6783336	-118.0000166
+['"Amerikas Westk�ste" (2013) {Washington (#1.1)}', '', 'Washington, USA']	39.7837304	-100.4458825
+['"Amerikas Westk�ste" (2013) {Washington (#1.1)}', '', 'Olympic National Park, Washington, USA']	47.786532449999996	-123.53605033085455
+['"Amerikas Westk�ste" (2013) {Washington (#1.1)}', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Amerikas Westk�ste" (2013) {Washington (#1.1)}', '', 'Columbia River, Washington, USA']	48.1456511	-119.1512797
+['"Amerikas Westk�ste" (2013) {Washington (#1.1)}', '', 'Mount St. Helens, Mount St. Helens National Volcanic Monument, Washington, USA']	46.253666800000005	-122.18698664111825
+['"Amerikas Westk�ste" (2013) {Zentralkalifornien (#1.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Amerikas Westk�ste" (2013) {Zentralkalifornien (#1.4)}', 'Big Sur, California, USA']	36.270241	-121.8074545
+['"Amerikas Westk�ste" (2013) {Zentralkalifornien (#1.4)}', 'Yosemite National Park, California, USA']	37.84054795	-119.51658779802511
+['"Amerikas Westk�ste" (2013) {Zentralkalifornien (#1.4)}', 'Silicon Valley, California, USA']	37.4429964	-122.1545229
+['"Amerikas Westk�ste" (2013) {Zentralkalifornien (#1.4)}', 'Monterey Bay Aquarium - 886 Cannery Row, Monterey, California, USA']	36.61808885	-121.90167202803043
+['"Ammenities" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"An Actor\'s Life: The Series" (2013)', '', '', 'New York, USA']	40.7127281	-74.0060152
+['"Andaaz" (2013) {Our Future in Innovation (#4.4)}', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Andaaz" (2013) {Our Future in Innovation (#4.4)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Andre Rieu: Welcome to My World" (2013) {Down Under (#1.8)}', 'Australia']	-24.7761086	134.755
+['"Andre Rieu: Welcome to My World" (2013) {Down Under (#1.8)}', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Andre Rieu: Welcome to My World" (2013) {European Dream (#2.9)}', 'Prague, Czech Republic']	49.8167003	15.4749544
+['"Andre Rieu: Welcome to My World" (2013) {My Musical Year (#2.10)}', 'Santiago de Chile, Regi�n Metropolitana de Santiago, Chile']	-31.7613365	-71.3187697
+['"Andre Rieu: Welcome to My World" (2013) {My Musical Year (#2.10)}', 'Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Andre Rieu: Welcome to My World" (2013) {On the Road (#1.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andre Rieu: Welcome to My World" (2013) {On the Road (#1.9)}', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Andre Rieu: Welcome to My World" (2013) {On the Road (#1.9)}', 'Venice, Veneto, Italy']	45.4371908	12.3345898
+['"Andre Rieu: Welcome to My World" (2013) {On the Road (#1.9)}', 'Casa Rosada, Government House, Plaza de Mayo, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Andre Rieu: Welcome to My World" (2013) {Starry Night in Maastricht (#1.4)}', 'Maastricht, Limburg, Netherlands']	50.8512438	5.6909768
+['"Andre Rieu: Welcome to My World" (2013) {The Brits Are Coming! (#1.10)}', 'Vrijthof, Maastricht, Limburg, Netherlands']	50.8490733	5.688630319614001
+['"Andre Rieu: Welcome to My World" (2013) {The Brits Are Coming! (#1.10)}', 'Maastricht, Limburg, Netherlands']	50.8512438	5.6909768
+['"Andre Rieu: Welcome to My World" (2013) {The Veteran\'s Ball (#1.3)}', 'Maastricht, Limburg, Netherlands']	50.8512438	5.6909768
+['"Andre Rieu: Welcome to My World" (2013) {Vienna Memories (#1.2)}', 'Vienna, Austria']	48.2083537	16.3725042
+['"Andre Rieu: Welcome to My World" (2013) {Vienna Memories (#1.2)}', 'Sch�nbrunn Palace, Sch�nbrunner Schlo�stra�e 47-49, Hietzing, Vienna, Austria']	48.17854095	16.25298581556564
+['"Andre Rieu: Welcome to My World" (2013) {Viva Mexico! (#1.6)}', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"Andrew\'s Way" (2013)', '', '', '', '', 'Elon College, Elon, North Carolina, USA']	36.1070798	-79.5058563
+['"Andries" (2013)', '', '', '', '', 'Vestingmuseum, Naarden, Noord-Holland, Netherlands']	52.30320225	5.162987526644068
+['"Angels of Brick Lane" (2013)', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Angels of Brick Lane" (2013) {(#2.1)}', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Angels of Brick Lane" (2013) {(#3.1)}', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Angie Bites" (2013)', '', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Angie Bites" (2013) {Fresh Produce First Substitution (#1.1)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Angie Bites" (2013) {Sugar vs. Sweet, Sugar-free Diet (#1.3)}', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Angie Bites" (2013) {What Is Raw Food? (#1.2)}', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Angkor: Land of the Gods" (2013)', '', '', 'Cambodia']	13.5066394	104.869423
+['"Angry Young Women in Low Rise Jeans with High Class Issues" (2013)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Animal News Now" (2013)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Animal Planet Sub-type Monsters Inside Me" (2013)', 'Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Animism" (2013)', '', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Anke hat Zeit" (2013)', '', '', '', '', 'Stadtgarten, Cologne, North Rhine, Westphalia, Germany']	50.944392300000004	6.936876139315519
+['"Anke hat Zeit" (2013) {(#1.1)}', '', '', '', 'Stadtgarten, Cologne, North Rhine, Westphalia, Germany']	50.944392300000004	6.936876139315519
+['"Anna Karenina" (2013/II)', '', '', '', 'Lithuania']	55.3500003	23.7499997
+['"Anne\'s Kitchen" (2013)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Anne\'s Kitchen" (2013)', '', '', '', '', 'Finsbury Park, London, England, UK']	51.5648345	-0.1064144
+['"Annedroids" (2013)', '', '', '', '', 'Mississauga, Ontario, Canada']	43.590338	-79.645729
+['"Annedroids" (2013)', '', '', '', '', '1299 St. Marys Avenue, Mississauga, Ontario, Canada']	43.5857877	-79.5537597
+['"Annedroids" (2013)', '', '', '', '', '1314 St. Marys Avenue, Mississauga, Ontario, Canada']	43.590338	-79.645729
+['"Annedroids" (2013)', '', '', '', '', '1310 St. Marys Avenue, Mississauga, Ontario, Canada']	43.590338	-79.645729
+['"Annedroids" (2013) {New Pals (#1.1)}', '', '', '1314 St. Marys Avenue, Mississauga, Ontario, Canada']	43.584987761538464	-79.55429983076924
+['"Annedroids" (2013) {New Pals (#1.1)}', '', '', '1310 St. Marys Avenue, Mississauga, Ontario, Canada']	43.590338	-79.645729
+['"Annedroids" (2013) {New Pals (#1.1)}', '', '', '1299 St. Marys Avenue, Mississauga, Ontario, Canada']	43.590338	-79.645729
+['"Anomaly 3D" (2013)', '', '', '', '', 'St. Augustine, Florida, USA']	29.8946952	-81.3145395
+['"Anonymous" (2013/II)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Another Period" (2013)', '', '', '', '', 'Pasadena, California, USA']	34.1476452	-118.1444779
+['"Another Period" (2013) {Divorce (#1.2)}', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Dog Dinner Party (#1.8)}', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Funeral (#1.3)}', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Funeral (#1.3)}', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Lillian\'s Birthday (#1.6)}', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Modern Pigs (#1.10)}', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Pageant (#1.4)}', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Pilot (#1.1)}', '', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Reject\'s Beach (#1.9)}', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Senate (#1.5)}', '', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Another Period" (2013) {Switcheroo Day (#1.7)}', '', 'Canfield-Moreno Estate - 1923 Micheltorena Street, Silver Lake, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Anthology" (2013) {Devina (#1.6)}', '', '', 'Island Music Lab - 40 Cain Dr, Brentwood, New York, USA']	40.7812093	-73.2462273
+['"Anthology" (2013) {Reid (#1.5)}', '', '', 'Harlem Food Bar - 2100 Frederick Douglass Blvd, New York City, New York, USA']	40.7127281	-74.0060152
+['"Anthology" (2013) {Will (#1.4)}', '', '', "Rollin' Studios, 259 Green St, Brooklyn, New York City, New York, USA"]	39.7837304	-100.4458825
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'Qu�bec City, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', "L'Affaire est Ketchup, 46 Rue Saint-Joseph Est, Qu�bec City, Qu�bec, Canada"]	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', "Wilensky's - 34 Fairmount Avenue West, Montr�al, Qu�bec, Canada"]	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'Cabane � sucre Au Pied de Cochon, Saint-Beno�t, Mirabel, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', "Centre de p�che sur glace, Saint-Andr�-d'Argenteuil, Argenteuil, Qu�bec, Canada"]	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'Liverpool House - 2501 Rue Notre-Dame Ouest, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'M sur Masson - 2876 Rue Masson, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'St. Lawrence River, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'Mirabel, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'Argenteuil, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Canada (#1.4)}', 'Centre Belle, 1909 Avenue des Canadiens-de-Montr�al, Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Villavicencio, Meta, Colombia']	4.1315113	-73.6206667
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Vanguardia Airport, Villavicencio, Meta, Colombia']	4.16917985	-73.6130374674603
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Miraflores, Guaviare, Colombia']	1.3369175	-71.9514805
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'La Puerta Falsa, Calle 11, Los M�rtires, Bogot�, Colombia']	2.8894434	-73.783892
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Plaza de Mercado de Paloquemao, Calle 19, Paloquemao, Los M�rtires, Bogot�, Colombia']	2.8894434	-73.783892
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Tabula, Calle 29, Teusaquillo, Bogot�, Colombia']	2.8894434	-73.783892
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Club Social Los Amigos, Calle 49, Santiago de Cali, Valle del Cauca, Colombia']	3.4517923	-76.5324943
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Sevicher�a Guapi, Diagonal 24, Santiago de Cali, Valle del Cauca, Colombia']	2.8894434	-73.783892
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Mercado Del Chivo, Riohacha, La Guajira, Colombia']	11.544634	-72.9069784
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Mar Azul Restaurant, Mayapo, La Guajira, Colombia']	2.8894434	-73.783892
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Colombia']	2.8894434	-73.783892
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'Santiago de Cali, Valle del Cauca, Colombia']	3.4517923	-76.5324943
+['"Anthony Bourdain: Parts Unknown" (2013) {Colombia (#1.3)}', 'La Guajira, Colombia']	11.2780115	-72.6135766
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Goma, North Kivu, Democratic Republic of the Congo']	-1.6665685	29.225652
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Village-Fatimata Restaurant, Bougainvilliers Avenue, Goma, North Kivu, Democratic Republic of the Congo']	-1.6665685	29.225652
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Kisangani, Orientale, Democratic Republic of the Congo']	0.5184021	25.2057292
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Yangambi, Orientale, Democratic Republic of the Congo']	0.7658281	24.4733629
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Democratic Republic of the Congo']	-2.9814344	23.8222636
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Congo River, Democratic Republic of the Congo']	-0.6516124	17.6632689
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Rwanda']	-1.9646631	30.0644358
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Goma Airport, Democratic Republic of the Congo']	-1.66742815	29.238331489469676
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Wagenia, Democratic Republic of the Congo']	0.4955695	25.205382066277352
+['"Anthony Bourdain: Parts Unknown" (2013) {Congo (#1.8)}', 'Aradu Station, Kisangani, Democratic Republic of the Congo']	-2.9814344	23.8222636
+['"Anthony Bourdain: Parts Unknown" (2013) {Detroit (#2.8)}', 'Detroit, Michigan, USA']	42.3315509	-83.0466403
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Jerusalem, Israel']	31.778345	35.2250786
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Aida, West Bank, Palestine']	31.94696655	35.27386547291496
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Bethlehem, Palestine']	45.4026331	-87.523569
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Majda Restaurant, Ein Rafa, Israel']	31.5313113	34.8667654
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Gaza, Palestine']	31.5164052	34.4483914
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Bani Suheila, Gaza, Palestine']	31.3519797	34.3216123
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Mides Brazilian Restaurant, Bror Hayil, Israel']	31.5313113	34.8667654
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Bror Hayil, Israel']	31.5597901	34.6491564
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Wailing Wall, Old City, Jerusalem, Israel']	31.776473699999997	35.233922482041855
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Damascus Gate, Old City, Jerusalem, Israel']	31.7816569	35.2303947
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Via Dolorosa, Old City, Jerusalem, Israel']	31.7800951	35.2323188
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Israel']	31.5313113	34.8667654
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'West Bank, Palestine']	31.94696655	35.27386547291496
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Eli, West Bank, Israel']	31.5313113	34.8667654
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'West Bank, Israel']	31.94696655	35.27386547291496
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', "Ma'ale Levona, West Bank, Israel"]	31.5313113	34.8667654
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Ramallah, Palestine']	31.9033558	35.2060235
+['"Anthony Bourdain: Parts Unknown" (2013) {Jerusalem (#2.1)}', 'Palestine']	31.94696655	35.27386547291496
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Yahzakem Coffee, Tripoli, Libya']	26.8234472	18.1236723
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Leptis Magna, Al Khums, Murqub, Libya']	32.637498449999995	14.292157831319926
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Fashloom Street, Tripoli, Libya']	32.88627985	13.20622124461562
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Misrata War Museum, Misrata, Misrata, Libya']	32.3745318	15.0904886
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', "Martyr's Square, Tripoli, Libya"]	32.8945402	13.1812139
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Libya']	26.8234472	18.1236723
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Al Khums, Murqub, Libya']	32.652183	14.26801
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Misrata, Tripolitania, Libya']	26.8234472	18.1236723
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Tripoli, Libya']	32.896672	13.1777923
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Uncle Kentaki, Tripoli, Libya']	26.8234472	18.1236723
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Radisson Blu Al Mahary Hotel, Tripoli, Libya']	26.8234472	18.1236723
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Arch of Marcus Aurelius, Al Hara Alkabir St, Tripoli, Libya']	26.8234472	18.1236723
+['"Anthony Bourdain: Parts Unknown" (2013) {Libya (#1.6)}', 'Bab al-Azizia, Bab Akkarah, Tripoli, Libya']	26.8234472	18.1236723
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Koreatown, Los Angeles, California, USA']	34.0580134	-118.3008095
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Dong Il Jang, Koreatown, Los Angeles, California, USA']	34.0587662	-118.3089236
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Chego!, Koreatown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'A-Frame, Koreatown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Sizzler, Koreatown, Los Angeles, California, USA']	34.0592251	-118.30882835665898
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Jollibee, Koreatown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Myung In Dumplings, Koreatown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Monte Carlo Bar, Koreatown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Tofu House, Koreatown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Koreantown Plaza, Koreatown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Kogi, Koreatown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Swadesh, Koreatown, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Los Feliz, Los Angeles, California, USA']	34.1100408	-118.28892364093718
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Berverly Soon Tofu, Koreatown, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Hannam Market, Koreatown, Los Angeles, California, USA']	34.051977050000005	-118.29309314446735
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'California Donuts, Koreatown, Los Angeles, California, USA']	34.0688125	-118.2931133
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Venice, Los Angeles, California, USA']	33.995044	-118.4668875
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Whittier Boulevard, East Los Angeles, California, USA']	34.0239015	-118.1720157
+['"Anthony Bourdain: Parts Unknown" (2013) {Los Angeles (#1.2)}', 'Little Bangladesh, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Caf� Tingis, Place Petit Socco, Medina, Tangiers, Tangier-T�touan, Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Populaire Saveur de Poisson, Escalier Waller, Tangiers, Tangier-T�touan, Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Caf� Baba, Tangier Casbah, Medina, Tangiers, Tangier-T�touan, Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Grand Socco, Medina, Tangiers, Tangier-T�touan, Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Boutique Majid, Rue Des Cheretiens, Medina, Tangiers, Tangier-T�touan, Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Caf� Andalous, Rue du Commerce, Medina, Tangiers, Tangier-T�touan, Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Poccadillios, Rue de Mexique, Tangiers, Tangier-T�touan, Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Morocco (Tangier) (#1.5)}', 'Jajouka, Morocco']	31.1728205	-7.3362482
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Yangon, Yangon Region, Myanmar']	16.7967129	96.1609916
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Bagan, Mandalay Region, Myanmar']	21.1317111	94.8623644
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Seit Taing Kya Tea Shop, Yangon, Myanmar']	17.1750495	95.9999652
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Feel Myanmar Food, Yangon, Myanmar']	16.7907353	96.1436351
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Yangon Train Station, Yangon, Myanmar']	17.1750495	95.9999652
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Taung Htate Pan Paint Restaurant, Yangon, Myanmar']	17.1750495	95.9999652
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'The Strand Hotel, Yangon, Myanmar']	16.76958875	96.16258674940903
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Kaung Myat Restaurant, Yangon, Myanmar']	16.7840997	96.1516765
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Myanmar']	17.1750495	95.9999652
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Morning Star Teahouse, Yangon, Myanmar']	17.1750495	95.9999652
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', '19th Street, Yangon, Myanmar']	16.8512324	96.186295
+['"Anthony Bourdain: Parts Unknown" (2013) {Myanmar (#1.1)}', 'Sofaer Building, Yangon, Myanmar']	16.77141885	96.1618492312322
+['"Anthony Bourdain: Parts Unknown" (2013) {New Mexico (#2.3)}', 'New Mexico, USA']	34.5708167	-105.993007
+['"Anthony Bourdain: Parts Unknown" (2013) {New Mexico (#2.3)}', 'Santa Fe, New Mexico, USA']	35.6869996	-105.9377997
+['"Anthony Bourdain: Parts Unknown" (2013) {New Mexico (#2.3)}', "Horseman's Haven Cafe - 4354 Cerrillos Road, Santa Fe, New Mexico, USA"]	35.6869996	-105.9377997
+['"Anthony Bourdain: Parts Unknown" (2013) {New Mexico (#2.3)}', 'Zia Pueblo, New Mexico, USA']	35.523806	-106.72352625685669
+['"Anthony Bourdain: Parts Unknown" (2013) {New Mexico (#2.3)}', 'Albuquerque, New Mexico, USA']	35.0841034	-106.6509851
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Chez Wong, Calle Enrique Leon Garcia, San Isidro, Lima, Peru']	-12.0979021	-77.03536662844232
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Lima, Peru']	-6.8699697	-75.0458515
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Museo Larco, Avenida Bolivar, Pueblo Libre, Lima, Peru']	-12.07663875	-77.06785807599587
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Amaz, Avenida La Paz, Miraflores, Lima, Peru']	-12.1287093	-77.026562
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Pucusana, Lima, Peru']	-12.4820916	-76.7974527
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Canta Rana, Genova, Barranco, Lima, Peru']	-12.1467585	-77.0223185
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Peru']	-6.8699697	-75.0458515
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Anticucheria Dona Pochita, Lima, Peru']	-6.8699697	-75.0458515
+['"Anthony Bourdain: Parts Unknown" (2013) {Peru (#1.7)}', 'Chiclayo, Lambayeque, Peru']	-6.766417	-79.8408308
+['"Anthony Bourdain: Parts Unknown" (2013) {Porto, Portugal (#9.8)}', 'Porto, Portugal']	41.1494512	-8.6107884
+['"Anthony Bourdain: Parts Unknown" (2013) {Russia (#3.5)}', 'Russia']	64.6863136	97.7453061
+['"Anthony Bourdain: Parts Unknown" (2013) {Russia (#3.5)}', 'Moscow, Russia']	55.4792046	37.3273304
+['"Anthony Bourdain: Parts Unknown" (2013) {Russia (#3.5)}', 'Rublevka, Moscow, Russia']	64.6863136	97.7453061
+['"Anthony Bourdain: Parts Unknown" (2013) {Russia (#3.5)}', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"Anthony Bourdain: Parts Unknown" (2013) {Shanghai (#4.1)}', 'Shanghai, China']	31.2322758	121.4692071
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Granada, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Taberna la Tana, Placeta del Agua, 3, 18009 Granada, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Restaurante Oliver, Plaza Pescader�a, 12, 18001 Granada, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'La Alhambra palace, Granada, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Sacromonte, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Museo de la Zambra, Camino del Sacromonte, 89, 18010 Granada, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Bar Gallardo, 18002, Calle Pintor Rodr�guez Acosta, 6, 18002 Granada, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Hacienda La Marquesa, Granada, Granada, Andaluc�a, Spain']	39.3262345	-4.8380649
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Almeria, Andalucia, Spain']	36.8414197	-2.4628135
+['"Anthony Bourdain: Parts Unknown" (2013) {Spain (#2.2)}', 'Casa Pasteles Albayzin, Plaza Larga, 1, 18010 Granada, Spain']	37.1862821	-3.7776263
+['"Ape$#!t" (2013)', '', '', '', '', 'North Hollywood, Los Angeles, California, USA']	34.1729044	-118.3740371
+['"Ape$#!t" (2013)', '', '', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"Apulia Passion on the Road" (2013)', '', '', 'Apulia, Italy']	40.9842539	16.6210027
+['"Aramizda Kalsin" (2013)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Aramizda Kalsin" (2013)', '', '', '', 'Gaziantep, Turkey']	36.9666307	37.4074178
+['"Are You Tougher Than a Boy Scout?" (2013) {Buoy Scouts (#1.3)}', 'Lake Isabella, California, USA']	35.638326	-118.48446958199332
+['"Are You Tougher Than a Boy Scout?" (2013) {Canoe Jousting (#1.1)}', 'Camp Whitsett - Forest Route 22S82, Kernville, California, USA']	39.7837304	-100.4458825
+['"Are You Tougher Than a Boy Scout?" (2013) {Face Plant (#1.5)}', 'Camp Whitsett - Forest Route 22S82, Kernville, California, USA']	39.7837304	-100.4458825
+['"Are You Tougher Than a Boy Scout?" (2013) {Man vs. Scout (#1.6)}', 'Camp Whitsett - Forest Route 22S82, Kernville, California, USA']	39.7837304	-100.4458825
+['"Are You Tougher Than a Boy Scout?" (2013) {Ninja Scouts (#1.2)}', 'Johnsondale Bridge, Springville, California, USA']	36.123081	-118.83973999924812
+['"Are You Tougher Than a Boy Scout?" (2013) {Ninja Scouts (#1.2)}', 'Kern River, California, USA']	36.5457067	-118.4030831
+['"Are You Tougher Than a Boy Scout?" (2013) {Ninja Scouts (#1.2)}', 'Camp Whitsett - Forest Route 22S82, Kernville, California, USA']	35.7330735	-118.43394593561493
+['"Are You Tougher Than a Boy Scout?" (2013) {Where Eagles Fly (#1.4)}', 'Camp Whitsett - Forest Route 22S82, Kernville, California, USA']	35.7330735	-118.43394593561493
+['"Arman ja viimeinen ristiretki" (2013) {Bangladesh - laivanpurkajat (#2.2)}', 'Chittagong, Bangladesh']	22.3307998	91.8412863
+['"Arman ja viimeinen ristiretki" (2013) {Bangladesh - laivanpurkajat (#2.2)}', 'Bangladesh']	24.4768783	90.2932426
+['"Arman ja viimeinen ristiretki" (2013) {Benin, voodoo-papin oppipoikana (#1.5)}', 'Cotonou, Benin']	6.3676953	2.4252507
+['"Arman ja viimeinen ristiretki" (2013) {Brasilia, el�m� rikollisjengiss� (#1.2)}', 'Salvador, Bahia, Brazil']	-12.9822499	-38.4812772
+['"Arman ja viimeinen ristiretki" (2013) {Ecuador - viimeinen Waorani (#2.5)}', 'Quito, Ecuador']	-0.2201641	-78.5123274
+['"Arman ja viimeinen ristiretki" (2013) {Ecuador - viimeinen Waorani (#2.5)}', 'Ecuador']	-1.3397668	-79.3666965
+['"Arman ja viimeinen ristiretki" (2013) {Etiopia - Danakilin suolakaivokset (#2.3)}', 'Ethiopia']	10.2116702	38.6521203
+['"Arman ja viimeinen ristiretki" (2013) {Etiopia - Danakilin suolakaivokset (#2.3)}', 'Addis Ababa, Ethiopia']	10.2116702	38.6521203
+['"Arman ja viimeinen ristiretki" (2013) {Etiopia - pakolaisleiri (#2.7)}', 'Ethiopia']	10.2116702	38.6521203
+['"Arman ja viimeinen ristiretki" (2013) {Filippiinit, kolmen jengin loukussa (#1.4)}', 'Manila, Metro Manila, Philippines']	14.5906216	120.9799696
+['"Arman ja viimeinen ristiretki" (2013) {Intia, ruumiinpolttajat (#1.7)}', 'Varanasi, Uttar Pradesh, India']	25.3356491	83.0076292
+['"Arman ja viimeinen ristiretki" (2013) {Kambodza, roskienker��j�-lapset (#1.1)}', 'Phnom Penh, Cambodia']	11.568271	104.9224426
+['"Arman ja viimeinen ristiretki" (2013) {Maailma Ristiretken silmin (#2.8)}', 'Mongolia']	46.8250388	103.8499736
+['"Arman ja viimeinen ristiretki" (2013) {Maailma Ristiretken silmin (#2.8)}', 'Ethiopia']	10.2116702	38.6521203
+['"Arman ja viimeinen ristiretki" (2013) {Maailma Ristiretken silmin (#2.8)}', 'Ecuador']	-1.3397668	-79.3666965
+['"Arman ja viimeinen ristiretki" (2013) {Maailma Ristiretken silmin (#2.8)}', 'Bangladesh']	24.4768783	90.2932426
+['"Arman ja viimeinen ristiretki" (2013) {Maailma Ristiretken silmin (#2.8)}', 'Kathmandu, Nepal']	27.708796	85.320244
+['"Arman ja viimeinen ristiretki" (2013) {Maailma Ristiretken silmin (#2.8)}', 'Romania']	45.9852129	24.6859225
+['"Arman ja viimeinen ristiretki" (2013) {Mongolia - kotkamets�st�j�t (#2.1)}', 'Ulan Bator, Mongolia']	46.8250388	103.8499736
+['"Arman ja viimeinen ristiretki" (2013) {Mongolia - kotkamets�st�j�t (#2.1)}', 'Mongolia']	46.8250388	103.8499736
+['"Arman ja viimeinen ristiretki" (2013) {Nepal - maanj�ristyksen selviytyj�t (#2.4)}', 'Kathmandu, Nepal']	27.708796	85.320244
+['"Arman ja viimeinen ristiretki" (2013) {Nepal - maanj�ristyksen selviytyj�t (#2.4)}', 'Nepal']	28.1083929	84.0917139
+['"Arman ja viimeinen ristiretki" (2013) {Nepal, Himalajan armoilla (#1.6)}', 'Kathmandu, Nepal']	28.1083929	84.0917139
+['"Arman ja viimeinen ristiretki" (2013) {Paljastuksien kirja (#1.8)}', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"Arman ja viimeinen ristiretki" (2013) {Romania - Romanian Mustalaiset (#2.6)}', 'Bucharest, Romania']	44.4361414	26.1027202
+['"Arman ja viimeinen ristiretki" (2013) {Romania - Romanian Mustalaiset (#2.6)}', 'Romania']	45.9852129	24.6859225
+['"Arman ja viimeinen ristiretki" (2013) {Siperia, J��meren poropaimentolaiset (#1.3)}', 'Moscow, Russia']	55.4792046	37.3273304
+['"Armed Response" (2013)', '', '', '', '', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"Around Girlfriend Vs Around Mates" (2013)', '', 'Austinmer, NSW, Australia']	-34.3062151	150.9342132
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Dubai, United Arab Emirates']	25.0657	55.1713
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Perth, Australia']	-24.7761086	134.755
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Kuala Lumpur, Malaysia']	3.1516964	101.6942371
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Singapore']	1.357107	103.8194992
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Yangon, Myanmar']	16.7967129	96.1609916
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Phnom Penh, Cambodia']	11.568271	104.9224426
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Bangkok, Thailand']	13.7542529	100.493087
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Ho Chi Minh City, Vietnam']	10.6497452	106.76197937344351
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Jakarta, Indonesia']	-6.1753942	106.827183
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Bali, Indonesia']	-8.3304977	115.0906401
+['"Around the World w/ Ashlocke" (2013)', '', '', 'Komodo Island, Indonesia']	-8.589359049999999	119.4357928481815
+['"Around the World w/ Ashlocke" (2013) {(#2.3)}', '', 'Batu Caves, Gombak, Selangor, Malaysia']	3.236272	101.6733846
+['"Around the World w/ Ashlocke" (2013) {(#2.3)}', '', 'Crackhouse Comedy Club, Kuala Lumpur, Malaysia']	4.5693754	102.2656823
+['"Around the World w/ Ashlocke" (2013) {(#2.3)}', '', 'Sunway Lagoon, Kuala Lumpur, Malaysia']	4.5693754	102.2656823
+['"Art of Our Time" (2013)', '', '', '', 'Estonia']	58.7523778	25.3319078
+['"Artifact" (2013) {Dissimulation (#1.2)}', '', 'Calhan, Colorado, USA']	39.0355459	-104.297186
+['"Artifact" (2013) {First Contact (Pilot) (#1.1)}', 'Sylmar, Los Angeles, California, USA']	34.3076252	-118.4492148
+['"Artist in Residence" (2013) {Occupy ORF - Ein Fest f�r Yoshi + Moshi}', 'Vienna, Austria']	48.2083537	16.3725042
+['"Artists Driven Tv" (2013)', '', '', '', 'Louisville, Kentucky, USA']	38.2542376	-85.759407
+['"Arts & Crafts: A Web Series" (2013)', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"As Canalhas" (2013)', '', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Ask the Butcher" (2013)', '', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"Ask the Butcher" (2013)', '', '', '', 'Japan']	36.5748441	139.2394179
+['"Ask the Butcher" (2013)', '', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Ask the Butcher" (2013)', '', '', '', 'New South Wales, Australia']	-24.7761086	134.755
+['"Ask the Butcher" (2013)', '', '', '', 'Tasmania, Australia']	-42.14220555	146.6723517878467
+['"Ask the Butcher" (2013)', '', '', '', 'Victoria, Australia']	-36.5986096	144.6780052
+['"Ask the Butcher" (2013)', '', '', '', 'Queensland, Australia']	-22.1646782	144.5844903
+['"Ask the Butcher" (2013)', '', '', '', 'South Australia, Australia']	-24.7761086	134.755
+['"Askin Bedeli" (2013)', '', '', '', '', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Assassin\'s Creed 4: Making Black Flag" (2013)', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"As� es mi vida" (2013)', '', '', '', '', 'Mexico City, Mexico']	19.4326296	-99.1331785
+['"As� es mi vida" (2013)', '', '', '', '', 'Mexico City, Mexico']	19.4326296	-99.1331785
+['"As� es mi vida" (2013)', '', '', '', '', 'Jalisco, Mexico']	20.3333331	-103.6666671
+['"As� es mi vida" (2013)', '', '', '', '', 'Oaxaca, Mexico']	17.0	-96.5
+['"As� es mi vida" (2013)', '', '', '', '', 'Sonora, Mexico']	29.3333331	-110.6666671
+['"Atlanta Eats" (2013)', '', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Atlantic City Chronicles" (2013)', '', '', 'Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Atlantic City Chronicles" (2013) {Blue Crab (#2.4)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Blue Crab (#2.4)}', 'Haddon Heights, New Jersey, USA']	39.8773356	-75.0646165
+['"Atlantic City Chronicles" (2013) {Blue Crab (#2.4)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Funnel Cake (#2.2)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Funnel Cake (#2.2)}', 'Haddon Heights, New Jersey, USA']	39.8773356	-75.0646165
+['"Atlantic City Chronicles" (2013) {Funnel Cake (#2.2)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Johnny Cakes (#2.5)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Johnny Cakes (#2.5)}', 'Haddon Heights, New Jersey, USA']	39.8773356	-75.0646165
+['"Atlantic City Chronicles" (2013) {Johnny Cakes (#2.5)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Moon Pie (#2.6)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Moon Pie (#2.6)}', 'Haddon Heights, New Jersey, USA']	39.8773356	-75.0646165
+['"Atlantic City Chronicles" (2013) {Moon Pie (#2.6)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Salt Water Taffy (#2.1)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Salt Water Taffy (#2.1)}', 'Haddon Heights, New Jersey, USA']	39.8773356	-75.0646165
+['"Atlantic City Chronicles" (2013) {Salt Water Taffy (#2.1)}', 'Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Atlantic City Chronicles" (2013) {Salt Water Taffy (#2.1)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Vanilla Custard (#2.3)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantic City Chronicles" (2013) {Vanilla Custard (#2.3)}', 'Haddon Heights, New Jersey, USA']	39.8773356	-75.0646165
+['"Atlantic City Chronicles" (2013) {Vanilla Custard (#2.3)}', 'Hammonton, New Jersey, USA']	39.6365056	-74.8023853
+['"Atlantic City Chronicles" (2013) {Vanilla Custard (#2.3)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Atlantis" (2013)', '', '', '', '', 'Wales, UK']	52.2928116	-3.73893
+['"Atlantis" (2013)', '', '', '', '', 'Morocco']	31.1728205	-7.3362482
+['"Atlantis" (2013)', '', '', '', '', 'Chepstow, Monmouthshire, Wales, UK']	51.6399641	-2.6711114
+['"Atlantis" (2013)', '', '', '', '', 'Redcliffe Caves, Redcliffe Parade, Bristol, England, UK']	51.4538022	-2.5972985
+['"Atlantis" (2013) {A New Dawn (#2.1)}', '', '', 'Edge End, Gloucestershire, England, UK']	51.7873586	-2.2219605
+['"Auditions" (2013)', '', '', '', '', 'Altadena, California, USA']	34.1863161	-118.1352329
+['"Auditions" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Augie, Alone" (2013)', '', '', '', '', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"Aunn Zara" (2013)', '', '', '', '', 'Lahore, Pakistan']	31.5656079	74.3141775
+['"Auto Wars" (2013)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Ava Snow Battles Death" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Average Consumer" (2013)', '', '', '', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"Anchorman 2" Trailer/Thoughts (#1.9)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"Breaking Bad" Blues (#1.24)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"Identity Thief" Review (#1.10)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"Kick -Ass 2" Review (#1.18)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"Man of Steel" Review (#1.7)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"Monsters University" Review (#1.12)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"Pacific Rim" Review (#1.15)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"Star Trek Into Darkness" Review (#1.2)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"The Heat" Review (#1.11)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"The Lone Ranger" Review (#1.13)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"The Wolverine" Review (#1.16)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"This Is the End" Review (#1.8)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {"We\'re the Millers" Review (#1.17)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {2013 Summer Movie Recap (#1.19)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {Basic Cable (#1.23)}', '', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {Batffleck (#1.20)}', '', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {Netflix: Haves and Haves Nots (#1.21)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Average Consumer" (2013) {Viewer Suggestions (#1.22)}', 'Hickory Hills, Illinois, USA']	41.7255879	-87.825055
+['"Awful Terrible Lizards" (2013)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Azorean Horror Story" (2013)', '', '', '', 'S. Jorge, Azores, Portugal']	37.7751374	-25.622177762194116
+['"BFFs" (2013) {Boats and Hoes}', '', '', '', 'Miami-Dade County, Florida, USA']	25.6364246	-80.4989467
+['"BFFs" (2013) {Girl\'s Night Out}', '', '', 'Mondrian Los Angeles Hotel - 8440 Sunset Boulevard, West Hollywood, California, USA']	34.094383050000005	-118.37436550109152
+['"BFFs" (2013) {Girl\'s Night Out}', '', '', 'Skybar - 8440 Sunset Boulevard, West Hollywood, California, USA']	34.0946222	-118.3746245
+['"BFFs" (2013) {Weed Party}', '', '', '', 'Parrot Lounge - 911 Sunrise Lane, Fort Lauderdale, Florida, USA']	39.7837304	-100.4458825
+['"BLUganda: Ein Afrikatrip" (2013)', '', '', 'Uganda']	1.5333554	32.2166578
+['"BYU Sports Nation" (2013)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"BYU Sports Nation" (2013)', '', '', '', 'Deseret First Credit Union']	40.7683657	-111.8865916
+['"BYU Sports Nation" (2013)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Babam Sinifta Kaldi" (2013)', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Baby Boss" (2013)', '', '', '', '', 'Cold Spring Harbor, Long Island, New York, USA']	40.85172235	-73.09921882199973
+['"Babysitters" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Back Home" (2013) {Allison Strong (#1.8)}', '', 'Bogot�, Colombia']	2.8894434	-73.783892
+['"Back Stage Pass" (2013)', '', '', '', 'University of Toronto Scarborough Campus, Scarborough, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Back Stage Pass" (2013)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Back Stage Pass" (2013)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Back from the Dead" (2013)', '', '', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Back to Basics" (2013)', '', '', '', '', 'Malaysia']	4.5693754	102.2656823
+['"Back to Reality" (2013)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Back to the Streets 2" (2013)', '', '', '', 'Malaysia']	4.5693754	102.2656823
+['"Backstage with the Anglophile" (2013)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Backstage with the Anglophile" (2013)', '', '', 'British Consulate, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Backstage with the Anglophile" (2013)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Bad Ass" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bad Boyfriend" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bad Therapy" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bad Trips Abroad" (2013)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Bad Trips Abroad" (2013)', '', '', '', 'Panama City, Panama']	8.9714493	-79.5341802
+['"Bad Trips Abroad" (2013)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Badults" (2013) {Film (#1.3)}', '', '', '', 'Buchanan Galleries, 220 Buchanan Street, Glasgow, Scotland, UK']	54.7023545	-3.2765753
+['"Bail Out" (2013)', '', '', '', '', "Mambo's Itallian Restaurant, Ft. Worth, Texas, USA"]	32.753177	-97.3327459
+['"Bail Out" (2013)', '', '', '', '', "Mancuso's Italian Ristorante, White Settlement, Texas, USA"]	32.7595737	-97.4583538
+['"Bail Out" (2013)', '', '', '', '', 'Fort Worth Stockyards - 121 E. Exchange Avenue, Fort Worth, Texas, USA']	32.753177	-97.3327459
+['"Bail Out" (2013) {I am Lorenzo Lamas (#7.1)}', '', 'Fort Worth, Texas, USA']	32.753177	-97.3327459
+['"Bail Out" (2013) {The Hypnotist, Bulls and Bubba (#1.3)}', 'Milan Art Gallery, Ft. Worth, Texas, USA']	39.7837304	-100.4458825
+['"Bake Off Italia - Dolci in forno" (2013)', '', 'Villa Arconati, Castellazzo, Bollate, Milano, Italy']	45.5560007	9.096306419922012
+['"Bake Off Italia - Dolci in forno" (2013)', '', 'Villa Annoni, Cuggiono, Milano, Italy']	45.504024	8.816601078972692
+['"Band in Seattle" (2013) {Acid Angels and Big Sur (#1.1)}', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Band in Seattle" (2013) {Dead Man and Letters from Traffic (#1.2)}', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"Banshee" (2013)', '', '', '', '', 'Charlotte, North Carolina, USA']	35.2270869	-80.8431268
+['"Banshee" (2013)', '', '', '', '', 'Monroe, North Carolina, USA']	34.9854275	-80.5495112
+['"Banshee" (2013)', '', '', '', '', 'Gastonia, North Carolina, USA']	35.2622158	-81.1838794
+['"Banshee" (2013)', '', '', '', '', 'Waxhaw, North Carolina, USA']	34.9362535	-80.75079198523316
+['"Banshee" (2013)', '', '', '', '', 'Greenville, South Carolina, USA']	34.851354	-82.3984882
+['"Banshee" (2013)', '', '', '', '', 'Lincolnton, North Carolina, USA']	35.473745	-81.2545251
+['"Banshee" (2013)', '', '', '', '', 'Mooresville, North Carolina, USA']	35.5848596	-80.8100724
+['"Banshee" (2013)', '', '', '', '', 'Pittsburgh, Pennsylvania, USA']	40.4416941	-79.9900861
+['"Banshee" (2013) {A Little Late to Grow a Pair (#4.5)}', 'Vandergrift, Pennsylvania, USA']	40.6028434	-79.5647667
+['"Banshee" (2013) {Bullets and Tears (#2.10)}', '', 'Harlem, New York, USA']	40.8078786	-73.9454154
+['"Banshee" (2013) {Innocent Might Be a Bit of a Stretch (#4.4)}', 'Vandergrift, Pennsylvania, USA']	40.6028434	-79.5647667
+['"Banshee" (2013) {Only One Way a Dogfight Ends (#4.6)}', 'Vandergrift, Pennsylvania, USA']	40.6028434	-79.5647667
+['"Banshee" (2013) {Pilot (#1.1)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Banshee" (2013) {Requiem (#4.8)}', '', '', 'Vandergrift, Pennsylvania, USA']	40.6028434	-79.5647667
+['"Banshee" (2013) {Something Out of the Bible (#4.1)}', 'Vandergrift, Pennsylvania, USA']	40.6028434	-79.5647667
+['"Banshee" (2013) {The Book of Job (#4.3)}', '', 'Vandergrift, Pennsylvania, USA']	40.6028434	-79.5647667
+['"Banshee" (2013) {The Burden of Beauty (#4.2)}', '', 'Vandergrift, Pennsylvania, USA']	40.6028434	-79.5647667
+['"Banshee" (2013) {Truths Other Than the Ones You Tell Yourself (#4.7)}', 'Vandergrift, Pennsylvania, USA']	40.6028434	-79.5647667
+['"Banshee" (2013) {You Can\'t Hide from the Dead (#3.7)}', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"BarbWire TV" (2013) {The BarBachelor (#2.1)}', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"BarbWire TV" (2013) {The BarBachelor (#2.1)}', '', 'Windsor, Ontario, Canada']	42.317099	-83.0353434
+['"Barcelona Salvaje" (2013)', '', '', '', 'Barcelona, Barcelona, Catalonia, Spain']	41.3828939	2.1774322
+['"Barclaycard Presents British Summer Time Hyde Park" (2013)', 'Hyde Park, London, England, UK']	51.5074889	-0.1622053801825995
+['"Bare Nekked Chef: Nibbles" (2013)', '', '', 'Fullerton, California, USA']	33.8708215	-117.9294165
+['"Barflies" (2013)', '', '', '', '', '7038 Sunset Boulevard, Los Angeles, California, USA']	34.0981569	-118.2896592
+['"Barflies" (2013)', '', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Barflies" (2013)', '', '', '', '', 'Pacific Beach, California, USA']	32.7978268	-117.2403183
+['"Baristas" (2013)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Barna Hedenh�s uppfinner julen" (2013)', '', '', 'Naturhistoriska Riksmuseet, Norra Djurg�rden, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Barna Hedenh�s uppfinner julen" (2013)', '', '', 'Kakn�stornet, Norra Djurg�rden, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"Barra Libre" (2013)', '', '', '', '', 'Madrid, Spain']	40.4167047	-3.7035825
+['"Barry Morgan, Horror Geek" (2013)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bates Motel" (2013)', '', '', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013)', '', '', '', '', 'Steveston, Richmond, British Columbia, Canada']	49.1333276	-123.1833306
+['"Bates Motel" (2013)', '', '', '', '', 'Horseshoe Bay, West Vancouver, British Columbia, Canada']	49.3744409	-123.2739191
+['"Bates Motel" (2013)', '', '', '', '', 'Coquitlam, British Columbia, Canada']	49.2842958	-122.793281
+['"Bates Motel" (2013)', '', '', '', '', 'Seycove Secondary School, 1204 Caledonia Ave, North Vancouver, British Columbia, Canada']	49.3207133	-123.0737831
+['"Bates Motel" (2013) {A Boy and His Dog (#1.8)}', '', '2400 Court Motel - 2400 Kingsway, Vancouver, British Columbia, Canada']	61.0666922	-107.9917071
+['"Bates Motel" (2013) {A Death in the Family (#3.1)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Bad Blood (#5.3)}', '', '', 'Campbell River Store - Surrey, British Columbia, Canada']	49.0162109	-122.7345605
+['"Bates Motel" (2013) {Crazy (#3.9)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {First You Dream, Then You Die (#1.1)}', 'Horseshoe Bay, West Vancouver, British Columbia, Canada']	49.3311208	-123.1594791
+['"Bates Motel" (2013) {Forever (#4.9)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Lights of Winter (#4.4)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Norma Louise (#3.6)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Norma Louise (#3.6)}', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"Bates Motel" (2013) {Norman (#4.10)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Persuasion (#3.3)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Refraction (#4.5)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {The Arcanum Club (#3.2)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {The Deal (#3.5)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {The Escape Artist (#2.5)}', '', 'Delta Street, Ladner, British Columbia, Canada']	49.083333	-123.083333
+['"Bates Motel" (2013) {The Last Supper (#3.7)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {The Pit (#3.8)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {The Vault (#4.6)}', '', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {There\'s No Place Like Home (#4.7)}', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Unbreak-Able (#3.4)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Unconscious (#3.10)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Bates Motel" (2013) {Unfaithful (#4.8)}', '', 'Fort Langley, British Columbia, Canada']	49.169126	-122.5793628
+['"Bates Motel" (2013) {Unfaithful (#4.8)}', '', 'Aldergrove, British Columbia, Canada']	49.0596635	-122.4922381
+['"Batman: Abyss" (2013)', '', '', '', '', 'Coos Bay, Oregon, USA']	43.3678937	-124.2174647
+['"Battle for the Stage" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Battle for the Stage" (2013)', '', '', '', 'Houston, Texas, USA']	29.7589382	-95.3676974
+['"Battle for the Stage" (2013)', '', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"Battle for the Stage" (2013)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Battleground Afghanistan" (2013)', '', '', 'Afghanistan']	33.7680065	66.2385139
+['"Battleground: Rhino Wars" (2013) {Bring in the Big Guns (#1.1)}', 'Kruger National Park, South Africa']	-23.915303350000002	31.49070131950694
+['"Battleground: Rhino Wars" (2013) {Hell to Pay (#1.3)}', 'Kruger National Park, South Africa']	-23.915303350000002	31.49070131950694
+['"Battleground: Rhino Wars" (2013) {Playing with Fire (#1.2)}', 'Kruger National Park, South Africa']	-23.915303350000002	31.49070131950694
+['"Bayan ko" (2013) {Corruption (#1.2)}', '', '', 'Pila, Laguna, Philippines']	14.23135835	121.36258654964253
+['"Bayan ko" (2013) {Pilot (#1.1)}', '', '', 'Pila, Laguna, Philippines']	14.23135835	121.36258654964253
+['"Be You... And, Be Fearless!" (2013)', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"Be the Boss Canada" (2013)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beat the Ancestors" (2013)', '', '', '', 'Brighton, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"Beautiful You HDTV" (2013)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Before the Dark" (2013) {The Carpathians (#1.2)}', 'Kentucky, USA']	37.5726028	-85.1551411
+['"Before the Dark" (2013) {The Visions (#1.1)}', '', 'Kentucky, USA']	37.5726028	-85.1551411
+['"Behind Closed Eyes" (2013)', '', '', '', 'Staten Island, New York City, New York, USA']	40.5834557	-74.1496048
+['"Being Mary Jane" (2013)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Being Social" (2013) {America\'s Role on Foreign Policy Now (#1.7)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Being Social" (2013) {Breaking Down of Obama Healthcare (#1.5)}', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"Being Social" (2013) {Diversity N the Entertainment Industry (#1.4)}', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"Being Social" (2013) {Diversity N the Entertainment Industry (#1.4)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Being Social" (2013) {Racial Profiling (#1.1)}', '', 'Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Being Social" (2013) {The Value of Arts in America (#1.9)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Being Social" (2013) {U.S. Veterans Are Home, Now What? (#1.8)}', 'New York, USA']	40.7127281	-74.0060152
+['"Beintehaa" (2013)', '', '', '', '', 'Bhopal, India']	23.2530923	77.3962718
+['"Beintehaa" (2013)', '', '', '', '', 'Mumbai, India']	18.9387711	72.8353355
+['"Beintehaa" (2013)', '', '', '', '', 'Goa, India']	15.3004543	74.0855134
+['"Beintehaa" (2013)', '', '', '', '', 'Hyderabad, India']	22.3511148	78.6677428
+['"Beit HaMishalot" (2013)', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Bekaa and Bella" (2013)', '', '', '', 'Rose Bay, NSW, Australia']	-33.8741644	151.265471
+['"Bellator MMA Live" (2013) {Bellator 143 - Warren vs. Davis}', 'State Farm Arena, Hidalgo, Texas, USA']	26.124031600000002	-98.24688517738825
+['"Bellator MMA Live" (2013) {Bellator 144: Halsey vs. Carvalho}', 'Mohegan Sun Arena, Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator MMA Live" (2013) {Bellator 145: With a Vengeance}', 'Scottrade Center, St. Louis, Missouri, USA']	38.6268039	-90.1994097
+['"Bellator MMA Live" (2013) {Bellator MMA 100 (#9.3)}', 'Grand Canyon University, Phoenix, Arizona, USA']	33.5131888	-112.12849170430553
+['"Bellator MMA Live" (2013) {Bellator MMA 101 (#9.4)}', 'Moda Center, Portland, Oregon, USA']	45.5315787	-122.66683365218687
+['"Bellator MMA Live" (2013) {Bellator MMA 102 (#9.5)}', 'Visalia Convention Center, Visalia, California, USA']	36.3284082	-119.29154348611313
+['"Bellator MMA Live" (2013) {Bellator MMA 103 (#9.6)}', 'Kansas Star Casino, Wichita, Kansas']	38.27312	-98.5821872
+['"Bellator MMA Live" (2013) {Bellator MMA 104 (#9.7)}', 'US Cellular Center, Cedar Rapids, Iowa, USA']	41.9758872	-91.6704053
+['"Bellator MMA Live" (2013) {Bellator MMA 105 (#9.8)}', 'Santa Ana Star Center, Rio Rancho, New Mexico, USA']	35.269381	-106.632819
+['"Bellator MMA Live" (2013) {Bellator MMA 106 (#9.9)}', 'Long Beach Convention Center, Long Beach, California, USA']	33.76468345	-118.19082874479344
+['"Bellator MMA Live" (2013) {Bellator MMA 107 (#9.10)}', 'WinStar World Casino, Thackerville, Oklahoma, USA']	33.7934373	-97.1430681
+['"Bellator MMA Live" (2013) {Bellator MMA 108 (#9.11)}', 'Revel, Atlantic City Hotel Resort & Casino, New Jersey, USA']	39.7837304	-100.4458825
+['"Bellator MMA Live" (2013) {Bellator MMA 110 (#10.1)}', 'Mohegan Sun Arena, Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator MMA Live" (2013) {Bellator MMA 111 (#10.2)}', 'Winstar Casino, Oklahoma City, Oklahoma, USA']	35.4729886	-97.5170536
+['"Bellator MMA Live" (2013) {Bellator MMA 112 (#10.3)}', 'The Venue at Horseshoe Casino, Hammond, Indiana, USA']	41.5833658	-87.500043
+['"Bellator MMA Live" (2013) {Bellator MMA 113 (#10.4)}', 'Kansas Star Arena, Milvane, Kansas, USA']	39.7837304	-100.4458825
+['"Bellator MMA Live" (2013) {Bellator MMA 114 (#10.5)}', 'Maverik Center, Salt Lake City, Utah, USA']	40.702786950000004	-111.9505425331896
+['"Bellator MMA Live" (2013) {Bellator MMA 115 (#10.6)}', 'Reno Events Center, Reno, Nevada, USA']	39.53089695	-119.81247350085957
+['"Bellator MMA Live" (2013) {Bellator MMA 116 (#10.7)}', 'Pechanga Resort & Casino, Temecula, California, USA']	33.455222199999994	-117.10651750150265
+['"Bellator MMA Live" (2013) {Bellator MMA 117 (#10.8)}', 'Mid-America Center, Council Bluffs, Iowa, USA']	41.2621283	-95.8613912
+['"Bellator MMA Live" (2013) {Bellator MMA 124 (#11.2)}', 'CompuWare Arena, Plymouth Township, Michigan, USA']	42.3898008	-83.50816
+['"Bellator MMA Live" (2013) {Bellator MMA 135: Warren vs. Galvao 2 (#12.5)}', 'WinStar World Casino, Thackerville, Oklahoma, USA']	33.7934373	-97.1430681
+['"Bellator MMA Live" (2013) {Bellator MMA 86 (#8.2)}', 'WinStar World Casino, Thackerville, Oklahoma, USA']	33.7934373	-97.1430681
+['"Bellator MMA Live" (2013) {Bellator MMA 87 (#8.3)}', 'Soaring Eagle Casino & Resort, Mount Pleasant, Michigan, USA']	43.597646	-84.7668495
+['"Bellator MMA Live" (2013) {Bellator MMA 88 (#8.4)}', 'Gwinnett Center - 6400 Sugarloaf Parkway, Duluth, Georgia, USA']	34.0028569	-84.1441046
+['"Bellator MMA Live" (2013) {Bellator MMA 89 (#8.5)}', 'Bojangles Coliseum, Charlotte, North Carolina, USA']	35.2050522	-80.79516470823653
+['"Bellator MMA Live" (2013) {Bellator MMA 90 (#8.6)}', 'Maverik Center, Salt Lake City, Utah, USA']	40.702786950000004	-111.9505425331896
+['"Bellator MMA Live" (2013) {Bellator MMA 91 (#8.7)}', 'Santa Ana Star Center, Rio Rancho, New Mexico, USA']	35.3090775	-106.68669596671296
+['"Bellator MMA Live" (2013) {Bellator MMA 92 (#8.8)}', 'Pechanga Resort & Casino, Temecula, California, USA']	33.455222199999994	-117.10651750150265
+['"Bellator MMA Live" (2013) {Bellator MMA 93 (#8.9)}', 'Androscoggin Bank Colisee, Lewiston, Maine, USA']	44.100351	-70.2147764
+['"Bellator MMA Live" (2013) {Bellator MMA 94 (#8.10)}', 'The Sun Dome, University of South Florida, Tampa, Florida, USA']	27.9477595	-82.458444
+['"Bellator MMA Live" (2013) {Bellator MMA 95 (#8.11)}', 'Revel, Atlantic City Hotel Resort & Casino, New Jersey, USA']	39.7837304	-100.4458825
+['"Bellator MMA Live" (2013) {Bellator MMA 96 (#8.12)}', 'WinStar World Casino, Thackerville, Oklahoma, USA']	33.7934373	-97.1430681
+['"Bellator MMA Live" (2013) {Bellator MMA 97 (#8.13)}', 'Santa Ana Star Center, Rio Rancho, New Mexico, USA']	35.3090775	-106.68669596671296
+['"Bellator MMA Live" (2013) {Bellator MMA 98 (#9.1)}', 'Mohegan Sun Arena, Uncasville, Connecticut, USA']	41.4345426	-72.1097996
+['"Bellator MMA Live" (2013) {Bellator MMA 99 (#9.2)}', 'Pechanga Resort & Casino, Temecula, California, USA']	33.455222199999994	-117.10651750150265
+['"Belly Up!" (2013)', '', '', '', '', 'Rumson, New Jersey, USA']	40.372054	-73.9990269
+['"Belmonte" (2013)', '', '', '', '', 'Estremoz, Portalegre, Portugal']	40.0332629	-7.8896263
+['"Ben Fogle: New Lives in the Wild" (2013) {Alaska (#1.2)}', 'Alaska, USA']	39.7837304	-100.4458825
+['"Ben Fogle: New Lives in the Wild" (2013) {Australia (#1.1)}', 'Restoration Island, Queensland, Australia']	-12.6214425	143.4629958716443
+['"Ben Fogle: New Lives in the Wild" (2013) {Georgia, USA Swamplands (#2.1)}', 'Georgia, USA']	32.3293809	-83.1137366
+['"Ben Fogle: New Lives in the Wild" (2013) {Namibia (#3.1)}', 'Namibia']	-23.2335499	17.3231107
+['"Ben Fogle: New Lives in the Wild" (2013) {New Zealand (#1.3)}', 'New Zealand']	-41.5000831	172.8344077
+['"Ben Fogle: New Lives in the Wild" (2013) {Texas (#1.4)}', 'Terlingua, Texas, USA']	29.321586	-103.6160191
+['"Ben de �zledim" (2013)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Benelux De Voyage" (2013)', '', '', '', 'Belgium']	50.6402809	4.6667145
+['"Beni B�yle Sev" (2013)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Bennight Brothers" (2013)', '', '', '', 'Rhode Island, USA']	41.7962409	-71.5992372
+['"Bennight Brothers" (2013)', '', '', '', 'Massachusetts, USA']	39.7837304	-100.4458825
+['"Bennight Brothers" (2013)', '', '', '', 'Connecticut, USA']	41.6500201	-72.7342163
+['"Bennight Brothers" (2013) {Spark (#1.2)}', '', 'North Providence, Rhode Island, USA']	41.8500997	-71.4661703
+['"Bennington Gothique" (2013)', '', '', '', '2606 N. Madison Avenue, Altadena, California, USA']	34.1786585	-118.1386761
+['"Bermuda City" (2013)', '', '', '', '', 'Huntsville, Alabama, USA']	34.729847	-86.5859011
+['"Bermuda City" (2013)', '', '', '', '', 'Birmingham, Alabama, USA']	33.5206824	-86.8024326
+['"Bermuda City" (2013)', '', '', '', '', 'Cozumel, Quintana Roo, Mexico']	20.4317585	-86.92027456597663
+['"Bermuda City" (2013)', '', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"Bermuda City" (2013)', '', '', '', '', 'Moulton, Alabama, USA']	34.4817816	-87.2919449
+['"Bermuda City" (2013)', '', '', '', '', 'Gadsden, Alabama, USA']	34.010929	-85.9989596
+['"Bermuda City" (2013)', '', '', '', '', 'Harvest, Alabama, USA']	34.857193249999995	-86.74907012252524
+['"Bermuda City" (2013)', '', '', '', '', 'Scottsboro, Alabama, USA']	34.6731323	-86.0338765
+['"Bermuda City" (2013)', '', '', '', '', 'Decatur, Alabama, USA']	34.6060203	-86.9838165
+['"Best Bits" (2013)', '', '', '', '', 'Auckland, New Zealand']	-41.5000831	172.8344077
+['"Best Buds" (2013)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best Funeral Ever" (2013)', '', '', '', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Best Thing Ever by Kortney Wilson" (2013)', '', 'Nashville, Tennessee, USA']	36.1622296	-86.7743531
+['"Best of British" (2013)', '', '', '', 'York, North Yorkshire, England, UK']	54.091592750000004	-1.535911258050148
+['"Best of the Worst" (2013)', '', '', '', 'Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"Betas" (2013)', '', '', '', '', '', 'Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Betas" (2013)', '', '', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Betas" (2013) {Pilot (#1.1)}', '', '', '', 'San Francisco, California, USA']	37.7790262	-122.4199061
+['"Beth, from Chicago" (2013)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Betrayal" (2013)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Better Man" (2013)', '', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Better Man" (2013)', '', '', '', '', 'Ho Chi Minh City, Vietnam']	10.6497452	106.76197937344351
+['"Between Bullets" (2013)', '', '', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Between Heaven & Hell" (2013)', '', '', '', 'Indianapolis, Indiana, USA']	39.7683331	-86.1583502
+['"Between Heaven & Hell" (2013)', '', '', '', 'Zionsville, Indiana, USA']	39.950724	-86.2616968
+['"Between Jupiter and Mars" (2013)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Between Two Firs" (2013)', '', '', '', 'Brielle, New Jersey, USA']	40.1078931	-74.0565263
+['"Between the Music" (2013)', '', '', '', 'Simulacra Studios, London, England, UK']	54.7023545	-3.2765753
+['"Between the Ropes" (2013)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Between the Sheets with Josh Macuga" (2013)', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beverly Hills Canine Country Club" (2013/II)', '', 'Bel Air, Los Angeles, California, USA']	34.0827278	-118.4479802
+['"Beverly Hills Canine Country Club" (2013/II)', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Beverly Hills Pawn" (2013)', '', '', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Beverly Hills Pawn" (2013) {Starships & Straight Shooters}', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Beverly Hills Pawn" (2013) {Starships & Straight Shooters}', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Beyond Borders: From the Emirates to the Philippines" (2013)', 'Abu Dhabi, United Arab Emirates']	24.39647445	54.536663086435915
+['"Beyond Borders: From the Emirates to the Philippines" (2013)', 'Philippines']	12.7503486	122.7312101
+['"Biblical History with Art Mokarow" (2013)', '', 'Conroe, Texas, USA']	30.3118769	-95.4560512
+['"Biciklo - Supercykeln" (2013)', '', '', '', 'Sweden']	59.6749712	14.5208584
+['"Big Brother Canada" (2013)', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Big Brother Canada" (2013)', '', '', '', 'Mississauga, Ontario, Canada']	43.590338	-79.645729
+['"Big Brother Canada" (2013)', '', '', '', 'Showline Studios, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Big Questions" (2013)', '', '', '', '', 'USA']	39.7837304	-100.4458825
+['"Big Questions" (2013)', '', '', '', '', 'Bangladesh']	24.4768783	90.2932426
+['"Big Questions" (2013)', '', '', '', '', 'Haiti']	19.1399952	-72.3570972
+['"Big Questions" (2013)', '', '', '', '', 'Tanzania']	-6.5247123	35.7878438
+['"Big Questions: Find Your Voice" (2013)', '', '', 'USA']	39.7837304	-100.4458825
+['"Big Questions: Find Your Voice" (2013)', '', '', 'Bangladesh']	24.4768783	90.2932426
+['"Big Questions: Find Your Voice" (2013)', '', '', 'Haiti']	19.1399952	-72.3570972
+['"Big Questions: Find Your Voice" (2013)', '', '', 'Ghana']	8.0300284	-1.0800271
+['"Big Questions: Find Your Voice" (2013)', '', '', 'Jordan']	31.1667049	36.941628
+['"Big Questions: Find Your Voice" (2013)', '', '', 'Tanzania']	-6.5247123	35.7878438
+['"Big Rich Atlanta" (2013)', '', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"Big School" (2013)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Big Tips Texas" (2013) {Bringing Down the House (#1.8)}', 'Colleyville, Texas, USA']	32.8809603	-97.155012
+['"Big Tips Texas" (2013) {Cowgirl Camp Out (#1.7)}', '701 N. Watson Road, Arlington, Texas, USA']	32.752626	-97.063599
+['"Big Tips Texas" (2013) {Marketing Mayhem (#1.3)}', 'Lewisville, Texas, USA']	33.046233	-96.994174
+['"Big Tips Texas" (2013) {Promotion Problems (#1.2)}', '701 N. Watson Road, Arlington, Texas, USA']	32.752626	-97.063599
+['"Big Tips Texas" (2013) {Promotion Problems (#1.2)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Big Tips Texas" (2013) {Promotion Problems (#1.2)}', 'Lewisville, Texas, USA']	33.046233	-96.994174
+['"Big Tips Texas" (2013) {Promotion Problems (#1.2)}', 'Colleyville, Texas, USA']	32.8809603	-97.155012
+['"Big Tips Texas" (2013) {Redneck Etiquette (#1.6)}', 'Dallas, Texas, USA']	32.7762719	-96.7968559
+['"Big Tips Texas" (2013) {Rumor Has It (#1.4)}', '', '701 N. Watson Road, Arlington, Texas, USA']	32.701938999999996	-97.10562379033699
+['"Big Tips Texas" (2013) {True Lies (#1.5)}', '', '701 N. Watson Road, Arlington, Texas, USA']	32.701938999999996	-97.10562379033699
+['"Big Tips Texas" (2013) {Welcome to Redneck Heaven (#1.1)}', '701 N. Watson Road, Arlington, Texas, USA']	32.701938999999996	-97.10562379033699
+['"Big Tips Texas" (2013) {Welcome to Redneck Heaven (#1.1)}', 'Justin, Texas, USA']	33.0848442	-97.2961286
+['"Big Tips Texas" (2013) {Welcome to Redneck Heaven (#1.1)}', 'Colleyville, Texas, USA']	32.8809603	-97.155012
+['"Big Tips Texas" (2013) {Welcome to Redneck Heaven (#1.1)}', 'Fort Worth, Texas, USA']	32.753177	-97.3327459
+['"Bigg Boss Kannada" (2013)', '', '', '', 'Pune, Maharashtra, India']	18.521428	73.8544541
+['"Bikinis & Boardwalks" (2013)', '', '', '', 'Coney Island, Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"Bikinis & Boardwalks" (2013) {Bikinis and Barbecue in Galveston, Texas (#3.2)}', 'Galveston, Texas, USA']	29.299328	-94.7945882

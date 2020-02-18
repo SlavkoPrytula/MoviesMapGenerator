@@ -1,0 +1,240 @@
+['"A Country Practice" (1981)', '', '', '', 'ATN-7 Studios - 61 Mobbs Lane, Epping, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Country Practice" (1981)', '', '', '', 'North Ryde Hospital, Sydney, New South Wales, Australia']	-33.79436115	151.13827817002567
+['"A Country Practice" (1981)', '', '', '', 'Pitt Town, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Country Practice" (1981)', '', '', '', 'Windsor, New South Wales, Australia']	-33.7472092	150.9500513
+['"A Town Like Alice" (1981)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"A Town Like Alice" (1981)', '', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"A Town Like Alice" (1981)', '', '', '', 'Farmcote Station, Broken Hill, New South Wales, Australia']	-31.965	141.4511111
+['"A Town Like Alice" (1981)', '', '', '', 'Kuala Lumpur, Malaysia']	3.1516964	101.6942371
+['"A Town Like Alice" (1981)', '', '', '', 'Longreach, Queensland, Australia']	-23.4378387	144.2586898
+['"A Town Like Alice" (1981)', '', '', '', 'New South Wales, Australia']	-31.8759835	147.2869493
+['"A Town Like Alice" (1981)', '', '', '', 'Silverton, New South Wales, Australia']	-31.8869094	141.2275456
+['"Ad Lib" (1981/I)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"All American Ultra Quiz" (1981)', '', '', 'Athens, Greece']	37.9841493	23.7279843
+['"All American Ultra Quiz" (1981)', '', '', 'Burbank, California, USA']	34.1816482	-118.3258554
+['"All American Ultra Quiz" (1981)', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"All American Ultra Quiz" (1981)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All American Ultra Quiz" (1981)', '', '', 'Paris, France']	48.8566969	2.3514616
+['"All American Ultra Quiz" (1981)', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"All American Ultra Quiz" (1981)', '', '', 'Washington, District of Columbia, USA']	38.8948932	-77.0365529
+['"All� Boubou" (1981)', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Aloha Paradise" (1981) {Best of Friends/Success/Nine Karats (#1.5)}', 'Kona Village Resort - 1 Kahuwai Bay Drive, Kailua-Kona, Hawaii, USA']	19.641941	-155.996933
+['"Aloha Paradise" (1981) {Best of Friends/Success/Nine Karats (#1.5)}', 'Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"American Dream" (1981)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Dream" (1981)', '', '', '', '', 'Park Ridge, Illinois, USA']	42.0111412	-87.8406192
+['"American Playhouse" (1981) {A Flash of Green (#5.11)}', 'Fort Myers, Florida, USA']	26.640628	-81.8723084
+['"American Playhouse" (1981) {A Matter of Principle (#4.2)}', 'Illinois & Michigan Canal National Heritage Corridor, Illinois, USA']	39.7837304	-100.4458825
+['"American Playhouse" (1981) {Adventures of Huckleberry Finn, Part I (#5.4)}', 'Maysville, Kentucky, USA']	38.6411854	-83.744365
+['"American Playhouse" (1981) {Adventures of Huckleberry Finn, Part I (#5.4)}', 'Mississippi River, Mississippi, USA']	32.35628785	-90.88296969649487
+['"American Playhouse" (1981) {Any Friend of Nicholas Nickleby Is a Friend of Mine (#1.5)}', 'Richmond, Illinois, USA']	42.4758522	-88.3059251
+['"American Playhouse" (1981) {Any Friend of Nicholas Nickleby Is a Friend of Mine (#1.5)}', 'Union, Illinois, USA']	37.4616454	-89.2504793
+['"American Playhouse" (1981) {Ask Me Again (#8.2)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Playhouse" (1981) {Carl Sandburg: Echoes and Silences (#1.8)}', 'Galesburg, Illinois, USA']	40.9479779	-90.3705842
+['"American Playhouse" (1981) {Charlotte Forten\'s Mission: Experiment in Freedom (#4.11)}', 'Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"American Playhouse" (1981) {Concealed Enemies, Part I: Suspicion (#3.14)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Playhouse" (1981) {Concealed Enemies, Part I: Suspicion (#3.14)}', 'Cambridge, Massachusetts, USA']	42.3750997	-71.1056157
+['"American Playhouse" (1981) {Displaced Person (#4.15)}', 'Germany']	51.0834196	10.4234469
+['"American Playhouse" (1981) {Eleanor: In Her Own Words (#6.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Playhouse" (1981) {Hughie (#3.13)}', '', 'Hyde Park Festival Theatre, Hyde Park, London, England, UK']	54.7023545	-3.2765753
+['"American Playhouse" (1981) {Into the Woods (#10.1)}', 'Martin Beck Theatre, 302 W. 45th Street, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Playhouse" (1981) {Land of Little Rain (#8.13)}', 'Colorado, USA']	38.7251776	-105.6077167
+['"American Playhouse" (1981) {Land of Little Rain (#8.13)}', 'New Mexico, USA']	39.7837304	-100.4458825
+['"American Playhouse" (1981) {My Palikari (#1.17)}', 'Sparta, Peloponese, Greece']	38.9953683	21.9877132
+['"American Playhouse" (1981) {Nightsongs (#4.13)}', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"American Playhouse" (1981) {Noon Wine (#4.6)}', '', 'Fredericksburg, Texas, USA']	30.2752011	-98.8719843
+['"American Playhouse" (1981) {Noon Wine (#4.6)}', '', 'Mason, Texas, USA']	30.705029	-99.2233284
+['"American Playhouse" (1981) {Overdrawn at the Memory Bank}', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"American Playhouse" (1981) {Painting Churches (#5.15)}', 'KCET Studios - 4401 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Playhouse" (1981) {Pigeon Feathers (#7.7)}', 'Colrain, Massachusetts, USA']	42.6728607	-72.6971665
+['"American Playhouse" (1981) {Pigeon Feathers (#7.7)}', 'Shelburne Falls, Massachusetts, USA']	42.6042515	-72.7392588
+['"American Playhouse" (1981) {Pigeon Feathers (#7.7)}', 'Shelburne, Massachusetts, USA']	42.5898074	-72.6884244
+['"American Playhouse" (1981) {Pilgrim, Farewell (#1.11)}', 'Massachusetts, USA']	42.3788774	-72.032366
+['"American Playhouse" (1981) {Pilgrim, Farewell (#1.11)}', 'New Hampshire, USA']	43.4849133	-71.6553992
+['"American Playhouse" (1981) {Pilgrim, Farewell (#1.11)}', 'Vermont, USA']	44.5990718	-72.5002608
+['"American Playhouse" (1981) {Porgy and Bess (#11.3)}', 'Shepperton Studios, Shepperton, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"American Playhouse" (1981) {Pudd\'nhead Wilson (#3.2)}', "Harper's Ferry, West Virginia, USA"]	39.323418	-77.7319766
+['"American Playhouse" (1981) {Seguin (#1.3)}', '', 'Brackettville, Texas, USA']	29.3135346	-100.4157576
+['"American Playhouse" (1981) {Solomon Northup\'s Odyssey (#4.3)}', 'Savannah, Georgia, USA']	32.0809263	-81.0911768
+['"American Playhouse" (1981) {The Ballad of Gregorio Cortez (#1.25)}', 'Cerrillos, New Mexico, USA']	35.437468	-106.12616314370078
+['"American Playhouse" (1981) {The Ballad of Gregorio Cortez (#1.25)}', 'Chama, New Mexico, USA']	36.9036557	-106.5798873
+['"American Playhouse" (1981) {The Ballad of Gregorio Cortez (#1.25)}', 'Cumbres & Toltec Scenic Railroad, Chama, New Mexico, USA']	36.902958	-106.5780094
+['"American Playhouse" (1981) {The Ballad of Gregorio Cortez (#1.25)}', 'Eaves Movie Ranch - 105 Rancho Alegre Road, Santa Fe, New Mexico, USA']	35.6869996	-105.9377997
+['"American Playhouse" (1981) {The Ballad of Gregorio Cortez (#1.25)}', 'Gonzales, Texas, USA']	29.4436555	-97.5108636
+['"American Playhouse" (1981) {The Ballad of Gregorio Cortez (#1.25)}', 'Las Vegas, New Mexico, USA']	35.5939325	-105.2238969
+['"American Playhouse" (1981) {The Ballad of Gregorio Cortez (#1.25)}', 'Santa Fe, New Mexico, USA']	35.6869996	-105.9377997
+['"American Playhouse" (1981) {The Cafeteria (#3.6)}', 'Dakota Hotel - 1 West 72nd St. at Central Park West, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Playhouse" (1981) {The Cafeteria (#3.6)}', 'Broadway, Manhattan, New York City, New York, USA']	40.7187523	-74.0024323
+['"American Playhouse" (1981) {The Cafeteria (#3.6)}', 'Embassy 72nd Street Theatre, 2089 Broadway, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"American Playhouse" (1981) {The Cafeteria (#3.6)}', "Dubrow's Cafeteria - 515 7th Avenue, Manhattan, New York City, New York, USA"]	39.7837304	-100.4458825
+['"American Playhouse" (1981) {The Great American Fourth of July and Other Disasters (#1.10)}', 'Belmont, Massachusetts, USA']	42.3959296	-71.1786655
+['"American Playhouse" (1981) {The Great Whodunit}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Playhouse" (1981) {The Prodigious Hickey (#6.2)}', 'Devonshire House, University of Toronto, Toronto, Ontario, Canada']	43.653963	-79.387207
+['"American Playhouse" (1981) {The Revolt of Mother (#7.6)}', 'Colrain, Massachusetts, USA']	42.6728607	-72.6971665
+['"American Playhouse" (1981) {The Roommate (#5.2)}', 'Northwestern University, Evanston, Illinois, USA']	42.0551164	-87.67581113482166
+['"American Playhouse" (1981) {The Skin of Our Teeth (#2.1)}', 'Old Globe Theater, San Diego, California, USA']	32.73221385	-117.15235313482941
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Danvers, Massachusetts, USA']	42.5750946	-70.9300507
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Hog Island, Ipswich, Massachusetts, USA']	42.66823365	-70.74804008985373
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Ipswich, Massachusetts, USA']	42.679273	-70.8411583
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Myopia Hunt Club - 435 Bay Road, South Hamilton, Massachusetts, USA']	42.6070387	-70.878661
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Rebecca Nurse House - 149 Pine Street, Danvers, Massachusetts, USA']	42.5750946	-70.9300507
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Salem, Massachusetts, USA']	42.5195292	-70.8967226
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Saugus, Massachusetts, USA']	42.4648183	-71.010051
+['"American Playhouse" (1981) {Three Sovereigns for Sarah: Part I (#4.18)}', 'Topsfield, Massachusetts, USA']	42.6375935	-70.9494966
+['"American Playhouse" (1981) {Tru (#12.1)}', '', 'Shubert Theatre, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Playhouse" (1981) {Under the Biltmore Clock (#4.14)}', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Playhouse" (1981) {Under the Biltmore Clock (#4.14)}', 'Illinois, USA']	40.0796606	-89.4337288
+['"American Playhouse" (1981) {Waiting for the Moon (#6.11)}', 'Nucourt, France']	49.1584379	1.8535991
+['"American Playhouse" (1981) {Waiting for the Moon (#6.11)}', 'Villers-en-Arthies, France']	49.0884444	1.7264055
+['"American Playhouse" (1981) {Who Am I This Time? (#1.4)}', 'Hinckley, Illinois, USA']	41.7689183	-88.640913
+['"American Playhouse" (1981) {Who Am I This Time? (#1.4)}', 'Evanston, Illinois, USA']	42.0447388	-87.6930459
+['"Amor meu" (1981)', '', '', '', '', 'Sant Cugat, Barcelona, Catalonia, Spain']	41.467969	2.0782386
+['"Amud Ha\'Esh" (1981)', '', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Another Life" (1981)', '', '', '', '', 'CBN Broadcast Center - 977 Centerville Turnpike, Virginia Beach, Virginia, USA']	36.795302500000005	-76.05092512258113
+['"Another Life" (1981)', '', '', '', '', 'Virginia Beach, Virginia, USA']	36.795302500000005	-76.05092512258113
+['"Atlantic City Alive" (1981)', '', '', '', 'Atlantic City, New Jersey, USA']	39.3642852	-74.4229351
+['"Au bon beurre" (1981)', '', '', '', '', '8 Boulevard de M�nilmontant, Cimeti�re du P�re Lachaise - 16 rue du Repos, Paris 20, Paris, France']	48.8566969	2.3514616
+['"Au bon beurre" (1981)', '', '', '', '', "Lyc�e Jean-Baptiste Say - 11bis Rue d'Auteuil, Paris 16, Paris, France"]	48.8566969	2.3514616
+['"Au bon beurre" (1981)', '', '', '', '', 'Rue Saint-Blaise, Paris 20, Paris, France']	48.8600002	2.4045051
+['"Au bon beurre" (1981)', '', '', '', '', 'Versigny, Oise, France']	49.1605248	2.7633412
+['"Barracas al sur" (1981)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.20)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barracas al sur" (1981) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Barriers" (1981)', '', '', '', '', 'Bamburgh, Northumberland, England, UK']	55.6074722	-1.7141346
+['"Barriers" (1981)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Barriers" (1981)', '', '', '', '', 'Munich, Bavaria, Germany']	48.1371079	11.5753822
+['"Barriers" (1981)', '', '', '', '', 'Salzburg, Austria']	47.7981346	13.0464806
+['"Bellamy" (1981) {Lorelei (#1.20)}', '', '', 'Elizabeth Bay House, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Bergerac" (1981)', '', '', '', '', 'Royal Square, St Helier, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', 'St Aubin, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', 'Near La Ville-�s-Renauds, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', 'Gorey, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', "Beach, St Brelade's Bay, Jersey, Channel Islands"]	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', "Beach, St Ouen's Bay, Jersey, Channel Islands"]	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', 'Bouches-du-Rh�ne, France']	46.603354	1.8883335
+['"Bergerac" (1981)', '', '', '', '', 'Brittany, France']	48.16282835	-2.684147344521837
+['"Bergerac" (1981)', '', '', '', '', "Ec�l� El�mentair�, St Mary's, Jersey, Channel Islands"]	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', 'Guernsey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', "Haute de la Garenne, St Martin's, Jersey, Channel Islands"]	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"Bergerac" (1981)', '', '', '', '', 'Mount Orgueil Castle, Gorey, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', 'St Helier, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', "St Ouen's Manor, Beau Port, Jersey, Channel Islands"]	60.6167942	-145.7996671
+['"Bergerac" (1981)', '', '', '', '', 'The Old Court House, St Aubin, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {A Touch of Eastern Promise (#3.6)}', 'Church Street, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Burnt (#6.4)}', '', '', 'Sark, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Campaign for Silence (#1.4)}', '', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Last Chance for a Loser (#1.7)}', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Late for a Funeral (#1.8)}', '', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Nice People Die in Bed (#1.2)}', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Picking It Up (#1.1)}', '', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Portrait of Yesterday (#1.6)}', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Portrait of Yesterday (#1.6)}', 'Windward House, Le Mont Sohier, St Brelade, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Prime Target (#2.4)}', '', '', '46 Avenue George V, Dinard, France']	48.6331906	-2.0516155
+['"Bergerac" (1981) {Relative Values (#1.9)}', '', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Second Time Around (#7.9)}', '', 'Le Boulevard, St Aubin, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {See You in Moscow (#1.5)}', '', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {The Hood and the Harlequin (#1.10)}', 'Noirmont Manor, Belcroute Bay, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {The Lohans (#9.10)}', '', '', 'Salisbury Cathedral, Salisbury, Wiltshire, England, UK']	51.06476595	-1.7976838460071554
+['"Bergerac" (1981) {The Lohans (#9.10)}', '', '', 'St Ann Street, Salisbury, Wiltshire, England, UK']	51.0658661	-1.7930351
+['"Bergerac" (1981) {The Messenger Boy (#8.9)}', '', 'Richmond Bridge, Richmond, Surrey, England, UK']	51.2715316	-0.3414523511290909
+['"Bergerac" (1981) {The Messenger Boy (#8.9)}', '', 'Light of Nepal - 268 King Street, Hammersmith, London, England, UK']	51.5073219	-0.1276474
+['"Bergerac" (1981) {Treasure Hunt (#5.9)}', '', 'New Scotland Yard, Broadway, Westminster, London, England, UK']	51.5073219	-0.1276474
+['"Bergerac" (1981) {Treasure Hunt (#5.9)}', '', "Whispering Gallery, St. Paul's Cathedral, Ludgate Hill, London, England, UK"]	51.5073219	-0.1276474
+['"Bergerac" (1981) {Tug of War (#3.9)}', '', '', 'Bon Air Apartments, La Grande Route De La Cote, St. Clement, Jersey, Channel Islands']	60.6167942	-145.7996671
+['"Bergerac" (1981) {Tug of War (#3.9)}', '', '', "L'Horizon Hotel, La Route de la Baie, St Brelades Bay, Jersey, Channel Islands"]	60.6167942	-145.7996671
+['"Best of the West" (1981)', '', '', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981)', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {A Man, a Woman, and a Horse (#1.13)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {A Man, a Woman, and a Horse (#1.13)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {A Man, a Woman, and a Horse (#1.13)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {Daniel Fights a Bully (#1.18)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {Daniel Fights a Bully (#1.18)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Daniel Fights a Bully (#1.18)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Daniel\'s First Love (#1.9)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Daniel\'s First Love (#1.9)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Daniel\'s First Love (#1.9)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {Elvira\'s Old Beau (#1.20)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {Elvira\'s Old Beau (#1.20)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Elvira\'s Old Beau (#1.20)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Frog\'s First Gunfight (#1.14)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {Frog\'s First Gunfight (#1.14)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Frog\'s First Gunfight (#1.14)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Laney in Love (#1.10)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Laney in Love (#1.10)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Laney in Love (#1.10)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {Mail Order Bride (#1.3)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Mail Order Bride (#1.3)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Mail Order Bride (#1.3)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {Pilot (#1.1)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Pilot (#1.1)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Pilot (#1.1)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {Sam\'s Life Is Threatened (#1.21)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {Sam\'s Life Is Threatened (#1.21)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {Sam\'s Life Is Threatened (#1.21)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Calico Kid Goes to School (#1.15)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {The Calico Kid Goes to School (#1.15)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Calico Kid Goes to School (#1.15)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Calico Kid Returns (#1.4)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Calico Kid Returns (#1.4)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Calico Kid Returns (#1.4)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {The Cave-In (#1.17)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {The Cave-In (#1.17)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Cave-In (#1.17)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Funeral (#1.22)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Funeral (#1.22)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Funeral (#1.22)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {The Hanging of Parker Tillman (#1.6)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Hanging of Parker Tillman (#1.6)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Hanging of Parker Tillman (#1.6)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {The Hanging of Parker Tillman: Part II (#1.7)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Hanging of Parker Tillman: Part II (#1.7)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Hanging of Parker Tillman: Part II (#1.7)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {The New Jail (#1.12)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The New Jail (#1.12)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The New Jail (#1.12)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {The New Marshal (#1.8)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The New Marshal (#1.8)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The New Marshal (#1.8)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {The Pretty Prisoner (#1.19)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Pretty Prisoner (#1.19)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Pretty Prisoner (#1.19)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {The Prisoner (#1.2)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Prisoner (#1.2)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.143159	-118.7381053
+['"Best of the West" (1981) {The Prisoner (#1.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Best of the West" (1981) {The Railroad (#1.11)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Railroad (#1.11)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Railroad (#1.11)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {The Reunion (#1.5)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Reunion (#1.5)}', '', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {The Reunion (#1.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {Tillman Held for Ransom (#1.16)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Best of the West" (1981) {Tillman Held for Ransom (#1.16)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768
+['"Best of the West" (1981) {Tillman Held for Ransom (#1.16)}', 'Paramount Ranch - 2813 Cornell Road, Agoura, California, USA']	34.1153986	-118.7565768

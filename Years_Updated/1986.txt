@@ -1,0 +1,233 @@
+['"$1,000,000 Chance of a Lifetime" (1986)', '', 'Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1986 American League Championship Series" (1986) {Game 1}', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"1986 World Series" (1986)', '', '', '', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"1986 World Series" (1986)', '', '', '', 'Shea Stadium - 12301 Roosevelt Avenue, Flushing Meadows Park, Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Quinta do Dois" (1986)', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Very Peculiar Practice" (1986)', '', '', 'University of Birmingham, Birmingham, West Midlands, England, UK']	52.4503129	-1.9296402
+['"A Very Peculiar Practice" (1986)', '', '', 'University of Keele, Keele, Staffordshire, England, UK']	52.824694199999996	-2.0074546723348115
+['"A Very Peculiar Practice" (1986) {A Very Long Way from Anywhere (#1.1)}', 'University of Warwick, Coventry, West Midlands, England, UK']	52.3793131	-1.5604252
+['"A Year in the Life" (1986)', '', '', '', 'Edmonds, Washington, USA']	47.8105738	-122.3774952
+['"A Year in the Life" (1986)', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"ALF" (1986)', '', '', '', '', '', '708 Moreno Avenue, Brentwood, Los Angeles, California, USA']	34.04338575	-118.48375388042763
+['"ALF" (1986) {A Little Bit of Soap (#1.14)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {A.L.F. (#1.1)}', '', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {ALF\'s Special Christmas: Part 1 (#2.12)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {ALF\'s Special Christmas: Part 2 (#2.13)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Alone Again, Naturally (#3.11)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Baby Love (#3.16)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Baby, Come Back (#4.1)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Baby, You Can Drive My Car (#1.10)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Border Song (#1.18)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Break Up to Make Up (#4.10)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Breaking Up Is Hard to Do (#3.3)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Can I Get a Witness? (#2.15)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Changes (#3.9)}', '', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Come Fly with Me (#1.26)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Consider Me Gone (#4.24)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Do You Believe in Magic? (#3.12)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Don\'t Be Afraid of the Dark (#3.22)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Don\'t It Make My Brown Eyes Blue? (#1.8)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Fever (#4.12)}', '', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Fight Back (#3.14)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {For Your Eyes Only (#1.6)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Funeral for a Friend (#3.21)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Future\'s So Bright, I Gotta Wear Shades (#4.18)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Gimme That Old Time Religion (#4.17)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Going Out of My Head Over You (#1.20)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Hail to the Chief (#2.11)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Happy Together (#4.11)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Have You Seen Your Mother, Baby, Standing in the Shadow? (#3.23)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Having My Baby (#3.26)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {He Ain\'t Heavy, He\'s Willie\'s Brother (#4.7)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Help Me, Rhonda (#1.7)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Hide Away (#3.13)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Hit Me with Your Best Shot (#2.21)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Hooked on a Feeling (#4.6)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Hungry Like the Wolf (#4.22)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {I Gotta Be Me (#4.23)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {I\'m Your Puppet (#2.23)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {I\'ve Got a New Attitude (#1.15)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Isn\'t It Romantic? (#2.10)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {It Isn\'t Easy... Bein\' Green (#1.22)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {It\'s My Party (#4.13)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Jump (#1.9)}', '', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Keepin\' the Faith (#1.5)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {La Cuckaracha (#1.25)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Lies (#4.2)}', '', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Like an Old Time Movie (#3.24)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Live and Let Die (#4.9)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Lookin\' Through the Windows (#1.21)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Looking for Lucky (#1.3)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Love on the Rocks (#4.15)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Make \'em Laugh (#4.14)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Mind Games (#4.5)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Mother and Child Reunion (#1.13)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Movin\' Out (#2.22)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Mr. Sandman (#4.20)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {My Back Pages (#3.10)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Night Train (#2.9)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Oh, Pretty Woman (#2.7)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Oh, Tannerbaum (#1.12)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {On the Road Again (#1.11)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Pennsylvania 6-5000 (#1.4)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Prime Time (#2.5)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Promises, Promises (#3.6)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Running Scared (#3.17)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Shake, Rattle and Roll (#3.25)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Some Enchanted Evening (#2.6)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Someone to Watch Over Me: Part 1 (#2.17)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Someone to Watch Over Me: Part 2 (#2.18)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Something\'s Wrong with Me (#2.8)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Somewhere Over the Rerun (#2.2)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Stairway to Heaven (#3.2)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Standing in the Shadows of Love (#3.18)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Stayin\' Alive (#4.21)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Stop in the Name of Love (#3.1)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Strangers in the Night (#1.2)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Superstition (#3.19)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Suspicious Minds (#3.15)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Take a Look at Me Now (#2.3)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Tequila (#2.24)}', '', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {The Boy Next Door (#2.14)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {The First Time Ever I Saw Your Face (#4.8)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {The Gambler (#1.23)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Tonight, Tonight: Part 1 (#3.4)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Tonight, Tonight: Part 2 (#3.5)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Torn Between Two Lovers (#3.20)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {True Colors (#4.16)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Try to Remember: Part 1 (#1.16)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Try to Remember: Part 2 (#1.17)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Turkey in the Straw: Part 1 (#3.7)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Turkey in the Straw: Part 2 (#3.8)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Varsity Drag (#2.26)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Wanted: Dead or Alive (#4.3)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {We Are Family (#2.25)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {We Gotta Get Out of This Place (#2.19)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {We\'re So Sorry, Uncle Albert (#2.16)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {We\'re in the Money (#4.4)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Wedding Bell Blues (#2.4)}', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Weird Science (#1.24)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {When I\'m 64 (#4.19)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Wild Thing (#1.19)}', '', '', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {Working My Way Back to You (#2.1)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"ALF" (1986) {You Ain\'t Nothin\' But a Hound Dog (#2.20)}', 'Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"Abunai deka" (1986)', '', '', '', '', 'Tokyo, Japan']	36.5748441	139.2394179
+['"Ad Lib" (1986)', '', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"Adderly" (1986)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Adriaen Brouwer" (1986)', '', '', '', 'Antwerp, Flanders, Belgium']	51.2211097	4.3997081
+['"Adventures with the Poorman" (1986)', '', '', 'Southern California, California, USA']	34.0218833	-118.28586726915088
+['"Air Waves" (1986)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Alice in Wonderland" (1986)', '', '', '', 'Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"Alice to Nowhere" (1986)', '', '', '', 'Broken Hill, New South Wales, Australia']	-31.965	141.4511111
+['"Alice to Nowhere" (1986)', '', '', '', 'Echuca, Victoria, Australia']	-36.1281405	144.7516955
+['"Alice to Nowhere" (1986)', '', '', '', 'Eldee Station, Wilangee Road, Silverton, New South Wales, Australia']	-31.8869094	141.2275456
+['"Alice to Nowhere" (1986)', '', '', '', 'Eureka Station, New South Wales, Australia']	-24.7761086	134.755
+['"Alice to Nowhere" (1986)', '', '', '', 'Flinders Ranges, South Australia, Australia']	-31.497	138.545
+['"Alice to Nowhere" (1986)', '', '', '', 'Greensborough, Victoria, Australia']	-37.7040276	145.1082164336504
+['"Alice to Nowhere" (1986)', '', '', '', 'Hawker, South Australia, Australia']	-31.8876169	138.4227131
+['"Alice to Nowhere" (1986)', '', '', '', 'Korong Vale, Victoria, Australia']	-36.3558831	143.7038791
+['"Alice to Nowhere" (1986)', '', '', '', 'New South Wales, Australia']	-24.7761086	134.755
+['"Alice to Nowhere" (1986)', '', '', '', 'South Australia, Australia']	-30.5343665	135.6301212
+['"Alice to Nowhere" (1986)', '', '', '', 'Victoria, Australia']	-36.5986096	144.6780052
+['"All Is Forgiven" (1986)', '', '', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {And Justice for Oliver (#1.6)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {And Sonia Makes Three (#1.3)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {I Can\'t Say No (#1.7)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {Matt at the Barricades (#1.9)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {Mother\'s Day (#1.5)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {On Air Commitment (#1.1)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {Past Perfect (#1.4)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {Paula Russell II (#1.8)}', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Is Forgiven" (1986) {With Child (#1.2)}', '', 'Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"All Passion Spent" (1986)', '', '', '', 'Victoria and Albert Museum, South Kensington, London, England, UK']	51.49683505	-0.171571771757845
+['"Amen" (1986)', '', '', '', '', '', 'Mt Pisgah Ame Church, 428 N 41st St., Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Amen" (1986)', '', '', '', '', '', 'Philadelphia, Pennsylvania, USA']	39.9527237	-75.1635262
+['"Amen" (1986)', '', '', '', '', '', 'Stage 31, Paramount Pictures - 5555 Melrose Ave. Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Amen" (1986)', '', '', '', '', '', 'Stage 31, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Amen" (1986) {The Last Supper (#3.20)}', '', '', 'NBC Studios - 3000 W. Alameda Avenue, Burbank, California, USA']	39.7837304	-100.4458825
+['"Amor prohibido" (1986)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.10)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.11)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.12)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.13)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.14)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.15)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.16)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.17)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.18)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.19)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.20)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.21)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.22)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.23)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.24)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.25)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.26)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.27)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.28)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.29)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.30)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.31)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.32)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.33)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.34)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.35)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.36)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.37)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.38)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.39)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.40)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.41)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.42)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.43)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.44)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.45)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.46)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.47)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.48)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.49)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.50)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.51)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.52)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.53)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.54)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.55)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.56)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.57)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.58)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.59)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.60)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.61)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.62)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.63)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.64)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.65)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.66)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.67)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.68)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.69)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.70)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.71)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.72)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.73)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.74)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.75)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.76)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.77)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Amor prohibido" (1986) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Animais de Portugal" (1986)', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"Animais de Portugal" (1986) {A Cegonha Branca (#1.1)}', 'Alentejo, Portugal']	38.0551003	-7.8605799
+['"Animais de Portugal" (1986) {A Cegonha Negra (#1.2)}', 'International Tagus River, Portugal']	40.0332629	-7.8896263
+['"Animais de Portugal" (1986) {A Cegonha Negra (#1.2)}', 'Alentejo, Portugal']	40.0332629	-7.8896263
+['"Animais de Portugal" (1986) {As Ilhas Desertas (#1.3)}', 'Desert Islands, Madeira, Portugal']	32.50225905	-16.49733010505137
+['"Ave F�nix" (1986)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Bachelor Pad" (1986)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Beadle\'s About" (1986)', '', '', '', '', 'The London Studios, Upper Ground, South Bank, Lambeth, London, England, UK']	51.5073219	-0.1276474

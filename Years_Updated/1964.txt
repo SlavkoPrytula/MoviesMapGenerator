@@ -1,0 +1,148 @@
+['"12 O\'Clock High" (1964)', '', '', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964)', '', '', '', 'Chino Airport - 7000 Merrill Avenue, Chino, California, USA']	34.0133561	-117.690075
+['"12 O\'Clock High" (1964) {A Distant Cry (#3.5)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {A Long Time Dead (#3.16)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {An Act of War (#1.14)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Angel Babe (#2.24)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Appointment at Liege (#1.9)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Back to the Drawing Board (#2.21)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Between the Lines (#2.14)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Big Brother (#2.5)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Burden of Guilt (#3.11)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Cross-Hairs on Death (#2.27)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Day of Reckoning (#2.28)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Decision (#1.7)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Decoy (#2.25)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {End of the Line (#1.24)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Face of a Shadow (#3.3)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Faith, Hope and Sergeant Aronson (#1.19)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Falling Star (#2.16)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Follow the Leader (#1.2)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Fortress Wiesbaden (#3.4)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Gauntlet of Fire (#3.1)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Golden Boy Had Nine Black Sheep (#1.1)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Grant Me No Favor (#2.10)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Graveyard (#3.15)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Here\'s to Courageous Cowards (#1.11)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {I Am the Enemy (#2.9)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {In Search of My Enemy (#1.16)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Interlude (#1.10)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Massacre (#3.2)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Mutiny at Ten Thousand Feet (#1.26)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {P.O.W.: Part One (#1.30)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {P.O.W.: Part Two (#1.31)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Practice to Deceive (#3.6)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Pressure Point (#1.6)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {R/X for a Sick Bird (#2.2)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Runway in the Dark (#2.8)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Show Me a Hero, I\'ll Show You a Bum (#2.7)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Siren Voices (#2.29)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Six Feet Under (#3.13)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Soldiers Sometimes Kill (#1.12)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Storm at Twilight (#2.11)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Target 802 (#2.15)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Ace (#3.12)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Albatross (#1.17)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The All-American (#3.7)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Clash (#1.21)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Climate of Doubt (#1.5)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Duel at Mont Sainte Marie (#3.14)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Fighter Pilot (#3.9)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Hero (#1.32)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Hero (#1.32)}', '', 'Chino, California, USA']	34.0133561	-117.690075
+['"12 O\'Clock High" (1964) {The Hollow Man (#2.26)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Hotshot (#2.6)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Hours Before Dawn (#1.8)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Hunters and the Killers (#3.17)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Idolator (#2.4)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Jones Boys (#2.13)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Loneliest Place in the World (#2.1)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Lorelei (#1.18)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Men and the Boys (#1.3)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Mission (#1.27)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Outsider (#2.20)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Pariah (#3.8)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Slaughter Pen (#2.17)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Sound of Distant Thunder (#1.4)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Survivor (#2.23)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Suspected (#1.13)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Threat (#1.25)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Ticket (#1.22)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {The Trap (#1.23)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Then Came the Mighty Hunter (#2.3)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Those Who Are About to Die (#1.15)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {To Heinie, with Love (#1.20)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {To Heinie, with Love (#1.20)}', 'Chino, California, USA']	34.0133561	-117.690075
+['"12 O\'Clock High" (1964) {To Seek and Destroy (#3.10)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Twenty Fifth Mission (#2.22)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Underground (#2.18)}', '', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {V for Vendetta (#1.29)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {We\'re Not Coming Back (#2.12)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"12 O\'Clock High" (1964) {Which Way the Wind Blows (#2.19)}', '20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"24 no hitomi" (1964)', '', '', '', '', 'Kagawa, Japan']	34.2480104	134.0586579
+['"A Flame in the Wind" (1964)', '', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(#1.1)}', '', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(1965-02-02)}', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(1965-07-16)}', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(1966-09-12)}', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(1966-09-13)}', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(1966-09-14)}', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(1966-09-15)}', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(1966-09-27)}', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Flame in the Wind" (1964) {(1966-12-16)}', '', 'ABC Studios, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"A Man Dies" (1964)', '', '', '', '', 'Royal Albert Hall, South Kensington, London, England, UK']	51.501004449999996	-0.17739457896545874
+['"A TV Atrav�s dos Tempos" (1964)', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A Tenkes kapit�nya" (1964)', '', '', '', 'Nagyv�zsony, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {A puskapor (#1.9)}', '', 'Nemesv�mos, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {A t�zs�r (#1.5)}', '', 'Nagyv�zsony, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {A t�zs�r (#1.5)}', '', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {A v�ndordi�k (#1.7)}', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {A v�s�r (#1.6)}', '', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {A v�rd�j (#1.1)}', '', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {Az embervad�szat (#1.2)}', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {Buga Jakab (#1.3)}', '', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {Buga Jakab (#1.3)}', '', 'Nagyv�zsony, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {Csattan az ostor (#1.13)}', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {Fogs�gban (#1.11)}', '', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {Nincs kegyelem (#1.12)}', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"A Tenkes kapit�nya" (1964) {Veronika (#1.8)}', '', 'Sikl�s, Hungary']	47.1817585	19.5060937
+['"ABC Scope" (1964) {The Face of Watts (#1.21)}', '', 'Watts, Los Angeles, California, USA']	33.9405674	-118.2428485
+['"ABC Scope" (1964) {Vietnam Report: Cambodia - Neutral in the Middle (#2.49)}', 'Cambodia']	13.5066394	104.869423
+['"America\'s Crises" (1964) {Mental Health: The Emotional Dilemma}', 'Great Bend, Kansas, USA']	38.3625063	-98.7804087
+['"America\'s Crises" (1964) {Mental Health: The Emotional Dilemma}', 'South Shore Community Mental Health Center, Quincy, Massachusetts, USA']	39.7837304	-100.4458825
+['"America\'s Crises" (1964) {Mental Health: The Emotional Dilemma}', 'Massachusetts Mental Health Center, Boston, Massachusetts, USA']	42.336118	-71.10866325597719
+['"Another World" (1964)', '', '', '', '', 'Arizona, USA']	39.7837304	-100.4458825
+['"Another World" (1964)', '', '', '', '', 'Banff, Banff National Park, Alberta, Canada']	51.1777781	-115.5682504
+['"Another World" (1964)', '', '', '', '', 'Brooklyn Botanic Garden, Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"Another World" (1964)', '', '', '', '', 'Central Park, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"Another World" (1964)', '', '', '', '', 'JC Studios, Brooklyn, New York City, New York, USA']	39.7837304	-100.4458825
+['"Another World" (1964)', '', '', '', '', 'Lake Louise, Banff National Park, Alberta, Canada']	51.4881335	-115.93804975198333
+['"Another World" (1964)', '', '', '', '', 'Mallorca, Balearic Islands, Spain']	39.6134018	2.8804305326400756
+['"Another World" (1964)', '', '', '', '', 'Nice, Alpes-Maritimes, France']	43.7009358	7.2683912
+['"Another World" (1964)', '', '', '', '', 'St. Croix, U.S. Virgin Islands']	17.789187	-64.7080574
+['"Another World" (1964)', '', '', '', '', 'Washington Square Park, Greenwich Village, Manhattan, New York City, New York, USA']	40.73089125	-73.99758503833021
+['"Another World" (1964)', '', '', '', '', 'Wyoming, USA']	39.7837304	-100.4458825
+['"Another World" (1964) {(#1.153)}', '', '', 'JC Studios, Brooklyn, New York City, New York, USA']	39.7837304	-100.4458825
+['"Another World" (1964) {(#1.539)}', '', '', 'JC Studios, Brooklyn, New York City, New York, USA']	39.7837304	-100.4458825
+['"Another World" (1964) {(#1.540)}', '', '', 'JC Studios, Brooklyn, New York City, New York, USA']	39.7837304	-100.4458825
+['"Another World" (1964) {(#1.5762)}', '', '', 'JC Studios, Brooklyn, New York City, New York, USA']	39.7837304	-100.4458825
+['"Another World" (1964) {(#1.664)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Another World" (1964) {(1965-07-16)}', '', '', 'JC Studios, Brooklyn, New York City, New York, USA']	39.7837304	-100.4458825
+['"Another World" (1964) {(1966-01-03)}', '', '', 'JC Studios, Brooklyn, New York City, New York, USA']	39.7837304	-100.4458825
+['"Another World" (1964) {(1966-09-12)}', '', '', 'Brooklyn, New York City, New York, USA']	40.7127281	-74.0060152
+['"Another World" (1964) {(1966-09-13)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Another World" (1964) {(1966-09-14)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Another World" (1964) {(1966-09-15)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Another World" (1964) {(1966-09-23)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Another World" (1964) {(1966-09-27)}', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Apasionada" (1964)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"BBC-2 Showcase" (1964)', '', '', '', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Beauty and the Beast" (1964)', '', '', '', 'ATN-7 Studios - 61 Mobbs Lane, Epping, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Bewitched" (1964)', '', '', '', '', 'Blondie Street, Columbia/Warner Bros. Ranch - 411 North Hollywood Way, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bewitched" (1964)', '', '', '', '', 'Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bewitched" (1964)', '', '', '', '', 'Swimming Pool, Columbia/Warner Bros. Ranch - 411 North Hollywood Way, Burbank, California, USA']	34.1816482	-118.3258554
+['"Bewitched" (1964) {Darrin on a Pedestal (#7.5)}', "Gloucester Fisherman's Memorial, Gloucester, Massachusetts, USA"]	39.7837304	-100.4458825
+['"Bewitched" (1964) {Darrin on a Pedestal (#7.5)}', 'The Gloucester House - 63 Rogers St, Gloucester, Massachusetts, USA']	42.6159286	-70.6619888
+['"Bewitched" (1964) {Tabitha\'s First Day at School (#8.20)}', 'Hubert Howe Bancroft Middle School, Hollywood, Los Angeles, California, USA']	34.0875095	-118.3370213
+['"Bewitched" (1964) {Witch or Wife (#1.8)}', '', 'Arc de Triomphe, Paris 8, Paris, France']	48.8566969	2.3514616
+['"Bewitched" (1964) {Witch or Wife (#1.8)}', '', 'Paris, France']	48.8566969	2.3514616

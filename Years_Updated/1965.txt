@@ -1,0 +1,378 @@
+['"11pm" (1965)', '', '', '', '', '', 'Osaka, Japan']	34.6198813	135.490357
+['"11pm" (1965)', '', '', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"1965 World Series" (1965) {Game 1}', '', '', 'Metropolitan Stadium, Minneapolis, Minnesota, USA']	39.7837304	-100.4458825
+['"1965 World Series" (1965) {Game 2}', '', '', 'Metropolitan Stadium, Minneapolis, Minnesota, USA']	39.7837304	-100.4458825
+['"1965 World Series" (1965) {Game 3}', '', '', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1965 World Series" (1965) {Game 4}', '', '', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1965 World Series" (1965) {Game 5}', '', '', 'Dodger Stadium - 1000 Vin Scully Avenue, Chavez Ravine, Elysian Park, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"1965 World Series" (1965) {Game 6}', '', '', 'Metropolitan Stadium, Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"1965 World Series" (1965) {Game 7}', '', '', 'Metropolitan Stadium, Minneapolis, Minnesota, USA']	44.9772995	-93.2654692
+['"9th Street West" (1965)', '', '', '', 'KHJ-TV Studios, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Man Called Shenandoah" (1965)', '', '', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"A Man Called Shenandoah" (1965)', '', '', 'Apacheland Studios - 4369 S. Kings Ranch Road, Gold Canyon, Arizona, USA']	33.3710715	-111.42618498017515
+['"A Man Called Shenandoah" (1965)', '', '', 'Fredonia, Arizona, USA']	36.945542	-112.5265889
+['"A Man Called Shenandoah" (1965)', '', '', 'Colorado City, Arizona, USA']	36.9902621	-112.9757702
+['"A Man Called Shenandoah" (1965)', '', '', 'Mammoth Lakes, California, USA']	37.6268015	-118.84674999730211
+['"A Man Called Shenandoah" (1965)', '', '', 'Lancaster, California, USA']	34.6981064	-118.1366153
+['"A Man Called Shenandoah" (1965)', '', '', 'Mojave Desert, Arizona, USA']	34.8184036	-114.6011118
+['"A Man Called Shenandoah" (1965)', '', '', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {A Long Way Home (#1.20)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {A Special Talent for Killing (#1.12)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Aces and Kings (#1.28)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {An Unfamiliar Tune (#1.30)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Care of General Delivery (#1.33)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {End of a Legend (#1.21)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Incident at Dry Creek (#1.9)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Macauley\'s Cure (#1.34)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Marlee (#1.26)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Muted Fifes, Muffled Drums (#1.24)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Obion - 1866 (#1.6)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Plunder (#1.25)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Requiem for the Second (#1.32)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Rope\'s End (#1.18)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Run and Hide (#1.22)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Run, Killer, Run (#1.17)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Survival (#1.2)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Accused (#1.16)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Bell (#1.14)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Caller (#1.4)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Clown (#1.31)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Death of Matthew Eldridge (#1.27)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Debt (#1.5)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Fort (#1.3)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Imposter (#1.29)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Locket (#1.10)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Lost Diablo (#1.19)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Onslaught (#1.1)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Reward (#1.11)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Riley Brand (#1.23)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Siege (#1.13)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Verdict (#1.7)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {The Young Outlaw (#1.15)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Man Called Shenandoah" (1965) {Town on Fire (#1.8)}', 'Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA']	34.0211224	-118.3964665
+['"A Poor Gentleman" (1965)', '', '', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Adventures of the Seaspray" (1965)', '', '', 'Fiji']	-18.1239696	179.0122737
+['"Adventures of the Seaspray" (1965)', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Adventures of the Seaspray" (1965)', '', '', 'New Guinea']	-5.52259885	142.0871176270332
+['"Adventures of the Seaspray" (1965)', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Adventures of the Seaspray" (1965)', '', '', 'Wellington, New Zealand']	-41.5000831	172.8344077
+['"Adventures of the Seaspray" (1965) {A Deadly Game (#1.30)}', 'New South Wales, Australia']	-31.8759835	147.2869493
+['"Adventures of the Seaspray" (1965) {Battle of Copra Island (#1.3)}', 'Fiji']	-18.1239696	179.0122737
+['"Adventures of the Seaspray" (1965) {Cave of Death (#1.17)}', 'New Guinea']	-5.52259885	142.0871176270332
+['"Adventures of the Seaspray" (1965) {Deadly Magic (#1.24)}', 'New Guinea']	-5.52259885	142.0871176270332
+['"Adventures of the Seaspray" (1965) {Doublecross (#1.31)}', 'Melbourne, Australia']	-24.7761086	134.755
+['"Adventures of the Seaspray" (1965) {Mutiny on the Seaspray (#1.0)}', 'Fiji']	-18.1239696	179.0122737
+['"Adventures of the Seaspray" (1965) {Rain of Death (#1.23)}', 'New Zealand']	-41.5000831	172.8344077
+['"Adventures of the Seaspray" (1965) {Shipwrecked (#1.26)}', 'New Guinea']	-5.52259885	142.0871176270332
+['"Adventures of the Seaspray" (1965) {Stalemate (#1.4)}', 'Fiji']	-18.1239696	179.0122737
+['"Adventures of the Seaspray" (1965) {Stalemate (#1.4)}', 'Levuka, Fiji']	-17.6806903	178.8333993
+['"Adventures of the Seaspray" (1965) {The Dangerous Trek (#1.29)}', 'MacKenzie Country, New Zealand']	-44.2631293	170.1003782
+['"Adventures of the Seaspray" (1965) {The Death Dancers (#1.22)}', 'New Guinea']	-5.52259885	142.0871176270332
+['"Adventures of the Seaspray" (1965) {The Hostages (#1.7)}', 'New Zealand']	-41.5000831	172.8344077
+['"Adventures of the Seaspray" (1965) {The Hostages (#1.7)}', 'Abel Tasman National Park, South Island, Tasman region, New Zealand']	-41.5000831	172.8344077
+['"Adventures of the Seaspray" (1965) {The Hunt (#1.8)}', 'Fiji']	-18.1239696	179.0122737
+['"Adventures of the Seaspray" (1965) {The Loaded Cocanut (#1.12)}', 'Fiji']	-18.1239696	179.0122737
+['"Adventures of the Seaspray" (1965) {The Surfers (#1.18)}', 'Bondi Beach, Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Adventures of the Seaspray" (1965) {The Surfers (#1.18)}', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Adventures of the Seaspray" (1965) {The Switch (#1.10)}', 'New Zealand']	-41.5000831	172.8344077
+['"Adventures of the Seaspray" (1965) {The Switch (#1.10)}', 'Wellington, New Zealand']	-41.2887953	174.7772114
+['"Adventures of the Seaspray" (1965) {Trapped (#1.5)}', 'Fiji']	-18.1239696	179.0122737
+['"Adventures of the Seaspray" (1965) {Treasure of Ruala (#1.16)}', 'Fiji']	-18.1239696	179.0122737
+['"Alma de mi alma" (1965)', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Alta comedia" (1965)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {A toda costa}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {A veces, extra�o}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Agua en las manos}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Al pan, pan}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Alfonsina}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Amados m�os}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Amarga verdad}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Amor de fin de semana}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Amor de madre}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ana de los infiernos}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Asunto de hombres}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ayer fue primavera}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {A�os de amor y coraje}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Bajo la piel del cordero}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Bel ami}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Bell�sima}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Bodas de porcelana}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Bombones suizos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Borr�n y cuenta nueva}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Buenos mensajes}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cambio de imagen}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Carmelita y los hombres}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Carnet de baile}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Carrera de amor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cartas de amor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Casa de mu�ecas}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Casco de oro}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Casi un parto}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ca�n}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cinco lobitos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cinco minutos despu�s}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cita de amor en a�o nuevo}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Como casarse en siete d�as}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Como dos extra�os}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Como rama seca}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Como t� me deseas}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Con u�as y dientes}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Condenados}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Corazones enemigos}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Coraz�n que no siente}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Correo del coraz�n}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Corrupci�n el el Palacio de Justicia}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cr�men y castigo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cuando estemos casados}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cuando las mujeres pueden a los hombres}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cuatro pasos en las nubes}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Cumbres borrascosas}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Dama de arrabal}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {De Becquer con amor}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {De carne somos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {De sus propias cenizas}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {De uno o de ninguno}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Desnudar el alma}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Dos centavos de esperanxa}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Due�o de Navidad}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El Lobo}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El Puente de Waterloo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El T�o Vania}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El alma del diablo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El amante complaciente}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El amor de un mendigo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El amor de una perdida}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El buen mozo}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El caso de Elizabeth Williams}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El castigo del odio}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El cuervo}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El cumplea�os de la se�ora Capper}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El enga�o}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El gorro de cascabeles}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El hombre de mi vida}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El hombre m�s feo del mundo}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El hombre que yo mat�}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El inquilino desconocido}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El maestro Evans}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El mal amor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El mar profundo y azul}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El minuto final}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El mundo que conocimos}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El m�s feliz de los tres}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El pan de la locura}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El perjurio de la nieve}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El poder}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El premio}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El proceso a Mary Duggan}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El proceso de Mary Duggan}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El pr�ncipe y la corista}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El sitio vac�o}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El tobog�n}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El tramposo}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El �lbum de la buela}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El �ngel azul}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El �ngel de la muerte}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El �ngel desnudo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El �ngel perdido}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {El �dolo de barro}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Elisa pidi� un deseo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Enlace con la muerte}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Entre begonias y margaritas}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Envidia}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Esa desconocida}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Esperando la carroza}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Esp�ritu travieso}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Estaci�n libertad}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Fedra}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Frente a la verdad}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Golpes cruzados}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ha llegado un inspector}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Hijo y rival}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Homenaje al sainete argentino}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Hondo es el silencio}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Hoy digo basta}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Juegos de venganza}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La Hermana de San Suplicio}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La Se�orita Julia}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La Yoli}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La amarga victoria}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La ara�a madre}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La ara�a}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La barca sin pescador}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La brava}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La carta}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La casa de los siete balcones}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La casa junto al r�o}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La condici�n er�tica}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La dama de las camelias (II)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La dama de las camelias}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La dama del Chez Maxim}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La dama del mar}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La dama del perrito}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La dom�stica}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La encrucijada}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La esperanza de un ma�ana}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La gaviota}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La hija de Iorio}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La infame}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La loba}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La loca de Montserrat}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La muerte de un viajante}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La mujer del domingo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La m�quina de descubrir}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La ninfa constante}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La noche del s�bado}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La picaz�n del s�ptimo a�o}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La primavera del invierno}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La sangre de los Ortiz}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La sombra de una infamia}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La sombra de una mujer}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La sombra}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La tercera palabra}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La tierra grita}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La traici�n de los sue�os}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La t�a Chela}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La vestidora}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La vida es otra cosa}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La vida que te di}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La vida seg�n Paco}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {La �ltima estaci�n}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Landr�}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Las de Barranco}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Las ganas de vivir}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Las tres hermanas}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Las vueltas de la vida}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Lluvia}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Lola Montes}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los amorosos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los an�nimos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los cobardes}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los f�sicos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los infieles}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los maridos de mis amigas}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los miserables}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los muertos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los pulpos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los sue�os en el desv�n}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Los �rboles mueren de pie}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Lus de gas}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mami�a}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mam� empez� a trabajar}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Man�n}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Marianela}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Marius}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mar�a}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mata Hari}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mayerling}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ma�ana es demasiado tarde}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Me case con un �ngel}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Memorias de una mala mujer}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Men� variado}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mesas separadas}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mi Prima Raquel}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mi casa, tu casa, nuestra casa}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mi hijo debe nacer}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mi hijo vive}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mi marido hoy duerme en casa}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Misha}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Morir a tiempo}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Muerte civil}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mujer de hoy}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Mujeres feas}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {M�s que m�sica}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Nada menos que todo un hombre}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Nan�}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Negrita querida}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Nina}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ninoshka}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ninoska}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Nocturno}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Nostradamus}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Nueve caras de amor}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Nunca mates con caviar}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ocho mujeres}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Pablo y Virginia}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Pan de locura}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Panorama desde el puente}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Pap� Lebonard}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Partida en dos}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Pasi�n en Mallorca}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Pasos en el desv�n}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Pelo de zanahoria}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Pintar� mi sombra de rojo}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Pi�nsalo Gi�como}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Poca cosa}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {P�jaro de barro}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Quico}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Qui�n mat� a Mar�a Raquel?}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Rasput�n}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Recuerdo a mam�}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Rito de adviento}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Robo a mano armada}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Rojo y negro}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Rompecabezas}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Sauna de caballeros}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Senderos cruzados}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Septiembre 6 de 1930}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Servidumbre humana}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Sin anestesia}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Sin salida}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Sof�a en crisis}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Soledad de una ca�da}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Sue�o de amor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Teresa Raqu�n}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Tesoros en el cielo}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Tevi�, el lechero}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Tiempo de re�r, tiempo de llorar}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Tierra abajo}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Todo el a�os es Navidad}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Todo sea para bien}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Todos eran mis hijos}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Topaze}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Tovarich}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Trampa para un hombre solo}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Trampa para un so�ador}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Treinta dineros}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un amor de ultratumba}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un asunto de conciencia}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un coraz�n comprometido}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un futuro brillante}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un inmenso amor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un largo camino sin final}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un largo sue�o de amor}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un matrimonio inmoral}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un minuto de felicidad}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un solo verano de amor}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un sombrero lleno de lluvia}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Un stress muy particular}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Una infinita soledad}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Una mujer sin importancia}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Uniforme blanco}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Vanina Vanini}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {Ver el abismo}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {V�ndame su hijo}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {�Cu�ndo nos casamos?}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {�Qui�n mat� al abuelo?}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {�Qu� pas� con Leticia?}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alta comedia" (1965) {�nico oto�o}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Anatomy of the Film" (1965)', '', '', '', "BBC Television Centre, Wood Lane, Shepherd's Bush, London, England, UK"]	51.5073219	-0.1276474
+['"Aspekte" (1965) {(2012-07-13)}', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"BBC Play of the Month" (1965) {A Midsummer Night\'s Dream (#7.1)}', 'Scotney Castle, Lamberhurst, Royal Tunbridge Wells, Kent, England, UK']	51.2474823	0.7105077
+['"BBC Play of the Month" (1965) {Love\'s Labour\'s Lost (#11.3)}', 'Glyndebourne, East Sussex, England, UK']	50.9404529	0.3699899035008595
+['"BBC Play of the Month" (1965) {Robinson Crusoe (#10.4)}', 'Island of Tobago, West Indies']	50.83635905	0.46200259218102946
+['"BBC Play of the Month" (1965) {The Adventures of Don Quixote (#8.5)}', 'La Mancha, Castilla-La Mancha, Spain']	39.1189844	-3.4716178
+['"BBC Play of the Month" (1965) {The Love Girl and the Innocent (#9.1)}', 'RAF Weybourne, Weybourne, Norfolk, England, UK']	52.666667	1.0
+['"BBC Play of the Month" (1965) {The Recruiting Officer (#9.3)}', 'Hazelbury Manor, Wiltshire, England, UK']	51.41382765	-2.2402131209575344
+['"BBC Play of the Month" (1965) {The Recruiting Officer (#9.3)}', 'Lacock Abbey, Lacock, Wiltshire, England, UK']	51.414805799999996	-2.116884983623922
+['"BBC Show of the Week" (1965) {Johnny Mathis}', '', 'Apollo Theatre, Glasgow, Strathclyde, Scotland, UK']	55.8618812	-4.241956565778082
+['"BBC Show of the Week" (1965) {Marlene Dietrich Sings}', 'Berns Salonger, Norrmalm, Stockholm, Stockholms l�n, Sweden']	59.6749712	14.5208584
+['"BBC Show of the Week" (1965) {The Diana Ross Show}', 'Royal Albert Hall, South Kensington, London, England, UK']	51.501004449999996	-0.17739457896545874
+['"BBC Show of the Week" (1965) {The Girls of Takarazuka}', 'Paris, France']	48.8566969	2.3514616
+['"BBC Show of the Week" (1965) {Tony Bennett Sings ...}', 'Royal Albert Hall, South Kensington, London, England, UK']	51.501004449999996	-0.17739457896545874
+['"Baltia t�n��n" (1965)', '', '', '', '', 'Estonia']	58.7523778	25.3319078
+['"Baltia t�n��n" (1965)', '', '', '', '', 'Latvia']	56.8406494	24.7537645
+['"Baltia t�n��n" (1965)', '', '', '', '', 'Lithuania']	55.3500003	23.7499997
+['"Barbara i Jan" (1965)', '', '', '', '', 'Warsaw, Mazowieckie, Poland']	52.2337172	21.07141112883227
+['"Beat-Club" (1965)', '', '', '', '', 'Funkausstellung Berlin 1967, Berlin, Germany']	51.0834196	10.4234469
+['"Beat-Club" (1965)', '', '', '', '', 'Marquee Club, Islington, London, England, UK']	51.5073219	-0.1276474
+['"Beat-Club" (1965) {(#1.18)}', '', '', '', 'Marquee Club, Islington, London, England, UK']	51.5073219	-0.1276474

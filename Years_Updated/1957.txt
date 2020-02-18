@@ -1,0 +1,241 @@
+['"1957 World Series" (1957)', '', '', '', 'Milwaukee County Stadium - 201 South 46th Street, Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"1957 World Series" (1957)', '', '', '', 'Yankee Stadium - E. 161st Street & River Avenue, Bronx, New York City, New York, USA']	40.7127281	-74.0060152
+['"26 Men" (1957)', '', '', '', '', '', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"26 Men" (1957)', '', '', '', '', '', 'Placerita Canyon, California, USA']	34.3811579	-118.414428
+['"26 Men" (1957)', '', '', '', '', '', 'Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"26 Men" (1957)', '', '', '', '', '', 'Apache Junction, Arizona, USA']	33.4150484	-111.5495439
+['"26 Men" (1957)', '', '', '', '', '', 'Superstition Mountains, Arizona, USA']	33.4286606	-111.4181856
+['"26 Men" (1957)', '', '', '', '', '', 'Usury Mountain, Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"26 Men" (1957)', '', '', '', '', '', 'Tonto National Forest, Arizona, USA']	33.8155875	-111.30698734232479
+['"26 Men" (1957)', '', '', '', '', '', 'Apache Leap Mountain, Superior, Arizona, USA']	33.293945	-111.0962305
+['"26 Men" (1957)', '', '', '', '', '', 'Picketpost Mountain, Superior, Arizona, USA']	33.293945	-111.0962305
+['"26 Men" (1957)', '', '', '', '', '', 'San Xavier, Arizona, USA']	31.9736921	-111.0950951
+['"26 Men" (1957)', '', '', '', '', '', 'Sierrita Mountains, Arizona, USA']	39.7837304	-100.4458825
+['"26 Men" (1957)', '', '', '', '', '', 'Tucson Mountains, Arizona, USA']	39.7837304	-100.4458825
+['"26 Men" (1957)', '', '', '', '', '', 'Sonoran Desert, Arizona, USA']	32.2598642	-112.9262583
+['"26 Men" (1957)', '', '', '', '', '', 'Superstition Wilderness, Arizona, USA']	33.491928	-111.25590529904564
+['"26 Men" (1957)', '', '', '', '', '', 'Cudia City Studios, Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"26 Men" (1957)', '', '', '', '', '', 'Camelback Mountain, Phoenix, Arizona, USA']	33.5144398	-111.9618347
+['"26 Men" (1957)', '', '', '', '', '', 'Pinnacle Peak, Phoenix, Arizona, USA']	33.70277085	-112.02708568751879
+['"26 Men" (1957)', '', '', '', '', '', 'Ironwood Forest National Monument, Arizona, USA']	32.4449519	-111.65212774769238
+['"26 Men" (1957)', '', '', '', '', '', 'Ray, Arizona, USA']	33.1070069	-110.9631677
+['"26 Men" (1957)', '', '', '', '', '', 'Cochran, Arizona, USA']	33.109506	-111.1498394
+['"26 Men" (1957)', '', '', '', '', '', 'Reymert, Arizona, USA']	33.2297793	-111.2092899
+['"26 Men" (1957)', '', '', '', '', '', 'Bellevue, Arizona, USA']	33.3320006	-110.9434472
+['"26 Men" (1957)', '', '', '', '', '', 'Superior, Arizona, USA']	33.293945	-111.0962305
+['"26 Men" (1957)', '', '', '', '', '', 'DeNoon, Arizona, USA']	39.7837304	-100.4458825
+['"26 Men" (1957)', '', '', '', '', '', 'Apache Trail, Arizona, USA']	33.4178539	-110.8268594
+['"26 Men" (1957)', '', '', '', '', '', 'Sedona, Arizona, USA']	34.8699317	-111.7609226
+['"26 Men" (1957)', '', '', '', '', '', 'Cudia City, Phoenix, Arizona, USA']	33.5206251	-111.9875196
+['"26 Men" (1957)', '', '', '', '', '', 'Pioneertown, California, USA']	34.1566737	-116.4961263
+['"26 Men" (1957) {Bandit Queen (#2.38)}', '', '', 'Arizona, USA']	39.7837304	-100.4458825
+['"26 Men" (1957) {Dead Man in Tucson (#1.8)}', '', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"26 Men" (1957) {Dead Man in Tucson (#1.8)}', '', 'Sonoran Desert, Arizona, USA']	32.2598642	-112.9262583
+['"26 Men" (1957) {Dead Man in Tucson (#1.8)}', '', 'Tucson Mountains, Arizona, USA']	39.7837304	-100.4458825
+['"26 Men" (1957) {Dead Man in Tucson (#1.8)}', '', 'Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"26 Men" (1957) {Dead Man in Tucson (#1.8)}', '', 'Sierrita Mountains, Arizona, USA']	39.7837304	-100.4458825
+['"26 Men" (1957) {House Divided (#2.22)}', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"26 Men" (1957) {Idol in the Dust (#1.34)}', '', 'Arizona, USA']	34.395342	-111.7632755
+['"26 Men" (1957) {Incident at Yuma (#1.6)}', '', 'Alabama Hills, Lone Pine, California, USA']	36.6042366	-118.06305838975558
+['"26 Men" (1957) {Live and Let Die (#2.27)}', '', 'Arizona, USA']	34.395342	-111.7632755
+['"26 Men" (1957) {Refuge at Broken Bow (#2.39)}', '', 'Arizona, USA']	34.395342	-111.7632755
+['"26 Men" (1957) {The Ranger and the Lady (#1.33)}', 'Arizona, USA']	34.395342	-111.7632755
+['"26 Men" (1957) {The Tiger (#2.36)}', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"26 Men" (1957) {Trouble at Pinnacle Peak (#1.2)}', 'Old Tucson - 201 S. Kinney Road, Tucson, Arizona, USA']	32.2228765	-110.9748477
+['"26 Men" (1957) {Trouble at Pinnacle Peak (#1.2)}', 'Sonoran Desert, Arizona, USA']	32.2598642	-112.9262583
+['"26 Men" (1957) {Trouble at Pinnacle Peak (#1.2)}', 'Pinnacle Peak, Phoenix, Arizona, USA']	33.70277085	-112.02708568751879
+['"26 Men" (1957) {Trouble at Pinnacle Peak (#1.2)}', 'Cudia City, Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"26 Men" (1957) {Trouble at Pinnacle Peak (#1.2)}', 'Cudia City Studios, Phoenix, Arizona, USA']	33.4484367	-112.0741417
+['"26 Men" (1957) {Violent Land (#1.15)}', '', '', 'Arizona, USA']	34.395342	-111.7632755
+['"Adventures of a Jungle Boy" (1957)', '', '', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {A Child by the River (#1.4)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {Adoption Story (#1.2)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {Boy and the Reverend (#1.5)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {Doctor\'s Dilemma (#1.8)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {Jungle Boy and the Diamonds (#1.9)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {Kidnapped (#1.12)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {Meet Jungle Boy (#1.1)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {Runaway Boy (#1.13)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {The Burial Ground (#1.10)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {The Doctor Man (#1.3)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {The Journey Up River (#1.6)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {The Ways of a Witch Doctor (#1.11)}', 'Kenya']	1.4419683	38.4313975
+['"Adventures of a Jungle Boy" (1957) {Young Love (#1.7)}', 'Kenya']	1.4419683	38.4313975
+['"African Patrol" (1957)', '', '', '', '', 'Kenya']	1.4419683	38.4313975
+['"African Patrol" (1957) {The Hunt (#1.2)}', '', 'Kenya']	1.4419683	38.4313975
+['"Aktuelle Schaubude" (1957) {(2003-08-29)}', '', 'Wolfenb�ttel, Lower Saxony, Germany']	51.0834196	10.4234469
+['"Alcoa Theatre" (1957) {Hidden Witness (#1.9)}', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Alcoa Theatre" (1957) {In the Dark (#1.8)}', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Alcoa Theatre" (1957) {Johnny Risk (#1.19)}', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Alcoa Theatre" (1957) {The Clock Struck Twelve (#1.17)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Alcoa Theatre" (1957) {The Days of November (#1.11)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Alcoa Theatre" (1957) {The Fatal Charm}', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Bachelor Father" (1957)', '', '', '', 'Beverly Hills High School - 241 Moreno Drive, Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bachelor Father" (1957)', '', '', '', 'Republic Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957)', '', '', '', 'Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA']	34.1412926	-118.3584364
+['"Bachelor Father" (1957)', '', '', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Crush on Bentley (#4.5)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Date with Kelly (#1.4)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Favor for Bentley (#4.36)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Key for Kelly (#3.10)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Man Among Men (#4.25)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Man of Importance (#3.34)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Party for Peter (#5.5)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Phone for Kelly (#2.12)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Sister for Kelly (#1.14)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {A Visit to the Bergens (#5.27)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley & Peter\'s Teacher (#2.5)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Builds a Pool (#4.34)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Cracks the Whip (#4.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Goes to Bat (#5.30)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Goes to Europe (#4.18)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Goes to Washington (#3.15)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Leads a Dog\'s Life (#2.3)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Meets the Perfect Woman (#3.30)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Plays Cupid (#3.13)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Slays a Dragon (#4.35)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Swims Upstream (#4.24)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Takes It Easy (#5.36)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley Versus the Girl Scouts (#1.2)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and Grandpa Ling (#3.7)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and His Junior Image (#1.11)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Baby Sitter (#1.8)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Bartered Bride (#3.19)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Beach Bum (#3.35)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Beauty Contest (#2.19)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Big Board (#4.12)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Blood Bank (#3.33)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Brainy Beauty (#3.12)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Combo (#3.18)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Counterspy (#4.27)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Dog Trainer (#3.2)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Finishing School (#2.1)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Great Debate (#4.29)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Gullible Guitarist (#3.4)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Homebody (#5.21)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Kleptomaniac (#2.11)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Lost Chord (#4.14)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Majorette (#3.21)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Motorcycle (#2.17)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Nature Girl (#4.30)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the P.T.A. (#1.1)}', 'Beverly Hills Hotel & Bungalows - 9641 Sunset Blvd., Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Bachelor Father" (1957) {Bentley and the P.T.A. (#1.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Revolving Housekeepers (#1.6)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Social Worker (#1.13)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Talent Contest (#1.9)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Teenage Siren (#2.4)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Timeclock (#5.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Travel Agent (#3.31)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Wedding Bells (#2.6)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley and the Woodpecker (#4.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley the Angel (#4.16)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley the Proud Father (#2.14)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s Aunt Caroline (#2.15)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s Barbecue (#4.39)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s Big Case (#2.8)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley\'s Birthday Gift (#3.37)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s Catered Affair (#5.7)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s Clubhouse (#1.19)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s Double Play (#3.11)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley\'s Economy Wave (#2.9)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s Mad Friends (#4.31)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s New House (#3.27)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley\'s Prospective Son-In-Law (#1.18)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley, Man of Steel (#2.16)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley, the Hero (#2.20)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley, the Homemaker (#1.10)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley, the Model Citizen (#3.22)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley, the Organizer (#2.18)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Bentley, the Stage Mother (#3.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley, the Star Maker (#2.13)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Bentley: The Gentleman Farmer (#3.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Birth of a Song (#5.12)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Blossom Time at the Greggs (#5.33)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Boys Will Be (#5.37)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Curfew Shall Not Ring Tonight (#5.40)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Dear Bentley (#4.13)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Decisions, Decisions (#2.10)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Deck the Halls (#5.13)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Divided House (#5.38)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Drop That Calorie (#4.40)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {East Meets West (#3.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Encore in Paris (#4.22)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Ginger\'s Big Romance (#4.15)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Gold in Them Hills (#5.17)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Hilda Rides Again (#4.32)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Hilda the Jewel (#4.7)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {How Howard Won His C (#5.18)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {How to Catch a Man (#4.9)}', 'Los Angeles County Museum of Art - 5905 Wilshire Blvd., Hancock Park, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {How to Catch a Man (#4.9)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {How to Throw Your Voice (#5.15)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {It Happens in November (#4.8)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Jasper the Second (#4.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly Gets a Job (#4.37)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly Learns to Drive (#4.2)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly and the College Man (#3.25)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly and the Freethinker (#5.4)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly the Yes Man (#5.16)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly\'s Charge Account (#4.33)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly\'s Engagement (#5.31)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly\'s Graduation (#5.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly\'s Idol (#3.5)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly\'s Mad Crush (#2.7)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Kelly\'s Secret (#3.14)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Kelly\'s Tangled Web (#4.38)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Kelly, the Home Executive (#5.32)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Kelly, the Matchmaker (#4.10)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Kelly, the Politician (#3.16)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Kelly: The Career Woman (#3.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Kelly: The Golddigger (#3.8)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Marry Thy Neighbor (#5.35)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Mystery Witness (#4.4)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Never Steal an Owl (#5.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {On the Old Camp Ground (#5.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Parent\'s Night (#2.2)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Peter Falls in Love (#1.17)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Peter Gets Jury Notice (#4.6)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Peter Meets His Match (#3.1)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Peter Plays Cupid (#4.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Peter\'s China Doll (#4.26)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Peter\'s Punctured Wedding (#5.9)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Peter, the Medicine Man (#5.39)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Pinch That Penny (#5.19)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Rush Week (#5.3)}', '', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Star Light, Star Not So Bright (#5.10)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Strictly Business (#5.25)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Summer Romance (#5.22)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {The Blonde Issue (#3.20)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {The Case Against Gisele (#3.3)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {The Fishing Trip (#3.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {The Fortune Cookie Caper (#3.24)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {The Greggs in London (#4.20)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Bachelor Father" (1957) {The Greggs in London (#4.20)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Bachelor Father" (1957) {The Greggs in London (#4.20)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {The Greggs in Paris (#4.21)}', 'Paris, France']	48.8566969	2.3514616
+['"Bachelor Father" (1957) {The Greggs in Paris (#4.21)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {The Greggs in Rome (#4.19)}', 'Rome, Italy']	41.8933203	12.4829321
+['"Bachelor Father" (1957) {The Greggs in Rome (#4.19)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The Hong Kong Suit (#5.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The House at Smuggler\'s Cove (#5.8)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The King\'s English (#5.2)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The Law and Kelly Gregg (#5.14)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The Rescue of Rufus (#3.9)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The Richest Cat (#5.28)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The Twain Shall Meet (#5.29)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The Very Friendly Witness (#3.32)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {The Woman\'s Angle (#3.29)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {There\'s No Place Like Home (#4.23)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Trial Separation (#4.3)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Uncle Bentley Keeps His Promise (#1.7)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Uncle Bentley Loans Out Peter (#1.12)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Uncle Bentley and the Aunts (#1.5)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Uncle Bentley and the Lady Doctor (#1.3)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Uncle Bentley and the Matchmaker (#1.20)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {Waiting Up for Kelly (#1.15)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Father" (1957) {What Men Don\'t Know (#5.34)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Where There\'s a Will (#3.36)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Will Success Spoil Jasper? (#5.24)}', 'Revue Studios, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"Bachelor Father" (1957) {Woman of the House (#1.16)}', 'Republic Studios - 4024 Radford Avenue, North Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bilanz der Saison" (1957)', '', '', '', 'Kabarett Simpl, Vienna, Austria']	48.2076245	16.3784701
+['"Bilanz des Jahres" (1957)', '', '', '', 'Kabarett Simpl, Vienna, Austria']	48.2076245	16.3784701
+['"Bilanz des Monats" (1957)', '', '', '', 'Kabarett Simpl, Vienna, Austria']	48.2076245	16.3784701

@@ -1,0 +1,922 @@
+['"$#*! My Dad Says" (2010)', '', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Code Ed (#1.4)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Corn Star (#1.14)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Dog Ed Pursuit (#1.7)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Easy, Writer (#1.6)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Ed Goes to Court (#1.15)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Family Dinner for Schmucks (#1.11)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Goodson Goes Deep (#1.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Lock and Load (#1.17)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Make a Wish (#1.9)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Not Without My Jacket (#1.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Pilot (#1.1)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {The Better Father (#1.13)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {The Manly Thing to Do (#1.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {The Truth About Dads & Moms (#1.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Well Suitored (#1.16)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Who\'s Your Daddy? (#1.18)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {Wi-Fight (#1.2)}', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"$#*! My Dad Says" (2010) {You Can\'t Handle the Truce (#1.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	34.1816482	-118.3258554
+['"&@" (2010)', '', '', '', '', '', 'Seattle, Washington, USA']	47.6038321	-122.3300624
+['"1 Non Blonde" (2010)', '', '', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"1 vs. 100" (2010)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"10 Steps to Better Healthcare: A Guide for Chinese-American Seniors" (2010)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"101 Dates" (2010)', '', '', '', '', 'Wellington, New Zealand']	-41.2887953	174.7772114
+['"101 Ways to Leave a Gameshow" (2010)', '', '', 'Tigre, Buenos Aires Province, Argentina']	-34.4226513	-58.5808967
+['"12 Steps to Recovery" (2010)', '', '', '', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"12 Steps to Recovery" (2010)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"12 Steps to Recovery" (2010)', '', '', '', 'South Orange, New Jersey, USA']	40.7474966	-74.2635376
+['"12 Steps to Recovery" (2010)', '', '', '', 'Staten Island, New York City, New York, USA']	40.7127281	-74.0060152
+['"1788... et demi" (2010)', '', '', '', "Asni�res-sur-Oise, Val d'Oise, France"]	46.603354	1.8883335
+['"18 to Life" (2010)', '', '', '', '', 'Montr�al, Qu�bec, Canada']	61.0666922	-107.9917071
+['"1916 Seachtar na C�sca" (2010)', '', '', '', 'Dublin, County Dublin, Ireland']	53.3497645	-6.2602732
+['"200 Ecos" (2010)', '', '', '', '', 'Guadalajara, Jalisco, Mexico']	20.6720375	-103.3383962
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Cape Town Stadium, Cape Town, Western Cape, South Africa']	-33.90334885	18.411121087284915
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Ellis Park Stadium, Johannesburg, South Africa']	-26.197478850000003	28.06076823792536
+['"2010 FIFA World Cup" (2010)', '', '', '', 'FNB Stadium, Johannesburg, South Africa']	-26.2347713	27.982645092413264
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Free State Stadium, Bloemfontein, Free State, South Africa']	-29.116395	26.215496
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Loftus Versfeld Stadium, Pretoria, South Africa']	-25.75316825	28.22294139720142
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Mbombela Stadium, Nelspruit, Mpumalanga, South Africa']	-25.4617294	30.92968989749547
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Moses Mabhida Stadium, Durban, KwaZulu-Natal, South Africa']	-29.8290225	31.029338398569255
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Nelson Mandela Bay Stadium - 70 Prince Alfred Road, North End, Port Elizabeth, Eastern Cape, South Africa']	-33.9617051	25.6207519
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Peter Mokaba Stadium, Polokwane, Limpopo, South Africa']	-23.924769	29.46795107934722
+['"2010 FIFA World Cup" (2010)', '', '', '', 'Royal Bafokeng Stadium, Phokeng, South Africa']	-25.5787724	27.16081304471648
+['"2010 World Series" (2010)', '', '', '', 'AT&T Park, San Francisco, California, USA']	37.7811362	-122.457083
+['"2010 World Series" (2010)', '', '', '', 'Globe Life Park in Arlington - 1000 Ballpark Way, Arlington, Texas, USA']	32.7513904	-97.08347649984134
+['"2030 - Ki �regszik hamarabb" (2010)', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"25 fotogramas" (2010)', '', '', '', '', 'Cata Estudios, Madrid, Spain']	39.3262345	-4.8380649
+['"25 miradas, 200 minutos" (2010)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {(Mi) historia argentina (#1.18)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Argentina del Bicentenario. Las voces y los silencios (#1.20)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Chasqui (#1.16)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {El abuelo (#1.13)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {El esp�a (#1.21)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {El h�roe al que nadie quiso (#1.1)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {En la trinchera (#1.15)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Fallas de origen (#1.22)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Gente querible (#1.7)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Guillermina P. (#1.5)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Hija del sol (#1.8)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Intolerancia (#1.11)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {La voz (#1.6)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Leyenda del ceibo (#1.4)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Malasangre (#1.10)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Mercedes (#1.2)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {M�s adelante (#1.19)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Nueva Argir�polis (#1.14)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {N�made (#1.24)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Para todos los hombres y mujeres de buena voluntad (#1.25)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Pav�n (#1.17)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Posadas (#1.9)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Restos (#1.3)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Ser �til hoy (#1.12)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"25 miradas, 200 minutos" (2010) {Una vez m�s (#1.23)}', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"3 Plus You" (2010)', '', '', '', '', 'Chattanooga, Tennessee, USA']	35.0457219	-85.3094883
+['"30 Seconds from Oblivion" (2010)', '', '', 'Landers, California, USA']	34.266114	-116.3930703
+['"360 Sessions" (2010) {David Gray (#1.1)}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"37" (2010)', '', '', '', '', '', 'Portugal']	40.0332629	-7.8896263
+['"3Guys1Wii" (2010)', '', '', '', '', 'Albany, Oregon, USA']	44.6365071	-123.1059324
+['"4-Stjerners Reise" (2010)', '', '', '', 'Toscana, Italy']	43.4586541	11.1389204
+['"4-Stjerners Reise" (2010)', '', '', '', 'Amsterdam, Netherlands']	52.3727598	4.8936041
+['"4-Stjerners Reise" (2010)', '', '', '', 'Copenhagen, Denmark']	55.6867243	12.5700724
+['"4-Stjerners Reise" (2010)', '', '', '', 'Valencia, Spain']	39.4699014	-0.3759513
+['"4-Stjerners Reise" (2010)', '', '', '', 'Los Angeles, USA']	34.0536909	-118.2427666
+['"4-Stjerners Reise" (2010)', '', '', '', 'Edinburgh, Scotland, UK']	55.9533456	-3.1883749
+['"4-Stjerners Reise" (2010)', '', '', '', 'Nice, Alpes-Maritimes, France']	43.7009358	7.2683912
+['"4-Stjerners Reise" (2010)', '', '', '', 'Dubrovnik, Croatia']	42.6499651	18.093652
+['"4-Stjerners Reise" (2010)', '', '', '', 'Marrakech, Morocco']	31.6258257	-7.9891608
+['"4-Stjerners Reise" (2010)', '', '', '', 'Tokyo, Japan']	35.6828387	139.7594549
+['"40 y tantos" (2010)', '', '', '', '', 'Santiago, Chile']	-31.7613365	-71.3187697
+['"45 Min" (2010) {Sexobjekt Kind (#1.1)}', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"45 Min" (2010) {Sexobjekt Kind (#1.1)}', '', '', 'Kiel, Schleswig-Holstein, Germany']	54.3227085	10.135555
+['"45 Min" (2010) {Sexobjekt Kind (#1.1)}', '', '', 'Saxony-Anhalt, Germany']	51.908526	11.4939134
+['"45 Min" (2010) {Sexobjekt Kind (#1.1)}', '', '', 'Z�rich, Kanton Z�rich, Switzerland']	46.7985624	8.2319736
+['"4Play: Sex Tips for Girls" (2010)', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"4Play: Sex Tips for Girls" (2010)', '', '', 'Soweto, Johannesburg, South Africa']	-26.2227778	27.89
+['"4thought.tv" (2010)', '', '', '', '', 'London, England, UK']	51.5073219	-0.1276474
+['"5 Star Specials" (2010)', '', '', '', 'Tanay, Rizal, Philippines']	14.4985359	121.2856331
+['"5inco Minutos" (2010)', '', '', '', '', 'Curitiba, Paran�, Brazil']	-10.3333333	-53.2
+['"5inco Minutos" (2010)', '', '', '', '', 'S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"71� nord - Norges t�ffeste kjendis" (2010)', '', 'Lindesnes, Norway']	58.116131249999995	7.383195598569651
+['"71� nord - Norges t�ffeste kjendis" (2010)', '', 'Nissedal, Norway']	60.5000209	9.0999715
+['"71� nord - Norges t�ffeste kjendis" (2010)', '', 'Folgefonna, Norway']	60.058181899999994	6.2964185593348905
+['"71� nord - Norges t�ffeste kjendis" (2010)', '', 'Nordkapp, Finnmark, Norway']	71.1699506	25.7858893
+['"8.13" (2010)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"86\'d" (2010)', '', '', '', '', '', 'Studio City, Los Angeles, California, USA']	34.1483989	-118.3961877
+['"A Breath of Fresh Air with Jon and Nkechi" (2010)', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Breath of Fresh Air with Jon and Nkechi" (2010)', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"A Different Spin with Mark Hoppus" (2010)', '', 'MSG Studio - 11 Penn Plaza, New York City, New York, USA']	39.7837304	-100.4458825
+['"A God Named Pablo" (2010)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Good Knight\'s Quest" (2010)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"A Good Knight\'s Quest" (2010)', '', '', '', 'Redlands, California, USA']	34.055735	-117.1888961
+['"A Good Knight\'s Quest" (2010)', '', '', '', 'Victorville, California, USA']	34.5361067	-117.2911565
+['"A Gurls Wurld" (2010) {(#1.10)}', '', '', 'Prinzenbar, Hamburg, Germany']	53.548828	9.9647629
+['"A Gurls Wurld" (2010) {Lost in L�neburg (#1.19)}', 'L�neburg, Lower Saxony, Germany']	51.0834196	10.4234469
+['"A History of Horror with Mark Gatiss" (2010) {Frankenstein Goes to Hollywood (#1.1)}', 'Brighton, East Sussex, England, UK']	50.78357855	0.12148666117747367
+['"A History of Horror with Mark Gatiss" (2010) {Frankenstein Goes to Hollywood (#1.1)}', 'Exposition Park, Los Angeles, California, USA']	34.01365405	-118.28721058194556
+['"A History of Horror with Mark Gatiss" (2010) {Frankenstein Goes to Hollywood (#1.1)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"A History of Horror with Mark Gatiss" (2010) {Home Counties Horror (#1.2)}', 'Bix Bottom Valley, Henley-on-Thames, Oxfordshire, England, UK']	51.833333	-1.25
+['"A History of Horror with Mark Gatiss" (2010) {Home Counties Horror (#1.2)}', 'Bray Studios, Down Place, Oakley Green, Berkshire, England, UK']	51.453488899999996	-1.0318729593399247
+['"A History of Horror with Mark Gatiss" (2010) {Home Counties Horror (#1.2)}', 'Oakley Court, Windsor Road, Oakley Green, Windsor, Berkshire, England, UK']	54.7023545	-3.2765753
+['"A History of Horror with Mark Gatiss" (2010) {Home Counties Horror (#1.2)}', 'Whitstable, Kent, England, UK']	51.3606286	1.0240626
+['"A History of Horror with Mark Gatiss" (2010) {The American Scream (#1.3)}', 'All Saints Church, Fulham, London, England, UK']	51.5073219	-0.1276474
+['"A History of Horror with Mark Gatiss" (2010) {The American Scream (#1.3)}', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"A History of Horror with Mark Gatiss" (2010) {The American Scream (#1.3)}', 'Meridian Avenue & Magnolia Street, South Pasadena, California, USA']	34.1133062	-118.1478291
+['"A History of Horror with Mark Gatiss" (2010) {The American Scream (#1.3)}', 'South Pasadena, California, USA']	34.1133062	-118.1478291
+['"A History of Horror with Mark Gatiss" (2010) {The American Scream (#1.3)}', 'Universal Studios Hollywood - 1000 Universal Studios Blvd, Universal City, California, USA']	34.1412926	-118.3584364
+['"A League of Their Own" (2010) {(#7.1)}', '', '', 'BBC Elstree Centre/ATV Studios, Borehamwood, Hertfordshire, England, UK']	51.6589044	-0.27566775500000334
+['"A League of Their Own" (2010) {(#7.2)}', '', '', 'BBC Elstree Centre/ATV Studios, Borehamwood, Hertfordshire, England, UK']	51.6589044	-0.27566775500000334
+['"A Night at the Classic" (2010)', '', '', '', '323 Queen Street, Auckland, New Zealand']	-36.8537694	174.7630376
+['"A Night at the Classic" (2010) {(#2.1)}', '', 'The Classic, Auckland, New Zealand']	-36.7731766	174.7102402
+['"A Passionate Woman" (2010) {(#1.1)}', '', '', 'Hyde Terrace, Woodhouse, Leeds, West Yorkshire, England, UK']	53.8034247	-1.5572754
+['"A Passionate Woman" (2010) {(#1.1)}', '', '', 'Roundhay Park, Oakwood, Leeds, West Yorkshire, England, UK']	53.83935115	-1.497842226246795
+['"A Passionate Woman" (2010) {(#1.1)}', '', '', "The King's Hall, Station Road, Ilkley, West Yorkshire, England, UK"]	53.741427099999996	-1.7202003766777243
+['"A Passionate Woman" (2010) {(#1.2)}', '', '', 'Chapel Allerton, Leeds, West Yorkshire, England, UK']	53.8290348	-1.5383224
+['"A Passionate Woman" (2010) {(#1.2)}', '', '', 'Hyde Park Picture House, Brudenell Road, Leeds, West Yorkshire, England, UK']	53.812058300000004	-1.5694212273427488
+['"A Passionate Woman" (2010) {(#1.2)}', '', '', 'Roundhay Park, Oakwood, Leeds, West Yorkshire, England, UK']	53.83935115	-1.497842226246795
+['"A Quiet Word with..." (2010)', '', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"A St�b a Balatonon" (2010)', '', '', '', 'Balatonf�red, Hungary']	47.1817585	19.5060937
+['"A St�b a Balatonon" (2010)', '', '', '', 'Si�fok, Hungary']	47.1817585	19.5060937
+['"A St�b a Balatonon" (2010)', '', '', '', 'Budapest, Hungary']	47.48138955	19.14607278448202
+['"A Taste of Honey TV" (2010)', '', '', '', 'Richmond, Virginia, USA']	37.5385087	-77.43428
+['"A Taste of Honey TV" (2010)', '', '', '', 'Santa Monica Boulevard, Hollywood, Los Angeles, California, USA']	34.0907247	-118.3688757
+['"A Taste of Honey TV" (2010)', '', '', '', 'Charlottesville, Virginia, USA']	38.029306	-78.4766781
+['"A Taste of Honey TV" (2010)', '', '', '', 'Dover, Delaware, USA']	39.158168	-75.5243682
+['"A Taste of Honey TV" (2010)', '', '', '', 'Colorado Springs, Colorado, USA']	38.8339578	-104.8253485
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Arctic']	25.2292794	55.1392941
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Atacama Desert, Chile']	-31.7613365	-71.3187697
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Australia']	-24.7761086	134.755
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Barrow, Alaska, USA']	71.2905556	-156.7886112
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Canada']	61.0666922	-107.9917071
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'England, UK']	52.7954791	-0.5402402866174321
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'France']	46.603354	1.8883335
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Germany']	51.0834196	10.4234469
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Iceland']	64.9841821	-18.1059013
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Italy']	42.6384261	12.674297
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Netherlands']	52.5001698	5.7480821
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'Russia']	64.6863136	97.7453061
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'UK']	54.7023545	-3.2765753
+['"A Traveler\'s Guide to the Planets" (2010)', '', 'USA']	39.7837304	-100.4458825
+['"A Traveler\'s Guide to the Planets" (2010) {Jupiter (#1.1)}', 'Australia']	-24.7761086	134.755
+['"A Traveler\'s Guide to the Planets" (2010) {Jupiter (#1.1)}', 'Barrow, Alaska, USA']	71.2905556	-156.7886112
+['"A Traveler\'s Guide to the Planets" (2010) {Jupiter (#1.1)}', 'France']	46.603354	1.8883335
+['"A Traveler\'s Guide to the Planets" (2010) {Jupiter (#1.1)}', 'Germany']	51.0834196	10.4234469
+['"A Traveler\'s Guide to the Planets" (2010) {Jupiter (#1.1)}', 'Iceland']	64.9841821	-18.1059013
+['"A Traveler\'s Guide to the Planets" (2010) {Jupiter (#1.1)}', 'Italy']	42.6384261	12.674297
+['"A Traveler\'s Guide to the Planets" (2010) {Jupiter (#1.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"A Traveler\'s Guide to the Planets" (2010) {Jupiter (#1.1)}', 'USA']	39.7837304	-100.4458825
+['"A Traveler\'s Guide to the Planets" (2010) {Saturn (#1.2)}', 'Jet Propulsion Laboratory - 4800 Oak Grove Parkway, Pasadena, California, USA']	34.1476452	-118.1444779
+['"A Traveler\'s Guide to the Planets" (2010) {Saturn (#1.2)}', 'Jupiter, Space']	-35.26562945	149.1305008240921
+['"A Traveler\'s Guide to the Planets" (2010) {Saturn (#1.2)}', 'Saturn, Space']	28.5237592	-80.68342071188621
+['"A Window Looking In" (2010)', '', '', '', 'Edmonton, Alberta, Canada']	53.535411	-113.507996
+['"A Window Looking In" (2010)', '', '', '', 'Gibsons, British Columbia, Canada']	49.4006197	-123.5089186
+['"A Window Looking In" (2010)', '', '', '', 'Pemberton, British Columbia, Canada']	50.3203804	-122.8080783
+['"A Window Looking In" (2010)', '', '', '', 'Vancouver, British Columbia, Canada']	49.2608724	-123.1139529
+['"A �ltima Ceia" (2010)', '', '', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"A.J.\'s 8 Ball" (2010)', '', '', '', '', 'Brookline, Massachusetts, USA']	42.3317642	-71.1211635
+['"AFK Show" (2010)', '', '', '', '', 'Texas, USA']	31.8160381	-99.5120986
+['"ASIA Exposed" (2010)', '', '', '', '', 'China']	35.000074	104.999927
+['"ASIA Exposed" (2010)', '', '', '', '', 'India']	22.3511148	78.6677428
+['"ASIA Exposed" (2010)', '', '', '', '', 'Indonesia']	-2.4833826	117.8902853
+['"ASIA Exposed" (2010)', '', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"Abnormal Entertainment Presents" (2010) {Cinema Head Cheese: Lacey Paige Interviews Director Bill Lustig}', 'Calgary, Alberta, Canada']	51.0534234	-114.0625892
+['"About Abby" (2010)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Above Santa Barbara" (2010)', '', '', '', 'Lompoc, California, USA']	34.6391501	-120.4579409
+['"Above Santa Barbara" (2010)', '', '', '', 'Montecito, California, USA']	34.4366626	-119.6320753
+['"Above Santa Barbara" (2010)', '', '', '', 'Santa Barbara, California, USA']	34.4221319	-119.7026673
+['"Above Santa Barbara" (2010)', '', '', '', 'Santa Maria, California, USA']	34.9531295	-120.4358577
+['"Above Santa Barbara" (2010)', '', '', '', 'Santa Ynez, California, USA']	34.608637	-120.10467742149733
+['"Achas Que Sabes Dan�ar?" (2010)', '', '', 'Leiria, Portugal']	39.7437902	-8.8071119
+['"Achas Que Sabes Dan�ar?" (2010)', '', '', 'Lisbon, Portugal']	38.7077507	-9.1365919
+['"Achas Que Sabes Dan�ar?" (2010)', '', '', 'Porto, Portugal']	41.1494512	-8.6107884
+['"Acid Tests" (2010)', '', '', '', '', 'Brooklyn, New York City, New York, USA']	40.6501038	-73.9495823
+['"Addicted" (2010)', '', '', '', '', 'Bay Area, San Francisco, California, USA']	37.7790262	-122.4199061
+['"Adios al septimo de linea" (2010)', '', '', 'Atacama Desert, Chile']	-24.5563029	-69.4226479
+['"Adios al septimo de linea" (2010)', '', '', 'Santiago, Chile']	-33.4377968	-70.6504451
+['"Adolfo Su�rez" (2010)', '', '', '', '', 'Madrid, Spain']	39.3262345	-4.8380649
+['"Adolfo Su�rez" (2010)', '', '', '', '', 'Valladolid, Valladolid, Castilla y Le�n, Spain']	39.3262345	-4.8380649
+['"Adventure Dive Komodo" (2010)', '', '', '', 'Western Australia, Australia']	-25.2303005	121.0187246
+['"Adventure Dive Komodo" (2010)', '', '', '', 'Indonesia']	-2.4833826	117.8902853
+['"Affaires �trang�res" (2010) {Maroc (#1.2)}', '', 'Berb�re Palace Hotel, Ouarzazate, Morocco']	31.1728205	-7.3362482
+['"Affaires �trang�res" (2010) {Maroc (#1.2)}', '', 'Casablanca, Morocco']	33.5950627	-7.6187768
+['"Affaires �trang�res" (2010) {Maroc (#1.2)}', '', 'Issy-les-Moulineaux, Hauts-de-Seine, France']	48.8250508	2.273457
+['"Affaires �trang�res" (2010) {R�publique dominicaine (#1.1)}', 'Santo Domingo, Dominican Republic']	18.4801972	-69.942111
+['"Afinal, o que Querem as Mulheres?" (2010)', '', 'Brazil']	-10.3333333	-53.2
+['"After Hours" (2010)', '', '', '', '', 'Bubbling Wells Ranch, Desert Hot Springs, California, USA']	33.961124	-116.5016784
+['"After Hours" (2010) {3 Awful Lessons Rocky Taught Us (#3.6)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {4 People Who Force Weird Stuff Into Every Movie (#4.1)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {5 Classic Movie High Schools That Would Suck to Attend (#1.2)}', 'The Village Grille - 148 Yale Avenue, Claremont, California, USA']	34.0966764	-117.7197785
+['"After Hours" (2010) {Coming of Age Stories That Teach Awful Lessons (#4.3)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Confusicals! (#3.5)}', '', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {How Breakfast Cereal Mascots Brainwashed You (#1.5)}', "Pat and Lorraine's - 4720 Eagle Rock Blvd, Eagle Rock, California, USA"]	34.1388968	-118.2139624
+['"After Hours" (2010) {I Nightmare of Genie (#4.7)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {If You Could Have Dinner with Any Historical Figure, Who Would It Be? (#2.2)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Is 007 a Bad Employee? (#2.11)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Modern Rediculous Stereotypes That Show Up in Every Movie (#4.4)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Most Likely Robot Uprising (#2.3)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Movie Epilogues That Would Have Been More Interesting to Watch Than the Movie (#4.11)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Peterphilia: The Dark Truth About J.M. Barrie (#4.8)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Spider-Man: Jerk or Super Jerk? (#3.1)}', 'Montrose Bakery & Cafe - 2325 Honolulu Avenue, Montrose, California, USA']	34.2064181	-118.2288887
+['"After Hours" (2010) {Star Wars Is Terrifying for Women (#1.7)}', "Pat and Lorraine's - 4720 Eagle Rock Blvd, Eagle Rock, California, USA"]	34.1388968	-118.2139624
+['"After Hours" (2010) {The Best Movie to Die In (#3.3)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {The Best Super Power (Is Not What You Think) (#1.10)}', "Pat and Lorraine's - 4720 Eagle Rock Blvd, Eagle Rock, California, USA"]	34.1388968	-118.2139624
+['"After Hours" (2010) {The Creepiest 90\'s Sitcom Characters (#2.4)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {The Terrifying Implications of Jurassic Park (#4.5)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {The Whedonverse Conspiracy (#4.2)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {The Worst Acts of Animal Cruelty in Children\'s Entertainment (#2.6)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {The Worst Lesson Disney Movies Teach Kids (#2.12)}', 'Montrose Bakery & Cafe - 2325 Honolulu Avenue, Montrose, California, USA']	34.2064181	-118.2288887
+['"After Hours" (2010) {The Worst Lessons by Pixar Movies (#2.8)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {What\'s Truly Terrifying About Scary Stories? (#2.7)}', 'Idyllwild Pines - Idyllwild, California, USA']	33.7023789	-116.7402372
+['"After Hours" (2010) {Which Alternate Dimension Would You Choose to Live In? (#4.6)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Which Apocalypse Would Be the Most Fun? (#1.3)}', "Pat and Lorraine's - 4720 Eagle Rock Blvd, Eagle Rock, California, USA"]	39.7837304	-100.4458825
+['"After Hours" (2010) {Which Christmas Classic Is the Most Terrifying? (#3.12)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Which Commercial Universe Do You Want to Live In? (#1.11)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Which Disney Villain Is Most Sympathetic? (#3.9)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Which Monster Is Scariest? (#1.12)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Which Ninja Turtle Are You? Life\'s Most Important Question (#1.6)}', "Pat and Lorraine's - 4720 Eagle Rock Blvd, Eagle Rock, California, USA"]	39.7837304	-100.4458825
+['"After Hours" (2010) {Which Post-Apocalyptic Wasteland Is Most Fun? (#3.8)}', 'Bubbling Wells Ranch, Desert Hot Springs, California, USA']	33.961124	-116.5016784
+['"After Hours" (2010) {Who Would Survive in a Quentin Tarantino Universe (#3.7)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	34.1100408	-118.28892364093718
+['"After Hours" (2010) {Why \'Back to the Future\' Is Secretly Horrifying (#1.1)}', 'The Village Grille - 148 Yale Avenue, Claremont, California, USA']	34.0966764	-117.7197785
+['"After Hours" (2010) {Why All TV Shows Are the Same (#2.10)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why Batman Is Secretly Terrible for Gotham (#1.9)}', "Pat and Lorraine's - 4720 Eagle Rock Blvd, Eagle Rock, California, USA"]	34.1388968	-118.2139624
+['"After Hours" (2010) {Why Everyone Wants to Have Sex with Vampires (#1.8)}', "Pat and Lorraine's - 4720 Eagle Rock Blvd, Eagle Rock, California, USA"]	34.1388968	-118.2139624
+['"After Hours" (2010) {Why Forrest Gump Is Secretly Horrifying (#4.12)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why Forrest Gump Is Secretly Horrifying (#4.12)}', 'The Village Grille - 148 Yale Avenue, Claremont, California, USA']	34.0966764	-117.7197785
+['"After Hours" (2010) {Why Indiana Jones\' Secrecy Is Terrifying (#2.9)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why Keanu Reeves Is the Perfect Action Star (#3.10)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why Living in a Movie Universe Would Suck (#3.4)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why Mario Is a Douchebag (#2.1)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why Romantic Comedies Are Poison (#3.2)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why Star Trek Is a Dystopia (#2.5)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why Star Wars Is Secretly Racist (#4.9)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why the Ghostbusters Franchise Is the Best Argument for the Tea Party (#4.10)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"After Hours" (2010) {Why the Harry Potter Universe Is Secretly Terrifying (#1.4)}', "Pat and Lorraine's - 4720 Eagle Rock Blvd, Eagle Rock, California, USA"]	34.1388968	-118.2139624
+['"After Hours" (2010) {X Implied Movie Scenes That Must Have Happened (#3.11)}', 'Los Feliz Cafe - 3207 Los Feliz Blvd, Los Feliz, California, USA']	39.7837304	-100.4458825
+['"Aftermath" (2010) {World Without Oil}', '', '', 'Detroit Metropolitan Wayne County Airport, Michigan, USA']	42.205699100000004	-83.35297537621658
+['"Agor�" (2010)', '', '', '', '', '', 'Roma, Lazio, Italy']	41.8933203	12.4829321
+['"Agua bendita" (2010)', '', '', '', '', 'Philippines']	12.7503486	122.7312101
+['"Aiko & Jack Go to ..." (2010)', '', '', '', 'Queenstown, Otago, New Zealand']	-45.0317203	168.6608096
+['"Aiko & Jack Go to ..." (2010)', '', '', '', 'Wellington, New Zealand']	-41.2887953	174.7772114
+['"Aiko & Jack Go to ..." (2010)', '', '', '', 'Darwin, Northern Territory, Australia']	-12.46044	130.8410469
+['"Aiko & Jack Go to ..." (2010)', '', '', '', 'Sydney, New South Wales, Australia']	-33.8536692	151.2133527
+['"Aiko & Jack Go to ..." (2010)', '', '', '', 'Groningen, Netherlands']	52.5001698	5.7480821
+['"Aiko & Jack Go to ..." (2010)', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"AirWaves" (2010)', '', '', '', '', 'Phnom Penh, Cambodia']	11.568271	104.9224426
+['"Airplane Repo" (2010) {Best in the Business}', '', 'Gary, Indiana, USA']	41.6021292	-87.3371372
+['"Airplane Repo" (2010) {Best in the Business}', '', 'Stuart, Florida, USA']	27.197983	-80.2519175
+['"Airplane Repo" (2010) {Best in the Business}', '', 'Valparaiso, Indiana, USA']	41.4730948	-87.0611412
+['"Airplane Repo" (2010) {Best in the Business}', '', 'West Palm Beach, Florida, USA']	26.7153425	-80.0533746
+['"Airplane Repo" (2010) {Best in the Business}', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Airplane Repo" (2010) {Best in the Business}', '', 'Opa-Locka Airport, Opa-Locka, Florida, USA']	25.896733849999997	-80.25949640850294
+['"Airplane Repo" (2010) {International Situation}', 'Valparaiso, Indiana, USA']	41.4730948	-87.0611412
+['"Airplane Repo" (2010) {International Situation}', 'Ch�teauroux, Indre, France']	46.603354	1.8883335
+['"Airplane Repo" (2010) {International Situation}', 'Paris, France']	48.8566969	2.3514616
+['"Airplane Repo" (2010) {International Situation}', 'Santa Maria, Azores, Portugal']	36.9725989	-25.10263361635285
+['"Airplane Repo" (2010) {International Situation}', 'Istanbul, Turkey']	38.9597594	34.9249653
+['"Airplane Repo" (2010) {International Situation}', 'Gary, Indiana, USA']	41.6021292	-87.3371372
+['"Airplane Repo" (2010) {International Situation}', 'Bangor, Maine, USA']	44.8011821	-68.7778138
+['"Airplane Repo" (2010) {International Situation}', 'Newfoundland, Newfoundland and Labrador, Canada']	49.12120935	-56.69629621274099
+['"Airplane Repo" (2010) {Not Ready to Fly}', '', 'Gary, Indiana, USA']	41.6021292	-87.3371372
+['"Airplane Repo" (2010) {Not Ready to Fly}', '', 'Fort Lauderdale, Florida, USA']	26.1223084	-80.1433786
+['"Airplane Repo" (2010) {Not Ready to Fly}', '', 'Valparaiso, Indiana, USA']	41.4730948	-87.0611412
+['"Airplane Repo" (2010) {Not Ready to Fly}', '', 'Pennsylvania, USA']	39.7837304	-100.4458825
+['"Airplane Repo" (2010) {Spies in the Night (#1.2)}', 'Glenwood Springs Municipal Airport, Fanning Place, Glenwood Springs, Colorado, USA']	39.5507448	-107.3255001
+['"Al ferka" (2010)', '', '', '', '', 'Casablanca, Morocco']	33.5950627	-7.6187768
+['"Al ferka" (2010)', '', '', '', '', 'Mohammadia, Morocco']	33.6958383	-7.3893292
+['"Alamaailma Trilogia: Vanki" (2010)', '', '', 'Kallio, Helsinki, Finland']	60.1839816	24.9524515
+['"Alamaailma Trilogia: Vanki" (2010)', '', '', 'Kaivopuisto, Helsinki, Finland']	60.1568425	24.9567212
+['"Alamaailma Trilogia: Vanki" (2010)', '', '', 'Helsingin vankila, S�rn�inen, Helsinki, Finland']	63.2467777	25.9209164
+['"Alamaailma Trilogia: Vanki" (2010)', '', '', 'Helsinki, Finland']	60.1674098	24.9425769
+['"Alamaailma Trilogia: Vanki" (2010)', '', '', 'St. Petersburg, Russia']	59.9606739	30.1586551
+['"Alan Hollywood" (2010)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Alex Reid: The Fight of His Life" (2010)', '', 'San Diego, California, USA']	32.7174209	-117.1627714
+['"Alguien que me quiera" (2010)', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.10)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.100)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.101)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.102)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.103)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.104)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.105)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.106)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.107)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.108)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.109)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.11)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.110)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.111)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.112)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.113)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.114)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.115)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.116)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.117)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.118)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.119)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.12)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.120)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.121)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.122)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.123)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.124)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.125)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.126)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.127)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.128)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.129)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.13)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.130)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.131)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.132)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.133)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.134)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.135)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.136)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.137)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.138)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.139)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.14)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.140)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.141)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.142)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.143)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.144)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.145)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.146)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.147)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.148)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.149)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.15)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.150)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.151)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.152)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.153)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.154)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.155)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.156)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.157)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.158)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.159)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.16)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.17)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.18)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.186)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.19)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.2)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.20)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.21)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.22)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.23)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.24)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.26)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.27)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.28)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.29)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.3)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.30)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.31)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.32)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.33)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.34)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.35)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.36)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.37)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.38)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.39)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.4)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.40)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.41)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.42)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.43)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.44)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.45)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.46)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.47)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.48)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.49)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.5)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.50)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.51)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.52)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.53)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.54)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.55)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.56)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.57)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.58)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.59)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.6)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.60)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.61)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.62)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.63)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.64)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.65)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.66)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.67)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.68)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.69)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.7)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.70)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.71)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.72)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.73)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.74)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.75)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.76)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.77)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.78)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.79)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.8)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.80)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.81)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.82)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.83)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.84)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.85)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.86)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.87)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.88)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.89)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.9)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.90)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.91)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.92)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.93)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.94)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.95)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.96)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.97)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.98)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alguien que me quiera" (2010) {(#1.99)}', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alhassan and Alhoussain" (2010)', '', '', 'Morocco']	31.1728205	-7.3362482
+['"Alhassan and Alhoussain" (2010)', '', '', 'Syria']	34.6401861	39.0494106
+['"Alhassan and Alhoussain" (2010)', '', '', 'Lebanon']	33.8750629	35.843409
+['"Aliens Inside" (2010)', '', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Alive! With Adventure Aaron" (2010)', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Alive! With Adventure Aaron" (2010)', '', '', 'Costa Rica']	10.2735633	-84.0739102
+['"Alive! With Adventure Aaron" (2010)', '', '', 'Egypt']	26.2540493	29.2675469
+['"Alive! With Adventure Aaron" (2010)', '', '', 'Fiji']	-18.1239696	179.0122737
+['"Alive! With Adventure Aaron" (2010)', '', '', 'Florida Keys, Florida, USA']	24.6670875	-81.5831421
+['"Alive! With Adventure Aaron" (2010)', '', '', 'Morocco']	31.1728205	-7.3362482
+['"Alive! With Adventure Aaron" (2010)', '', '', 'New Zealand']	-41.5000831	172.8344077
+['"Alive! With Adventure Aaron" (2010)', '', '', 'Nicaragua']	12.6090157	-85.2936911
+['"Alive! With Adventure Aaron" (2010)', '', '', 'South Africa']	-28.8166236	24.991639
+['"Alive! With Adventure Aaron" (2010)', '', '', 'Thailand']	14.8971921	100.83273
+['"All For Nothing?" (2010)', '', '', '', 'Ottawa, Ontario, Canada']	45.421106	-75.690308
+['"All Request" (2010)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"All Shook Up!" (2010)', '', '', '', '', 'Porthcawl, Bridgend, Wales, UK']	51.5049843	-3.5756674
+['"Alle Jahre wieder" (2010)', '', '', '', 'Seevetal-Hittfeld, Niedersachsen, Germany']	53.3804154	9.9796267
+['"Alle Jahre wieder" (2010)', '', '', '', 'Altensteig, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Alle Jahre wieder" (2010) {(#1.2)}', '', '', 'Seevetal-Hittfeld, Niedersachsen, Germany']	53.3804154	9.9796267
+['"Alle Jahre wieder" (2010) {(#1.3)}', '', '', 'Seevetal-Hittfeld, Niedersachsen, Germany']	53.3804154	9.9796267
+['"Alle Jahre wieder" (2010) {(#1.4)}', '', '', 'Seevetal-Hittfeld, Niedersachsen, Germany']	53.3804154	9.9796267
+['"Alle Jahre wieder" (2010) {Alle Jahre wieder (#1.1)}', 'Altensteig, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Allein gegen die Zeit" (2010)', '', '', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Allein gegen die Zeit" (2010)', '', '', '', 'Friedrich-Bergius-Oberschule, Friedenau, Berlin, Germany']	52.472075	13.3296424
+['"Allein gegen die Zeit" (2010) {8:00 (#2.1)}', '', 'Berlin, Germany']	52.5170365	13.3888599
+['"Allou ximeromenoi" (2010)', '', '', '', 'Athens, Greece']	37.9841493	23.7279843
+['"Allou ximeromenoi" (2010)', '', '', '', 'Ayia Napa, Cyprus']	34.9893216	33.9962036
+['"Almost Vixens" (2010)', '', '', '', '', 'California, USA']	36.7014631	-118.7559974
+['"Alpha 0.7 - Der Feind in dir" (2010) {Prenzinger (#1.1)}', 'Stuttgart, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Alpha 0.7 - Der Feind in dir" (2010) {Schizophren (#1.2)}', 'Stuttgart, Baden-W�rttemberg, Germany']	51.0834196	10.4234469
+['"Alteregay" (2010)', '', '', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Always a Bridesmaid" (2010)', '', '', '', 'Global Television Studios, Burnaby, British Columbia, Canada']	49.2433804	-122.9725459
+['"America Live" (2010)', '', '', '', '', 'Fox News Channel - 1211 Avenue of the Americas, Manhattan, New York City, New York, USA']	40.7127281	-74.0060152
+['"America\'s Court with Judge Ross" (2010)', '', 'Sunset Bronson Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"America\'s Court with Judge Ross" (2010) {Captain Save an Artist/You Signed for It, So You Stole It (#3.189)}', 'Sunset Bronson Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA']	39.7837304	-100.4458825
+['"America\'s Court with Judge Ross" (2010) {Fire the Vote}', 'Culver City, California, USA']	34.0211224	-118.3964665
+['"America\'s Court with Judge Ross" (2010) {Who Let Granny Get Online? (#3.133)}', 'Culver City, California, USA']	34.0211224	-118.3964665
+['"America\'s Unfunniest Home Videos" (2010)', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"America: The Story of Us" (2010) {Rebels (#1.1)}', 'South Africa']	-28.8166236	24.991639
+['"America: The Story of Us" (2010) {Revolution (#1.2)}', 'South Africa']	-28.8166236	24.991639
+['"American Pickers" (2010) {California Dreamin\' (#3.11)}', 'Oceanside, California, USA']	33.1958696	-117.3794834
+['"American Pickers" (2010) {For a Few Dollars More (#11.4)}', 'Steamboat Springs, Colorado, USA']	40.4848003	-106.8317359
+['"American Pickers" (2010) {Red, White and Blues (#13.17)}', 'Jazz Record Mart, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Pickers" (2010) {Red, White and Blues (#13.17)}', 'Jazz Record Mart, Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"American Pickers" (2010) {The Pick, the Pawn and the Polish (#4.4)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"American Restoration" (2010)', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"American Restoration" (2010)', '', '', '', 'Sun Valley, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"American Restoration" (2010)', '', '', '', 'Frankfort, New York, USA']	43.038959	-75.070436
+['"American Restoration" (2010)', '', '', '', 'Grosse Ile, Michigan, USA']	42.1311572	-83.1579203
+['"American Restoration" (2010)', '', '', '', 'Marietta, Georgia, USA']	33.9528472	-84.5496148
+['"American Restoration" (2010)', '', '', '', 'Maggie Valley, North Carolina, USA']	35.5181575	-83.0976419
+['"American Treasures" (2010)', '', '', '', 'Florida, USA']	39.7837304	-100.4458825
+['"American Treasures" (2010)', '', '', '', 'Massachusetts, USA']	42.3788774	-72.032366
+['"American Treasures" (2010)', '', '', '', 'New Mexico, USA']	34.5708167	-105.993007
+['"American Treasures" (2010)', '', '', '', 'New Orleans, Louisiana, USA']	29.9499323	-90.0701156
+['"American Treasures" (2010)', '', '', '', 'Texas, USA']	39.7837304	-100.4458825
+['"Amish: World\'s Squarest Teenagers" (2010) {(#1.1)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Amish: World\'s Squarest Teenagers" (2010) {(#1.2)}', 'Kent, England, UK']	51.2474823	0.7105077
+['"Amish: World\'s Squarest Teenagers" (2010) {(#1.3)}', 'Highland, Scotland, UK']	57.5066357	-5.0038367
+['"Amish: World\'s Squarest Teenagers" (2010) {(#1.3)}', 'Oxfordshire, England, UK']	51.833333	-1.25
+['"Amish: World\'s Squarest Teenagers" (2010) {(#1.4)}', "Land's End, Cornwall, England, UK"]	50.0662633	-5.7148222
+['"Amsoil Arenacross" (2010) {Hampton, VA (#1.1)}', '', 'Hampton Coliseum - 1000 Coliseum Drive, Hampton, Virginia, USA']	37.03467735	-76.38138525285305
+['"An Crisis" (2010)', '', '', '', '', 'Kiliney, County Dublin, Ireland']	52.865196	-7.9794599
+['"An Idiot Abroad" (2010) {A Commentary (#3.4)}', '', 'Siliguri, West Bengal, India']	26.7164127	88.4309916
+['"An Idiot Abroad" (2010) {A Commentary (#3.4)}', '', 'Chongqing, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {A Commentary (#3.4)}', '', 'Sichuan Panda Sanctuary, Sichuan, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {A Commentary (#3.4)}', '', 'Chengdu, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {A Commentary (#3.4)}', '', 'Mount Emeishan, Sichuan, China']	29.5103149	103.3324161
+['"An Idiot Abroad" (2010) {A Commentary (#3.4)}', '', 'Hong Kong, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {A Commentary (#3.4)}', '', 'Macao, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {A Commentary (#3.4)}', '', 'Macau Tower, Largo da Torre de Macau, Se, Macau, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {Brazil (#1.6)}', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"An Idiot Abroad" (2010) {Brazil (#1.6)}', '', 'Copacabana Beach, Copacabana, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.97564995	-43.18660302777745
+['"An Idiot Abroad" (2010) {Brazil (#1.6)}', '', 'Corcovado, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"An Idiot Abroad" (2010) {Brazil (#1.6)}', '', 'Christ the Redeemer, Corcovado, Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9519173	-43.210495
+['"An Idiot Abroad" (2010) {China (#1.1)}', '', '', 'Beijing, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {China (#1.1)}', '', '', 'Great Wall of China, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {China (#1.1)}', '', '', 'Shanhaiguan, China']	39.9987877	119.7563671
+['"An Idiot Abroad" (2010) {Climb Mount Fuji (#2.7)}', 'London, England, UK']	51.5073219	-0.1276474
+['"An Idiot Abroad" (2010) {Climb Mount Fuji (#2.7)}', 'Tokyo, Japan']	35.6828387	139.7594549
+['"An Idiot Abroad" (2010) {Climb Mount Fuji (#2.7)}', 'Kakunodate, Akita, Japan']	39.5917373	140.5712476
+['"An Idiot Abroad" (2010) {Climb Mount Fuji (#2.7)}', 'Kyoto, Japan']	35.021041	135.7556075
+['"An Idiot Abroad" (2010) {Climb Mount Fuji (#2.7)}', 'Mount Fuji, Shizuoka, Japan']	35.362799	138.730781
+['"An Idiot Abroad" (2010) {Desert Island (#2.1)}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"An Idiot Abroad" (2010) {Desert Island (#2.1)}', '', 'Vanuatu']	-16.5255069	168.1069154
+['"An Idiot Abroad" (2010) {Desert Island (#2.1)}', '', 'Lonorore Airport, Pentecost Island, Vanuatu']	-16.5255069	168.1069154
+['"An Idiot Abroad" (2010) {Desert Island (#2.1)}', '', 'Tanna, Vanuatu']	-19.48577845	169.33450144830016
+['"An Idiot Abroad" (2010) {Desert Island (#2.1)}', '', 'New Zealand']	-41.5000831	172.8344077
+['"An Idiot Abroad" (2010) {Egypt (#1.5)}', '', '', 'Cairo, Egypt']	30.048819	31.243666
+['"An Idiot Abroad" (2010) {Egypt (#1.5)}', '', '', 'Pyramid Giza, Egypt']	29.9791264	31.13423837510151
+['"An Idiot Abroad" (2010) {Egypt (#1.5)}', '', '', 'The Museum of Egyptian Antiquities, Cairo, Egypt']	30.047943099999998	31.23366981961962
+['"An Idiot Abroad" (2010) {Egypt (#1.5)}', '', '', 'Egypt']	26.2540493	29.2675469
+['"An Idiot Abroad" (2010) {India (#1.2)}', '', '', 'Old Delhi, Central Delhi, Delhi, India']	28.6576937	77.22893
+['"An Idiot Abroad" (2010) {India (#1.2)}', '', '', 'Haridwar, Uttar Pradesh, India']	22.3511148	78.6677428
+['"An Idiot Abroad" (2010) {India (#1.2)}', '', '', 'Agra, Uttar Pradesh, India']	27.1752554	78.0098161
+['"An Idiot Abroad" (2010) {India (#1.2)}', '', '', 'Taj Mahal, Agra, Uttar Pradesh, India']	27.1752554	78.0098161
+['"An Idiot Abroad" (2010) {Jordan (#1.3)}', '', 'Jerusalem, Israel']	31.778345	35.2250786
+['"An Idiot Abroad" (2010) {Jordan (#1.3)}', '', 'Bethlehem, Palestine']	31.94696655	35.27386547291496
+['"An Idiot Abroad" (2010) {Jordan (#1.3)}', '', 'Petra, Jordan']	31.1667049	36.941628
+['"An Idiot Abroad" (2010) {Karl Comes Home (#2.8)}', 'London, England, UK']	51.5073219	-0.1276474
+['"An Idiot Abroad" (2010) {Meet a Gorilla (#2.5)}', 'Diepsloot, Johannesburg, South Africa']	-25.9323135	28.007409208124663
+['"An Idiot Abroad" (2010) {Meet a Gorilla (#2.5)}', 'London, England, UK']	51.5073219	-0.1276474
+['"An Idiot Abroad" (2010) {Meet a Gorilla (#2.5)}', 'Hoedspruit, Limpopo, South Africa']	-24.352964	30.951343
+['"An Idiot Abroad" (2010) {Meet a Gorilla (#2.5)}', 'Mpumalanga, South Africa']	-26.276849	30.1500153
+['"An Idiot Abroad" (2010) {Meet a Gorilla (#2.5)}', 'Entabeni Nature Reserve, South Africa']	-28.8166236	24.991639
+['"An Idiot Abroad" (2010) {Meet a Gorilla (#2.5)}', 'Kampala, Uganda']	0.3177137	32.5813539
+['"An Idiot Abroad" (2010) {Meet a Gorilla (#2.5)}', 'South Africa']	-28.8166236	24.991639
+['"An Idiot Abroad" (2010) {Meet a Gorilla (#2.5)}', 'Uganda']	1.5333554	32.2166578
+['"An Idiot Abroad" (2010) {Mexico (#1.4)}', '', 'Mexico City, Distrito Federal, Mexico']	19.4326296	-99.1331785
+['"An Idiot Abroad" (2010) {Peru (#1.7)}', '', '', 'Iquitos, Peru']	-3.749365	-73.2444145
+['"An Idiot Abroad" (2010) {Peru (#1.7)}', '', '', 'Cuzco, Peru']	-13.5228392	-71.967627
+['"An Idiot Abroad" (2010) {Peru (#1.7)}', '', '', 'Ollantaytambo, Peru']	-13.255845	-72.26631652132886
+['"An Idiot Abroad" (2010) {Peru (#1.7)}', '', '', 'Machu Picchu, Peru']	-13.16441865	-72.54476397431836
+['"An Idiot Abroad" (2010) {Route 66 (#2.6)}', '', 'London, England, UK']	51.5073219	-0.1276474
+['"An Idiot Abroad" (2010) {Route 66 (#2.6)}', '', 'Santa Monica, California, USA']	34.0250724	-118.4965129
+['"An Idiot Abroad" (2010) {Route 66 (#2.6)}', '', 'Elmers Bottle Tree Forest, Oro Grande, California, USA']	34.5988813	-117.3342134
+['"An Idiot Abroad" (2010) {Route 66 (#2.6)}', '', 'Blue Whale of Catoosa, Catoosa, Oklahoma, USA']	36.1938458	-95.7329335493363
+['"An Idiot Abroad" (2010) {Route 66 (#2.6)}', '', 'Winkelman, Arizona, USA']	32.9875659	-110.7709387
+['"An Idiot Abroad" (2010) {Route 66 (#2.6)}', '', 'Shipshewana, Indiana, USA']	41.6728282	-85.5802634
+['"An Idiot Abroad" (2010) {Route 66 (#2.6)}', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"An Idiot Abroad" (2010) {Swim with Dolphins (#2.3)}', 'Bangkok, Thailand']	13.7542529	100.493087
+['"An Idiot Abroad" (2010) {Swim with Dolphins (#2.3)}', 'Lopburi, Lopburi, Thailand']	14.7996631	100.6342069
+['"An Idiot Abroad" (2010) {Swim with Dolphins (#2.3)}', 'Port Lincoln, South Australia, Australia']	-34.7287477	135.85645393128343
+['"An Idiot Abroad" (2010) {The Short Way Around: China (#3.3)}', 'Siliguri, West Bengal, India']	26.7164127	88.4309916
+['"An Idiot Abroad" (2010) {The Short Way Around: China (#3.3)}', 'Chongqing, China']	29.5585712	106.5492822
+['"An Idiot Abroad" (2010) {The Short Way Around: China (#3.3)}', 'Sichuan Panda Sanctuary, Sichuan, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {The Short Way Around: China (#3.3)}', 'Chengdu, China']	30.6624205	104.0633219
+['"An Idiot Abroad" (2010) {The Short Way Around: China (#3.3)}', 'Mount Emeishan, Sichuan, China']	29.5103149	103.3324161
+['"An Idiot Abroad" (2010) {The Short Way Around: China (#3.3)}', 'Hong Kong, China']	22.2793278	114.1628131
+['"An Idiot Abroad" (2010) {The Short Way Around: China (#3.3)}', 'Macao, China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {The Short Way Around: China (#3.3)}', 'Macau Tower, Largo da Torre de Macau, Se, Macau, China']	22.190888	113.547332
+['"An Idiot Abroad" (2010) {The Short Way Around: India (#3.2)}', 'India']	22.3511148	78.6677428
+['"An Idiot Abroad" (2010) {The Short Way Around: India (#3.2)}', 'Mumbai, Maharashtra, India']	18.9387711	72.8353355
+['"An Idiot Abroad" (2010) {The Short Way Around: India (#3.2)}', 'Varanasi, Uttar Pradesh, India']	25.3356491	83.0076292
+['"An Idiot Abroad" (2010) {The Short Way Around: India (#3.2)}', 'Kolkata, West Bengal, India']	22.54541245	88.3567751581234
+['"An Idiot Abroad" (2010) {The Short Way Around: India (#3.2)}', 'Siliguri, West Bengal, India']	26.7164127	88.4309916
+['"An Idiot Abroad" (2010) {The Short Way Around: Venice (#3.1)}', 'Venice, Veneto, Italy']	45.4371908	12.3345898
+['"An Idiot Abroad" (2010) {The Short Way Around: Venice (#3.1)}', 'Skopje, Macedonia']	41.9960924	21.4316495
+['"An Idiot Abroad" (2010) {The Short Way Around: Venice (#3.1)}', "St. Mark's Square, Venice, Veneto, Italy"]	45.4371908	12.3345898
+['"An Idiot Abroad" (2010) {Trans-Siberian Express (#2.2)}', 'Moscow, Russia']	64.6863136	97.7453061
+['"An Idiot Abroad" (2010) {Trans-Siberian Express (#2.2)}', 'London, England, UK']	51.5073219	-0.1276474
+['"An Idiot Abroad" (2010) {Trans-Siberian Express (#2.2)}', 'Star City, Russia']	64.6863136	97.7453061
+['"An Idiot Abroad" (2010) {Trans-Siberian Express (#2.2)}', 'Siberia, Russia']	64.6863136	97.7453061
+['"An Idiot Abroad" (2010) {Trans-Siberian Express (#2.2)}', 'China']	35.000074	104.999927
+['"An Idiot Abroad" (2010) {Trans-Siberian Express (#2.2)}', 'Mongolia']	46.8250388	103.8499736
+['"An Idiot Abroad" (2010) {Trans-Siberian Express (#2.2)}', 'Russia']	64.6863136	97.7453061
+['"An Idiot Abroad" (2010) {Whale Watching (#2.4)}', 'London, England, UK']	51.5073219	-0.1276474
+['"An Idiot Abroad" (2010) {Whale Watching (#2.4)}', 'Hatcher Pass, Alaska, USA']	61.7671451	-149.3225959
+['"An Idiot Abroad" (2010) {Whale Watching (#2.4)}', 'Barrow, Alaska, USA']	71.2905556	-156.7886112
+['"An Idiot Abroad" (2010) {Whale Watching (#2.4)}', 'Prince William Sound, Alaska, USA']	60.615	-147.1680556
+['"An Idiot Abroad" (2010) {Whale Watching (#2.4)}', 'Kodiak Island, Alaska, USA']	57.5433765	-153.3574124
+['"An Idiot Abroad" (2010) {Whale Watching (#2.4)}', 'Alaska, USA']	39.7837304	-100.4458825
+['"An der Nordseek�ste" (2010)', '', '', '', 'Bremerhaven, Bremen, Germany']	53.5522264	8.5865509
+['"An der Nordseek�ste" (2010)', '', '', '', 'Netherlands']	52.5001698	5.7480821
+['"An der Nordseek�ste" (2010)', '', '', '', 'Nord-Pas de Calais, France']	50.52896905	2.4545149091687457
+['"Andy and the Upside" (2010)', '', '', '', 'Waterloo, Ontario, Canada']	43.466874	-80.524635
+['"Angels in New York" (2010)', '', '', '', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"Animal Cops: Miami" (2010)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Anna Anka s�ker assistent" (2010)', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Anna Anka s�ker assistent" (2010)', '', '', 'Sweden']	59.6749712	14.5208584
+['"Annie MG" (2010)', '', '', '', '', "Amsterdam Studio's, Amsterdam, Noord-Holland, Netherlands"]	52.3727598	4.8936041
+['"Annie MG" (2010)', '', '', '', '', 'Ghent, Flanders, Belgium']	51.0538286	3.7250121
+['"Annie MG" (2010)', '', '', '', '', 'Leuven, Belgium']	50.879202	4.7011675
+['"Antipop" (2010)', '', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Ahora}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Aldo Ben�tez & YiLet}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Alfonso El Pintor}', '', '', 'Ramos Mej�a, La Matanza, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Alfonso El Pintor}', '', '', 'Haedo, Mor�n, Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Alfonso El Pintor}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Astro}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Billordo}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {C�meme}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Diosque}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Hip Hop en Chile}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Javiera Mena & Gepe}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {La Luli}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Los Lenguas}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Maxi Trusso (#1.1)}', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Antipop" (2010) {Victoria Mil}', '', '', '', 'Buenos Aires, Federal District, Argentina']	-34.9964963	-64.9672817
+['"Any Human Heart" (2010)', '', '', '', 'Barcelona, Spain']	41.3828939	2.1774322
+['"Any Human Heart" (2010)', '', '', '', 'Knebworth House, Stevenage, Hertfordshire, England, UK']	51.8670421	-0.187051
+['"Any Human Heart" (2010) {(#1.1)}', '', '', 'Oxford University, Oxford, Oxfordshire, England, UK']	51.7541058	-1.2540648
+['"Any Human Heart" (2010) {(#1.1)}', '', '', 'Oxford, Oxfordshire, England, UK']	51.833333	-1.25
+['"Apa Dosaku: The Sybil Kathigasu Story" (2010)', '', 'Perak, Malaysia']	4.7916539	100.9276057
+['"Apartamento 43" (2010)', '', '', '', '', 'Miranda de Ebro, Burgos, Castilla y Le�n, Spain']	39.3262345	-4.8380649
+['"Apocalypse PA" (2010)', '', '', '', '', 'Pennsylvania, USA']	39.7837304	-100.4458825
+['"Apt1B" (2010)', '', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Aqu� se Habla Espa�ol" (2010)', '', '', '', 'Antena Latina, Santo Domingo, Dominican Republic']	18.47563205	-69.92776428805894
+['"Araguaia" (2010)', '', '', '', '', 'Goi�s, Brazil']	-10.3333333	-53.2
+['"Araguaia" (2010)', '', '', '', '', 'Ilha do Bananal, Tocantins, Brazil']	-11.351454700000001	-50.34660678281999
+['"Araguaia" (2010)', '', '', '', '', 'Mato Grosso, Brazil']	-10.3333333	-53.2
+['"Araguaia" (2010)', '', '', '', '', 'Rio de Janeiro, Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"Are We There Yet?" (2010)', '', '', '', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Bad Dream Episode (#3.3)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Fight Party Episode (#2.29)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Kevin Gets a Commercial Episode (#2.31)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Liar, Liar Episode (#2.28)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Lindsey Gets High Episode (#2.27)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Lindsey Goes Vegan Episode (#2.34)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Mother\'s Day Episode (#2.33)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Nick Gets Jealous Episode (#2.21)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Nick\'s Kid Episode (#2.30)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Second Black President Episode (#3.8)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Are We There Yet?" (2010) {The Suzanne\'s Surprise Party Episode (#2.32)}', 'Connecticut Film Center, Stamford, Connecticut, USA']	41.0534302	-73.5387341
+['"Armchair Directors" (2010)', '', '', '', 'Kitchener, Ontario, Canada']	43.453168	-80.494423
+['"Art Nation" (2010)', '', '', '', '', 'ABC ABV2 Studios, Elstenwick, Ripponlea, Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Art Studio" (2010)', '', '', '', '', '31 Digital, 25 Donkin Street, West End, Brisbane, Queensland, Australia']	-24.7761086	134.755
+['"Art of Germany" (2010)', '', '', '', '', 'Germany']	51.0834196	10.4234469
+['"Arte-Shock" (2010)', '', '', '', '', 'Mexico']	19.4326296	-99.1331785
+['"Artzooka!" (2010)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Artzooka" (2010)', '', '', '', '', 'Halifax, Nova Scotia, Canada']	44.648618	-63.5859487
+['"As Cariocas" (2010) {A Vingativa do Meier (#1.2)}', 'Col�gio Imaculado Cora��o de Maria, Rio de Janeiro, Brazil']	-10.3333333	-53.2
+['"As Written: Inside R. Kelly" (2010)', '', '', 'Atlanta, Georgia, USA']	33.7490987	-84.3901849
+['"As Written: Inside R. Kelly" (2010)', '', '', 'Johannesburg, South Africa']	-26.205	28.049722
+['"Asfur" (2010)', '', '', '', '', '', 'Israel']	31.5313113	34.8667654
+['"Ask Grim" (2010)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask a Mountain Man" (2010)', '', '', '', 'Stone Canyon Reservoir, Santa Monica Mountains, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ask ve ceza" (2010)', '', '', '', '', 'Bodrum, Turkey']	37.066816349999996	27.484530431896673
+['"Ask ve ceza" (2010)', '', '', '', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Ask ve ceza" (2010)', '', '', '', '', 'Van, Turkey']	38.3249599	43.6589825
+['"Aspect Ratio" (2010)', '', '', '', '', 'Bay Area, San Francisco, California, USA']	37.7884969	-122.3558473
+['"Aspect Ratio" (2010)', '', '', '', '', '819 A Street, San Rafael, California, USA']	37.97145009450105	-122.52859085660528
+['"Astro 12, the Collection" (2010)', '', '', 'Canada']	61.0666922	-107.9917071
+['"Astro 12, the Collection" (2010)', '', '', 'Colombia']	2.8894434	-73.783892
+['"Astro 12, the Collection" (2010)', '', '', 'France']	46.603354	1.8883335
+['"Astro 12, the Collection" (2010)', '', '', 'Spain']	39.3262345	-4.8380649
+['"Astro 12, the Collection" (2010)', '', '', 'USA']	39.7837304	-100.4458825
+['"Astro 12, the Collection" (2010)', '', '', 'Venezuela']	8.0018709	-66.1109318
+['"Asylum" (2010)', '', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"At Home with the Georgians" (2010) {A Man\'s Place (#1.1)}', "Jane Austen's House Museum, Chawton, Hampshire, England, UK"]	51.1330749	-0.989069000736702
+['"At Home with the Georgians" (2010) {A Man\'s Place (#1.1)}', 'Chawton House, Chawton, Hampshire, England, UK']	51.1266817	-1.0067925887156763
+['"At Home with the Georgians" (2010) {A Man\'s Place (#1.1)}', 'Spitalfields, London, England, UK']	51.5195274	-0.0751701
+['"At Home with the Georgians" (2010) {A Man\'s Place (#1.1)}', 'Sandon Hall, Staffordshire, England, UK']	52.8557506	-2.065773666383894
+['"At Home with the Georgians" (2010) {A Man\'s Place (#1.1)}', 'Wivenhoe Park, Colchester, Essex, England, UK']	51.876758249999995	0.9479551460544525
+['"At Home with the Georgians" (2010) {A Man\'s Place (#1.1)}', 'Rufford Abbey, Nottinghamshire, England, UK']	53.176421	-1.0356744
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', 'Syon House, Syon Park, Brentford, Middlesex, England, UK']	51.546055800000005	-0.2537791389340719
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', 'Nostell Priory, Wakefield, Yorkshire, England, UK']	53.652664099999996	-1.3900336578784929
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', 'Shelburne House, London, England, UK']	51.4553673	-0.3734468
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', 'Parham House, Pulborough, West Sussex, England, UK']	50.917685199999994	-0.49331409918872465
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', 'Kenwood House, Hampstead Heath, Hampstead, London, England, UK']	51.5073219	-0.1276474
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', 'Claydon House, Middle Claydon, Buckinghamshire, England, UK']	51.921875549999996	-0.955589140335596
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', 'A La Ronde, Exmouth, Devon, England, UK']	50.641688349999995	-3.4088179414507116
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', 'Victoria and Albert Museum, South Kensington, London, England, UK']	51.49683505	-0.171571771757845
+['"At Home with the Georgians" (2010) {A Woman\'s Touch (#1.2)}', "Lloyd's Building, Lime Street, Broadgate, London, England, UK"]	51.5073219	-0.1276474
+['"At Home with the Georgians" (2010) {Safe as Houses (#1.3)}', 'Spitalfields, London, England, UK']	51.5195274	-0.0751701
+['"At Home with the Georgians" (2010) {Safe as Houses (#1.3)}', 'Museum of London, London Wall, London, England, UK']	51.51782915	-0.09631369681712348
+['"At Home with the Georgians" (2010) {Safe as Houses (#1.3)}', "Dennis Severs' House, Spitalfields, London, England, UK"]	51.5208921	-0.0778038
+['"At Home with the Georgians" (2010) {Safe as Houses (#1.3)}', 'Erddig Hall, Erddig, Wrexham, Wales, UK']	53.0465068	-2.9938137
+['"At Home with the Georgians" (2010) {Safe as Houses (#1.3)}', 'Rousham House and Gardens, Rousham, Bicester, Oxfordshire, England, UK']	51.833333	-1.25
+['"At Home with the Georgians" (2010) {Safe as Houses (#1.3)}', 'Chastleton House, Oxfordshire, England, UK']	51.95969385	-1.6401663349554703
+['"At Home with the Georgians" (2010) {Safe as Houses (#1.3)}', 'Geffrye Museum, Hoxton, London, England, UK']	51.5073219	-0.1276474
+['"At Home with the Georgians" (2010) {Safe as Houses (#1.3)}', 'The Workhouse, Upton Road, Southwell, Nottinghamshire, England, UK']	53.079401	-0.9401401
+['"At zij� ryt�ri!" (2010)', '', '', '', 'Ceskolipsko, Czech Republic']	50.5571513	14.8754876
+['"At zij� ryt�ri!" (2010)', '', '', '', 'Cukenstejn, Czech Republic']	49.8167003	15.4749544
+['"At zij� ryt�ri!" (2010)', '', '', '', 'Hlubocepy, Prague, Czech Republic']	50.0416665	14.3956321
+['"At zij� ryt�ri!" (2010)', '', '', '', 'Krivokl�t, Czech Republic']	49.8167003	15.4749544
+['"At zij� ryt�ri!" (2010)', '', '', '', 'Lipnice, Czech Republic']	48.9117813	14.7652411
+['"At zij� ryt�ri!" (2010)', '', '', '', 'Novohradsk� hory, Czech Republic']	49.8167003	15.4749544
+['"Athena: Jeonjaeng-ui Yeoshin" (2010)', '', '', 'Seoul, South Korea']	37.564982549999996	126.93921080358436
+['"Athena: Jeonjaeng-ui Yeoshin" (2010)', '', '', 'Rome, Lazio, Italy']	41.8933203	12.4829321
+['"Athena: Jeonjaeng-ui Yeoshin" (2010)', '', '', 'Venice, Veneto, Italy']	45.4371908	12.3345898
+['"Athena: Jeonjaeng-ui Yeoshin" (2010)', '', '', 'Belluno, Veneto, Italy']	46.2805407	12.078913722504204
+['"Athena: Jeonjaeng-ui Yeoshin" (2010)', '', '', 'Vicenza, Veneto, Italy']	45.63485905	11.40635425660249
+['"Athena: Jeonjaeng-ui Yeoshin" (2010)', '', '', 'Padua, Veneto, Italy']	45.4077172	11.8734455
+['"Athena: Jeonjaeng-ui Yeoshin" (2010)', '', '', 'Dolomites, Italy']	46.29459455	12.051191718698618
+['"Athena: Jeonjaeng-ui Yeoshin" (2010) {(#1.20)}', '', 'Auckland, New Zealand']	-36.852095	174.7631803
+['"Athena: Jeonjaeng-ui Yeoshin" (2010) {(#1.3)}', '', "Honolulu, O'ahu, Hawaii, USA"]	21.48349555	-158.03640389298
+['"Athena: Jeonjaeng-ui Yeoshin" (2010) {(#1.7)}', '', 'Tottori, Japan']	35.3555075	133.8678525
+['"Athena: Jeonjaeng-ui Yeoshin" (2010) {(#1.8)}', '', 'Tottori, Japan']	35.3555075	133.8678525
+['"Atlantis Rising: The Making of \'Atlantis Down\'" (2010)', 'Kitty Hawk, North Carolina, USA']	36.0664318	-75.6935448
+['"Atlantis Rising: The Making of \'Atlantis Down\'" (2010)', 'Virginia Beach, Virginia, USA']	36.795302500000005	-76.05092512258113
+['"Atlantis Rising: The Making of \'Atlantis Down\'" (2010) {Touch Down, Atlantis! (#1.7)}', 'Kitty Hawk, North Carolina, USA']	36.0664318	-75.6935448
+['"Atlantis Rising: The Making of \'Atlantis Down\'" (2010) {Touch Down, Atlantis! (#1.7)}', 'Portsmouth, Virginia, USA']	36.8678592	-76.37559852679193
+['"Atlantis Rising: The Making of \'Atlantis Down\'" (2010) {Touch Down, Atlantis! (#1.7)}', 'Virginia Beach, Virginia, USA']	36.795302500000005	-76.05092512258113
+['"Auction Hunters" (2010)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Auction Hunters" (2010) {Space Cowboys}', '', 'Santa Clarita, California, USA']	34.3916641	-118.542586
+['"Auction Hunters" (2010) {The Wild West (#1.1)}', '', 'Mini Storage, Los Angeles, California, USA']	33.90213975	-118.33245177531134
+['"Audi the Next Big Thing" (2010)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Aufschneider" (2010)', '', '', '', '', 'St. P�lten, Lower Austria, Austria']	47.2000338	13.199959
+['"Aufschneider" (2010)', '', '', '', '', 'Vienna, Austria']	48.2083537	16.3725042
+['"Aufschneider" (2010) {Teil 1 (#1.1)}', '', '', 'Lower Austria, Austria']	48.2817813	15.7632457
+['"Aufschneider" (2010) {Teil 1 (#1.1)}', '', '', 'Vienna, Austria']	48.2083537	16.3725042
+['"Austin Entertainment Live!" (2010)', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Austin Variety Show" (2010)', '', '', '', 'Austin, Texas, USA']	30.2711286	-97.7436995
+['"Autoroute Express" (2010)', '', '', '', 'Paris, France']	46.603354	1.8883335
+['"Avenue C" (2010)', '', '', '', '', 'Fort Mill, South Carolina, USA']	35.0073697	-80.9450759
+['"Ayashiki bung� kaidan" (2010)', '', '', '', 'Ishioka, Ibaraki, Japan']	36.1905988	140.2874309
+['"Aynalayyn" (2010)', '', '', '', '', 'Kazakhfilm Studio, Almaty, Kazakhstan']	47.2286086	65.2093197
+['"Azul night TV" (2010)', '', '', '', '', 'Florida, USA']	27.7567667	-81.4639835
+['"B-Movie Roll-Out" (2010)', '', '', '', 'Milwaukee, Wisconsin, USA']	43.0349931	-87.922497
+['"BBC Inside Out (South West)" (2010)', '', '', 'Cornwall, England, UK']	50.416667	-4.75
+['"BBC Inside Out (South West)" (2010) {(2011-12-05)}', 'Devon, England, UK']	50.75	-3.75
+['"BBC Inside Out (South West)" (2010) {(2011-12-05)}', 'Somerset, England, UK']	51.161750850000004	-3.0753867062227487
+['"BBC Janala Mojay Mojay Shekha" (2010)', '', '', 'Bangladesh']	24.4768783	90.2932426
+['"BBC Learning Episode: Brazil - Music Dance and Art" (2010)', 'Rio de Janeiro, Brazil']	-22.9110137	-43.2093727
+['"BBC Proms" (2010) {Prom 10: Doctor Who at the Proms (#1.24)}', 'Royal Albert Hall, South Kensington, London, England, UK']	51.501004449999996	-0.17739457896545874
+['"BBC Proms" (2010) {Prom 49: A Celebration of Rodgers and Hammerstein (#1.20)}', 'Royal Albert Hall, South Kensington, London, England, UK']	51.501004449999996	-0.17739457896545874
+['"BBC Scotland News" (2010)', '', '', '', 'Borders College, Galashiels, Scotland']	55.6157758	-2.7997842
+['"Bachelor Pad" (2010) {(#1.1)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#1.2)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#1.3)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#1.3)}', '', '', '', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Bachelor Pad" (2010) {(#1.4)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.14791	-118.7657042
+['"Bachelor Pad" (2010) {(#1.4)}', '', '', '', 'Santa Catalina Island, Channel Islands, California, USA']	39.7837304	-100.4458825
+['"Bachelor Pad" (2010) {(#1.5)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#1.6)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#2.2)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#2.3)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#2.5)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#3.1)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#3.2)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#3.3)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#3.4)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#3.5)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#3.6)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {(#3.6)}', '', '', '', 'Rancho Santa Margarita, California, USA']	33.6408845	-117.6029341
+['"Bachelor Pad" (2010) {(#3.6)}', '', '', '', 'Channel Islands, California, USA']	34.1848815	-118.575941
+['"Bachelor Pad" (2010) {(#3.7)}', '', '', '', '2351 Kanan Road, Agoura Hills, California, USA']	34.14791	-118.7657042
+['"Bachelor Pad" (2010) {(#3.7)}', '', '', '', 'Hollywood Palladium - 6215 Sunset Blvd., Hollywood, Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bachelor Pad" (2010) {The Final Challenge (#2.6)}', '2351 Kanan Road, Agoura Hills, California, USA']	34.11959202047581	-118.79427690034213
+['"Bachelor Pad" (2010) {The Final Challenge (#2.6)}', 'Las Vegas, Nevada, USA']	36.1672559	-115.1485163
+['"Back in the Day" (2010)', '', '', '', 'Fraser Valley, British Columbia, Canada']	49.5723178	-121.8758984
+['"Backwash" (2010)', '', '', '', '', 'Grand Sierra Resort - 2500 East 2nd Street, Reno, Nevada, USA']	39.523489850000004	-119.77890752989296
+['"Backwash" (2010)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Backwash" (2010)', '', '', '', '', 'Minden, Nevada, USA']	38.9542487	-119.7656174
+['"Bad Girl\'s Ball" (2010)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Bad Girl\'s Ball" (2010)', '', '', '', 'Astoria, Queens, New York City, New York, USA']	40.7127281	-74.0060152
+['"Bad Girl\'s Ball" (2010)', '', '', '', 'Manhattan, New York City, New York, USA']	40.7896239	-73.9598939
+['"Bad Movie Theatre" (2010)', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bad Sides" (2010)', '', '', '', '', 'Chicago, Illinois, USA']	41.8755616	-87.6244212
+['"Bad Trainer" (2010)', '', '', '', '', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Bad Trainer" (2010) {80\'s Cliche (#1.2)}', '', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Bad Trainer" (2010) {Pilot (#1.1)}', '', '', 'West Hollywood, California, USA']	34.0923014	-118.3692894
+['"Bama Belles" (2010)', '', '', '', '', 'Dothan, Alabama, USA']	31.2237434	-85.3933906
+['"Bama Belles" (2010)', '', '', '', '', 'Wicksburg, Alabama, USA']	31.2082304	-85.622434
+['"Banded Brothers" (2010)', '', '', '', 'Mweya, Uganda']	0.683333	31.9
+['"Bandwagon: The Series" (2010)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {(#1.2)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {(#1.3)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {(#1.4)}', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {A Lotta Changes (#1.8)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {Black Girl Slash Hooker (#2.2)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {Dreams Don\'t Buy Dreams (#2.1)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {It\'s Okay to Have My Own Needs (#2.3)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {Namaste, Bitch (#2.6)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {Shouldn\'t Have Talked to an Actress (#2.5)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bandwagon: The Series" (2010) {We\'re in a War (#2.4)}', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Bang for Your Buck 40k Outdoor KitchensMiami" (2010)', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Bangarang Sketch Comedy" (2010)', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Basketball Wives" (2010)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Bastidores" (2010) {(2010-11-21)}', '', '', 'Est�dio do Morumbi, S�o Paulo, S�o Paulo, Brazil']	-10.3333333	-53.2
+['"Batendo Ponto" (2010)', '', '', '', '', 'Brazil']	-10.3333333	-53.2
+['"Battlecam Live" (2010)', '', '', '', '', 'Beverly Hills, California, USA']	34.0696501	-118.3963062
+['"Battling Garages" (2010)', '', '', '', 'Van Nuys, California, USA']	34.1866581	-118.448729
+['"Baxter" (2010)', '', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Beach Heat Miami" (2010)', '', '', '', 'Miami, Florida, USA']	25.7742658	-80.1936589
+['"Beach Town" (2010)', '', '', '', '', 'Newport Beach, California, USA']	33.6170092	-117.9294401
+['"Beat Generation Ireland" (2010)', '', '', 'Northern Ireland, UK']	54.6294982	-6.7654416
+['"Beat the Star (Australia)" (2010)', '', '', 'Melbourne, Victoria, Australia']	-37.8142176	144.9631608
+['"Beautiful Girl" (2010)', '', '', '', '', 'Kuala Lumpur, Malaysia']	3.1516964	101.6942371
+['"Beautiful Girl" (2010)', '', '', '', '', 'Metro Manila, Philippines']	14.5736108	121.0329706
+['"Beer and Board Games" (2010)', '', '', '', 'Madison, Wisconsin, USA']	43.074761	-89.3837613
+['"Beginnings" (2010)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Beginnings" (2010)', '', '', '', '', 'Paris, France']	46.603354	1.8883335
+['"Behzat �.: Bir Ankara Polisiyesi" (2010)', '', 'Ankara, Turkey']	39.7160439	32.7059948
+['"Behzat �.: Bir Ankara Polisiyesi" (2010)', '', 'Istanbul, Turkey']	41.0766019	29.052495
+['"Behzat �.: Bir Ankara Polisiyesi" (2010) {39. B�l�m (#2.1)}', 'Ankara, Turkey']	39.7160439	32.7059948
+['"Behzat �.: Bir Ankara Polisiyesi" (2010) {Pilot (#1.1)}', 'Ankara, Turkey']	39.7160439	32.7059948
+['"Being Italian" (2010)', '', '', '', '', 'Italy']	42.6384261	12.674297
+['"Being N-Dubz" (2010)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Being N-Dubz" (2010)', '', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Believers in Grace Fellowship" (2010) {The Boiling Pot: Ezekiel 24}', 'Believers in Grace Fellowship, C Avenue, Marion, Iowa, USA']	39.7837304	-100.4458825
+['"Believers in Grace Fellowship" (2010) {The East Gate: Ezekiel 43}', 'Believers in Grace Fellowship, C Avenue, Marion, Iowa, USA']	39.7837304	-100.4458825
+['"Believers in Grace Fellowship" (2010) {The Prayer That God Will Answer: John 17}', 'Believers in Grace Fellowship, C Avenue, Marion, Iowa, USA']	39.7837304	-100.4458825
+['"Believers in Grace Fellowship" (2010) {The Real Noah}', 'Believers in Grace Fellowship, C Avenue, Marion, Iowa, USA']	39.7837304	-100.4458825
+['"Bella Maddo" (2010)', '', '', '', '', 'Fort Lauderdale, Florida, USA']	26.1223084	-80.1433786
+['"Bellydance Evolution" (2010)', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
+['"Ben Hur" (2010) {(#1.1)}', '', '', '', 'Ouarzazate, Morocco']	31.1728205	-7.3362482
+['"Ben and Eric" (2010)', '', '', '', '', 'Sweden']	59.6749712	14.5208584
+['"Ben\'s Boston" (2010) {The Cathedral of Boston (#1.6)}', 'Fenway Park - 4 Yawkey Way, Boston, Massachusetts, USA']	42.3602534	-71.0582912
+['"Bernhard, Schavuit van Oranje" (2010) {De crisis (#1.3)}', 'Heemstede, Noord-Holland, Netherlands']	52.3427475	4.618043843137004
+['"Bernhard, Schavuit van Oranje" (2010) {De crisis (#1.3)}', 'Kasteel Oud Wassenaar, Wassenaar, Zuid-Holland, Netherlands']	52.14361135	4.370966818678455
+['"Bernhard, Schavuit van Oranje" (2010) {De crisis (#1.3)}', 'Landgoed Waterland, Velzen, Netherlands']	52.5001698	5.7480821
+['"Bernhard, Schavuit van Oranje" (2010) {De crisis (#1.3)}', "Orde van vrijmetselaren, 's-Gravenhage, Zuid-Holland, Netherlands"]	52.0799838	4.3113461
+['"Bernhard, Schavuit van Oranje" (2010) {De held (#1.2)}', 'Dutch Dakota Association, Schiphol, Haarlemmermeer, Noord-Holland, Netherlands']	52.5001698	5.7480821
+['"Bernhard, Schavuit van Oranje" (2010) {De held (#1.2)}', 'Heemstede, Noord-Holland, Netherlands']	52.3427475	4.618043843137004
+['"Bernhard, Schavuit van Oranje" (2010) {De held (#1.2)}', 'Kasteel Oud Wassenaar, Wassenaar, Zuid-Holland, Netherlands']	52.12109215	4.371595935927064
+['"Bernhard, Schavuit van Oranje" (2010) {De held (#1.2)}', 'Museum Teylers, Haarlem, Noord-Holland, Netherlands']	52.38090445	4.639970941466423
+['"Bernhard, Schavuit van Oranje" (2010) {De held (#1.2)}', "Orde van vrijmetselaren, 's-Gravenhage, Zuid-Holland, Netherlands"]	52.0872487	4.3009843089676245
+['"Bernhard, Schavuit van Oranje" (2010) {De prins (#1.1)}', 'Heemstede, Noord-Holland, Netherlands']	52.3427475	4.618043843137004
+['"Bernhard, Schavuit van Oranje" (2010) {De prins (#1.1)}', 'Kasteel de Keukenhof, Lisse, Zuid-Holland, Netherlands']	52.26776255	4.540189700258621
+['"Bernhard, Schavuit van Oranje" (2010) {De val (#1.4)}', 'Dutch Dakota Association, Schiphol, Haarlemmermeer, Noord-Holland, Netherlands']	52.3238421	4.715261248876009
+['"Bernhard, Schavuit van Oranje" (2010) {De val (#1.4)}', 'Heemstede, Noord-Holland, Netherlands']	52.3427475	4.618043843137004
+['"Best Friends" (2010)', '', '', '', '', 'Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Best Friends" (2010)', '', '', '', '', 'Amsterdam Arena, Amsterdam, Noord-Holland, Netherlands']	52.3727598	4.8936041
+['"Best Friends" (2010)', '', '', '', '', 'Wettingen, Kanton Aargau, Switzerland']	47.465839	8.3266114
+['"Best Friends" (2010)', '', '', '', '', 'Z�rich, Kanton Z�rich, Switzerland']	46.7985624	8.2319736
+['"Best Laid Plans" (2010) {A Perfectly Legal Adoption (#1.6)}', 'Buena Park, California, USA']	33.870413	-117.9962165
+['"Best Laid Plans" (2010) {Best Pool Party Ever (#1.5)}', 'La Habra, California, USA']	33.9330156	-117.944777
+['"Best Laid Plans" (2010) {Breaking & Entering (#1.2)}', 'Downey, California, USA']	33.942215	-118.1235646
+['"Best Laid Plans" (2010) {Dashboard Confessions (#1.1)}', 'Norwalk, California, USA']	33.9092802	-118.0849169
+['"Best Laid Plans" (2010) {Surprise Surprise (#1.8)}', 'Buena Park, California, USA']	33.870413	-117.9962165
+['"Best Laid Plans" (2010) {The Breakup (#1.3)}', '', 'Buena Park, California, USA']	33.870413	-117.9962165
+['"Best Laid Plans" (2010) {The Breakup (#1.3)}', '', 'La Mirada, California, USA']	33.9060971	-118.0107092
+['"Best Laid Plans" (2010) {Tom\'s Big Date (#1.7)}', 'Buena Park, California, USA']	33.870413	-117.9962165
+['"Best Laid Plans" (2010) {Tom\'s Big Date (#1.7)}', 'Long Beach, California, USA']	33.7690164	-118.1916048
+['"Best Laid Plans" (2010) {Tom\'s Big Date (#1.7)}', 'Rockwell Defense Plant - Bellflower & Imperial Highway, Downey, California, USA']	33.942215	-118.1235646
+['"Best Laid Plans" (2010) {With Friends Like These... (#1.4)}', 'Buena Park, California, USA']	33.870413	-117.9962165
+['"Best Laid Plans" (2010) {With Friends Like These... (#1.4)}', 'Rockwell Defense Plant - Bellflower & Imperial Highway, Downey, California, USA']	33.942215	-118.1235646
+['"Bestiari il�lustrat" (2010) {De l\'Eixample a Hackney (#2.12)}', 'London, England, UK']	51.5073219	-0.1276474
+['"Bestiari il�lustrat" (2010) {L\'altra vida (#1.6)}', 'Cadaqu�s, Girona, Catalonia, Spain']	41.9793006	2.8199439
+['"Better Body & Soul" (2010)', '', '', '', 'New York City, New York, USA']	40.7127281	-74.0060152
+['"Better with You" (2010)', '', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better Without a Couch (#1.16)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better Without a Job (#1.17)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Ben (#1.3)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Christmas Crap (#1.10)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Crying (#1.20)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Dancing (#1.19)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Fighting (#1.4)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Firehouse (#1.2)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Flirting (#1.8)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Halloween (#1.6)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Little Buddy (#1.5)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Lying (#1.18)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Road Joel (#1.7)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Skinny Jeans (#1.11)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Thanksgiving (#1.9)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with Valentine\'s Day (#1.13)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with a Bargain (#1.21)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with a Cat (#1.12)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with a Leather Jacket (#1.14)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with a Shamrock (#1.15)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Better with the Baby (#1.22)}', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Better with You" (2010) {Pilot (#1.1)}', '', '', 'Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA']	39.7837304	-100.4458825
+['"Between Two Worlds" (2010)', '', '', '', 'Great Whale, Canada']	55.2845992	-77.7576525
+['"Beyond Survival with Les Stroud" (2010) {Borneo (#1.10)}', 'Indonesia']	-2.4833826	117.8902853
+['"Beyond Survival with Les Stroud" (2010) {Sea Gypsies of Malaysia (#1.2)}', 'Sabah, Malaysia']	5.595237	117.0051734
+['"Big Break Dominican Republic" (2010)', '', '', 'Casa de Campo, Dominican Republic']	18.4163009	-68.9232404
+['"Big Cat Week Collection" (2010) {Snow Leopard of Afghanistan (#1.12)}', 'Afghanistan']	33.7680065	66.2385139
+['"Big City Park" (2010) {A Den for Dara (#1.18)}', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {A Load of Rubbish (#1.12)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {A Magic Carpet Ride (#1.13)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {A Special Friend Visits (#1.26)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Big Windy Park (#1.24)}', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Captain Billy (#1.4)}', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Everyone Can Sing (#1.2)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Follow the Signs (#1.7)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Happy Birthday May (#1.15)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Henry Hedgehog (#1.8)}', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {I Want to Grow Bigger (#1.9)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {It\'s Hot Hot Hot (#1.3)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Making Music Is Easy (#1.20)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Making Things Grow (#1.21)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {May\'s First Day (#1.1)}', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Outfoxed by a Fox (#1.25)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Quest for the Chest (#1.11)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Rain Can be Fun (#1.19)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Ruairi Day (#1.10)}', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Ruairi\'s Little Friend (#1.23)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Sounds of the Park (#1.6)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Splash (#1.14)}', '', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Summer Holiday (#1.22)}', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Tall Tales (#1.17)}', '', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Up in the Trees (#1.16)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big City Park" (2010) {Woodland Workout (#1.5)}', 'Belfast, County Antrim, Northern Ireland, UK']	54.864725500000006	-6.143637910742768
+['"Big News TV" (2010)', '', '', '', '', 'Hollywood, Los Angeles, California, USA']	34.093214	-118.3196124
+['"Big Voice" (2010)', '', '', '', '', 'Toronto, Ontario, Canada']	43.653963	-79.387207
+['"Big on the Web" (2010)', '', '', '', '', 'Los Angeles, California, USA']	34.0536909	-118.2427666
