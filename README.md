@@ -63,7 +63,7 @@ Finished. Please have look at the map: map.html
 ```
 
 #### Image
-![Alt text](https://github.com/SlavkoPrytula/Map_LR_2/blob/master/Screenshot_20200218_145424-1.png?raw=true "Title")
+![Alt text](https://github.com/SlavkoPrytula/Map_LR_2/blob/master/Screenshot_20200218_153418.png?raw=true "Title")
 
 
 
