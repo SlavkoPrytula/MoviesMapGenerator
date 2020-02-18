@@ -2,6 +2,7 @@
 # MAP GENERATOR
 ### !!! NOTE !!!
 #### not all locations are being used due to time consuming data parsing. if wanded all locations can be extracted properly in longer time. processed database consists of about 50,000 locations.
+####
 ### PROGRAM USE
 
 ###### This program returns generated map that reassembles the 10 closest movies that were filmed on certain year...
