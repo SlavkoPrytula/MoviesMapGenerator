@@ -26,7 +26,7 @@ pip install geopy
 ### HTML
 - ##### Tags
   - script src=... - If we want to refer to .js file that was previously saved before on website.
-  - link rel... - Specifies the way current documents are linked.
+  - link rel=... - Specifies the way current documents are linked.
   - a href=... - Specifies the URL of the page the link follows to.
   - style - This tag is used to define the style of the page.
   - meta name=... - Provides metadata for the URL page.
