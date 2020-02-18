@@ -1,6 +1,6 @@
 # Map_LR_2
 # MAP GENERATOR
-### NOTE
+### !!!NOTE!!!
 #### not all locations are being used due to time consuming data parsing. if wanded all locations can be extracted properly in longer time. processed database consists of about 50,000 locations.
 ### PROGRAM USE
 
