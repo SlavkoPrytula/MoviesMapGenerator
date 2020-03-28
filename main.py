@@ -1,8 +1,8 @@
-import LR_2_2
+import LR_2_2_building_map
 
 def read_data(y, la, lo):
     print('''Map is generating... \nPlease wait...''')
-    LR_2_2.find_locations(y, la, lo)
+    LR_2_2_building_map.find_locations(y, la, lo)
     print('Finished. Please have look at the map: map.html')
 
     
